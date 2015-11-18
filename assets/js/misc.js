@@ -24,9 +24,9 @@ function buildTOC(nodes, elm, lv) {
                     li = elm.appendChild(document.createElement("li"));
                     ul = document.createElement("ul");
 
-var class_attribute = document.createAttribute("class");
-class_attribute.value = "no-bullets";
-ul.setAttributeNode(class_attribute);
+var att = document.createAttribute("class");
+att.value = "no-bullets";
+ul.setAttributeNode(att);
 
 
 
