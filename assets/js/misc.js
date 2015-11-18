@@ -6,7 +6,7 @@ function buildTOC(nodes, elm, lv) {
     } while(node && !(/^h[123456]$/i.test(node.tagName)));
     // process the next node
     if (node) {
-        var ul, li, cnt;
+        var ul, li, cnt, att;
         var curLv = parseInt(node.tagName.substring(1));
         if (curLv == lv) { // same level append an il
             cnt = 0;
@@ -20,15 +20,14 @@ function buildTOC(nodes, elm, lv) {
             cnt = 0;
             do {
                 li = elm.lastChild;
-                if (li == null)
+                if (li == null) {
                     li = elm.appendChild(document.createElement("li"));
-                    ul = document.createElement("ul");
+                }
 
-var att = document.createAttribute("class");
-att.value = "no-bullets";
-ul.setAttributeNode(att);
-
-
+                ul = document.createElement("ul");
+                att = document.createAttribute("class");
+                att.value = "no-bullets";
+                ul.setAttributeNode(att);
 
                 elm = li.appendChild(ul);
                 cnt++;
