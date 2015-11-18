@@ -3,9 +3,9 @@ title: MAMP-Dokumentation
 description: Das ist die MAMP-Dokumentation
 ---
 
-# 1. Installation
+# Installation
 
-## 1.1 Installationsvoraussetzungen
+## Installationsvoraussetzungen
 
 Für den Betrieb von MAMP müssen die folgenden Voraussetzungen erfüllt sein:
 
@@ -13,7 +13,7 @@ Für den Betrieb von MAMP müssen die folgenden Voraussetzungen erfüllt sein:
 * Mac mit 64-Bit-CPU (x64) von Intel
 * Benutzerkonto, das den Computer verwalten darf (Administrator)
 
-## 1.2 Installation und Aktualisierung
+## Installation und Aktualisierung
 
 * Laden Sie MAMP von <https://www.mamp.info> herunter.
 * Öffnen Sie per Doppelklick die Datei MAMP_MAMP_PRO_3.0.pkg in Ihrem Downloads-Ordner.
@@ -30,13 +30,13 @@ Für den Betrieb von MAMP müssen die folgenden Voraussetzungen erfüllt sein:
 
 Bei der Installation von MAMP wird zusätzlich der Ordner /Programme/MAMP PRO installiert. Sie können diesen Ordner ignorieren, wenn Sie MAMP PRO nicht verwenden möchten.
 
-## 1.2 De-Installation
+## De-Installation
 
 Sollten Sie MAMP nicht mehr benutzen wollen, genügt es, den MAMP-Ordner zu löschen und alles wird in den Ursprungszustand versetzt (das heißt MAMP modifiziert nichts am Mac-Betriebssystem).
 
 Falls sie auch MAMP PRO verwendet haben, nutzen sie den MAMP-PRO-Uninstaller aus `/Programme/MAMP PRO` zum Löschen.
 
-# 2. Erste Schritte
+# Erste Schritte
 
 Nach erfolgreicher Installation können Sie den lokalen Webserver starten. Starten Sie dazu die Anwendung MAMP und klicken Sie auf den Button Server starten. In der Statusanzeige auf der rechten Seite wird angezeigt, ob der Server erfolgreich gestartet wurde. Falls nötig, werden Sie an dieser Stelle nach Ihrem Administrator-Kennwort gefragt.
 
