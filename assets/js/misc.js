@@ -31,7 +31,6 @@ ul.setAttributeNode(att);
 
 
                 elm = li.appendChild(ul);
-                 class=""
                 cnt++;
             } while (cnt < (curLv - lv));
         }
