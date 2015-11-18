@@ -1,4 +1,4 @@
-# Erste Schritte
+## Erste Schritte
 
 Nach erfolgreicher Installation können Sie den lokalen Webserver starten. Starten Sie dazu die Anwendung MAMP und klicken Sie auf den Button Server starten. In der Statusanzeige auf der rechten Seite wird angezeigt, ob der Server erfolgreich gestartet wurde. Falls nötig, werden Sie an dieser Stelle nach Ihrem Administrator-Kennwort gefragt.
 
