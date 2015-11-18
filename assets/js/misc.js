@@ -22,7 +22,16 @@ function buildTOC(nodes, elm, lv) {
                 li = elm.lastChild;
                 if (li == null)
                     li = elm.appendChild(document.createElement("li"));
-                elm = li.appendChild(document.createElement("ul"));
+                    ul = document.createElement("ul");
+
+var class_attribute = document.createAttribute("class");
+class_attribute.value = "no-bullets";
+ul.setAttributeNode(class_attribute);
+
+
+
+                elm = li.appendChild(ul);
+                 class=""
                 cnt++;
             } while (cnt < (curLv - lv));
         }
