@@ -1,6 +1,6 @@
-# Installation
+## Installation
 
-## Installationsvoraussetzungen
+### Installationsvoraussetzungen
 
 Für den Betrieb von MAMP müssen die folgenden Voraussetzungen erfüllt sein:
 
@@ -8,7 +8,7 @@ Für den Betrieb von MAMP müssen die folgenden Voraussetzungen erfüllt sein:
 * Mac mit 64-Bit-CPU (x64) von Intel
 * Benutzerkonto, das den Computer verwalten darf (Administrator)
 
-## Installation und Aktualisierung
+### Installation und Aktualisierung
 
 * Laden Sie MAMP von <https://www.mamp.info> herunter.
 * Öffnen Sie per Doppelklick die Datei MAMP_MAMP_PRO_3.0.pkg in Ihrem Downloads-Ordner.
@@ -25,7 +25,7 @@ Für den Betrieb von MAMP müssen die folgenden Voraussetzungen erfüllt sein:
 
 Bei der Installation von MAMP wird zusätzlich der Ordner /Programme/MAMP PRO installiert. Sie können diesen Ordner ignorieren, wenn Sie MAMP PRO nicht verwenden möchten.
 
-## De-Installation
+### De-Installation
 
 Sollten Sie MAMP nicht mehr benutzen wollen, genügt es, den MAMP-Ordner zu löschen und alles wird in den Ursprungszustand versetzt (das heißt MAMP modifiziert nichts am Mac-Betriebssystem).
 
