@@ -42,7 +42,7 @@ Nach erfolgreicher Installation können Sie den lokalen Webserver starten. Start
 
 Der Webserver (Apache) wird standardmäßig auf Port 8888 betrieben, der Datenbankserver (MySQL) auf Port 8889. Wenn Sie Ihre lokale Webseite im Browser öffnen möchten, müssen Sie am Ende der URL den Apache-Port angeben: http://localhost:8888
 
-![MAMP](https://documentation.mamp.info/img/de/MAMP/BildschirmfotoMainScreen.png)
+![MAMP](MAMP.png)
 
 *   **Einstellungen…**  
     Hier legen Sie die Einstellungen von MAMP fest. Siehe Abschnitt Einstellungen für weitere Details.
