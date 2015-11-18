@@ -4,5 +4,4 @@ description: Das ist die MAMP-Dokumentation
 ---
 
 {% include_relative Installation.md %}
-
-
+{% include_relative Erste-Schritte.md %}
