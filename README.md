@@ -1,1 +1,1 @@
-# MAMP-MAMP-PRO-Documentation
+# MAMP & MAMP PRO Documentation
