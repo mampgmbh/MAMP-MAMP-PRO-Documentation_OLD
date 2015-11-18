@@ -20,6 +20,9 @@ var all = document.getElementById("content").getElementsByTagName("*");
 var nodes = []; 
 for(var i = all.length; i--; nodes.unshift(all[i]));
 var result = document.createElement("ul");
+att = document.createAttribute("class");
+                att.value = "no-bullets";
+                result.setAttributeNode(att);
 buildTOC(nodes, result, 1);
 document.getElementById("toc").appendChild(result);
 </script>
