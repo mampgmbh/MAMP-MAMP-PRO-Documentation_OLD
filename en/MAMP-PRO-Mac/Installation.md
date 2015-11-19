@@ -20,3 +20,10 @@ Your /Applications/MAMP_current_date folder can now be deleted. You may however 
 
 Note: You need administrator permissions to install MAMP PRO!
 
+2.3 Uninstall
+
+Use the MAMP PRO Uninstaller located in /Applications/MAMP PRO to remove MAMP PRO.
+
+
+
+Drag the /Applications/MAMP folder to the Trash to complete uninstallation.
