@@ -1,6 +1,6 @@
 ## Installation
 
-2.1 Installation requirements
+###2.1 Installation requirements
 
 To use MAMP PRO, your system must meet the following requirements:
 
@@ -20,7 +20,7 @@ Your /Applications/MAMP_current_date folder can now be deleted. You may however 
 
 Note: You need administrator permissions to install MAMP PRO!
 
-2.3 Uninstall
+###2.3 Uninstall
 
 Use the MAMP PRO Uninstaller located in /Applications/MAMP PRO to remove MAMP PRO.
 
