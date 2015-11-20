@@ -14,16 +14,16 @@ Download MAMP PRO from <https://www.mamp.info>.
 Double click on the MAMP_MAMP_PRO_4.0.pkg file in your Downloads folder.
 The System Installer will guide you through the installation process.
 If the installer detects an existing MAMP folder it will rename the current MAMP folder to MAMP_current_date.
-An existing "htdocs" folder will be moved to your new /Applications/MAMP folder.
+An existing "htdocs" folder will be moved to your new `/Applications/MAMP` folder.
 Confirm that all data has been transferred correctly before starting MAMP PRO.
-Your /Applications/MAMP_current_date folder can now be deleted. You may however keep it, so you can fall back to your original setup.
+Your `/Applications/MAMP_current_date` folder can now be deleted. You may however keep it, so you can fall back to your original setup.
 
 Note: You need administrator permissions to install MAMP PRO!
 
 ###2.3 Uninstall
 
-Use the MAMP PRO Uninstaller located in /Applications/MAMP PRO to remove MAMP PRO.
+Use the MAMP PRO Uninstaller located in `/Applications/MAMP PRO` to remove MAMP PRO.
 
 
 
-Drag the /Applications/MAMP folder to the Trash to complete uninstallation.
+Drag the `/Applications/MAMP` folder to the Trash to complete uninstallation.
