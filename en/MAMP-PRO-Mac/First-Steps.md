@@ -6,3 +6,15 @@ Click on the Start button in the title bar to launch Apache and MySQL. In the st
 
 Your default host for MAMP PRO is localhost. The files for localhost are initially located in the `/Applications/MAMP/htdocs` folder. See the Hosts section for more information on what a host is and how to create additional hosts.
 
+#### WebStart
+Open the MAMP PRO start page of your local web server. Additional information about the MAMP PRO start page is in the ‘Hosts’ section.
+#### Start/Stop
+Starts or stops the Apache and MySQL services of the MAMP PRO server.
+#### Status
+The status display in the upper right corner shows the started services (Apache, MySQL and Dyn. DNS).
+#### Revert
+Discards all changes, which have not already been confirmed with ‘Save’.
+#### Save
+Save your changed settings.
+
+## 3.2 Meaning of Icons
