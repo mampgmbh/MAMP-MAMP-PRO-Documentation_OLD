@@ -103,5 +103,23 @@ All the events of the Dynamic DNS service will be recorded in a log file.
 ### Postfix
 
 
+Sometimes you may need to send an email with PHP. To do so you have to configure and start Postfix. An easy way getting Postfix to run is using the configuration tool built into MAMP PRO.
+
+#### Set domain of outgoing e-mails to
+If you want to use the PHP function mail() for sending emails to your own email address (like mail@johndoe.com) you just need to open MAMP PRO, go to Server -> Postfix and add the value "johndoe.com" (without quotes and the according domain name) into the field "Domain of outgoing mail”. Only if you want to send e-mail to others you will need to fill in the other fields. In this case make sure that your e-mail provider allows the use of a Smart host.
+
+#### Server name
+Fill in your server name for outgoing emails. This could be for instance "smtp.johndoe.com" (without quotes). Ask your provider if you are unsure about the server name.
+
+#### User
+Add the user name of your mail account.
+
+#### Password
+Add the password for your email user account.
+
+#### Authentication
+Leave to “None"
+
+Note: Some providers do not allow Smart-Hosts, like Google Mail.
 
 
