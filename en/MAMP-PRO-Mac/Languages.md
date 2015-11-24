@@ -31,17 +31,17 @@ With Xdebug activated you can open the MacGDBp debugger to enable PHP debugging.
 
 Determine which error types should be reported.
 
-Display startup errors: Log PHP errors that occur when Apache loads the PHP module. 
+_Display startup errors:_ Log PHP errors that occur when Apache loads the PHP module. 
 
-All errors and warnings: All errors will be reported.
+_All errors and warnings:_ All errors will be reported.
 
-Errors: Script errors that make the further execution of the current PHP script impossible.
+_Errors:_ Script errors that make the further execution of the current PHP script impossible.
 
-Warnings: General errors in the PHP environment.
+_Warnings:_ General errors in the PHP environment.
 
-Notices: Possible problems, that do not concern PHP, but which could be a notice of an error in a script.
+_Notices:_ Possible problems, that do not concern PHP, but which could be a notice of an error in a script.
 
-Other: Report further error types through constants. Please turn to the PHP documentation for further information.
+_Other:_ Report further error types through constants. Please turn to the PHP documentation for further information.
 
 #### Log Errors
 
