@@ -6,7 +6,7 @@ The web server (Apache) starts by default on port 8888, the database server (MyS
 
 [[pic]]
 
-*   **Einstellungen…**
+*   **Preferences…**
 Set your preferences for MAMP. See the Preferences section for more details.
 
 * **Open WebStart page**
