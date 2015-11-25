@@ -37,8 +37,6 @@ function buildTOC(nodes, elm, lv) {
         // replace the next line with archor tags or whatever you want
         li.innerHTML = '<a href="#'+node.id+'">' + node.innerHTML + '</a>';
         // recursive call
-        if ((lv + cnt) < 3) {
-            buildTOC(nodes, elm, lv + cnt);
-        }
+        buildTOC(nodes, elm, lv + cnt);
     }
 }
