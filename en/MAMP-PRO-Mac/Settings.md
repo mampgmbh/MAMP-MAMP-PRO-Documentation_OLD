@@ -223,4 +223,4 @@ The log files will be emptied before startup of the services. That way only curr
 
 #### Color
 
-### Default Apps
+#### Default Apps
