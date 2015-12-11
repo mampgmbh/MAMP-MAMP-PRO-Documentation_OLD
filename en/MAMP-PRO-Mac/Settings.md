@@ -2,7 +2,7 @@
 
 ### 4.1 Hosts
 
-#### General Settings
+#### 4.1.1 General Settings
 
 MAMP PRO uses virtual hosts to allow Apache to serve different websites. The virtual host [localhost] is created by default and cannot be deleted. You can add an unlimited number of hosts allowing you to create one host per project. Every host can have it’s own directory to store html, php files, and images. This directory is called Document Root. 
 
@@ -73,7 +73,7 @@ The group who has access to the directory and all the subdirectories and files i
 ###### Access Rights
 You can change directory and files access rights separately.
 
-#### Apache
+#### 4.1.2 Apache
 
 Apache options can be set for the selected virtual host in the table. These options are security relevant!
 
@@ -121,9 +121,9 @@ Note: Watch out for typos, they will otherwise prevent Apache from starting up.
  
 
 
-#### Nginx
+#### 4.1.3 Nginx
 
-#### SSL
+#### 4.1.4 SSL
 
 To encrypt traffic from Apache to a web browser you can use SSL.
 
@@ -131,7 +131,7 @@ Use “Create self-signed certificate” if you want to test SSL functionality.
 
 If you want to secure a productive server you should get the Certificate file and the Certificate key file from a Certified Authority (CA).
 
-#### Extras
+#### 4.1.5 Extras
 
 MAMP PRO allows you to easily add popular packages to your hosts which we call Extras. Extras will always be loaded from the appsolute servers if you have an Internet connection. Over time more Extras will become available.
 
@@ -139,7 +139,7 @@ MAMP PRO allows you to easily add popular packages to your hosts which we call E
 Note: The availability of an Extra will be affected by your hosts PHP version, Internet connection, cached Extras and available disk space.To add an Extra, press the plus button on the lower left side of the ‘Extras’ panel. The plus button has a red circle around it if you have no Extras installed.
  
 
-##### 4.1.4.1 Wordpress
+##### 4.1.5.1 Wordpress
 
 _Name of the blog:_
 Name your blog.
@@ -168,7 +168,7 @@ The Wordpress admins default password.
 Note: You will need this password to login into your new Wordpress blog, please write this down.
  
 
-##### 4.1.4.2 Joomla
+##### 4.1.5.2 Joomla
 
 Joomla installations can share a single MySQL database if you provide a unique table prefix during installation. To use an existing database enter the name of the database and a unique table prefix. To create a new database use a unique database name, table prefix must not be empty.
 
@@ -180,7 +180,7 @@ _Database name:_
 
 Set the name of your database schema which will be added to your local database. After installation you can view this database for this instance of Joomla using phpMyAdmin, Sequel Pro, or MySQLWorkbench. 
 
-##### 4.1.4.3 webEdition
+##### 4.1.5.3 webEdition
 
 webEdition will always be installed in a folder called webedition inside the document root folder.
 
