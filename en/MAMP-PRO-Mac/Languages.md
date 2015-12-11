@@ -1,7 +1,6 @@
-## Languages
+## 6. Languages
 
-
-### PHP
+### 6.1 PHP
 
 PHP is a popular web scripting programming language. MAMP PRO installs several versions of the PHP script interpreter.
 
@@ -46,5 +45,9 @@ _Other:_ Report further error types through constants. Please turn to the PHP do
 #### Log Errors
 
 Determine if these errors should be recorded in a log file and/or displayed in the web browser window.
+
+### 6.2 Python
+
+### 6.3 Perl
 
 
