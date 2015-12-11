@@ -8,7 +8,8 @@ A working MAMP installation (MAMP can be downloaded directly with the MAMP PRO i
 Apple OS X, version 10.8.0 or later.
 A Mac with a 64-Bit-capable CPU.
 A user account that is part of the Admin Group. Go to Preferences > Users & Groups to confirm this.
-2.2 Installing and upgrading MAMP PRO
+
+###2.2 Installing and upgrading MAMP PRO
 
 Download MAMP PRO from <https://www.mamp.info>.
 Double click on the MAMP_MAMP_PRO_4.0.pkg file in your Downloads folder.
