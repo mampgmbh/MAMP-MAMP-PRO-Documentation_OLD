@@ -1,4 +1,4 @@
-## Troubleshooting
+## 9. Troubleshooting
 
 ##### The last time I opened Extras there was a Content Management System that is now not available?
 
