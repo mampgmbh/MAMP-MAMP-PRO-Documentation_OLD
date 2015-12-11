@@ -218,3 +218,9 @@ The services will be stopped automatically when MAMP PRO shuts down.
 The log files will be emptied before startup of the services. That way only current entries will be in the log files.
 
 ### 4.3 Editor
+
+#### Editing
+
+#### Color
+
+### Default Apps
