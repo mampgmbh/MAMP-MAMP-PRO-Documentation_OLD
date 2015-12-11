@@ -1,6 +1,6 @@
-## Settings
+## 4. Settings
 
-### Hosts
+### 4.1 Hosts
 
 #### General Settings
 
@@ -22,8 +22,6 @@ If the servers are running you can use the Right Arrow button to open a host in 
 
 If this field is left empty or contains an ‘*’ Apache will use one of the computer’s IP addresses to access this host. If you want to choose which of the IP addresses should be associated with a host, then select it from the pop up menu. 
 
- 
-
 ##### Port Number
 
 Determine the port with which the virtual host is accessible. Valid values are from 1 to 65535. In most cases the preset value does not need to be changed.
@@ -35,12 +33,6 @@ Determine which version of PHP a host will use. This can only be set when Indivi
 If you select the Standard PHP version MAMP PRO will automatically adapt this setting if you choose a new standard version in the PHP tab. Use a fixed setting to tell MAMP PRO not to alter the PHP version.
 
 Sounds complicated? Let’s take a look at an example: The default version is set to 5.5.9. You have oneHost set to PHP version “Default (5.5.9)”, anotherHost set to “5.5.9” and yetAnotherHost set to “5.3.28”. If you set the PHP version in the PHP section to 5.4.25, MAMP PRO will adapt the PHP version of oneHost to this version (it is set to always use the standard version). The other 2 hosts will not be changed.
-
-
-
-
-
-
 
 
 ##### Dynamic DNS
@@ -147,7 +139,7 @@ MAMP PRO allows you to easily add popular packages to your hosts which we call E
 Note: The availability of an Extra will be affected by your hosts PHP version, Internet connection, cached Extras and available disk space.To add an Extra, press the plus button on the lower left side of the ‘Extras’ panel. The plus button has a red circle around it if you have no Extras installed.
  
 
-##### 4.2.4.1 Wordpress
+##### 4.1.4.1 Wordpress
 
 _Name of the blog:_
 Name your blog.
@@ -176,7 +168,7 @@ The Wordpress admins default password.
 Note: You will need this password to login into your new Wordpress blog, please write this down.
  
 
-##### 4.2.4.2 Joomla
+##### 4.1.4.2 Joomla
 
 Joomla installations can share a single MySQL database if you provide a unique table prefix during installation. To use an existing database enter the name of the database and a unique table prefix. To create a new database use a unique database name, table prefix must not be empty.
 
@@ -188,7 +180,7 @@ _Database name:_
 
 Set the name of your database schema which will be added to your local database. After installation you can view this database for this instance of Joomla using phpMyAdmin, Sequel Pro, or MySQLWorkbench. 
 
-##### 4.2.4.3 webEdition
+##### 4.1.4.3 webEdition
 
 webEdition will always be installed in a folder called webedition inside the document root folder.
 
@@ -203,7 +195,7 @@ Set the name of your database schema which will be added to your local database.
 Note: When a Content Management System is setup the host name and Apache port number is stored in its database. Going forward the Apache port in MAMP PRO cannot be changed. A change in the Apache port will result in breaking the CMS, returning only a vague error message. Content Management Systems usually provide a mechanism for changing the host and port names. If changes are made in the CMS, then they must also be made in MAMP PRO.
 
 
-### Ports
+### 4.2 Ports
 
 Server programs, when addressed via the network, need to be assigned to a certain network port. This way, multiple server programs may run on one server machine. Every service has a default port: The Apache web server typically uses port 80, the MySQL database server utilises port 3306.
 
@@ -225,4 +217,4 @@ The services will be stopped automatically when MAMP PRO shuts down.
 #### Delete log files at server startup
 The log files will be emptied before startup of the services. That way only current entries will be in the log files.
 
-### Editor
+### 4.3 Editor
