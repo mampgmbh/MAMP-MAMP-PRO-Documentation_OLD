@@ -3,6 +3,8 @@ title: MAMP PRO Dokumentation
 description: Das ist die MAMP PRO Dokumentation
 ---
 {% include_relative Was-ist-MAMP-PRO.md %}
+{% include_relative Installation.md %}
 {% include_relative Erste-Schritte.md %}
+
 
 
