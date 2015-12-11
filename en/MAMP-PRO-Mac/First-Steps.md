@@ -1,4 +1,4 @@
-## 2. First Steps
+## 3. First Steps
 
 When the MAMP PRO application is launched for the first time its helper tools will be installed. You will be prompted to enter your admin password.
 
