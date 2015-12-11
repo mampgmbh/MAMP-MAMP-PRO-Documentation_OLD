@@ -1,6 +1,6 @@
-## 4. Servers And Services
+## 5. Servers And Services
 
-### Apache
+### 5.1 Apache
 
 The Apache Web Server installed by MAMP PRO comes with many modules pre-installed.
 
@@ -12,7 +12,7 @@ If you want to use the PHP scripting language you must activate the php_module, 
 
 If you want to be able to switch to CGI mode and use multiple PHP versions you must activate cgi_module.
 
-### Nginx
+### 5.2 Nginx
 
 #### Activate Nginx Server
 
@@ -20,7 +20,7 @@ If you want to be able to switch to CGI mode and use multiple PHP versions you m
 
 #### Path To Nginx log file
 
-### MySQL
+### 5.3 MySQL
 
 The MySQL database server is a popular database used on production servers. An installation of MySQL is installed on your computer by MAMP PRO.
 
@@ -61,7 +61,7 @@ MySQL Workbench is also a native Mac application from the makers of MySQL. It al
 
  
 
-### Dynamic DNS
+### 5.4 Dynamic DNS
 
 If you would like to make your hosts accessible from the internet (Don’t forget about security then!), but do not have a domain name that points to your Mac, you will need a Dynamic DNS Service. 
 
@@ -100,7 +100,7 @@ All the events of the Dynamic DNS service will be recorded in a log file.
 
  
 
-### Postfix
+### 5.5 Postfix
 
 
 Sometimes you may need to send an email with PHP. To do so you have to configure and start Postfix. An easy way getting Postfix to run is using the configuration tool built into MAMP PRO.
