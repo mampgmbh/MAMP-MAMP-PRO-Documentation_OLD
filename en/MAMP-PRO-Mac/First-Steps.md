@@ -17,4 +17,4 @@ Discards all changes, which have not already been confirmed with ‘Save’.
 #### Save
 Save your changed settings.
 
-## 3.2 Meaning of Icons
+### 3.2 Meaning of Icons
