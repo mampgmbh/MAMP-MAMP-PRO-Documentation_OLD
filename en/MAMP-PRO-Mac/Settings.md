@@ -38,6 +38,9 @@ Sounds complicated? Let’s take a look at an example: The default version is se
 ##### Dynamic DNS
 Determines, if this virtual host is accessible with the Dynamic DNS service from the internet.
 
+##### Use With
+This allows you to use these settings with Apache, Nginx, or both.
+
 ##### Name resolution
 This will determine how your system will map host names to ip addresses.
 
