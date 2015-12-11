@@ -1,4 +1,4 @@
-## How Tos
+## 10. How Tos
 
 ##### 8.1 Activating Output Buffering
 
