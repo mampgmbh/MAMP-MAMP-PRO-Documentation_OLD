@@ -9,7 +9,7 @@ Click on the Servers button in the title bar to launch Apache and MySQL, the def
 Your default host for MAMP PRO is localhost. The files for localhost are initially located in the `/Applications/MAMP/htdocs` folder. See the Hosts section for more information on what a host is and how to create additional hosts.
 
 #### MAMP PRO
-Open the <http://mamppro.info> web page.
+Open the <http://mamp.info> web page.
 
 #### Customize
 Make changes to your toolbar.
