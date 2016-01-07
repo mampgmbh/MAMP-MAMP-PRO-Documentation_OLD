@@ -19,8 +19,9 @@ An existing "htdocs" folder will be moved to your new `/Applications/MAMP` folde
 Confirm that all data has been transferred correctly before starting MAMP PRO.
 Your `/Applications/MAMP_current_date` folder can now be deleted. You may however keep it, so you can fall back to your original setup.
 
+<div class="alert" role="alert">
 Note: You need administrator permissions to install MAMP PRO!
-
+</div>
 ###2.3 Uninstall
 
 Use the MAMP PRO Uninstaller located in `/Applications/MAMP PRO` to remove MAMP PRO.
