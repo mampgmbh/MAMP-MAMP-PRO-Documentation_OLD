@@ -1,6 +1,6 @@
 ## 3. First Steps
 
-[Pic 3_0_FirstSteps.jpg]
+[Pic 3_0_FirstSteps.png]
 
 When the MAMP PRO application is launched for the first time its helper tools will be installed. You will be prompted to enter your admin password.
 
@@ -10,7 +10,7 @@ Your default host for MAMP PRO is localhost. The files for localhost are initial
 
 ### 3.1 Main GUI Elements
 
-[Pic 3_1_MainGUI_Elements.jpg]
+[Pic 3_1_MainGUI_Elements.png]
 
 #### MAMP PRO
 Open the <http://mamp.info> web page.
