@@ -11,9 +11,9 @@ To use the MAMP, your system must meet the following requirements:
 ### Installing and upgrading
 
 1. Download MAMP from https://www.mamp.info.
-2. Double click on the file MAMP_MAMP_PRO_3.0.pkg in your Downloads folder.
+2. Double click on the file `MAMP_MAMP_PRO_3.0.pkg` in your Downloads folder.
 3. The System Installer will guide you through the installation process.
-4. If the installer detects a previous MAMP installation it will rename its MAMP folder to MAMP_current_date.
+4. If the installer detects a previous MAMP installation it will rename its `MAMP` folder to `MAMP_current_date`.
 5. Your existing "htdocs" folder will be moved to your new `/Applications/MAMP` folder.
 6. Make sure that all data has been transferred correctly before starting MAMP.
 7. Your `/Applications/MAMP_current_date` folder can now be deleted. You may however keep it, so you can fall back to your original setup.
