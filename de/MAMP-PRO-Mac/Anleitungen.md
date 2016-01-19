@@ -1,6 +1,6 @@
 ## Anleitungen
 
-#### 8.1 Activating Output Buffering
+### Activating Output Buffering
 
 Starten Sie MAMP PRO
 Wählen Sie aus dem Menü Ablage -> Vorlage Editieren den Menüpunkt PHP 5.5.x php.ini beziehungsweise PHP 5.5.x php.ini
@@ -10,7 +10,7 @@ Suchen Sie folgende Zeile: output_buffering = Off
 Speichern Sie die Datei
 Starten Sie die Server
 
-#### 8.2 Die Default Storage Engine von MySQL herausfinden
+### Die Default Storage Engine von MySQL herausfinden
 
 MAMP öffnen.
 Server starten.
@@ -27,7 +27,7 @@ Es wird eine Tabelle mit den Storage Engines des MySQL-Servers angezeigt. In der
 In der Eingabeaufforderung von MySQL folgenden Befehl eingeben und mit der Enter-Taste bestätigen:
 exit;
 
-#### 8.3 PHP-Speicherlimit erhöhen
+### PHP-Speicherlimit erhöhen
 
 MAMP PRO starten
 Server stoppen (falls sie gestartet wurden)
@@ -43,7 +43,7 @@ Speichern (Apfel + S) Sie die php.ini-Datei ab.
 Schließen (Apfel + W) Sie die php.ini-Datei.
 Starten Sie die Server.
 
-#### 8.4 Die Default Storage Engine von MySQL setzen
+### Die Default Storage Engine von MySQL setzen
 
 Als Default Storage Engine verwendet MAMP PRO für den MySQL-Server (wie jeder andere MySQL-Server auch) MyISAM.
 Soll dies geändert werden, muss dazu die Konfigurationsdatei des MySQL-Servers erweitert werden. Die folgende Anleitung zeigt, wie man dies mit MAMP PRO handhabt:
@@ -62,12 +62,11 @@ default-storage-engine = InnoDB
 Der Abschnitt "[mysqld]" sieht nun so aus:
 
 
-
 Die Änderungen an der Datei my.cnf über das Menü Ablage -> Speichern (oder über die Tastenkombination "Apfel + S") sichern.
 Das Editorfenster über das Menü Ablage -> Schließen (oder über die Tastenkombination "Apfel + W") schließen.
 Starten Sie die Server von MAMP PRO.
 
-#### 8.5 Postfix log Datei anzeigen
+### Postfix log Datei anzeigen
 
 Hinweis: Möchten Sie die Logdatei von Postfix mit einem Texteditor (z.B. TextWrangler) editieren, müssen Sie zunächst im Finder alle unsichtbaren Ordner und Dateien sichtbar machen. Erst danach können Sie die Logdatei mit einem Texteditor öffnen. Dazu gehen Sie wie folgt vor:
 Öffnen Sie das Programm “Terminal.app" (/Programme/Dienstprogramme/Terminal.app)
