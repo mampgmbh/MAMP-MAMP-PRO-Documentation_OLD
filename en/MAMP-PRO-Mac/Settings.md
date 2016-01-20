@@ -22,11 +22,11 @@ The document root is also known as the web root folder. MAMP PRO will automatica
    but it may not begin or end with a "-" character.
    Names are not case-sensitive (upper and lower-case letters are not distinguished.)
 
-[pic]
+   [pic]
 
-If the servers are running you can use the right arrow button to open a host in your web browser.
+   If the servers are running you can use the right arrow button to open a host in your web browser.
 
-[pic]
+   [pic]
 
 *  **IP Address**  
    If this field is left empty or contains an `*` Apache will use one of the computer's IP addresses to access this host.
@@ -53,39 +53,49 @@ If the servers are running you can use the right arrow button to open a host in 
 *  **Name resolution**  
    This will determine how your system will map host names to ip addresses.
 
-##### via/etc host file (this Mac only)
-The basic mapping mechanism which uses the the file /etc/hosts.
+*  **via/etc host file (this Mac only)**  
+   The basic mapping mechanism which uses the the file `/etc/hosts`.
 
-##### via Xip.io (LAN only)
-Allow other computers on your local network to access your web site. Using the Share button you can send the Xip.io address to other users.
+*  **via Xip.io (LAN only)**  
+   Allow other computers on your local network to access your web site.
+   Using the Share button you can send the Xip.io address to other users.
 
+<div class="alert" role="alert">
 Note: The Xip.io addresses will only work in your local network. They are temporary and may become invalid if you restart your Mac. Also make sure that your Internet router is not blocking Xip.io calls by using a DNS Rebind protection. If the router does this you can either deactivate this function, add Xip.io as an exception or not use the router as DNS server in your Macs network settings.
+</div>
  
-##### Document root
-The location of the documents (HTML/PHP files etc.) of a virtual host is called a document root.
+*  **Document root**  
+   The location of the documents (HTML/PHP files etc.) of a virtual host is called a document root.
 
-##### Alias Name
-Aliases are additional names for your virtual host. The same constraints apply to these additional names as to the host itself. Add aliases with the plus-button. 
+*  **Alias Name**  
+   Aliases are additional names for your virtual host. The same constraints apply to these additional names as to the host itself.
+   Add aliases with the plus-button.
 
-##### Access Rights for Document Root Directory
-For Apache to be able to access the files inside the document root folder and serve them to a web browser it needs adequate rights. If you use the user www to start Apache, then this user must have the right to access the files inside the document root folder. Typically this is not the case. You can either adapt the access rights or use the current Mac user to start Apache.
+*  **Access Rights for Document Root Directory**  
+   For Apache to be able to access the files inside the document root folder and serve them to a web browser it needs adequate rights.
+   If you use the user `www` to start Apache, then this user must have the right to access the files inside the document root folder.
+   Typically this is not the case. You can either adapt the access rights or use the current Mac user to start Apache.
 
-During the development phase of a site it is easier to use the current Mac user to start Apache. The user www is generally only used on production servers.
+   During the development phase of a site it is easier to use the current Mac user to start Apache.
+   The user `www` is generally only used on production servers.
 
-If Apache is reporting “access denied” in its error log or parts of your web pages are missing this might be due to access rights problems. 
+   If Apache is reporting "access denied" in its error log or parts of your web pages are missing this might be due to
+   access rights problems.
 
-The rights dialog of MAMP PRO looks complicated at first sight but is actually very powerful. Not only does it show you the access rights of the document root folder but also all the rights of all the subdirectories and files inside it. A “-“ indicates that not all objects have the same rights.
+   The rights dialog of MAMP PRO looks complicated at first sight but is actually very powerful. Not only does it show you
+   the access rights of the document root folder but also all the rights of all the subdirectories and files inside it.
+   A "-" indicates that not all objects have the same rights.
 
-###### Owner
-The user who owns the directory and all the subdirectories and files in it.
+*  **Owner**  
+   The user who owns the directory and all the subdirectories and files in it.
 
-###### Group
-The group who has access to the directory and all the subdirectories and files in it.
+*  **Group**  
+   The group who has access to the directory and all the subdirectories and files in it.
 
-###### Access Rights
-You can change directory and files access rights separately.
+*  **Access Rights**  
+   You can change directory and files access rights separately.
 
-#### 4.1.2 Apache
+#### Apache
 
 Apache options can be set for the selected virtual host in the table. These options are security relevant!
 
