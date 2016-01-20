@@ -1,48 +1,57 @@
-## 4. Settings
+## Settings
 
-### 4.1 Hosts
+### Hosts
 
-#### 4.1.1 General Settings
+#### General Settings
 
-MAMP PRO uses virtual hosts to allow Apache to serve different websites. The virtual host [localhost] is created by default and cannot be deleted. You can add an unlimited number of hosts allowing you to create one host per project. Every host can have it’s own directory to store html, php files, and images. This directory is called Document Root. 
+MAMP PRO uses virtual hosts to allow Apache to serve different websites. The virtual host `localhost` is created by default and cannot be deleted. You can add an unlimited number of hosts allowing you to create one host per project. Every host can have it's own directory to store html, php files, and images. This directory is called Document Root.
 
-The name of a host [server name] must be unique, often it’s practical to use a reverse domain naming scheme to easily identify them (e.g. use de.appsolute.mamp instead of mamp.appsolute.de). The unreversed name may conflict with an outside domain name.
+The name of a host (server name) must be unique, often it's practical to use a reverse domain naming scheme to easily identify them (e.g. use de.appsolute.mamp instead of mamp.appsolute.de). The unreversed name may conflict with an outside domain name.
 
-To create a new host press the ‘Plus’ button at the bottom left of the screen. Replace the default host name. The second required field to complete the setup of a new host is a location for its files [document root].
+To create a new host press the `Plus` button at the bottom left of the screen. Replace the default host name. The second required field to complete the setup of a new host is a location for its files document root.
 
-Click on the folder icon to choose a document root. Use the Right Arrow button to open the folder in the Finder.
-######[pic]
-The document root is also known as the web root folder. MAMP PRO will automatically add an index.php file and a MAMP image to this location when Apache is restarted and the folder is empty.
-##### Server name
-The Server Name and Port number in combination must be unique within MAMP PRO. The host name may only contain letters and/or numbers, as well as dashes ("-"); but it may not begin or end with a "-" character. Names are not case-sensitive (upper and lower-case letters are not distinguished.)
-######[pic]
-If the servers are running you can use the Right Arrow button to open a host in your web browser.
-######[pic]
-##### IP Address
+Click on the folder icon to choose a document root. Use the right arrow button to open the folder in the Finder.
 
-If this field is left empty or contains an ‘*’ Apache will use one of the computer’s IP addresses to access this host. If you want to choose which of the IP addresses should be associated with a host, then select it from the pop up menu. 
+[pic]
 
-##### Port Number
+The document root is also known as the web root folder. MAMP PRO will automatically add an `index.php` file and a MAMP image to this location when Apache is restarted and the folder is empty.
 
-Determine the port with which the virtual host is accessible. Valid values are from 1 to 65535. In most cases the preset value does not need to be changed.
+*  **Server name**  
+   The Server Name and Port number in combination must be unique within MAMP PRO.
+   The host name may only contain letters and/or numbers, as well as dashes ("-");
+   but it may not begin or end with a "-" character.
+   Names are not case-sensitive (upper and lower-case letters are not distinguished.)
 
-##### PHP version
+[pic]
 
-Determine which version of PHP a host will use. This can only be set when Individual PHP version for every host (CGI) is set in the PHP section of MAMP PRO.
+If the servers are running you can use the right arrow button to open a host in your web browser.
 
-If you select the Standard PHP version MAMP PRO will automatically adapt this setting if you choose a new standard version in the PHP tab. Use a fixed setting to tell MAMP PRO not to alter the PHP version.
+[pic]
 
-Sounds complicated? Let’s take a look at an example: The default version is set to 5.5.9. You have oneHost set to PHP version “Default (5.5.9)”, anotherHost set to “5.5.9” and yetAnotherHost set to “5.3.28”. If you set the PHP version in the PHP section to 5.4.25, MAMP PRO will adapt the PHP version of oneHost to this version (it is set to always use the standard version). The other 2 hosts will not be changed.
+*  **IP Address**  
+   If this field is left empty or contains an `*` Apache will use one of the computer's IP addresses to access this host.
+   If you want to choose which of the IP addresses should be associated with a host, then select it from the pop up menu.
+*  **Port Number**  
+   Determine the port with which the virtual host is accessible. Valid values are from 1 to 65535.
+   In most cases the preset value does not need to be changed.
 
+*  **PHP version**  
+   Determine which version of PHP a host will use. This can only be set when Individual PHP version
+   for every host (CGI) is set in the PHP section of MAMP PRO.
 
-##### Dynamic DNS
-Determines, if this virtual host is accessible with the Dynamic DNS service from the internet.
+   If you select the Standard PHP version MAMP PRO will automatically adapt this setting if you choose
+   a new standard version in the PHP tab. Use a fixed setting to tell MAMP PRO not to alter the PHP version.
 
-##### Use With
-This allows you to use these settings with Apache, Nginx, or both.
-
-##### Name resolution
-This will determine how your system will map host names to ip addresses.
+   Sounds complicated? Let's take a look at an example: The default version is set to 5.5.9. You have oneHost
+   set to PHP version `Default (5.5.9)`, anotherHost set to `5.5.9` and yetAnotherHost set to `5.3.28`.
+   If you set the PHP version in the PHP section to `5.4.25`, MAMP PRO will adapt the PHP version of oneHost
+   to this version (it is set to always use the standard version). The other 2 hosts will not be changed.
+*  **Dynamic DNS**  
+   Determines, if this virtual host is accessible with the Dynamic DNS service from the internet.
+*  **Use With**  
+   This allows you to use these settings with Apache, Nginx, or both.
+*  **Name resolution**  
+   This will determine how your system will map host names to ip addresses.
 
 ##### via/etc host file (this Mac only)
 The basic mapping mechanism which uses the the file /etc/hosts.
