@@ -12,20 +12,21 @@ Your default host for MAMP PRO is `localhost`. The files for localhost are initi
 
 [Pic 3_1_MainGUI_Elements.png]
 
-- __MAMP PRO__ 
-Open the http://mamp.info web page.
-- __Customize__ 
-Make changes to your toolbar.
-- __Editor__ 
-Open the MAMP PRO Editor.
-- __WebStart__ 
-Open the MAMP PRO start page of your local web server. Additional information about the MAMP PRO start page is in the `Hosts` section.
-- __Servers__
-Starts or stops the web server and database services of MAMP PRO.
-- __Revert__ 
-Discards all changes, which have not already been confirmed with `Save`.
-- __Save__ 
-Save your changed settings.
+*  **MAMP PRO**  
+   Open the http://mamp.info web page.
+*  **Customize**  
+   Make changes to your toolbar.
+*  **Editor**  
+   Open the MAMP PRO Editor.
+*  **WebStart**  
+   Open the MAMP PRO start page of your local web server.
+   Additional information about the MAMP PRO start page is in the `Hosts` section.
+*  **Servers**  
+   Starts or stops the web server and database services of MAMP PRO.
+*  **Revert**  
+   Discards all changes, which have not already been confirmed with `Save`.
+*  **Save**  
+   Save your changed settings.
 
 ### Meaning of Icons
 
