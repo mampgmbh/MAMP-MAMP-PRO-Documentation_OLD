@@ -2,7 +2,7 @@
 
 ### Hosts
 
-#### General Settings
+#### General
 
 MAMP PRO uses virtual hosts to allow Apache to serve different websites. The virtual host `localhost` is created by default and cannot be deleted. You can add an unlimited number of hosts allowing you to create one host per project. Every host can have it's own directory to store html, php files, and images. This directory is called Document Root.
 
@@ -16,8 +16,8 @@ Click on the folder icon to choose a document root. Use the right arrow button t
 
 The document root is also known as the web root folder. MAMP PRO will automatically add an `index.php` file and a MAMP image to this location when Apache is restarted and the folder is empty.
 
-*  **Server name**  
-   The Server Name and Port number in combination must be unique within MAMP PRO.
+*  **Name**  
+   The server name and port number in combination must be unique within MAMP PRO.
    The host name may only contain letters and/or numbers, as well as dashes ("-");
    but it may not begin or end with a "-" character.
    Names are not case-sensitive (upper and lower-case letters are not distinguished.)
@@ -28,10 +28,11 @@ The document root is also known as the web root folder. MAMP PRO will automatica
 
    [pic]
 
-*  **IP Address**  
+*  **IP address**  
    If this field is left empty or contains an `*` Apache will use one of the computer's IP addresses to access this host.
    If you want to choose which of the IP addresses should be associated with a host, then select it from the pop up menu.
-*  **Port Number**  
+
+*  **Port#**  
    Determine the port with which the virtual host is accessible. Valid values are from 1 to 65535.
    In most cases the preset value does not need to be changed.
 
@@ -46,19 +47,22 @@ The document root is also known as the web root folder. MAMP PRO will automatica
    set to PHP version `Default (5.5.9)`, anotherHost set to `5.5.9` and yetAnotherHost set to `5.3.28`.
    If you set the PHP version in the PHP section to `5.4.25`, MAMP PRO will adapt the PHP version of oneHost
    to this version (it is set to always use the standard version). The other 2 hosts will not be changed.
+
 *  **Dynamic DNS**  
    Determines, if this virtual host is accessible with the Dynamic DNS service from the internet.
+
 *  **Use With**  
    This allows you to use these settings with Apache, Nginx, or both.
+
 *  **Name resolution**  
    This will determine how your system will map host names to ip addresses.
 
-*  **via/etc host file (this Mac only)**  
-   The basic mapping mechanism which uses the the file `/etc/hosts`.
+    *  **via/etc host file (this Mac only)**  
+       The basic mapping mechanism which uses the the file `/etc/hosts`.
 
-*  **via Xip.io (LAN only)**  
-   Allow other computers on your local network to access your web site.
-   Using the Share button you can send the Xip.io address to other users.
+    *  **via Xip.io (LAN only)**  
+       Allow other computers on your local network to access your web site.
+       Using the Share button you can send the Xip.io address to other users.
 
 <div class="alert" role="alert">
 Note: The Xip.io addresses will only work in your local network. They are temporary and may become invalid if you restart your Mac. Also make sure that your Internet router is not blocking Xip.io calls by using a DNS Rebind protection. If the router does this you can either deactivate this function, add Xip.io as an exception or not use the router as DNS server in your Macs network settings.
