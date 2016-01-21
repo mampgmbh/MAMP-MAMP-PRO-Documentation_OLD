@@ -6,12 +6,18 @@ product: MAMP PRO Mac
 language: en
 ---
 
-## Settings
+## Settings > Editor
 
-### Editor
+*  **Auto-Save:**  
+    *  **Save automatically when closing a modified document**
 
-#### Editing
+---
 
-#### Color
+*  **Editing:**  
+    *  **Show invisible characters**
+    *  **Spell check as you type**
+    *  **Show lines numbers**
 
-#### Default Apps
+---
+
+*  **Auto-Complete:**
