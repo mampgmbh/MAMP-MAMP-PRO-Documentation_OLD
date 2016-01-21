@@ -1,4 +1,12 @@
-## 10. How Tos
+---
+title: MAMP PRO (Mac) Documentation
+description: 
+layout: default-2
+product: MAMP PRO Mac
+language: en
+---
+
+## How Tos
 
 ##### 8.1 Activating Output Buffering
 
