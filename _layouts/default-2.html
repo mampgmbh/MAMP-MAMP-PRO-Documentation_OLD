@@ -1,3 +1,4 @@
+{% assign page_url = page.url | remove: 'index.html' %}
 <!DOCTYPE html>
 <html>
  	{% include head.html %}
@@ -13,8 +14,10 @@
 	<li><a href="/MAMP-MAMP-PRO-Documentation/en/MAMP-PRO-Mac/First-Steps/">First Steps</a></li>
 	<li>
 		<a href="/MAMP-MAMP-PRO-Documentation/en/MAMP-PRO-Mac/Settings/">Settings</a>
+		{% if page_url contains "/en/MAMP-PRO-Mac/Settings/" %}
 		<ul class="no-bullets" style="margin-left: 20px;">
 			<a href="/MAMP-MAMP-PRO-Documentation/en/MAMP-PRO-Mac/Settings/Hosts/">Hosts</a>
+			{% if page_url contains "/en/MAMP-PRO-Mac/Settings/Hosts/" %}
 			<ul class="no-bullets" style="margin-left: 20px;">
 				<li><a href="/MAMP-MAMP-PRO-Documentation/en/MAMP-PRO-Mac/Settings/Hosts/General/">General</a></li>
 				<li><a href="/MAMP-MAMP-PRO-Documentation/en/MAMP-PRO-Mac/Settings/Hosts/Apache/">Apache</a></li>
@@ -22,9 +25,11 @@
 				<li><a href="/MAMP-MAMP-PRO-Documentation/en/MAMP-PRO-Mac/Settings/Hosts/SSL/">SSL</a></li>
 				<li><a href="/MAMP-MAMP-PRO-Documentation/en/MAMP-PRO-Mac/Settings/Hosts/Extras/">Extras</a></li>
 			</ul>
+			{% endif %}
 			<a href="/MAMP-MAMP-PRO-Documentation/en/MAMP-PRO-Mac/Settings/Ports/">Ports</a>
 			<a href="/MAMP-MAMP-PRO-Documentation/en/MAMP-PRO-Mac/Settings/Editor/">Editor</a>
 		</ul>
+		{% endif %}
 	</li>
 	<li>
 		<a href="/MAMP-MAMP-PRO-Documentation/en/MAMP-PRO-Mac/Servers-and-Services/">Servers and Services</a>
