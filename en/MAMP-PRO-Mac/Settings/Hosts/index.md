@@ -224,34 +224,3 @@ Set the name of your database schema which will be added to your local database.
  
 
 Note: When a Content Management System is setup the host name and Apache port number is stored in its database. Going forward the Apache port in MAMP PRO cannot be changed. A change in the Apache port will result in breaking the CMS, returning only a vague error message. Content Management Systems usually provide a mechanism for changing the host and port names. If changes are made in the CMS, then they must also be made in MAMP PRO.
-
-
-### 4.2 Ports
-
-Server programs, when addressed via the network, need to be assigned to a certain network port. This way, multiple server programs may run on one server machine. Every service has a default port: The Apache web server typically uses port 80, the MySQL database server utilises port 3306.
-
-These ports are configurable. The default configuration for MAMP PRO uses ports 8888, 8889 and 8890. That way, the MAMP servers can run alongside other servers installed on your Mac. Should ports 8888, 8889 or 8890 be in use by a different application, please change the values accordingly.
-
-The button Set ports to 80, 443 & 3306 will set the ports to the value commonly used on the internet. The button Set default MAMP ports will reset the ports for Apache and MySQL to 8888, 8889 and 8890.
-
-#### Start Apache / MySQL as user
-Production servers typically use www/msql to run Apache and MySQL. These users may not have the right to access your files, therefore it’s generally a good idea to run them under your own username.
-
-Note: You should only start the servers with your own user name when the machine is adequately protected against malicious attacks from the internet. Malicious scripts on your server may enable unlimited access to your personal data.
-
-#### Start Apache and MySQL at system start
-Apache and MySQL are started during startup of the OS, this means that the services are available before a user has logged into the system.
-#### Start Apache and MySQL at startup of MAMP PRO
-The services will start automatically at startup of MAMP PRO.
-#### Stop Apache and MySQL at shutdown of MAMP PRO
-The services will be stopped automatically when MAMP PRO shuts down.
-#### Delete log files at server startup
-The log files will be emptied before startup of the services. That way only current entries will be in the log files.
-
-### 4.3 Editor
-
-#### Editing
-
-#### Color
-
-#### Default Apps
