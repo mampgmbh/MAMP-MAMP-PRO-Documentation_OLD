@@ -90,43 +90,42 @@ Note: The Xip.io addresses will only work in your local network. They are tempor
    the access rights of the document root folder but also all the rights of all the subdirectories and files inside it.
    A "-" indicates that not all objects have the same rights.
 
-*  **Owner**  
-   The user who owns the directory and all the subdirectories and files in it.
+    *  **Owner**  
+       The user who owns the directory and all the subdirectories and files in it.
 
-*  **Group**  
-   The group who has access to the directory and all the subdirectories and files in it.
+    *  **Group**  
+       The group who has access to the directory and all the subdirectories and files in it.
 
-*  **Access Rights**  
-   You can change directory and files access rights separately.
+    *  **Access Rights**  
+       You can change directory and files access rights separately.
 
 #### Apache
 
 Apache options can be set for the selected virtual host in the table. These options are security relevant!
 
-###### Options for <Directory> directive
+*  **Options for <Directory> directive**  
 
-*  **Indexes**  
-   Activates or deactivates "directory browsing". If there is no index.html, index.php, etc in the document root,
-   the content of the folder is displayed when this option is enabled. Without this option, nothing will be displayed
-   or an error message will appear.
+    *  **Indexes**  
+       Activates or deactivates "directory browsing". If there is no index.html, index.php, etc in the document root,
+       the content of the folder is displayed when this option is enabled. Without this option, nothing will be displayed
+       or an error message will appear.
 
-*  **Includes**  
-   Allows the use of Server Side Includes (SSI).
+    *  **Includes**  
+       Allows the use of Server Side Includes (SSI).
 
-*  **FollowSymLinks**  
-   Allows the use of symbolic links as reference to documents in other directories. This is an elegant feature if
-   you would like to reference to objects, that are outside of the directory tree (e.g. protocol files of the web server),
-   but know you want to avoid the hiding of objects through the URL tree.
+    *  **FollowSymLinks**  
+       Allows the use of symbolic links as reference to documents in other directories. This is an elegant feature if
+       you would like to reference to objects, that are outside of the directory tree (e.g. protocol files of the web server),
+       but know you want to avoid the hiding of objects through the URL tree.
 
-*  **SymLinksIfOwnerMatch**  
-   Restricted version of "FollowSymLinks". Allows reference to objects via symbolic links only if the owner matches.
+    *  **SymLinksIfOwnerMatch**  
+       Restricted version of "FollowSymLinks". Allows reference to objects via symbolic links only if the owner matches.
 
-*  **Exec-CGI**  
-   Permit CGI execution.
+    *  **Exec-CGI**  
+       Permit CGI execution.
 
-##### Multiviews
-
-Allows the use or disabling of dynamic documents depending on the language.
+    *  **Multiviews**  
+       Allows the use or disabling of dynamic documents depending on the language.
 
 ##### Directory Index
 
@@ -134,35 +133,34 @@ Determine which file Apache should serve if no filename is given in a address. B
 
 ##### Server admin
 
-The e-mail address Apache will send error messages to.
+The email address Apache will send error messages to.
 
-##### Additional parameters for <Directory>
+*  **Additional parameters for <Directory>** 
 
-##### Additional Parameters for <VirtualHost>
+*  **Additional Parameters for <VirtualHost>**  
+   These directives go directly to the httpd.conf file. 
 
-These directives go directly to the httpd.conf file. 
-
+<div class="alert" role="alert">
 Note: Watch out for typos, they will otherwise prevent Apache from starting up.
- 
+</div>
 
+#### Nginx
 
-#### 4.1.3 Nginx
-
-#### 4.1.4 SSL
+#### SSL
 
 To encrypt traffic from Apache to a web browser you can use SSL.
 
-Use “Create self-signed certificate” if you want to test SSL functionality.
+Use "Create self-signed certificate" if you want to test SSL functionality.
 
 If you want to secure a productive server you should get the Certificate file and the Certificate key file from a Certified Authority (CA).
 
-#### 4.1.5 Extras
+#### Extras
 
 MAMP PRO allows you to easily add popular packages to your hosts which we call Extras. Extras will always be loaded from the appsolute servers if you have an Internet connection. Over time more Extras will become available.
 
-
+<div class="alert" role="alert">
 Note: The availability of an Extra will be affected by your hosts PHP version, Internet connection, cached Extras and available disk space.To add an Extra, press the plus button on the lower left side of the ‘Extras’ panel. The plus button has a red circle around it if you have no Extras installed.
- 
+</div>
 
 ##### 4.1.5.1 Wordpress
 
