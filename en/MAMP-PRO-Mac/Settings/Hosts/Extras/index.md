@@ -14,6 +14,8 @@ MAMP PRO allows you to easily add popular packages to your hosts which we call E
 Note: The availability of an Extra will be affected by your hosts PHP version, internet connection, cached Extras and available disk space. To add an Extra, press the plus button on the lower left side of the Extras panel. The plus button has a red circle around it if you have no Extras installed.
 </div>
 
+---
+
 ### Wordpress
 
 *  **Name of the blog:**  
@@ -39,6 +41,8 @@ Note: The availability of an Extra will be affected by your hosts PHP version, i
    The WordPress admins default password.  
    *Note: You will need this password to login into your new WordPress blog, please write this down.*
 
+---
+
 ### Joomla
 
 Joomla installations can share a single MySQL database if you provide a unique table prefix during installation. To use an existing database enter the name of the database and a unique table prefix. To create a new database use a unique database name, table prefix must not be empty.
@@ -49,6 +53,8 @@ Joomla installations can share a single MySQL database if you provide a unique t
 *  **Database name:**  
    Set the name of your database schema which will be added to your local database.
    After installation you can view this database for this instance of Joomla using phpMyAdmin, Sequel Pro, or MySQLWorkbench. 
+
+---
 
 ### webEdition
 
