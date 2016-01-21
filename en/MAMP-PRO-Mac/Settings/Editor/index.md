@@ -17,6 +17,9 @@ language: en
     *  **Show invisible characters**
     *  **Spell check as you type**
     *  **Show lines numbers**
+    *  **Enable smart insert and delete**
+    *  **Show matching braces**
+    *  **Show page guide, at column
 
 ---
 
