@@ -24,36 +24,24 @@ Note: The availability of an Extra will be affected by your hosts PHP version, i
    Name your blog.
 
 *  **Email address:**  
-   Your email address.
-
-<div class="alert" role="alert">
-Note: You must enter a valid email address to setup a WordPress installation.
-</div>
+   Your email address.  
+   *Note: You must enter a valid email address to setup a WordPress installation.*
 
 *  **Directory:**  
-   The installation directory. If it is left blank the Wordpress files will be copied directly to the document root folder.
-
-<div class="alert" role="alert">
-Note: Do not install over a previous installation of Wordpress! Files will be overwritten without warning.
-</div>
+   The installation directory. If it is left blank the Wordpress files will be copied directly to the document root folder.  
+   *Note: Do not install over a previous installation of Wordpress! Files will be overwritten without warning.*  
 
 *  **Database name:**  
-   Set the name of your database schema which will be added to your local database.
+   Set the name of your database schema which will be added to your local database.  
    After installation you can view this database for this instance of WordPress using phpMyAdmin, Sequel Pro, or MySQLWorkbench. 
  
 *  **Username:**  
-   The WordPress admin.
+   The WordPress admin.  
+   *Note: You will need this username to login into your new of WordPress blog, please write this down.*  
 
-<div class="alert" role="alert">
-Note: You will need this username to login into your new of WordPress blog, please write this down.
-</div>
- 
 *  **Password:**
-   The WordPress admins default password.
-
-<div class="alert" role="alert">
-Note: You will need this password to login into your new WordPress blog, please write this down.
-</div>
+   The WordPress admins default password.  
+   *Note: You will need this password to login into your new WordPress blog, please write this down.*
 
 ##### Joomla
 
