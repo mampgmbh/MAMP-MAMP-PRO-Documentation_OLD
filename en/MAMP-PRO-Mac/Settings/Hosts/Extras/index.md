@@ -6,7 +6,7 @@ product: MAMP PRO Mac
 language: en
 ---
 
-## Settings > Hosts > Extras
+## Settings / Hosts / Extras
 
 MAMP PRO allows you to easily add popular packages to your hosts which we call Extras. Extras will always be loaded from the appsolute servers if you have an Internet connection. Over time more Extras will become available.
 
