@@ -11,3 +11,12 @@ language: en
 ### Hosts
 
 #### Nginx
+
+*  **Directory index**  
+
+*  **Access Limits**  
+
+    *  **allow**  
+    *  **deny**  
+    
+*  **Additional parameters for &lt;server&gt;**  
