@@ -6,14 +6,4 @@ product: MAMP PRO Mac
 language: en
 ---
 
-{% include_relative Installation.md %}
-{% include_relative First-Steps.md %}
-{% include_relative Settings.md %}
-{% include_relative Servers-And-Services.md %}
-{% include_relative Languages.md %}
-{% include_relative Customise.md %}
-{% include_relative Menu.md %}
-{% include_relative Editor.md %}
-{% include_relative Troubleshooting.md %}
-{% include_relative How-Tos.md %}
-{% include_relative FAQ.md %}
+
