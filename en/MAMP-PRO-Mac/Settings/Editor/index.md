@@ -19,7 +19,7 @@ language: en
     *  **Show lines numbers**
     *  **Enable smart insert and delete**
     *  **Show matching braces**
-    *  **Show page guide, at column
+    *  **Show page guide, at column**
 
 ---
 
