@@ -59,14 +59,16 @@ The document root is also known as the web root folder. MAMP PRO will automatica
 *  **Dynamic DNS**  
    Determines, if this virtual host is accessible with the Dynamic DNS service from the internet.
 
-*  **Use With**  
+*  **Use with**  
    This allows you to use these settings with Apache, Nginx, or both.
 
 *  **Name resolution**  
    This will determine how your system will map host names to ip addresses.
 
-    *  **via/etc host file (this Mac only)**  
+    *  **via /etc/host file (this Mac only)**  
        The basic mapping mechanism which uses the the file `/etc/hosts`.
+
+    *  **for "MAMP Viewer" (LAN only)**  
 
     *  **via Xip.io (LAN only)**  
        Allow other computers on your local network to access your web site.
