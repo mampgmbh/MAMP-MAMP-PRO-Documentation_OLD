@@ -1,3 +1,11 @@
+---
+title: MAMP PRO (Mac) Documentation
+description: 
+layout: default-2
+product: MAMP PRO Mac
+language: en
+---
+
 ## 5. Servers And Services
 
 ### 5.1 Apache
