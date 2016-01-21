@@ -6,7 +6,6 @@ product: MAMP PRO Mac
 language: en
 ---
 
-{% include_relative What-is-MAMP-PRO.md %}
 {% include_relative Installation.md %}
 {% include_relative First-Steps.md %}
 {% include_relative Settings.md %}
