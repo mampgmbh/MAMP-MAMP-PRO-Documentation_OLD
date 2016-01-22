@@ -6,13 +6,11 @@ product: MAMP PRO Mac
 language: en
 ---
 
-## Servers And Services
-
-### Apache
+## Servers and Services > Apache
 
 The Apache Web Server installed by MAMP PRO comes with many modules pre-installed.
 
-#### Apache Modules
+### Apache Modules
 
 The web server modules can be activated or deactivated depending on your needs. Module Description provides information pertaining to features and functions of the selected module.
 
