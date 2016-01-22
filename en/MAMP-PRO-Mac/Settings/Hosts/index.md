@@ -6,6 +6,4 @@ product: MAMP PRO Mac
 language: en
 ---
 
-## Settings
-
-### Hosts
+## Settings > Hosts
