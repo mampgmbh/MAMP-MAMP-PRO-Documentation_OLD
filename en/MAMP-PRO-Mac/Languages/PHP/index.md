@@ -59,10 +59,13 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
     *  **Warnings**  
        General errors in the PHP environment.  
 
-_Notices:_ Possible problems, that do not concern PHP, but which could be a notice of an error in a script.
+    *  **Notices**  
+       Possible problems, that do not concern PHP, but which could be a notice of an error in a script.  
 
-_Other:_ Report further error types through constants. Please turn to the PHP documentation for further information.
+    *  **Other**  
+       Report further error types through constants. Please turn to the PHP documentation for further information.
 
-#### Log Errors
+---
 
-Determine if these errors should be recorded in a log file and/or displayed in the web browser window.
+*  **Log Errors**  
+   Determine if these errors should be recorded in a log file and/or displayed in the web browser window.
