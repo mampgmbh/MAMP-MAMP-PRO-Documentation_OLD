@@ -6,12 +6,14 @@ product: MAMP PRO Mac
 language: en
 ---
 
-## Servers and Services
+## Servers and Services > Nginx
 
-### Nginx
+*  **Activate Nginx Server**  
 
-#### Activate Nginx Server
+---
 
-#### Use Nginx as a Proxy for Apache
+*  **Use Nginx as a Reverse Proxy for Apache**  
 
-#### Path To Nginx log file
+---
+
+*  **Path to Nginx log file**  
