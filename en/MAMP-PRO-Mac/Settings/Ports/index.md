@@ -6,9 +6,7 @@ product: MAMP PRO Mac
 language: en
 ---
 
-## Settings
-
-### Ports
+## Settings > Ports
 
 Server programs, when addressed via the network, need to be assigned to a certain network port. This way, multiple server programs may run on one server machine. Every service has a default port: The Apache web server typically uses port 80, the MySQL database server utilises port 3306.
 
@@ -27,7 +25,7 @@ The button `Set ports to 80, 443 & 3306` will set the ports to the value commonl
    has logged into the system.
 
 *  **Start Apache and MySQL at startup of MAMP PRO**  
-The services will start automatically at startup of MAMP PRO.
+   The services will start automatically at startup of MAMP PRO.
 
 *  **Stop Apache and MySQL at shutdown of MAMP PRO**  
    The services will be stopped automatically when MAMP PRO shuts down.
