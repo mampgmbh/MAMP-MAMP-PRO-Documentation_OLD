@@ -6,11 +6,7 @@ product: MAMP PRO Mac
 language: en
 ---
 
-## Settings
-
-### Hosts
-
-#### Apache
+## Settings > Hosts > Apache
 
 Apache options can be set for the selected virtual host in the table. These options are security relevant!
 
