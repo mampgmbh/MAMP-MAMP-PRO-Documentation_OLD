@@ -6,11 +6,7 @@ product: MAMP PRO Mac
 language: en
 ---
 
-## Settings
-
-### Hosts
-
-#### SSL
+## Settings > Hosts > SSL
 
 To encrypt traffic from Apache to a web browser you can use SSL.
 
