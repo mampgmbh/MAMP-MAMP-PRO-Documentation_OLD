@@ -25,7 +25,7 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
 
 ---
 
-*  ***Cache module to speed up PHP execution**  
+*  **Cache module to speed up PHP execution**  
    PHP has several cache extensions that can help speed up execution in certain circumstances.
    This is set to "off" by default. Enabling a cache extension does not necessarily translate to greater execution speed.  
 
