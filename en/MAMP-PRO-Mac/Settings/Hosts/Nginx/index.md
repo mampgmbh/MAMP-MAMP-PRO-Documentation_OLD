@@ -6,11 +6,7 @@ product: MAMP PRO Mac
 language: en
 ---
 
-## Settings
-
-### Hosts
-
-#### Nginx
+## Settings > Hosts > Nginx
 
 *  **Directory index**  
 
