@@ -6,11 +6,9 @@ product: MAMP PRO Mac
 language: en
 ---
 
-## Servers and Services
+## Servers and Services > Dynamic DNS
 
-### Dynamic DNS
-
-If you would like to make your hosts accessible from the internet (Don’t forget about security then!), but do not have a domain name that points to your Mac, you will need a Dynamic DNS Service. 
+If you would like to make your hosts accessible from the internet (Don't forget about security then!), but do not have a domain name that points to your Mac, you will need a Dynamic DNS Service. 
 
 If your network is connected to the internet via a router and it can handle Dynamic DNS Services, then you don’t need to configure it with MAMP PRO. 
 
@@ -18,29 +16,21 @@ Otherwise you will need to register with a Dynamic DNS Service and enter the use
 
 Note: To use the Dynamic DNS functions, you will need to register with one of the supported providers. This is independent of MAMP PRO and is not a service provided by appsolute GmbH.
 
+*  **Activate Dynamic DNS service**  
 
-#### User name
+*  **Activate Service**  
+    *  **Only while a web server is running**  
+    *  **Permanently (as a System Service)**  
 
-Enter the user name that was given to you by the provider of the Dynamic DNS Service.
+*  **Account data for service**  
 
-#### Password
+    *  **User name**  
+       Enter the user name that was given to you by the provider of the Dynamic DNS Service.  
 
-Enter the password that was given to you by the provider of the Dynamic DNS Service.
+    *  **Password**  
+       Enter the password that was given to you by the provider of the Dynamic DNS Service.  
+       
+    *  **Server**  
 
-####Activate Dynamic DNS Service 
-
-##### Never (don’t use Dynamic DNS Service)
-
-Deactivate the "Dynamic DNS" service.
-
-##### Automatically, when Apache starts and quits
-
-Starts the "Dynamic DNS" service with the start of the Apache server.
-
-##### Permanently (as a System Service running in the background)
-
-Starts the "Dynamic DNS" service with the operating system. Only use this when your servers are running 24/7.
-
-#### Path to Dynamic DNS Log file
-
-All the events of the Dynamic DNS service will be recorded in a log file.
+*  **Path to Dynamic DNS log file**  
+   All the events of the Dynamic DNS service will be recorded in a log file.
