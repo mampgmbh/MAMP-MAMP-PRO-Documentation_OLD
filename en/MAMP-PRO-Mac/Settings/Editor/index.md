@@ -23,4 +23,11 @@ language: en
 
 ---
 
-*  **Auto-Complete:**
+*  **Auto-Complete:**  
+    *  **Suggest automatically, after delay (in seconds)**  
+    *  **Include standard words**  
+    *  **Auto-insert a closing )**  
+    *  **Auto-insert a closing }**  
+
+---
+
