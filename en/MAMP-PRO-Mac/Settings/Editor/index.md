@@ -31,3 +31,12 @@ language: en
 
 ---
 
+*  **Tab Width**  
+
+*  **Indent Width** 
+*  **Indenting**  
+    *  **Indent with spaces, not tabs**  
+    *  **Tab stops**  
+    *  **Indent new lines the same as the line above**  
+    *  **Line wrap**  
+    *  **Treat { and } intelligently**  
