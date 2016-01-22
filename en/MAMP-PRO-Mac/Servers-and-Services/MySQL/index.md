@@ -35,7 +35,7 @@ The MySQL database server is a popular database used on production servers. An i
     *  **only from this Mac**  
        Only programs installed on this Mac can access MySQL via network functions.
 
-    *  **from other computers**
+    *  **from other computers**  
        MySQL will answer any network request, even from computers on the internet, depending on you network settings.
 
 ---
