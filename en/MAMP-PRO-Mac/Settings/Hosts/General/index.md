@@ -6,11 +6,7 @@ product: MAMP PRO Mac
 language: en
 ---
 
-## Settings
-
-### Hosts
-
-#### General
+## Settings > Hosts > General
 
 MAMP PRO uses virtual hosts to allow Apache to serve different websites. The virtual host `localhost` is created by default and cannot be deleted. You can add an unlimited number of hosts allowing you to create one host per project. Every host can have it's own directory to store html, php files, and images. This directory is called Document Root.
 
