@@ -18,10 +18,13 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
 ---
 
 *  **Mode**  
-   Choose whether to use identical PHP versions for all hosts (module mode) or on a host by host basis (CGI mode).
-   In CGI Mode the PHP settings will be identical for all hosts – except for the PHP version. Navigate to the Hosts
-   section to change the PHP version for each individual host. More information on how to change the PHP version for
-   an individual host is covered in the "Hosts" section.  
+   Choose whether to use identical PHP versions for all hosts (module mode) or on a host by host basis (CGI mode).  
+
+    *  **Identical PHP version for all hosts (module mode)**  
+    *  **Individual PHP version for every host (CGI mode)**  
+       In CGI Mode the PHP settings will be identical for all hosts – except for the PHP version.
+       Navigate to the Hosts section to change the PHP version for each individual host.
+       More information on how to change the PHP version for an individual host is covered in the "Hosts" section.  
 
 ---
 
