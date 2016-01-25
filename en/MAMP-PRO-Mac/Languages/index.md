@@ -7,3 +7,8 @@ language: en
 ---
 
 ## Languages
+
+- [PHP](PHP/)  
+- [Python](Python/)  
+- [Perl](Perl/)  
+- [Ruby](Ruby/)  
