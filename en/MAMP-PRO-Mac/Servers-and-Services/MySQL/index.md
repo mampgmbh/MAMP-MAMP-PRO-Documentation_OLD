@@ -12,6 +12,8 @@ The MySQL database server is a popular database used on production servers. An i
 
 *  **Activate MySQL server**  
 
+---
+
 *  **Version**  
 
 *  **Data directory**  
