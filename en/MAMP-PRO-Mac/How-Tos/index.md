@@ -84,9 +84,9 @@ Note: If you want to open the Postfix log file with a text editor, you have to m
 </div>
 
 1. Open the Terminal.app (Applications/Utilities)
-2. Enter the following and hit enter:
+2. Enter the following and hit enter:  
    `defaults write com.apple.finder AppleShowAllFiles -boolean true`
-3. Restart the Finder by enter the following and hit Enter
+3. Restart the Finder by enter the following and hit enter  
    `killall Finder`
 4. Open the file /private/var/log/mail.log with your editor.
 
