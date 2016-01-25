@@ -20,9 +20,13 @@ Note: To use the Dynamic DNS functions, you will need to register with one of th
 
 *  **Activate Dynamic DNS service**  
 
+---
+
 *  **Activate Service**  
     *  **Only while a web server is running**  
     *  **Permanently (as a System Service)**  
+
+---
 
 *  **Account data for service**  
 
@@ -33,6 +37,8 @@ Note: To use the Dynamic DNS functions, you will need to register with one of th
        Enter the password that was given to you by the provider of the Dynamic DNS Service.  
        
     *  **Server**  
+
+---
 
 *  **Path to Dynamic DNS log file**  
    All the events of the Dynamic DNS service will be recorded in a log file.
