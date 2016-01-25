@@ -32,17 +32,17 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
    PHP has several cache extensions that can help speed up execution in certain circumstances.
    This is set to "off" by default. Enabling a cache extension does not necessarily translate to greater execution speed.  
 
-   *  off
-   *  APC  
+   *  **off**  
+   *  **APC**  
       See [http://php.net/manual/de/book.apc.php](http://php.net/manual/en/book.apc.php){:target="_blank"}
       for more information.
-   *  eAccelerator
+   *  **eAccelerator**  
       See [http://eaccelerator.net](http://eaccelerator.net){:target="_blank"}
       for more information.
-   *  XCache
+   *  **XCache**  
       See [https://xcache.lighttpd.net](https://xcache.lighttpd.net){:target="_blank"}
       for more information.
-   *  OPCache
+   *  **OPCache**  
       See [http://php.net/manual/en/book.opcache.php](http://php.net/manual/en/book.opcache.php){:target="_blank"}
       for more information.
 
