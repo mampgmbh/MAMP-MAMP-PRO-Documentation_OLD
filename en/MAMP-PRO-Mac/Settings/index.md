@@ -7,3 +7,7 @@ language: en
 ---
 
 ## Settings
+
+- [Hosts](Hosts/)  
+- [Ports](Ports/)  
+- [Editor](Editor/)  
