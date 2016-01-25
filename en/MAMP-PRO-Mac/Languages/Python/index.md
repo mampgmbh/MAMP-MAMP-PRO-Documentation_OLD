@@ -6,6 +6,7 @@ product: MAMP PRO Mac
 language: en
 ---
 
-## Languages
+## Languages > Python
 
-### Python
+*  **Make Python directly available on the command line**  
+   If you check this option, you can use this version of Python on the command line by just typing `python`.
