@@ -8,9 +8,13 @@ language: en
 
 ## Servers and Services > Apache
 
-The Apache Web Server installed by MAMP PRO comes with many modules pre-installed.
+*  **Activate Apache server**  
+
+---
 
 ### Apache Modules
+
+The Apache Web Server installed by MAMP PRO comes with many modules pre-installed.
 
 The web server modules can be activated or deactivated depending on your needs. Module Description provides information pertaining to features and functions of the selected module.
 
