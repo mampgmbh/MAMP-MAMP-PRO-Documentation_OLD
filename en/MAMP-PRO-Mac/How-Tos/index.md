@@ -8,16 +8,18 @@ language: en
 
 ## How Tos
 
-##### 8.1 Activating Output Buffering
+### Activating Output Buffering
 
-Start MAMP PRO
-Select File -> Edit Template -> PHP 5.x.x php.ini / PHP 5.x.x php.ini 
-Search this line "output_buffering = Off”
-Change "Off" to "On" or to a maximum number of bytes instead (for example "4096")
-Save the file
-Start Servers
+1. Start MAMP PRO
+2. Select File -> Edit Template -> PHP 5.x.x php.ini / PHP 5.x.x php.ini 
+3. Search this line `output_buffering = Off`
+4. Change `Off` to `On` or to a maximum number of bytes instead (for example `4096`)
+5. Save the file
+6. Start servers
 
-##### 8.2 Check the Default Storage Engine of MySQL
+---
+
+### Check the Default Storage Engine of MySQL
 
 Open MAMP
 Start the servers
@@ -36,7 +38,7 @@ A table with the Storage Engines of MySQL will show up. Inside the Support colum
 Enter the following line into the MySQL prompt and hit enter:
 exit;
 
-##### 8.3 Increase the PHP memory limit
+### Increase the PHP memory limit
 
 Start MAMP PRO
 Stop the server if it's running 
@@ -52,7 +54,9 @@ Save (Command-S) your changes.
 Close (Command-W) the file.
 Start the Server.
 
-##### 8.4 Set the MySQL Default Storage Engine
+---
+
+### Set the MySQL Default Storage Engine
 
 The MySQL server of MAMP PRO uses the Default Storage Engine MyISAM. If you want to change this, you have to change the configuration file of the MySQL server. With this tutorial we want to show you how to manage this. As Default Storage Engine we are using InnoDB.
 
@@ -72,7 +76,9 @@ Save (Apple + S) all changes made on "my.cnf"
 Close the editor window (Apple + W)
 Start the MAMP PRO servers.
 
-##### 8.5 Show the Postfix log file With a text editor
+---
+
+### Show the Postfix log file With a text editor
 
 Note: If you want to open the Postfix log file with a text editor, you have to make the file visible. 
 Open the Terminal.app (Applications/Utilities)
@@ -83,8 +89,9 @@ Restart the Finder by enter the following and hit Enter
 Killall Finder
 Open the file /private/var/log/mail.log with your editor.
 
+---
 
-##### 8.6 Show the Postfix log file With Console.app (recommended)
+### Show the Postfix log file With Console.app (recommended)
 
 Open Console.app (Applications/Utilities)
 Choose View -> Show Log List
@@ -93,7 +100,9 @@ Open the folder /private/var/log
 Click the mail.log entry in the Log List
 On the right side of the window you can see the content of the Postfix log file.
 
-##### 8.7 Show Postfix Logfile Using MySQL command line
+---
+
+### Show Postfix Logfile Using MySQL command line
 
 Open the Terminal.app (Applications/Utilities)
 Enter the following prompt and hit Enter
@@ -102,7 +111,9 @@ tail -f /private/var/log/mail.log
 You can now read the Postfix log file within the Terminal. The log file keeps updating as new entries apply.
 Press "Ctrl + c" to stop the process.
 
-##### 8.8 Connect to MySQL from PHP
+---
+
+### Connect to MySQL from PHP
 
 The following example shows how to connect to a MySQL database using the mysqli() library:
 
@@ -123,7 +134,9 @@ The following example shows how to connect to a MySQL database using the mysqli(
  $mysqli->close();
 ?>
 
-##### 8.9 How do I install PEAR?
+---
+
+### How do I install PEAR?
 
 Open up a terminal and type the following (replace X.X.X with your version of PHP).
 
@@ -137,7 +150,9 @@ Type the following in the terminal window.
 
 $ pear
 
-##### 8.10 Using MySQL command line
+---
+
+### Using MySQL command line
 
 To use the MySQL command line, perform the following steps:
 
