@@ -67,9 +67,9 @@ The MySQL server of MAMP PRO uses the Default Storage Engine MyISAM. If you want
 4. An editor window appears.
 5. If a warning message appears confirm with OK.
 6. Find the section `[mysqld]`
-7. Beneath the last line of this section add this line:
+7. Beneath the last line of this section add this line:  
    `default-storage-engine = InnoDB`
-8. The section `[mysqld]` now looks like this:
+8. The section `[mysqld]` now looks like this:  
    IMAGE
 9. Save (<kbd>Apple</kbd> + <kbd>S</kbd>) all changes made on "my.cnf"
 10. Close the editor window (<kbd>Apple</kbd> + <kbd>W</kbd>)
@@ -86,7 +86,7 @@ Note: If you want to open the Postfix log file with a text editor, you have to m
 1. Open the Terminal.app (Applications/Utilities)
 2. Enter the following and hit enter:  
    `defaults write com.apple.finder AppleShowAllFiles -boolean true`
-3. Restart the Finder by enter the following and hit enter  
+3. Restart the Finder by enter the following and hit enter:  
    `killall Finder`
 4. Open the file /private/var/log/mail.log with your editor.
 
@@ -106,7 +106,7 @@ Note: If you want to open the Postfix log file with a text editor, you have to m
 ### Show Postfix log file using command line
 
 1. Open the Terminal.app (Applications/Utilities)
-2. Enter the following prompt and hit Enter
+2. Enter the following prompt and hit enter  
    `tail -f /private/var/log/mail.log`
 3. You can now read the Postfix log file within the Terminal. The log file keeps updating as new entries apply.
 4. Press <kbd>Ctrl</kbd> + <kbd>C</kbd> to stop the process.
@@ -115,24 +115,26 @@ Note: If you want to open the Postfix log file with a text editor, you have to m
 
 ### Connect to MySQL from PHP
 
-The following example shows how to connect to a MySQL database using the mysqli() library:
+The following example shows how to connect to a MySQL database using the `mysqli()` library:
 
+`
 <?php
- DEFINE('DB_USERNAME', 'root');
- DEFINE('DB_PASSWORD', 'root');
- DEFINE('DB_HOST', 'localhost');
- DEFINE('DB_DATABASE', 'performance_schema');
+  DEFINE('DB_USERNAME', 'root');
+  DEFINE('DB_PASSWORD', 'root');
+  DEFINE('DB_HOST', 'localhost');
+  DEFINE('DB_DATABASE', 'performance_schema');
 
- $mysqli = new mysqli(DB_HOST, DB_USERNAME, DB_PASSWORD, DB_DATABASE);
+  $mysqli = new mysqli(DB_HOST, DB_USERNAME, DB_PASSWORD, DB_DATABASE);
 
- if (mysqli_connect_error()) {
-  die('Connect Error ('.mysqli_connect_errno().') '.mysqli_connect_error());
- }
+  if (mysqli_connect_error()) {
+    die('Connect Error ('.mysqli_connect_errno().') '.mysqli_connect_error());
+  }
 
- echo 'Connected successfully.';
+  echo 'Connected successfully.';
 
- $mysqli->close();
+  $mysqli->close();
 ?>
+`
 
 ---
 
