@@ -79,36 +79,37 @@ The MySQL server of MAMP PRO uses the Default Storage Engine MyISAM. If you want
 
 ### Show the Postfix log file With a text editor
 
-Note: If you want to open the Postfix log file with a text editor, you have to make the file visible. 
-Open the Terminal.app (Applications/Utilities)
-Enter the following and hit Enter
-defaults write com.apple.finder AppleShowAllFiles -boolean true
-Restart the Finder by enter the following and hit Enter
+<div class="alert" role="alert">
+Note: If you want to open the Postfix log file with a text editor, you have to make the file visible.
+</div>
 
-Killall Finder
-Open the file /private/var/log/mail.log with your editor.
-
----
-
-### Show the Postfix log file With Console.app (recommended)
-
-Open Console.app (Applications/Utilities)
-Choose View -> Show Log List
-Open the folder "FILES" in the Log List
-Open the folder /private/var/log
-Click the mail.log entry in the Log List
-On the right side of the window you can see the content of the Postfix log file.
+1. Open the Terminal.app (Applications/Utilities)
+2. Enter the following and hit enter:
+   `defaults write com.apple.finder AppleShowAllFiles -boolean true`
+3. Restart the Finder by enter the following and hit Enter
+   `killall Finder`
+4. Open the file /private/var/log/mail.log with your editor.
 
 ---
 
-### Show Postfix Logfile Using MySQL command line
+### Show the Postfix log file with Console.app (recommended)
 
-Open the Terminal.app (Applications/Utilities)
-Enter the following prompt and hit Enter
+1. Open Console.app (Applications/Utilities)
+2. Choose View -> Show Log List
+3. Open the folder "FILES" in the Log List
+4. Open the folder /private/var/log
+5. Click the mail.log entry in the Log List
+6. On the right side of the window you can see the content of the Postfix log file.
 
-tail -f /private/var/log/mail.log
-You can now read the Postfix log file within the Terminal. The log file keeps updating as new entries apply.
-Press "Ctrl + c" to stop the process.
+---
+
+### Show Postfix log file using command line
+
+1. Open the Terminal.app (Applications/Utilities)
+2. Enter the following prompt and hit Enter
+   `tail -f /private/var/log/mail.log`
+3. You can now read the Postfix log file within the Terminal. The log file keeps updating as new entries apply.
+4. Press <kbd>Ctrl</kbd> + <kbd>C</kbd> to stop the process.
 
 ---
 
