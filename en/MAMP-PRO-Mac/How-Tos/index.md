@@ -12,7 +12,8 @@ language: en
 
 1. Start MAMP PRO
 2. Select File -> Edit Template -> PHP 5.x.x php.ini / PHP 5.x.x php.ini 
-3. Search this line `output_buffering = Off`
+3. Search this line  
+   `output_buffering = Off`
 4. Change `Off` to `On` or to a maximum number of bytes instead (for example `4096`)
 5. Save the file
 6. Start servers
@@ -24,17 +25,17 @@ language: en
 1. Open MAMP
 2. Start the servers
 3. Open Terminal.app (/Applications/Utilities)
-4. Enter the following line into the terminal and hit Enter:
+4. Enter the following line into the terminal and hit enter:  
    `cd /Applications/MAMP/Library/bin`
-5. Enter the following line into the terminal and hit Enter:
+5. Enter the following line into the terminal and hit enter:  
    `./mysql --host=localhost -u root -proot`
-6. Enter the following line into the MySQL prompt and hit enter:
+6. Enter the following line into the MySQL prompt and hit enter:  
   `USE information_schema;`
 7. Enter the following line into the MySQL prompt and hit enter:  
    `SELECT * FROM engines;`
 8. A table with the Storage Engines of MySQL will show up. Inside the Support column the Default Storage Engine
    has the value `DEFAULT`.
-9. Enter the following line into the MySQL prompt and hit enter:
+9. Enter the following line into the MySQL prompt and hit enter:  
    `exit;`
 
 ### Increase the PHP memory limit
