@@ -6,8 +6,7 @@ product: MAMP PRO Mac
 language: en
 ---
 
-## Languages
+## Languages > Perl
 
-### Perl
-
-
+*  **Make Perl directly available on the command line**  
+   If you check this option, you can use this version of Perl on the command line by just typing `perl`.
