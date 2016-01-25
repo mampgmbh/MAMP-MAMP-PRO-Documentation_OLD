@@ -117,7 +117,7 @@ Note: If you want to open the Postfix log file with a text editor, you have to m
 
 The following example shows how to connect to a MySQL database using the `mysqli()` library:
 
-`
+{% highlight php %}
 <?php
   DEFINE('DB_USERNAME', 'root');
   DEFINE('DB_PASSWORD', 'root');
@@ -134,7 +134,7 @@ The following example shows how to connect to a MySQL database using the `mysqli
 
   $mysqli->close();
 ?>
-`
+{% endhighlight %}
 
 ---
 
