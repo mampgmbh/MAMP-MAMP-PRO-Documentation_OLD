@@ -12,17 +12,25 @@ language: en
 
 MAMP PRO is the commercial, professional grade version of the classic local server environment for Mac OS X: MAMP. Designed for professional web developers and programmers, MAMP PRO allows easy installation and administration of their development environment under Mac OS X.
 
+---
+
 ### Are updates free of charge?
 
 Yes, all updates in the current major version (3.x) are free of charge. To update MAMP PRO from e.g. 3.1.2 to 3.9 just use the serial number you already have. Licenses are good forever, they are not on a subscription basis.
+
+---
 
 ### Is MAMP PRO compatible with Mac OS X 10.11 (El Capitan)?
 
 Yes, MAMP PRO is indeed compatible with Mac OS X 10.11 (El Capitan).
 
+---
+
 ### Can I use MAMP at the same time as MAMP PRO?
 
 Both applications, MAMP as well as MAMP PRO, are configuration tools for the tools inside the folder MAMP. Though you could run them simultaneously you should not do it. You would run into sporadic problems, even data loss may occur.
+
+---
 
 ### Which PHP modules are included?
 
