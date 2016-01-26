@@ -96,18 +96,15 @@ The document root is also known as the web root folder. MAMP PRO will automatica
     *  **Owner**  
        The user who owns the directory and all the subdirectories and files in it.
        *  **change to**  
-         
 
     *  **Group**  
        The group who has access to the directory and all the subdirectories and files in it.
        *  **change to**  
-          
 
     *  **Access Rights**  
        You can change directory and files access rights separately.
        *  **Change directory right**
        *  **Change file right**  
-         
 
 *  **Alias Name**  
    Aliases are additional names for your virtual host. The same constraints apply to these additional names as to the host itself.
