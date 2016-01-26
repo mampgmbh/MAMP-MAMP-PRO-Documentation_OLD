@@ -142,7 +142,8 @@ The following example shows how to connect to a MySQL database using the `mysqli
 
 1. Open up a terminal and type the following (replace X.X.X with your version of PHP).  
    `$ echo "export PATH=/Applications/MAMP/bin/php/phpX.X.X/bin:$PATH" >> ~/.profile`
-2. Close your terminal session and open up another one. Type the following in the terminal window.  
+2. Close your terminal session and open up another one.
+3. Type the following in the terminal window.  
    `$ which PHP`
 3. You should see a path to one of your PHP installations.  
 4. Type the following in the terminal window.  
@@ -154,13 +155,12 @@ The following example shows how to connect to a MySQL database using the `mysqli
 
 To use the MySQL command line, perform the following steps:
 
-Start MAMP PRO
-Start the servers
-Open Terminal.app (Applications -> Utilities)
-Type in an hit enter.
-cd /Applications/MAMP/Library/bin
-Type in and hit enter.
-./mysql --host=localhost -u root -proot
-Now you can use the MySQL command line. For example to show all your databases with
-
-show databases;.
+1. Start MAMP PRO
+2. Start the servers
+3. Open Terminal.app (Applications -> Utilities)
+4. Type in an hit enter:
+   `cd /Applications/MAMP/Library/bin`
+5. Type in and hit enter:
+   `./mysql --host=localhost -u root -proot`
+6. Now you can use the MySQL command line. For example to show all your databases with:
+   `show databases;`
