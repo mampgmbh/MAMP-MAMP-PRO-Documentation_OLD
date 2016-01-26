@@ -158,9 +158,9 @@ To use the MySQL command line, perform the following steps:
 1. Start MAMP PRO
 2. Start the servers
 3. Open Terminal.app (Applications -> Utilities)
-4. Type in an hit enter:
+4. Type in an hit enter:  
    `cd /Applications/MAMP/Library/bin`
-5. Type in and hit enter:
+5. Type in and hit enter:  
    `./mysql --host=localhost -u root -proot`
-6. Now you can use the MySQL command line. For example to show all your databases with:
+6. Now you can use the MySQL command line. For example to show all your databases with:  
    `show databases;`
