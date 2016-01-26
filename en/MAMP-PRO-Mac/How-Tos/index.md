@@ -140,17 +140,13 @@ The following example shows how to connect to a MySQL database using the `mysqli
 
 ### How do I install PEAR?
 
-Open up a terminal and type the following (replace X.X.X with your version of PHP).
-
-$ echo "export PATH=/Applications/MAMP/bin/php/phpX.X.X/bin:$PATH" >> ~/.profile
-Close your terminal session and open up another one. Type the following in the terminal window.
-
-$ which PHP
-You should see a path to one of your PHP installations.
-
-Type the following in the terminal window.
-
-$ pear
+1. Open up a terminal and type the following (replace X.X.X with your version of PHP).  
+   `$ echo "export PATH=/Applications/MAMP/bin/php/phpX.X.X/bin:$PATH" >> ~/.profile`
+2. Close your terminal session and open up another one. Type the following in the terminal window.  
+   `$ which PHP`
+3. You should see a path to one of your PHP installations.  
+4. Type the following in the terminal window.  
+   `$ pear`
 
 ---
 
