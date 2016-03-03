@@ -1,0 +1,12 @@
+---
+title: MAMP PRO (Mac) Documentation
+description: 
+layout: default-2
+product: MAMP PRO Mac
+language: en
+---
+
+## Languages > Ruby
+
+*  **Make Ruby directly available on the command line**  
+   If you check this option, you can use this version of Ruby on the command line by just typing `ruby`.

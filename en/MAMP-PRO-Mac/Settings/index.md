@@ -1,0 +1,13 @@
+---
+title: MAMP PRO (Mac) Documentation
+description: 
+layout: default-2
+product: MAMP PRO Mac
+language: en
+---
+
+## Settings
+
+- [Hosts](Hosts/)  
+- [Ports](Ports/)  
+- [Editor](Editor/)  
