@@ -7,3 +7,7 @@ language: en
 ---
 
 ## Editor
+
+![MAMP](Editor.png)
+
+This is your editor.
