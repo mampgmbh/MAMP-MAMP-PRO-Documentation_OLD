@@ -10,6 +10,9 @@ language: en
 
 The MySQL database server is a popular database used on production servers. An installation of MySQL is installed on your computer by MAMP PRO.
 
+![MAMP](MySQL.png)
+
+
 *  **Activate MySQL server**  
 
 ---
