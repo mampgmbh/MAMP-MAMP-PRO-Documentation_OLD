@@ -10,7 +10,7 @@ language: en
 
 Add your favorite short cuts the tool bar with the customize menu.
 
-[pic 7_Customise.png]
+![MAMP](Customise.png)
 
 ##### Space
 
