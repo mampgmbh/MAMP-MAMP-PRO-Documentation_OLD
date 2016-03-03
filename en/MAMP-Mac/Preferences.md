@@ -6,17 +6,14 @@
 
 *   **Start Servers**  
    The Apache and MySQL services will start automatically when you launch MAMP.
-*   **Start Servers**  
+*   **Check for MAMP PRO**  
    The Apache and MySQL services will start automatically when you launch MAMP.
-*   **Start Servers**  
+*   **Open Webstart Page**  
    The Apache and MySQL services will start automatically when you launch MAMP.
-*   **Start Servers**  
+*   **Stop Servers**  
    The Apache and MySQL services will start automatically when you launch MAMP.
-*   **Start Servers**  
+*   **My Favorite Link**  
    The Apache and MySQL services will start automatically when you launch MAMP.
-*   **Start Servers**  
-   The Apache and MySQL services will start automatically when you launch MAMP.
-
 
 #### Ports
 
