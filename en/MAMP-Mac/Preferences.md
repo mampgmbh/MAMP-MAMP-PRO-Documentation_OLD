@@ -4,6 +4,9 @@
 
 ![MAMP](StartStop.png)
 
+*   **Start Servers**  
+    Set your preferences for MAMP. See the Preferences section for more details.
+
 #### Ports
 
 ![MAMP](Ports.png)
