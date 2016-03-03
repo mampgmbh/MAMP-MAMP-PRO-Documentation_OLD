@@ -18,7 +18,6 @@ Your default host for MAMP PRO is `localhost`. The files for localhost are initi
 
 ### Main GUI Elements
 
-[Pic 3_1_MainGUI_Elements.png]
 
 *  **MAMP PRO**  
    Open the http://mamp.info web page.
