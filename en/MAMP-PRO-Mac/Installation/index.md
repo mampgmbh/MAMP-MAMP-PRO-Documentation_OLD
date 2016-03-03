@@ -35,8 +35,6 @@ Note: You need administrator permissions to install MAMP PRO!
 
 Use the MAMP PRO Uninstaller located in `/Applications/MAMP PRO` to remove MAMP PRO.
 
-[pic 2_3_Uninstaller.png]
-
 Drag the `/Applications/MAMP` folder to the `Trash` to complete uninstallation.
 
 ![MAMP](Uninstaller.png)
