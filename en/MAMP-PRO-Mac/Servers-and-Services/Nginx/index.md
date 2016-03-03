@@ -8,6 +8,9 @@ language: en
 
 ## Servers and Services > Nginx
 
+![MAMP](nginX.png)
+
+
 *  **Activate Nginx Server**  
 
 ---
