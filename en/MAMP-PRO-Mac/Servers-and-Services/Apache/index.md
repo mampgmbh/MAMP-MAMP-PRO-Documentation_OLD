@@ -21,3 +21,5 @@ The web server modules can be activated or deactivated depending on your needs. 
 If you want to use the PHP scripting language you must activate the php_module, if you want to use Python you need mod_wsgi module, Perl needs perl_module.
 
 If you want to be able to switch to CGI mode and use multiple PHP versions you must activate cgi_module.
+
+![MAMP](Apache.png)
