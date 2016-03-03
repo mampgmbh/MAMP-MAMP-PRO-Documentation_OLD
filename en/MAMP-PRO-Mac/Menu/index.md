@@ -7,3 +7,5 @@ language: en
 ---
 
 ## Menu
+
+![MAMP](Menu.png)
