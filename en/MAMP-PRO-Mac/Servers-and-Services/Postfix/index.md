@@ -10,6 +10,8 @@ language: en
 
 Sometimes you may need to send an email with PHP. To do so you have to configure and start Postfix. An easy way getting Postfix to run is using the configuration tool built into MAMP PRO.
 
+![MAMP](Postfix.png)
+
 *  **Activate Postfix service**  
 
 ---
