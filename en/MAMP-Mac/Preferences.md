@@ -1,11 +1,11 @@
-## 3 Preferences
+## Preferences
 
-#### 3.1 Start/Stop
+#### Start/Stop
 
-#### 3.2 Ports
+#### Ports
 
-#### 3.3 PHP
+#### PHP
 
-#### 3.4 Web Server
+#### Web Server
 
-#### 3.5 Open WebStart Page
+#### Open WebStart Page
