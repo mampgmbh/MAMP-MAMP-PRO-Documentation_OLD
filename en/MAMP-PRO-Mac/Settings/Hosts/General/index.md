@@ -16,7 +16,7 @@ To create a new host press the `Plus` button at the bottom left of the screen. R
 
 Click on the folder icon to choose a document root. Use the right arrow button to open the folder in the Finder.
 
-[pic]
+![MAMP](HostsGeneral.png)
 
 The document root is also known as the web root folder. MAMP PRO will automatically add an `index.php` file and a MAMP image to this location when Apache is restarted and the folder is empty.
 
