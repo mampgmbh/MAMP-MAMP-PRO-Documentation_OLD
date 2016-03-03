@@ -8,4 +8,4 @@ language: en
 
 ## Menu
 
-![MAMP](Menu.png)
+![MAMP](Preferences.png)
