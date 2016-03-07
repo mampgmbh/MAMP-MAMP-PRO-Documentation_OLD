@@ -8,6 +8,8 @@ language: de
 
 ## Erste Schritte
 
+![MAMP](ErsteSchritte.png)
+
 Beim ersten Start von MAMP PRO werden einige Helfer-Tools installiert. Sie werden aufgefordert Ihr Kennwort einzugeben.
 
 Klicken Sie auf die Schaltfläche Start in der Titelleiste von MAMP PRO. In der Statusanzeige oben rechts wird der Status der Server angezeigt.
