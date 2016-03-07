@@ -6,4 +6,9 @@ product: MAMP PRO Mac
 language: de
 ---
 
+## Sprachen
 
+- [PHP](PHP/)  
+- [Python](Python/)  
+- [Perl](Perl/)  
+- [Ruby](Ruby/)  
