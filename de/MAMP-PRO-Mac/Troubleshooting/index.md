@@ -1,3 +1,11 @@
+---
+title: MAMP PRO (Mac) Dokumentation
+description: 
+layout: default-2
+product: MAMP PRO Mac
+language: de
+---
+
 ## Troubleshooting
 
 #### 7.1 Beim letzten Öffnen der Extras gab es ein Content Management System welches jetzt nicht mehr verfügbar ist?
