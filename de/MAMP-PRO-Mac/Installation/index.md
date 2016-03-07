@@ -36,3 +36,4 @@ Um MAMP PRO einschließlich aller Konfigurationsdateien von Ihrem System zu entf
 
 Löschen Sie den Ordner `/Programme/MAMP`, um den Vorgang abzuschliessen.
 
+![MAMP](Uninstaller.png)
