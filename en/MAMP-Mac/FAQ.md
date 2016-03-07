@@ -43,3 +43,4 @@ To find out which PHP modules are included, use the following procedure:
 Start the servers and direct your web browser to http://localhost:8888/MAMP/.
 Click on the phpInfo tab at the top of page.
 
+---
