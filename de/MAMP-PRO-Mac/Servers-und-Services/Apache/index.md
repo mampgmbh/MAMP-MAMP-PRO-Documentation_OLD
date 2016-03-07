@@ -7,3 +7,7 @@ language: de
 ---
 
 ## Servers und Services > Apache
+
+Der Apache-Web-Server von MAMP PRO wird mit zahlreichen Modulen ausgeliefert. Sie können nach Bedarf aktiviert oder deaktiviert werden. In der Spalte Kurzbeschreibung finden Sie Informationen zur Funktion des jeweiligen Moduls.
+
+
