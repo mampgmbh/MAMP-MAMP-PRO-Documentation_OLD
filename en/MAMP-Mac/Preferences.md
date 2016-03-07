@@ -41,4 +41,9 @@ If you want MAMP to be available via the Internet please make sure that the conf
 
 ![MAMP](WebServer.png)
 
+*   **Web Server**
+   Choose either the Apache or Nginx web server.
+*   **Document Root** 
+   Click on  to select where your html/PHP files and images are stored. This directory is called Document Root. The default     Document Root in MAMP is: /Applications/MAMP/htdocs.
+
 ### Open WebStart Page
