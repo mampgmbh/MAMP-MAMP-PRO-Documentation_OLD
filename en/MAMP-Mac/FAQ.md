@@ -18,11 +18,11 @@ Get the latest version of MAMP from our website https://www.mamp.info/en/downloa
 
 #### Where can I find the log files?
 
-All log files are stored in: /Applications/MAMP/logs/.
+All log files are stored in: `/Applications/MAMP/logs/`.
 
 #### Which Apache modules are included?
 
-Apache modules are located in the /Applications/MAMP/Library/modules folder.
+Apache modules are located in the `/Applications/MAMP/Library/modules` folder.
 
 #### Which PHP modules are included?
 
