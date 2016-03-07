@@ -7,3 +7,16 @@ language: de
 ---
 
 ## Servers und Services > Nginx
+
+![MAMP](nginX.png)
+
+
+*  **Nginx Server Aktivieren**  
+
+---
+
+*  **Nginx als Reverse Proxy fur Apache Verwenden**  
+
+---
+
+*  **Nginx log Datei Pfad**  
