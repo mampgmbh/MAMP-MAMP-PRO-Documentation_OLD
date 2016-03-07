@@ -1,3 +1,11 @@
+---
+title: MAMP PRO (Mac) Dokumentation
+description: 
+layout: default-2
+product: MAMP PRO Mac
+language: de
+---
+
 3. Erste Schritte
 
 Beim ersten Start von MAMP PRO werden einige Helfer-Tools installiert. Sie werden aufgefordert Ihr Kennwort einzugeben.
