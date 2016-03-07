@@ -4,14 +4,14 @@
 
 To use the MAMP, your system must meet the following requirements:
 
-- Operating system: Apple OS X 10.6.6 or later
+- Operating system: Apple OS X 10.8.0 or later
 - Mac with 64-Bit CPU from Intel (x84)
 - User account that allows to administer the computer (Administrator)
 
 ### Installing and upgrading
 
 1. Download MAMP from https://www.mamp.info.
-2. Double click on the file `MAMP_MAMP_PRO_3.0.pkg` in your Downloads folder.
+2. Double click on the file `MAMP_MAMP_PRO_4.0.pkg` in your Downloads folder.
 3. The System Installer will guide you through the installation process.
 4. If the installer detects a previous MAMP installation it will rename its `MAMP` folder to `MAMP_current_date`.
 5. Your existing "htdocs" folder will be moved to your new `/Applications/MAMP` folder.
