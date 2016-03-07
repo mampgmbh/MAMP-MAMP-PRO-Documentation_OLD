@@ -10,5 +10,6 @@ language: de
 
 Add your favorite short cuts the tool bar with the customize menu.
 
+
 ![MAMP](Anpassen.png)
 
