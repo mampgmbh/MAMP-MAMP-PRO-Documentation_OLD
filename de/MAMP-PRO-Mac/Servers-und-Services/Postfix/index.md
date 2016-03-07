@@ -10,6 +10,8 @@ language: de
 
 Manchmal möchten Sie eine E-Mail per PHP senden, z. B. wenn Sie ein Kontaktformular auf Ihrer Webseite einbinden möchten. Um dies mit Hilfe von MAMP PRO abbilden und testen zu können, müssen Sie Postfix konfigurieren.
 
+![MAMP](Postfix.png)
+
 Domain-Name für ausgehende Nachrichten
 Wenn Sie die PHP-Funktion mail () zum Senden von E-Mails an Ihre eigene E-Mail-Adresse (wie z. B. mail@meinedomain.com) verwenden möchten, gehen Sie in MAMP PRO zu Server -> Postfix und fügen Sie den Wert meinedomain.comin das Feld Domain der ausgehenden Post ein.
 
