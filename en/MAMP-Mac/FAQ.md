@@ -1,6 +1,7 @@
 ## FAQ
 
 ### Is it possible to install MAMP on an external drive?
+
 No, MAMP has to be installed on the system drive.
 ---
 
