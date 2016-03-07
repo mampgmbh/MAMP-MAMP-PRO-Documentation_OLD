@@ -95,4 +95,5 @@ Beim Start von MAMP PRO auf Updates überprüfen
 
 Ist diese Einstellung aktiviert, überprüft MAMP PRO bei jedem Start, ob ein Update für MAMP PRO vorliegt.
 
-![Einstellungen.png)
+![MAMP](Einstellungen.png)
+
