@@ -3,6 +3,7 @@
 ### Is it possible to install MAMP on an external drive?
 
 No, MAMP has to be installed on the system drive.
+
 ---
 
 #### Is MAMP compatible with Mac OS X 10.9 (Mavericks)?
