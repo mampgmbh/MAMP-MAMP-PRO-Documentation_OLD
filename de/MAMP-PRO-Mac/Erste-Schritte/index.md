@@ -41,3 +41,6 @@ Der Standard-Host für MAMP PRO lautet localhost. Die Dateien für localhost wer
   Die Statusanzeige rechts oben zeigt an, welche Dienste derzeit gestartet sind (Apache, MySQL, Dynamic DNS).
 
 
+### Icons
+
+Icon Information hier ...
