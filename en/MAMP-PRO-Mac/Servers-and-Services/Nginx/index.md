@@ -8,7 +8,7 @@ language: en
 
 ## Servers and Services > Nginx
 
-Nginx ist ein Server ....
+Nginx is a Server ....
 
 ![MAMP](nginX.png)
 
