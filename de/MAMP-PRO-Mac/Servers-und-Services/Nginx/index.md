@@ -8,7 +8,7 @@ language: de
 
 ## Servers und Services > Nginx
 
-![MAMP](nginX.png)
+![MAMP](Nginx.png)
 
 
 *  **Nginx Server Aktivieren**  
