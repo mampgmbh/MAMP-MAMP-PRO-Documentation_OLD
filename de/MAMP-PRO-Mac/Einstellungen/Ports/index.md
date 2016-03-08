@@ -13,6 +13,8 @@ Serverdienste die über das Netzwerk angesprochen werden, müssen einem bestimmt
 Diese Ports sind konfigurierbar. Die Standardkonfiguration von MAMP PRO verwendet die Ports 8888, 8890 (Apache) und 8889 (MySQL). Diese Ports werden anderweitig selten verwendet. Auf diese Weise können die MAMP-Server parallel zu anderen Servern auf Ihrem Mac betrieben werden, da keine Port-Konflikte zu erwarten sind. Sollten die Ports dennoch bereits in Verwendung einer andere Anwendung sein, ändern Sie bitte die Werte entsprechend.
 Die Schaltfläche Ports auf 80, 443 & 3306 setzen stellt die Portnummern auf die allgemein im Internet verwendeten Werte ein. Die Schaltfläche MAMP-Ports setzen stellt die Ports von Apache und MySQL wieder auf die Standardwerte zurück.
 
+![MAMP](Ports.png)
+
 
 ### Apache und MySQL als Benutzer starten
 Jedes Programm wird unter einem bestimmten Benutzer des Betriebssystems ausgeführt. Üblich ist der Benutzer www für den Webserver und der Benutzer mysql für den MySQL-Datenbankserver. Werden Dateien häufig mit externen Editoren bearbeitet, vermeidet man Schwierigkeiten mit den Zugriffsrechten, wenn die Server unter dem eigenen Benutzernamen laufen. Wählen sie in der Auswahlbox unter welchem Benutzer die Server gestartet werden sollen.
