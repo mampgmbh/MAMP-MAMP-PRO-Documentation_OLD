@@ -22,6 +22,7 @@ Ihrem verfügbaren Festplattenplatz
 </div>
 
 ---
+
 ![MAMP](WordPress.png)
 
 ### WordPress
@@ -54,6 +55,7 @@ Ihrem verfügbaren Festplattenplatz
      *Hinweis: Nutzen Sie dieses Passwort, um sich später auf Ihr Wordpress-Blog einzuloggen. Sie können es im Admin-Bereich      von Wordpress ändern.*
 
 ---
+
 ![MAMP](Joomla.png)
 
 ### Joomla
@@ -66,8 +68,10 @@ Installationen von Joomla können sich eine einzige MySQL-Datenbanken teilen, so
      Auf dem MySQL-Server darf noch keine Datenbank mit dem selben Datenbanknamen vorhanden sein. Die Datenbank wird      automatisch erzeugt.
 
 ---
+
 ![MAMP](webEdition.png)
-## webEdition
+
+### webEdition
 Das CMS webEdition wird immer im Ordner /webEdition innerhalb des Stammverzeichnisses installiert.
 
   *  **Tabellen-Präfix:** 
