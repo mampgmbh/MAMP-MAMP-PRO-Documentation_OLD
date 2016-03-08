@@ -18,6 +18,8 @@ Der Apache-Server wird standardmäßig auf Port 8888 betrieben. Dieser Port muss
 
 Der Standard-Host für MAMP PRO lautet localhost. Die Dateien für localhost werden nach der Installation im Ordner Programme/MAMP/htdocs abgelegt. Mehr Informationen zu Hosts finden Sie im Abschnitt 2. Hosts.
 
+---
+
 ### Das Hauptfenster
 
 *  **MAMP PRO** 
@@ -35,6 +37,7 @@ Der Standard-Host für MAMP PRO lautet localhost. Die Dateien für localhost wer
 *  **Servers**
    Die Statusanzeige rechts oben zeigt an, welche Dienste derzeit gestartet sind (Apache, MySQL, Dynamic DNS).
 
+---
 
 ### Icons
 
