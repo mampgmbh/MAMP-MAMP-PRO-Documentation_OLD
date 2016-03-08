@@ -34,7 +34,7 @@ Check your version number and MAMP PRO key.
 
 ---
 
-     When left using the default setting (`/MAMP/`), you will be directed to the MAMP PRO utilities start page using the Alias definition `/MAMP/`. If this field is left blank, you will be taken to your default document root (http://localhost:8888 in the `/Applications/MAMP/htdocs`). If you enter /subDirectory in this field, you will be taken to the `/Applications/MAMP/htdocs/subDirectory` folder via your default web browser (http://localhost:8888/subDirectory).
+When left using the default setting (`/MAMP/`), you will be directed to the MAMP PRO utilities start page using the Alias definition `/MAMP/`. If this field is left blank, you will be taken to your default document root (http://localhost:8888 in the `/Applications/MAMP/htdocs`). If you enter /subDirectory in this field, you will be taken to the `/Applications/MAMP/htdocs/subDirectory` folder via your default web browser (http://localhost:8888/subDirectory).
 
  
 
