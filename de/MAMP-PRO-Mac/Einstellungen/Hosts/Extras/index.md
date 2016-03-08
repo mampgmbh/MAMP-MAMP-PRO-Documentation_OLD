@@ -76,7 +76,8 @@ Das CMS webEdition wird immer im Ordner /webEdition innerhalb des Stammverzeichn
 
 ![MAMP](webEdition.png)
 
-### Tabellen-Präfix 
+
+### Tabellen-Präfix
 Durch Verwendung unterschiedlicher Tabellen-Präfixe kann webEdition Daten für mehrere Websites in einer einzigen Datenbank verwalten.
 
 ### Databank-Name
