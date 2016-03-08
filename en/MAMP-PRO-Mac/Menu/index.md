@@ -75,3 +75,69 @@ Only M cannot be used as a shortcut key. The ^ key stands for the ctrl key.
 
 *  **Automatically Check For Updates:**
      You will be notified when a new MAMP PRO update is available. 
+
+---
+
+### File
+
+*  **Edit Template:**
+     MAMP PRO uses templates to create the necessary server config files. You can edit these templates from the menu item        File > Edit template. Here, you have access to options which are not accessible from the MAMP PRO user interface.
+
+     <div class="alert" role="alert">
+     Note: Edition errors in the templates of the configuration files can cause the servers not to start. This could mean        that you will have to reset the settings for MAMP PRO, and you may lose all your other custom settings. You should edit      these templates only if you are familiar with the exact syntax and meaning of the options.
+     </div>
+
+*  **Factory Settings:**
+     Development
+
+     Development will reset all your host and server settings back to default, including setting your Apache ports back to       8888, 8890, 8889, and your Apache User/MySQL User to username/username.
+
+*  **Live:**
+     Live will reset all your host and server settings back to default, including setting your ports back to 80, 440, 3306,      and your Apache User/MySQL User to www/mysql.
+
+*  **Backup…:**
+     Make a backup of all your host settings and database files.
+     
+     <div class="alert" role="alert">
+     Note: The backup feature makes a backup of your current host settings. It will not back up the files(.php, .html, .js       etc…) in a hosts document root! 
+     Restore From Backup
+     </div>
+     
+*  **Restore your host settings and MySQL database files.:**
+
+---
+
+### Log
+
+The MAMP server record events like errors in so-called log files. Use the MAMP PRO menu to display the content of these files.
+
+---
+
+### Tools
+
+*  **Extras:**
+     Go directly to the Extras pane of the last selected host.
+
+---
+
+*  **Verify MySQL Databases:**
+     Get a complete list of schemas and tables inside of your MySQL Database. The database must be running in order for this      function to work.
+
+*  **Repair MySQL Databases:**
+      Runs mysqlcheck which performs table maintenance.
+
+ 
+*  **Update MySQL Databases:**
+     Update your databases. The server must be shutdown to use this function.
+
+ 
+*  **Save MySQL Databases:**
+     Make a backup of your databases. The server must be shutdown to use this function.
+
+ 
+*  **Show Hosts File:**
+     The hosts file is located in the /etc directory, it maps host names to the IP address of your Mac. The host file            contains the host names. Host entries created by MAMP PRO are marked by “# MAMP PRO - Do NOT remove this entry!”. These      will disappear when Apache is shut down.
+
+
+*  **Start System Apache / Web Sharing:**
+     Enable the Apache server that is included with Mac OS X.
