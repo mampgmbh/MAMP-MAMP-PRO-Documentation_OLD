@@ -37,9 +37,9 @@ Your default host for MAMP PRO is `localhost`. The files for localhost are initi
 
 ### Meaning of Icons
 
-Change a file location, including the location of the document root, or a log file. 
+![MAMP](Docs.png) Change a file location, including the location of the document root, or a log file. 
 
-Prepare an e-mail with the Xip.io URL of a host.
+![MAMP](Mail.png) Prepare an e-mail with the Xip.io URL of a host.
 
 ![MAMP](Rights.png) Modify the access rights of a document root folder.
 
