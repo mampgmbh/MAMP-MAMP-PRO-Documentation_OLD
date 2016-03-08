@@ -14,11 +14,13 @@ Um ein Extra zu installieren, wählen Sie zunächst den virtuellen Host aus auf 
 
 ![MAMP](Extras.png)
 
+<div class="alert" role="alert">
 Hinweis: Die Verfügbarkeit eines Extras kann abhängig sein von:
 der PHP-Version des Host
 dem Vorhandensein einer Internetverbindung
 den bereits zwischengespeicherten Extras
 Ihrem verfügbaren Festplattenplatz
+</div>
 
 ### WordPress
 
