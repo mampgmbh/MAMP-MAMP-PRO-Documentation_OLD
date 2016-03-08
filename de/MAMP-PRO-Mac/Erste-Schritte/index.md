@@ -39,14 +39,14 @@ Der Standard-Host für MAMP PRO lautet localhost. Die Dateien für localhost wer
 ### Icons
 
 
-![MAMP](Docs.png) Change a file location, including the location of the document root, or a log file. 
+![MAMP](Docs.png) Wählt ein Verzeichnis aus oder bestimmt einen Speicherort.
 
-![MAMP](Mail.png) Prepare an e-mail with the Xip.io URL of a host.
+![MAMP](Mail.png) Bereitet eine neue E-Mail mit Xip.io-Informationen zum Versand vor.
 
-![MAMP](Rights.png) Modify the access rights of a document root folder.
+![MAMP](Rights.png) Ändert die Zugriffsrechte des Document-Root-Verzeichnisses.
 
-![MAMP](BlackArrow.png) Open a disk location in the Finder, or a host in the web browser.
+![MAMP](BlackArrow.png) Zeigt ein Verzeichnis im Finder an oder verbindet mit dem Webbrowser zu einem Host.
 
-![MAMP](info.png) Provide more information, including phpInfo().
+![MAMP](info.png) Zeigt weitere Informationen, etwa die Ausgabe von phpInfo().
 
-![MAMP](RedArrow.png) Indicates that information is missing.
+![MAMP](RedArrow.png) Weist auf eine fehlende Information hin.
