@@ -10,6 +10,8 @@ language: en
 
 Apache options can be set for the selected virtual host in the table. These options are security relevant!
 
+![MAMP](Apache.png)
+
 *  **Options for &lt;Directory&gt; directive**  
 
     *  **Indexes**  
