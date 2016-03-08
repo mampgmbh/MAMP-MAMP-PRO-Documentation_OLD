@@ -39,8 +39,9 @@ Wenn Sie Wordpress direkt im Stammverzeichnis des Hosts installieren möchten, d
 
 Möchten Sie Wordpress lieber in einen eigenen Ordner installieren, dann geben Sie diesen Ordnernamen an. Dieser Ordner darf noch nicht im Stammverzeichnis des Hosts existieren, denn er wird automatisch angelegt.
 
+<div class="alert" role="alert">
 Hinweis: Installieren Sie Wordpress nicht über eine bereits vorhandene Installation. Diese wird ansonsten überschrieben!
-
+</div>
 
 #### Datenbank-Name
 Eine Datenbank mit diesem Name darf auf dem MySQL-Server noch nicht existieren. Sie wird automatisch angelegt.
@@ -48,9 +49,17 @@ Eine Datenbank mit diesem Name darf auf dem MySQL-Server noch nicht existieren. 
 #### Benutzername
 Es wird automatisch der Benutzername admin verwendet.
 
+<div class="alert" role="alert">
 Hinweis: Nutzen Sie diesen Nutzernamen, um sich später auf Ihrem Wordpress-Blog einzuloggen.
+</div>
 
 #### Passwort
 Es wird automatisch das Passwort admin verwendet.
 
 Hinweis: Nutzen Sie dieses Passwort, um sich später auf Ihr Wordpress-Blog einzuloggen. Sie können es im Admin-Bereich von Wordpress ändern.
+
+### Joomla
+
+Installationen von Joomla können sich eine einzige MySQL-Datenbanken teilen, sofern Sie jede Joomla-Installation einen anderen Tabellen-Präfix benutzet. Um eine bereits vorhandene Datenbank zu verwenden, geben Sie den Namen der Datenbank an und wählen Sie einen neuen Tabellen-Präfix. Um eine neue Datenbank zu nutzen, wählen einen individuellen Datenbanknamen. Ein Tabellen-Präfix muss gewählt werden, das Eingabefeld darf nicht leer bleiben.
+
+![MAMP](Joomla.png)
