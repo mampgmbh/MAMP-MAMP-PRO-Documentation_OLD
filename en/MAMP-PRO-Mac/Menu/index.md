@@ -86,6 +86,16 @@ Only M cannot be used as a shortcut key. The ^ key stands for the ctrl key.
      <div class="alert" role="alert">
      Note: Edition errors in the templates of the configuration files can cause the servers not to start. This could mean        that you will have to reset the settings for MAMP PRO, and you may lose all your other custom settings. You should edit      these templates only if you are familiar with the exact syntax and meaning of the options.
      </div>
+     
+     *Apache (httpd.conf and httpd-ssl.conf)*
+     
+     *Nginx (nginx.conf)*
+     
+     *PHP (php.ini)*
+     
+     *MySQL(my.cnf)*
+     
+     *Postfix (main.cf)*
 
 *  **Factory Settings:**
      Development
