@@ -55,7 +55,9 @@ Hinweis: Nutzen Sie diesen Nutzernamen, um sich später auf Ihrem Wordpress-Blog
 #### Passwort
 Es wird automatisch das Passwort admin verwendet.
 
+<div class="alert" role="alert">
 Hinweis: Nutzen Sie dieses Passwort, um sich später auf Ihr Wordpress-Blog einzuloggen. Sie können es im Admin-Bereich von Wordpress ändern.
+</div>
 
 ### Joomla
 Installationen von Joomla können sich eine einzige MySQL-Datenbanken teilen, sofern Sie jede Joomla-Installation einen anderen Tabellen-Präfix benutzet. Um eine bereits vorhandene Datenbank zu verwenden, geben Sie den Namen der Datenbank an und wählen Sie einen neuen Tabellen-Präfix. Um eine neue Datenbank zu nutzen, wählen einen individuellen Datenbanknamen. Ein Tabellen-Präfix muss gewählt werden, das Eingabefeld darf nicht leer bleiben.
@@ -66,4 +68,15 @@ Installationen von Joomla können sich eine einzige MySQL-Datenbanken teilen, so
 Durch die Verwendung von unterschiedlichen Tabellen-Präfixen kann Joomla Daten für mehrere Websites in einer einzigen Datenbank verwalten.
 
 #### Datenbank-Name
+Auf dem MySQL-Server darf noch keine Datenbank mit dem selben Datenbanknamen vorhanden sein. Die Datenbank wird automatisch erzeugt.
+
+## webEdition
+
+Das CMS webEdition wird immer im Ordner /webEdition innerhalb des Stammverzeichnisses installiert.
+
+![MAMP](WebEdition.png)
+### Tabellen-Präfix 
+Durch Verwendung unterschiedlicher Tabellen-Präfixe kann webEdition Daten für mehrere Websites in einer einzigen Datenbank verwalten.
+
+### Databank-Name
 Auf dem MySQL-Server darf noch keine Datenbank mit dem selben Datenbanknamen vorhanden sein. Die Datenbank wird automatisch erzeugt.
