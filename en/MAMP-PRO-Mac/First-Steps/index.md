@@ -37,6 +37,8 @@ Your default host for MAMP PRO is `localhost`. The files for localhost are initi
 *  **Save**  
    Save your changed settings.
 
+---
+
 ### Meaning of Icons
 
 ![MAMP](Docs.png) Change a file location, including the location of the document root, or a log file. 
