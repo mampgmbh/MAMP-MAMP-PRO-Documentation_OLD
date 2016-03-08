@@ -112,6 +112,11 @@ Only M cannot be used as a shortcut key. The ^ key stands for the ctrl key.
      
      Open and edit your main.cnf template file here. There are likely several versions of MySQL available, each of them with      their own template file. Changes made to your template file will be reflected your real main.cnf file. The main.cnf         file created from the template file and is located in `/Library/appsolute/MAMP PRO/conf`.
      
+     *  **Export Template:**
+          Export a template here ...
+     
+     *  **Import Template:**
+          Import a template here ...
 ---
 
 *  **Factory Settings:**
