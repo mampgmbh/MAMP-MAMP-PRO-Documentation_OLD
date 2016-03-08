@@ -74,7 +74,7 @@ Auf dem MySQL-Server darf noch keine Datenbank mit dem selben Datenbanknamen vor
 
 Das CMS webEdition wird immer im Ordner /webEdition innerhalb des Stammverzeichnisses installiert.
 
-![MAMP](WebEdition.png)
+![MAMP](webEdition.png)
 ### Tabellen-Präfix 
 Durch Verwendung unterschiedlicher Tabellen-Präfixe kann webEdition Daten für mehrere Websites in einer einzigen Datenbank verwalten.
 
