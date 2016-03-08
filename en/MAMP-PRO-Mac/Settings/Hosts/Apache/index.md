@@ -38,16 +38,16 @@ Apache options can be set for the selected virtual host in the table. These opti
 
 *  **Additional parameters for &lt;Directory&gt; directive**  
 
-*  **Directory Index**  
-   Determine which file Apache should serve if no filename is given in a address.
-   By default it is either index.html or index.php.
+   *  **Directory Index**  
+      Determine which file Apache should serve if no filename is given in a address.
+      By default it is either index.html or index.php.
 
 *  **Additional Parameters for &lt;VirtualHost&gt; directive**  
    These directives go directly to the httpd.conf file. 
 
 
-*  **Server admin**  
-   The email address Apache will send error messages to.
+   *  **Server admin**  
+      The email address Apache will send error messages to.
 
 <div class="alert" role="alert">
 Note: Watch out for typos, they will otherwise prevent Apache from starting up.
