@@ -8,10 +8,6 @@ language: en
 
 ## Menu
 
-![MAMP](Preferences.png)
-
----
-
 ### MAMP PRO
 
 #### Check For Updates
@@ -26,19 +22,19 @@ Check your version number and MAMP PRO key.
 
 ---
 
+![MAMP](Preferences.png)
+
 #### Preferences…
 
-Open WebStart when starting MAMP PRO
+*  **Open WebStart when starting MAMP PRO:**
+     Your default browser will bring up the web start page when MAMP PRO is launched.
 
-Your default browser will bring up the web start page when MAMP PRO is launched.
+*  **Path To Webstart:**
+     The default MAMP start page provides links to access utilities such as phpMyAdmin, phpInfo, SQLite Manager,       phpLiteAdmin, FAQ, and the MAMP Website.
 
- 
+---
 
-Path To Webstart
-
-The default MAMP start page provides links to access utilities such as phpMyAdmin, phpInfo, SQLite Manager, phpLiteAdmin, FAQ, and the MAMP Website. 
-
- When left using the default setting (/MAMP/), you will be directed to the MAMP PRO utilities start page using the Alias definition /MAMP/. If this field is left blank, you will be taken to your default document root (http://localhost:8888 in the /Applications/MAMP/htdocs). If you enter /subDirectory in this field, you will be taken to the /Applications/MAMP/htdocs/subDirectory folder via your default web browser (http://localhost:8888/subDirectory).
+     When left using the default setting (`/MAMP/`), you will be directed to the MAMP PRO utilities start page using the Alias definition `/MAMP/`. If this field is left blank, you will be taken to your default document root (http://localhost:8888 in the `/Applications/MAMP/htdocs`). If you enter /subDirectory in this field, you will be taken to the `/Applications/MAMP/htdocs/subDirectory` folder via your default web browser (http://localhost:8888/subDirectory).
 
  
 
