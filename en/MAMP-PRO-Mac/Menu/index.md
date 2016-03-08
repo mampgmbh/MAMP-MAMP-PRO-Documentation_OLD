@@ -46,9 +46,9 @@ When left using the default setting (`/MAMP/`), you will be directed to the MAMP
 *  **Allow Saving when IP Address is invalid:**
      MAMP PRO will ignore invalid IP addresses for hosts and proceed with saving your settings.
 
-<div class="alert" role="alert">
-Note: Setting these options may prevent Apache from starting up.
- </div>
+     <div class="alert" role="alert">
+     Note: Setting these options may prevent Apache from starting up.
+     </div>
 
 *  **Automatically Restart Servers if necessary (don’t ask):**
      MAMP PRO will automatically restart when changes are made that require a restart.
@@ -64,9 +64,9 @@ Only M cannot be used as a shortcut key. The ^ key stands for the ctrl key.
 *  **Hide Doc Icon:**
      The Doc Icon will be hidden. This option will only take affect after the restart of MAMP PRO.
 
-<div class="alert" role="alert">
-Note: You will not be able to see the MAMP PRO Menu Bar.
-</div>
+     <div class="alert" role="alert">
+     Note: You will not be able to see the MAMP PRO Menu Bar.
+     </div>
 
 *  **Use Message Center (OS X 10.9 or later):**
      The Message Center will inform you of when Apache and MySQL have started. The Message Center can only be used when the       doc icon is hidden.
