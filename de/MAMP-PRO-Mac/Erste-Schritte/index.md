@@ -48,8 +48,8 @@ Der Standard-Host für MAMP PRO lautet localhost. Die Dateien für localhost wer
 
 ![MAMP](Rights.png) Ändert die Zugriffsrechte des Document-Root-Verzeichnisses.
 
-![MAMP](BlackArrow.png) Zeigt ein Verzeichnis im Finder an oder verbindet mit dem Webbrowser zu einem Host.
+![MAMP](BlackArrow.png)  Zeigt ein Verzeichnis im Finder an oder verbindet mit dem Webbrowser zu einem Host.
 
-![MAMP](info.png) Zeigt weitere Informationen, etwa die Ausgabe von phpInfo().
+![MAMP](info.png)  Zeigt weitere Informationen, etwa die Ausgabe von phpInfo().
 
-![MAMP](RedArrow.png) Weist auf eine fehlende Information hin.
+![MAMP](RedArrow.png)  Weist auf eine fehlende Information hin.
