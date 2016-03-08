@@ -41,7 +41,7 @@ Note: The availability of an Extra will be affected by your hosts PHP version, i
    The WordPress admins default password.  
    *Note: You will need this password to login into your new WordPress blog, please write this down.*
 
-![MAMP](Wordpress.png)
+![MAMP](WordPress.png)
 ---
 
 ### Joomla
