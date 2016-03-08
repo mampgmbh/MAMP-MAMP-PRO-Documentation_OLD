@@ -41,10 +41,10 @@ Change a file location, including the location of the document root, or a log fi
 
 Prepare an e-mail with the Xip.io URL of a host.
 
-Modify the access rights of a document root folder.
+![MAMP](Rights.png) Modify the access rights of a document root folder.
 
 ![MAMP](BlackArrow.png) Open a disk location in the Finder, or a host in the web browser.
 
 ![MAMP](info.png) Provide more information, including phpInfo().
 
-![MAMP](RedArrow.png)Indicates that information is missing.
+![MAMP](RedArrow.png) Indicates that information is missing.
