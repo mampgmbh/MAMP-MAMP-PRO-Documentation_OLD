@@ -26,9 +26,9 @@ To use MAMP PRO, your system must meet the following requirements:
 5. An existing `htdocs` folder will be moved to your new `/Applications/MAMP` folder.
 6. If there has been a change to the configuration of Apache, PHP, or MySQL (A directive was modified or a new one added)    between versions of MAMP PRO and you have already made changes to your current configuration (resulting in the creation of a template file in ~/Library/application support/appsolute/MAMP PRO/templates ), MAMP PRO will ask you to save off your old templates when you upgrade.
 
-Save your template files. You can use these saved template files as a guide of your previous modifications. New (re)modifications need to be made through the MAMP PRO interface (File > Edit Templates), just as you had done before in your previous version of MAMP PRO.
-
-![MAMP](Templates.png)
+  ![MAMP](Templates.png)
+  
+  Save your template files. You can use these saved template files as a guide of your previous modifications. New              (re) modifications need to be made through the MAMP PRO interface (File > Edit Templates), just as you had done before in    your previous version of MAMP PRO.
 
 7. Confirm that all data has been transferred correctly before starting MAMP PRO.
 8. Your `/Applications/MAMP_current_date` folder can now be deleted. You may however keep it, so you can fall back to your original setup.
