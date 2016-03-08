@@ -18,6 +18,10 @@ Otherwise you will need to register with a Dynamic DNS Service and enter the use
 Note: To use the Dynamic DNS functions, you will need to register with one of the supported providers. This is independent of MAMP PRO and is not a service provided by appsolute GmbH.
 </div>
 
+![MAMP](dynDNS.png)
+
+---
+
 *  **Activate Dynamic DNS service**  
 
 ---
