@@ -8,6 +8,10 @@ language: en
 
 ## Settings > Editor
 
+### Editing
+
+![MAMP](Editing.png)
+
 *  **Auto-Save:**  
     *  **Save automatically when closing a modified document**
 
@@ -40,3 +44,15 @@ language: en
     *  **Indent new lines the same as the line above**  
     *  **Line wrap**  
     *  **Treat { and } intelligently**  
+
+---
+
+### Colors
+
+![MAMP](Colors.png)
+
+---
+
+### External Apps
+
+![MAMP](DefaultApps.png)
