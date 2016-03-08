@@ -21,26 +21,32 @@ Der Standard-Host für MAMP PRO lautet localhost. Die Dateien für localhost wer
 ### Das Hauptfenster
 
 *  **MAMP PRO** 
-
    http://mamp.info Webseite öffnen.
 
 *  **Ausstattung** 
-
-  Sonder Ausstattung
+   Sonder Ausstattung
   
 *  **Webstart** 
-
-  Öffnet die MAMP PRO Startseite Ihres lokalen Webservers. Zusätzliche Informationen zu WebStart finden Sie im Abschnitt 2.    Hosts.
+   Öffnet die MAMP PRO Startseite Ihres lokalen Webservers. Zusätzliche Informationen zu WebStart finden Sie im Abschnitt 2.    Hosts.
 
 *  **Editor** 
-
-  Editor öffnen.
+   Editor öffnen.
 
 *  **Servers**
-
-  Die Statusanzeige rechts oben zeigt an, welche Dienste derzeit gestartet sind (Apache, MySQL, Dynamic DNS).
+   Die Statusanzeige rechts oben zeigt an, welche Dienste derzeit gestartet sind (Apache, MySQL, Dynamic DNS).
 
 
 ### Icons
 
-Icon Information hier ...
+
+![MAMP](Docs.png) Change a file location, including the location of the document root, or a log file. 
+
+![MAMP](Mail.png) Prepare an e-mail with the Xip.io URL of a host.
+
+![MAMP](Rights.png) Modify the access rights of a document root folder.
+
+![MAMP](BlackArrow.png) Open a disk location in the Finder, or a host in the web browser.
+
+![MAMP](info.png) Provide more information, including phpInfo().
+
+![MAMP](RedArrow.png) Indicates that information is missing.
