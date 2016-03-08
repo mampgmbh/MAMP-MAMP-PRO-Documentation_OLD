@@ -83,6 +83,8 @@ Only M cannot be used as a shortcut key. The ^ key stands for the ctrl key.
 *  **Edit Template:**
      MAMP PRO uses templates to create the necessary server config files. You can edit these templates from the menu item        File > Edit template. Here, you have access to options which are not accessible from the MAMP PRO user interface.
 
+     A template file is created in ~/Library/application support/appsolute/MAMP PRO/templates when you make a change to one      of your templates.There are separate templates for your Apache, Apache SSL, PHP, and MySQL configurations. If you have      not made any changes to your templates, your ~/Library/application support/appsolute/MAMP PRO/templates directory will      be empty.
+     
      <div class="alert" role="alert">
      Note: Edition errors in the templates of the configuration files can cause the servers not to start. This could mean        that you will have to reset the settings for MAMP PRO, and you may lose all your other custom settings. You should edit      these templates only if you are familiar with the exact syntax and meaning of the options.
      </div>
@@ -113,10 +115,13 @@ Only M cannot be used as a shortcut key. The ^ key stands for the ctrl key.
      Open and edit your main.cnf template file here. There are likely several versions of MySQL available, each of them with      their own template file. Changes made to your template file will be reflected your real main.cnf file. The main.cnf         file created from the template file and is located in `/Library/appsolute/MAMP PRO/conf`.
      
 *  **Export Template:**
-     Export a template here ...
+     Export your templates.
      
 *  **Import Template:**
-     Import a template here ...
+     Import templates here.
+     <div class="alert" role="alert">
+     Importing templates made in a different version of MAMP PRO may cause some configuration files to be invalid thus           preventing servers from being started.
+     </div>
 ---
 
 *  **Factory Settings:**
