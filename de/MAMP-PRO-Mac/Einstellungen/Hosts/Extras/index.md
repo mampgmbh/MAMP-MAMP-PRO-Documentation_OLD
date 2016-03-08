@@ -31,7 +31,9 @@ Geben Sie Ihrem Blog einen aussagekräftigen Namen.
 #### E-Mail-Adresse
 An diese E-Mail-Adresse wird Ihre Wordpress-Installation Fehlermeldungen verschicken.
 
+<div class="alert" role="alert">
 Hinweis: Um Wordpress zu installieren, ist die Eingabe einer gültigen E-Mail-Adresse erforderlich.
+</div>
 
 #### Verzeichnis
 Wenn Sie Wordpress direkt im Stammverzeichnis des Hosts installieren möchten, dann lassen Sie dieses Feld leer.
