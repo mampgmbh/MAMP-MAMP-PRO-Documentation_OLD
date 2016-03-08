@@ -6,7 +6,7 @@ product: MAMP PRO Mac
 language: de
 ---
 
-## 2. Installation
+## Installation
 
 ### Installationsvoraussetzungen
 
@@ -16,6 +16,8 @@ Eine bestehende MAMP-Installation (MAMP wird direkt mit dem Installationspaket v
 Betriebssystem: OS X ab Version 10.8.0 oder höher.
 Ein Mac mit 64-Bit-CPU (x64) von Intel.
 Um mit MAMP PRO arbeiten zu können, müssen Sie mit einem Benutzerkonto angemeldet sein, das den Rechner verwalten darf. Überprüfen Sie dies unter Systemeinstellungen -> Benutzer und Gruppen.
+
+---
 
 ### Installation und Update von MAMP PRO
 
@@ -28,7 +30,12 @@ Ein bereits vorhandener MAMP-Ordner wird in MAMP_aktuelles_Datum umbenannt.
 Ein bereits vorhandener htdocs-Ordner wird in den neuen Ordner `/Programme/MAMP` verschoben.
 Überprüfen Sie, ob alle Dateien korrekt verschoben wurden, bevor Sie MAMP PRO starten.
 Der Ordner `/Programme/MAMP_aktuelles_Datum` kann gelöscht werden. Sie können ihn aber auch behalten, falls Sie zu einem späteren Zeitpunkt noch einmal darauf zugreifen möchten.
+
+<div class="alert" role="alert">
 Hinweis: Um MAMP PRO zu installieren, benötigen Sie Administratorrechte!
+</div>
+
+---
 
 ### De-Installation
 
