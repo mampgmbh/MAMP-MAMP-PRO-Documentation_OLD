@@ -37,14 +37,14 @@ Your default host for MAMP PRO is `localhost`. The files for localhost are initi
 
 ### Meaning of Icons
 
-#### Change a file location, including the location of the document root, or a log file. ![MAMP](BlackArrow.png)
+Change a file location, including the location of the document root, or a log file. 
 
-#### Prepare an e-mail with the Xip.io URL of a host.
+Prepare an e-mail with the Xip.io URL of a host.
 
-#### Modify the access rights of a document root folder.
+Modify the access rights of a document root folder.
 
-#### Open a disk location in the Finder, or a host in the web browser.
+![MAMP](BlackArrow.png) Open a disk location in the Finder, or a host in the web browser.
 
-#### Provide more information, including phpInfo().
+Provide more information, including phpInfo().
 
  Indicates that information is missing.
