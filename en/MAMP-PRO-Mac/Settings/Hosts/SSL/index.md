@@ -13,3 +13,5 @@ To encrypt traffic from Apache to a web browser you can use SSL.
 Use "Create self-signed certificate..." if you want to test SSL functionality.
 
 If you want to secure a productive server you should get the Certificate file and the Certificate key file from a Certified Authority (CA).
+
+![MAMP](SSL.png)
