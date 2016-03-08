@@ -25,10 +25,10 @@ Ihrem verfügbaren Festplattenplatz
 
 ![MAMP](WordPress.png)
 
-#### Name des Blogs
+*  **Name des Blogs:** 
 Geben Sie Ihrem Blog einen aussagekräftigen Namen.
 
-#### E-Mail-Adresse
+*  **E-Mail-Adresse:** 
 An diese E-Mail-Adresse wird Ihre Wordpress-Installation Fehlermeldungen verschicken.
 
 <div class="alert" role="alert">
