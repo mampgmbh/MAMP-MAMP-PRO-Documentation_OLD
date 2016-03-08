@@ -12,6 +12,8 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
 
 ![MAMP](php.png)
 
+---
+
 *  **Default version**  
    Choose which PHP version to use.  
 
