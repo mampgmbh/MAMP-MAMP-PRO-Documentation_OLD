@@ -45,6 +45,6 @@ Modify the access rights of a document root folder.
 
 ![MAMP](BlackArrow.png) Open a disk location in the Finder, or a host in the web browser.
 
-Provide more information, including phpInfo().
+![MAMP](info.png) Provide more information, including phpInfo().
 
- Indicates that information is missing.
+![MAMP](RedArrow.png)Indicates that information is missing.
