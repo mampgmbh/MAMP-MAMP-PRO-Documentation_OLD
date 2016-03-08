@@ -42,7 +42,7 @@ Note: You need administrator permissions to install MAMP PRO!
 Use the MAMP PRO Uninstaller located in `/Applications/MAMP PRO` to remove MAMP PRO.
 
 <div class="alert" role="alert">
-Note: Using the uninstaller in `/Applications/MAMP PRO` will remove your databases located in `/Library/Application Support/appsolute/MAMP PRO/db`
+Note: Using the uninstaller in /Applications/MAMP PRO will remove your databases located in /Library/Application Support/appsolute/MAMP PRO/db
 </div>
 
 Drag the `/Applications/MAMP` folder to the `Trash` to complete uninstallation.
