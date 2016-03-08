@@ -31,45 +31,38 @@ Geben Sie Ihrem Blog einen aussagekräftigen Namen.
 *  **E-Mail-Adresse:** 
 An diese E-Mail-Adresse wird Ihre Wordpress-Installation Fehlermeldungen verschicken.
 
-<div class="alert" role="alert">
-Hinweis: Um Wordpress zu installieren, ist die Eingabe einer gültigen E-Mail-Adresse erforderlich.
-</div>
+*Hinweis: Um Wordpress zu installieren, ist die Eingabe einer gültigen E-Mail-Adresse erforderlich.*
 
-#### Verzeichnis
+*  **Verzeichnis:** 
 Wenn Sie Wordpress direkt im Stammverzeichnis des Hosts installieren möchten, dann lassen Sie dieses Feld leer.
 
 Möchten Sie Wordpress lieber in einen eigenen Ordner installieren, dann geben Sie diesen Ordnernamen an. Dieser Ordner darf noch nicht im Stammverzeichnis des Hosts existieren, denn er wird automatisch angelegt.
 
-<div class="alert" role="alert">
-Hinweis: Installieren Sie Wordpress nicht über eine bereits vorhandene Installation. Diese wird ansonsten überschrieben!
-</div>
+*Hinweis: Installieren Sie Wordpress nicht über eine bereits vorhandene Installation. Diese wird ansonsten überschrieben!*
 
-#### Datenbank-Name
+*  **Datenbank-Name:** 
 Eine Datenbank mit diesem Name darf auf dem MySQL-Server noch nicht existieren. Sie wird automatisch angelegt.
 
-#### Benutzername
+*  **Benutzername:** 
 Es wird automatisch der Benutzername admin verwendet.
 
-<div class="alert" role="alert">
-Hinweis: Nutzen Sie diesen Nutzernamen, um sich später auf Ihrem Wordpress-Blog einzuloggen.
-</div>
+*Hinweis: Nutzen Sie diesen Nutzernamen, um sich später auf Ihrem Wordpress-Blog einzuloggen.*
 
-#### Passwort
+*  **Passwort:** 
 Es wird automatisch das Passwort admin verwendet.
 
-<div class="alert" role="alert">
-Hinweis: Nutzen Sie dieses Passwort, um sich später auf Ihr Wordpress-Blog einzuloggen. Sie können es im Admin-Bereich von Wordpress ändern.
-</div>
+*Hinweis: Nutzen Sie dieses Passwort, um sich später auf Ihr Wordpress-Blog einzuloggen. Sie können es im Admin-Bereich von Wordpress ändern.*
+
 
 ### Joomla
 Installationen von Joomla können sich eine einzige MySQL-Datenbanken teilen, sofern Sie jede Joomla-Installation einen anderen Tabellen-Präfix benutzet. Um eine bereits vorhandene Datenbank zu verwenden, geben Sie den Namen der Datenbank an und wählen Sie einen neuen Tabellen-Präfix. Um eine neue Datenbank zu nutzen, wählen einen individuellen Datenbanknamen. Ein Tabellen-Präfix muss gewählt werden, das Eingabefeld darf nicht leer bleiben.
 
 ![MAMP](Joomla.png)
 
-#### Tabellen-Präfix
+*  **Tabellen-Präfix:** 
 Durch die Verwendung von unterschiedlichen Tabellen-Präfixen kann Joomla Daten für mehrere Websites in einer einzigen Datenbank verwalten.
 
-#### Datenbank-Name
+*  **Datenbank-Name:** 
 Auf dem MySQL-Server darf noch keine Datenbank mit dem selben Datenbanknamen vorhanden sein. Die Datenbank wird automatisch erzeugt.
 
 ## webEdition
@@ -78,9 +71,8 @@ Das CMS webEdition wird immer im Ordner /webEdition innerhalb des Stammverzeichn
 
 ![MAMP](webEdition.png)
 
-
-### Tabellen-Präfix
+*  **Tabellen-Präfix:** 
 Durch Verwendung unterschiedlicher Tabellen-Präfixe kann webEdition Daten für mehrere Websites in einer einzigen Datenbank verwalten.
 
-### Databank-Name
+*  **Databank-Name:** 
 Auf dem MySQL-Server darf noch keine Datenbank mit dem selben Datenbanknamen vorhanden sein. Die Datenbank wird automatisch erzeugt.
