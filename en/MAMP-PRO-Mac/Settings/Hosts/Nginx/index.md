@@ -8,6 +8,10 @@ language: en
 
 ## Settings > Hosts > Nginx
 
+The Nginx server ...
+
+![MAMP](Nginx.png)
+
 *  **Directory index**  
 
 *  **Access Limits**  
