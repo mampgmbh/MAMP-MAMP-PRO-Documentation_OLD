@@ -88,6 +88,10 @@ Only M cannot be used as a shortcut key. The ^ key stands for the ctrl key.
      </div>
      
      *Apache (httpd.conf and httpd-ssl.conf)*
+     Edit your template httd.conf template file here. Changes made to your template file will be reflected  your real            httpd.conf file. The httpd.conf file created from the template file and is located in `/Library/appsolute/MAMP              PRO/conf`
+     <div class="alert" role="alert">
+     Changes only be reflected in your real httpd.conf file after your servers are restarted. This applies to all                configuration files including nginx.conf, php.ini, my.cnf and main.cnf.
+     </div>
      
      *Nginx (nginx.conf)*
      
