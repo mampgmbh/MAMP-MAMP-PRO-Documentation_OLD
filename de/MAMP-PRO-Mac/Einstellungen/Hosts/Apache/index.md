@@ -38,6 +38,8 @@ Hier legen Sie erweiterte Optionen für den in der Tabelle markierten virtuellen
     
          Erlaubt den Einsatz von dynamischen, sprachabhängigen Dokumenten (Sprachvereinbarung).
 
+---
+
 *  **Weitere Parameter für &lt;Directory&gt;**
 
      Anweisungen aus diesem Eingabefeld trägt MAMP PRO in httpd.conf in der Directory-Direktive ein.
@@ -46,6 +48,8 @@ Hier legen Sie erweiterte Optionen für den in der Tabelle markierten virtuellen
 
          Bestimmen Sie welche Datei Apache anzeigt, wenn kein Dateiname in einer Adresse angegeben wird. Standardmäßig ist          dies entweder index.html oder index.php.
      
+---
+
 *  **Weitere Parameter für &lt;VirtualHost&gt;**
      
       Anweisungen aus diesem Eingabefeld trägt MAMP PRO in httpd.conf in der VirtualHost-Direktive ein.
