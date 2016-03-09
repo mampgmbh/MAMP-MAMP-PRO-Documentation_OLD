@@ -56,4 +56,9 @@ PHP ist eine weit verbreitete Web-Scripting Programmiersprache. MAMP PRO install
    Hinweise: Mögliche Probleme die PHP nicht unbedingt behindern, die aber ein Hinweis auf einen Fehler in einem Skript sein    könnten, werden aufgezeichnet.
 
    Andere: Über spezielle, vordefinierte Konstante können Sie hier weitere Fehlertypen aufzeichnen lassen. Mehr Informationen    finden Sie in der Dokumentation von PHP.
+ 
+---
+   
+*  **Fehlerprotokoll**
+   Hier legen Sie fest, ob das Fehlerprotokoll auf dem Bildschirm angezeigt und/oder in einer Logdatei protokolliert werden     soll. Den Speicherort dieser Datei dürfen Sie frei wählen.
    
