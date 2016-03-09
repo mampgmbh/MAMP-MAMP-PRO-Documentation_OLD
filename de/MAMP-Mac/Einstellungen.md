@@ -41,18 +41,20 @@ Soll MAMP auch von außen über das Internet erreichbar sein, so achten Sie bitt
 
 ![MAMP](WebServer.png)
 
-*   **Web Server**
-   Choose either the Apache or Nginx web server.
+*   **Webserver**
+   Apache oder Nginx web server wahlen.
 *   **Document Root** 
-   Click on  to select where your html/PHP files and images are stored. This directory is called Document Root. The default     Document Root in MAMP is: `/Applications/MAMP/htdocs`.
+   Das Verzeichnis, welches Ihrer Webseiten enthält, heißt Document Root oder Stammverzeichnis. Nach der Installation lautet    es: /Programme/MAMP/htdocs. Klicken Sie auf ,um es auf einen anderen Ordner festzulegen.
 
-### Open WebStart Page
+### Webstartseite öffnen
 
 ![MAMP](WebStart.png)
 
-The default MAMP start page provides links to access utilities such as phpMyAdmin, phpInfo, SQLite Manager, phpLiteAdmin, FAQ, MyFavoriteLink and the MAMP Website.
+Die Standard-Webstartseite enthält Links zu phpMyAdmin, phpInfo, SQLite Manager, phpLiteAdmin, Mein Leiblings-Link, zur FAQ und zur MAMP Webseite.
 
-When the My Favorite Link text box is filled in, a link will appear at the top of the MAMP start page with the title 'My Favorite Link'. The My Favorite Link page can be changed using Preferences…. When using the default setting (`/MAMP/`), you will be directed to the MAMP utilities start page using the Alias  definition `/MAMP/`.
+Die Startseite kann unter Einstellungen... geändert werden. Bei Verwendung der Standard-Einstellung (/MAMP/) werden Sie auf die (Utilities) MAMP-Startseite geleitet.
 
-If this field is left blank, you will be taken to your default document root (http://localhost:8888 in the `/Applications/MAMP/htdocs`). If you enter /subDirectory in this field, you will be taken to the `/Applications/MAMP/htdocs/subDirectory` folder via your default web browser (http://localhost:8888/subDirectory).
+Ist dieses Feld leer, dann gelangen Sie im Webbrowser auf Ihr Stammverzeichnis (http://localhost:8888).
+
+Geben Sie ein /Unterverzeichnis in dieses Feld ein, dann ruft der Webbrowser http://localhost:8888/Unterverzeichnis auf, was den Inhalt von <Document Root>/Unterverzeichnis anzeigt.
 
