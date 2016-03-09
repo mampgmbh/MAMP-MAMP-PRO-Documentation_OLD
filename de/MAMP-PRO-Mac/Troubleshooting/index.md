@@ -8,7 +8,7 @@ language: de
 
 ## Troubleshooting
 
-#### 7.1 Beim letzten Öffnen der Extras gab es ein Content Management System welches jetzt nicht mehr verfügbar ist?
+### Beim letzten Öffnen der Extras gab es ein Content Management System welches jetzt nicht mehr verfügbar ist?
 
 Dies kann verschiedene Gründe haben:
 
@@ -16,16 +16,16 @@ Bitte überprüfen Sie zunächst Ihre Internetverbindung. Ohne Internetverbindun
 Es kann auch sein, dass ein Extra nicht angezeigt wird, weil die für den virtuellen Host gewählte PHP-Version nicht kompatibel mit dem Extra ist.
 Eventuell haben Sie zu wenig freien Speicherplatz auf Ihrer Festplatte.
 Manche Extras können auf einem virtuellem Host nur einmal installiert werden. Dies ist beispielsweise bei dem Extra webEdition der Fall.
- 
-#### 7.2 My Content Management System stopped working without any indication of what is wrong?
 
-Most content management systems store the host location, including the port number, in their database. If an CMS is setup with an Apache port of 8888, then this port must be used every time the CMS is used. Changing the port may result in a blank screen in your browser, and a vague error message.
+---
 
-#### 7.3 Ich habe Wordpress installiert und werde nach meinem Benutzernamen und Passwort gefragt?
+### Ich habe Wordpress installiert und werde nach meinem Benutzernamen und Passwort gefragt?
 
 Nach der Installation von Wordpress lautet Ihr Benutzername/Passwort: admin/admin.
 
-#### 7.4 Der Apache-Server startet nicht
+---
+
+### Der Apache-Server startet nicht
 
 Das häufigste Problem bei einem Apache-Server der nicht startet, ist eine weitere Apache-Instanz, die bereits auf dem selben Port läuft. Um dies zu überprüfen gehen Sie wie folgt vor:
 
@@ -39,25 +39,17 @@ Das häufigste Problem bei einem Apache-Server der nicht startet, ist eine weite
 
 - Starten Sie MAMP PRO. 
 
- 
-
 Wenn der Apache-Server immer noch nicht startet, überprüfen Sie die Protokolldatei auf Fehlermeldungen.
 
-#### 7.5 When I type http://localhost in my browser it brings me to Google search?
+---
 
-You must include the port number when you type a your localhost url into the browser.
-
-e.g. http://localhost:8888
-
-What appears in your browser window thereafter may be shortened to localhost depending on the browser settings.
-
- 
-
-#### 7.6 Changes to my php.ini file and/or my httpd.conf file are not showing up when I restart MAMP PRO.
+### Changes to my php.ini file and/or my httpd.conf file are not showing up when I restart MAMP PRO.
 
 You must edit the httpd.conf, php.ini and my.cnf files through the Template Editor provided by MAMP PRO. Go to File->Edit Template to edit template files.
 
-#### 7.7 Der MySQL-Server startet nicht
+---
+
+### Der MySQL-Server startet nicht
 
 Das häufigste Problem bei einem MySQL-Server der nicht startet, ist ein weiterer MySQL-Dienst, der auf dem selben Port läuft. Um dies zu überprüfen gehen Sie wie folgt vor:
 
