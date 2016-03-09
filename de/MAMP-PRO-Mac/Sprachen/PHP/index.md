@@ -17,6 +17,9 @@ PHP ist eine weit verbreitete Web-Scripting Programmiersprache. MAMP PRO install
 *  **Standardversion**  
    Wählen Sie die PHP-Version aus, die Sie als Standard verwenden möchten. Diese Version wird  dann für alle Hosts              verwendet, solange Sie sich in der Betriebsart Modul (siehe folgenden Abschnitt) befinden.
 
+   *  **Make this version also available on the command line**
+      Your command line will now automatically point to the version of php in your MAMP PRO.
+
 ---
 
 *  **Betriebsart**  
