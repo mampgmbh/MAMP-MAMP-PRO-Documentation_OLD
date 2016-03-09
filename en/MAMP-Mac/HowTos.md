@@ -61,25 +61,32 @@ The MySQL server of MAMP uses the Default Storage Engine MyISAM. If you want to 
 
 4. Save the file and close your editor.
 
-Start the MAMP servers. Use MySQL command line.
+5. Start the MAMP servers.
 
 ---
 
 ### Set the MySQL Default Storage Engine using the command line
 
-Start MAMP
+1. Start MAMP
 
-Start the servers
+2. Start the servers
 
-Open Terminal.app (/Applications/Utilities)
+3. Open Terminal.app located in /Applications/Utilities .
 
-Type in and hit Enter
+4. Type in the following
 
-`cd /Applications/MAMP/Library/bin`
-Type in and hit Enter
+        `cd /Applications/MAMP/Library/bin`
 
-`./mysql --host=localhost -u root -proot`
-Now you can use the MySQL command line. For example to show all your databases with:
+Hit Enter
+
+5. Type in the following
+
+        `./mysql --host=localhost -u root -proot`
+
+Hit Enter
+
+Now you can use the MySQL command line. For example type the following in the command line to show all your databases.
+
 `show databases;`
 
 ---
