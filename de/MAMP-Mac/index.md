@@ -1,3 +1,7 @@
+---
+title: MAMP Dokumentation
+description: This is the MAMP Documentation
+---
 {% include_relative Installation.md %}
 {% include_relative Erste-Schritte.md %}
 {% include_relative Einstellungen.md %}
