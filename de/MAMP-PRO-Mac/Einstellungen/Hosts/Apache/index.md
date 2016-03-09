@@ -42,20 +42,19 @@ Hier legen Sie erweiterte Optionen für den in der Tabelle markierten virtuellen
 
      Anweisungen aus diesem Eingabefeld trägt MAMP PRO in httpd.conf in der Directory-Direktive ein.
 
-     *  **Directory Index**
+    *  **Directory Index**
 
-          Bestimmen Sie welche Datei Apache anzeigt, wenn kein Dateiname in einer Adresse angegeben wird. Standardmäßig ist            dies entweder index.html oder index.php.
+         Bestimmen Sie welche Datei Apache anzeigt, wenn kein Dateiname in einer Adresse angegeben wird. Standardmäßig ist          dies entweder index.html oder index.php.
      
 *  **Weitere Parameter für &lt;VirtualHost&gt;**
      
-     Anweisungen aus diesem Eingabefeld trägt MAMP PRO in httpd.conf in der VirtualHost-Direktive ein.
+      Anweisungen aus diesem Eingabefeld trägt MAMP PRO in httpd.conf in der VirtualHost-Direktive ein.
 
-    <div class="alert" role="alert">
-    Hinweis: Achten Sie besonders auf korrekte Schreibweise, ein Tippfehler verhindert unter Umständen bereits den Start von     Apache oder öffnet eine Sicherheitslücke.
-    </div>
+      <div class="alert" role="alert">
+      Hinweis: Achten Sie besonders auf korrekte Schreibweise, ein Tippfehler verhindert unter Umständen bereits den Start         von Apache oder öffnet eine Sicherheitslücke.
+      </div>
     
-
 *  **Server admin**
-     Geben Sie hier die E-Mail-Adresse an, an die Apache Fehlermeldungen senden soll.
+      Geben Sie hier die E-Mail-Adresse an, an die Apache Fehlermeldungen senden soll.
 
 
