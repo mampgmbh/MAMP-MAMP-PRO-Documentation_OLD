@@ -1,6 +1,6 @@
 ---
 title: MAMP Dokumentation
-description: MAMP Dokumentation
+description: Das ist die MAMP Dokumentation
 layout: default-2
 product: MAMP Mac
 language: de
