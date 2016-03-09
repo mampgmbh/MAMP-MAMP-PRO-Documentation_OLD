@@ -10,7 +10,7 @@ language: de
 
 PHP ist eine weit verbreitete Web-Scripting Programmiersprache. MAMP PRO installiert mehrere Versionen der PHP-Skript-Interpreter.
 
-![MAMP](php.png)
+![MAMP](PHP.png)
 
 ---
 
