@@ -6,9 +6,14 @@
 Open the Mac OS Terminal Application (located in `/Applications/Utilities`) and enter the following command line:
 
 `/Applications/MAMP/Library/bin/mysqladmin -u root -p password [NewPassword]`
+
 replace [NewPassword] with your new password.
 
-Please bear in mind that you also have to change the phpMyAdmin configuration and probably your own php scr"+"ipts to use the newly created MySQL password. For changing the phpMyAdmin configuration edit the file `/Applications/MAMP/bin/phpMyAdmin/config.inc.php` and update the password.
+Please bear in mind that you also have to change the phpMyAdmin configuration and probably your own php scr"+"ipts to use the newly created MySQL password. For changing the phpMyAdmin configuration edit the file
+
+`/Applications/MAMP/bin/phpMyAdmin/config.inc.php` 
+
+and update the password.
 
 ---
 
