@@ -57,7 +57,7 @@ The MySQL server of MAMP uses the Default Storage Engine MyISAM. If you want to 
 
 3. Add the following lines into the file:
 
-`[mysqld]default-storage-engine = InnoDB`
+    `[mysqld]default-storage-engine = InnoDB`
 
 4. Save the file and close your editor.
 
