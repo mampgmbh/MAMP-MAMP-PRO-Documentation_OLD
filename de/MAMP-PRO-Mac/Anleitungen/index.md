@@ -38,6 +38,7 @@ In der Eingabeaufforderung von MySQL folgenden Befehl eingeben und mit der Enter
 exit;
 
 ---
+
 ### PHP-Speicherlimit erhöhen
 
 MAMP PRO starten
@@ -53,6 +54,8 @@ memory_limit = 32M ; Maximum amount of memory a script may consume (8M)
 Speichern (Apfel + S) Sie die php.ini-Datei ab.
 Schließen (Apfel + W) Sie die php.ini-Datei.
 Starten Sie die Server.
+
+---
 
 ### Die Default Storage Engine von MySQL setzen
 
@@ -77,6 +80,8 @@ Die Änderungen an der Datei my.cnf über das Menü Ablage -> Speichern (oder ü
 Das Editorfenster über das Menü Ablage -> Schließen (oder über die Tastenkombination "Apfel + W") schließen.
 Starten Sie die Server von MAMP PRO.
 
+---
+
 ### Postfix log Datei anzeigen
 
 Hinweis: Möchten Sie die Logdatei von Postfix mit einem Texteditor (z.B. TextWrangler) editieren, müssen Sie zunächst im Finder alle unsichtbaren Ordner und Dateien sichtbar machen. Erst danach können Sie die Logdatei mit einem Texteditor öffnen. Dazu gehen Sie wie folgt vor:
@@ -92,11 +97,9 @@ Starten Sie den Finder neu, indem Sie folgenden Befehl eingaben und mit der Ente
 Killall Finder
 Öffnen Sie nun die Datei /private/var/log/mail.log mit ihrem Texteditor.
 
-
-
+---
  
-
-#### 8.6 Die Logdatei von Postfix anzeigen (Über die Konsole (empfohlen))
+### Die Logdatei von Postfix anzeigen (Über die Konsole (empfohlen))
 
 Öffnen Sie das Programm "Konsole.app" (/Programme/Dienstprogramme/Konsole.app).
 Wählen Sie über das Menü Darstellung den Eintrag Protokollliste einblenden.
@@ -105,7 +108,9 @@ Wählen Sie über das Menü Darstellung den Eintrag Protokollliste einblenden.
 Klicken Sie auf den Eintrag mail.log.
 Auf der rechten Seite des Programmfensters wird nun der Inhalt der Postfix-Logdatei angezeigt.
 
-#### 8.7 Show Postfix Logfile Using MySQL command line
+---
+
+### Show Postfix Logfile Using MySQL command line
 
 Öffnen Sie das Programm “Terminal.app" (/Programme/Dienstprogramme/Terminal.app)
 Geben Sie folgenden Befehl ein und drücken Sie die Enter-Taste:
@@ -114,29 +119,9 @@ tail -f /private/var/log/mail.log
 Nun wird der Inhalt der Logdatei von Postfix im Terminal angezeigt. Sobald sich die Datei verändert (neue Einträge hinzukommen), wird auch die Anzeige im Terminal-Fenster aktualisiert.
 Press "Ctrl + c" to stop the process.
 
-#### 8.8 Connect to MySQL from PHP
+---
 
-Das folgende Beispiel zeigt, wie Sie sich mit zu einer MySQL-Datenbank mit der mysqli()-Library verbinden:
-
-<?php
- DEFINE('DB_USERNAME', 'root');
- DEFINE('DB_PASSWORD', 'root');
- DEFINE('DB_HOST', 'localhost');
- DEFINE('DB_DATABASE', 'performance_schema');
-
- $mysqli = new mysqli(DB_HOST, DB_USERNAME, DB_PASSWORD, DB_DATABASE);
-
- if (mysqli_connect_error()) {
-  die('Connect Error ('.mysqli_connect_errno().') '.mysqli_connect_error());
- }
-
- echo 'Connected successfully.';
-
- $mysqli->close();
-?>
- 
-
-#### 8.9 How do I install PEAR?
+### How do I install PEAR?
 
 Open up a terminal and type the following 
 
@@ -149,7 +134,10 @@ You should see a path to one of your PHP installations.
 Type the following in the terminal window
 
 $ pear
-#### 10.10 MySQL über die Kommandozeile nutzen
+
+---
+
+### MySQL über die Kommandozeile nutzen
 
 Möchten Sie über die Kommandozeile auf den MySQL-Server zugreifen, gehen Sie wie folgt vor:
 
