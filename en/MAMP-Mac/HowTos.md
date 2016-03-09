@@ -1,7 +1,7 @@
 
 ## How Tos
 
-### How can I change the password of the MySQL root user?
+### Change the password of the MySQL root user?
 
 Open the Mac OS Terminal Application located in your /Applications/Utilities directory. 
 
@@ -49,13 +49,18 @@ Enter the following line into the MySQL prompt and hit Enter
 
 ### Set the MySQL Default Storage Engine
 
-The MySQL server of MAMP uses the Default Storage Engine MyISAM. If you want to change this, you have to change the configuration file of the MySQL server. With this tutorial we want to show you how to change the Default Storage Engine to InnoDB.
+The MySQL server of MAMP uses the Default Storage Engine MyISAM. If you want to change this to a different storage engine such as InnoDB you have to change the configuration file of the MySQL server.
 
-Stop the MAMP Server if it is running.
-Use a text editor to create a file named my.cnf and save it to the /Applications/MAMP/conf folder.
-Add the following lines into the file:
+1. Stop the MAMP Servers that are running.
+
+2. Use a text editor to create a file named my.cnf and save it to the /Applications/MAMP/conf folder.
+
+3. Add the following lines into the file:
+
 `[mysqld]default-storage-engine = InnoDB`
-Save the file and close your editor.
+
+4. Save the file and close your editor.
+
 Start the MAMP servers. Use MySQL command line.
 
 ---
