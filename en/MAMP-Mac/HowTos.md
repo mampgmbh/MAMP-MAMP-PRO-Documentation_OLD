@@ -16,21 +16,25 @@ Please bear in mind that you also have to change the phpMyAdmin configuration an
 
 Open MAMP
 Start the servers
-Open Terminal.app (`/Applications/Utilities`)
+Open Terminal.app located in the `/Applications/Utilities` directory.
+
 Enter the following line into the terminal and hit Enter
 
 `cd /Applications/MAMP/Library/bin`
+
 Hit Enter
 
 `./mysql --host=localhost -u root -proot`
+
 Enter the following line into the MySQL prompt and hit Enter
 
 `USE information_schema;`
+
 Enter the following line into the MySQL prompt and hit Enter
 
 `SELECT * FROM engines;`
-A table with the Storage Engines of MySQL will show up. Inside the Support column the Default Storage Engine has the value DEFAULT.
 
+A table with the Storage Engines of MySQL will show up. Inside the Support column the Default Storage Engine has the value DEFAULT.
 
 Enter the following line into the MySQL prompt and hit Enter
 
