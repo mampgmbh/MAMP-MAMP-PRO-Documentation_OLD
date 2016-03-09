@@ -18,6 +18,8 @@ Suchen Sie folgende Zeile: output_buffering = Off
 Speichern Sie die Datei
 Starten Sie die Server
 
+---
+
 ### Die Default Storage Engine von MySQL herausfinden
 
 MAMP öffnen.
@@ -35,6 +37,7 @@ Es wird eine Tabelle mit den Storage Engines des MySQL-Servers angezeigt. In der
 In der Eingabeaufforderung von MySQL folgenden Befehl eingeben und mit der Enter-Taste bestätigen:
 exit;
 
+---
 ### PHP-Speicherlimit erhöhen
 
 MAMP PRO starten
