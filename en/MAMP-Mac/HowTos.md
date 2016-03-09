@@ -91,7 +91,7 @@ Now you can use the MySQL command line. For example type the following in the co
 
 The following example shows how to connect to a MySQL database using the mysqli() library:
 
-`<?php
+<?php
  DEFINE('DB_USERNAME', 'root');
  DEFINE('DB_PASSWORD', 'root');
  DEFINE('DB_HOST', 'localhost');
@@ -106,6 +106,6 @@ The following example shows how to connect to a MySQL database using the mysqli(
  echo 'Connected successfully.';
 
  $mysqli->close();
-`
+?>
 
 ---
