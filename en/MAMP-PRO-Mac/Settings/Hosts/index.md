@@ -7,3 +7,9 @@ language: en
 ---
 
 ## Settings > Hosts
+
+- [General](General/)  
+- [Apache](Apache/)  
+- [Nginx](Nginx/)  
+- [SSL](SSL/)
+- [Extras](Extras/)  
