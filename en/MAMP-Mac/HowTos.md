@@ -65,47 +65,28 @@ The MySQL server of MAMP uses the Default Storage Engine MyISAM. If you want to 
 
 ---
 
-### Set the MySQL Default Storage Engine using the command line
-
-1. Start MAMP
-
-2. Start the servers
-
-3. Open Terminal.app located in /Applications/Utilities .
-
-4. Type the following and hit Enter.
-
-        `cd /Applications/MAMP/Library/bin`
-
-5. Type the following and hit Enter.
-
-        `./mysql --host=localhost -u root -proot`
-
-Now you can use the MySQL command line. For example type the following in the command line to show all your databases.
-
-`show databases;`
-
----
 
 ### Connect to MySQL from PHP
 
 The following example shows how to connect to a MySQL database using the mysqli() library:
 
 <?php
- DEFINE('DB_USERNAME', 'root');
- DEFINE('DB_PASSWORD', 'root');
- DEFINE('DB_HOST', 'localhost');
- DEFINE('DB_DATABASE', 'performance_schema');
+$user = 'root';
+$password = 'root';
+$db = 'inventory';
+$host = 'localhost';
+$port = 8889;
 
- $mysqli = new mysqli(DB_HOST, DB_USERNAME, DB_PASSWORD, DB_DATABASE);
+$link = mysqli_init();
+$success = mysqli_real_connect(
+   $link, 
+   $host, 
+   $user, 
+   $password, 
+   $db,
+   $port
+);
 
- if (mysqli_connect_error()) {
-  die('Connect Error ('.mysqli_connect_errno().') '.mysqli_connect_error());
- }
-
- echo 'Connected successfully.';
-
- $mysqli->close();
 ?>
 
 ---
