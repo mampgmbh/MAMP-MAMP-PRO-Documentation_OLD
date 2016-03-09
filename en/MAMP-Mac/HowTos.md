@@ -73,17 +73,17 @@ The MySQL server of MAMP uses the Default Storage Engine MyISAM. If you want to 
 
 3. Open Terminal.app located in /Applications/Utilities .
 
-4. Type in the following
+4. Type the following
 
         `cd /Applications/MAMP/Library/bin`
 
-Hit Enter
+        Hit Enter
 
-5. Type in the following
+5. Type the following
 
         `./mysql --host=localhost -u root -proot`
 
-Hit Enter
+        Hit Enter
 
 Now you can use the MySQL command line. For example type the following in the command line to show all your databases.
 
