@@ -10,7 +10,7 @@ language: de
 
 ### Editing
 
-![MAMP](Editing.png)
+![MAMP](Editieren.png)
 
 *  **Auto-Save:**  
     *  **Save automatically when closing a modified document**
@@ -49,11 +49,11 @@ language: de
 
 ### Colors
 
-![MAMP](Colors.png)
+![MAMP](Farben.png)
 
 ---
 
 ### External Apps
 
-![MAMP](DefaultApps.png)
+![MAMP](StandardApps.png)
 
