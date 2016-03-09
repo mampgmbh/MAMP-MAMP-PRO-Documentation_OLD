@@ -16,13 +16,14 @@ Die Schaltfläche Ports auf 80, 443 & 3306 setzen stellt die Portnummern auf die
 ![MAMP](Ports.png)
 
 
-### 
 *  **Apache und MySQL als Benutzer starten:** 
 Jedes Programm wird unter einem bestimmten Benutzer des Betriebssystems ausgeführt. Üblich ist der Benutzer www für den Webserver und der Benutzer mysql für den MySQL-Datenbankserver. Werden Dateien häufig mit externen Editoren bearbeitet, vermeidet man Schwierigkeiten mit den Zugriffsrechten, wenn die Server unter dem eigenen Benutzernamen laufen. Wählen sie in der Auswahlbox unter welchem Benutzer die Server gestartet werden sollen.
 
+<div class="alert" role="alert">
 Hinweis: Sie sollten die Server nur unter Ihrem eigenen Benutzernamen starten, wenn der Rechner ausreichend gegen potenziell bösartige Zugriffe aus dem Internet geschützt ist. Ansonsten könnten kompromittierte Skripte auf dem Webserver den uneingeschränkten Zugriff auf Ihre persönlichen Daten ermöglichen.
 Apache und MySQL beim Systemstart automatisch starten
 Die Apache- und MySQL-Server werden beim Start des Betriebssystems automatisch gestartet, d.h. die Dienste stehen schon vor der Benutzeranmeldung zur Verfügung.
+</div>
 
 *  **Beim Öffnen von MAMP PRO Apache und MySQL starten**
 Die Serverdienste werden beim Öffnen von MAMP PRO automatisch gestartet.
