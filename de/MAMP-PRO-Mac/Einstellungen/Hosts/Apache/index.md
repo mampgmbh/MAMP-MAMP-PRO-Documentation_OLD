@@ -21,12 +21,12 @@ Hier legen Sie erweiterte Optionen für den in der Tabelle markierten virtuellen
          Erlaubt die Verwendung von Server Side Includes (SSI).
 
     *  **FollowSymLinks** 
-         Erlaubt die Verwendung von symbolischen Links als Verweise auf Dokumente die in anderen Verzeichnissen liegen. Dies          ist hilfreich falls man auf Objekte verweisen will, die sich außerhalb des URL-Baums befinden (z. B.            Protokolldateien des Webservers).
+         Erlaubt die Verwendung von symbolischen Links als Verweise auf Dokumente die in anderen Verzeichnissen liegen. Dies          ist hilfreich falls man auf Objekte verweisen will, die sich außerhalb des URL-Baums befinden (z. B.                         Protokolldateien des Webservers).
 
     *  **SymLinksIfOwnerMatch** 
          Dies ist eine eingeschränkte Version von FollowSymLinks, erlaubt sind nur Verweise auf Objekte derselben                     Benutzerkennung.
 
-    *  **ExecCGI** 
+    *  **ExecCGI**
          Hiermit erlauben Sie die Ausführung von CGI-Skripten auf Ihrem virtuellen Host.
 
     *  **MultiViews** 
