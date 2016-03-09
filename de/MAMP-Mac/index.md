@@ -1,6 +1,9 @@
 ---
-title: MAMP-Dokumentation
-description: Das ist die MAMP-Dokumentation
+title: MAMP Dokumentation
+description: MAMP Dokumentation
+layout: default-2
+product: MAMP Mac
+language: de
 ---
 
 {% include_relative Installation.md %}
