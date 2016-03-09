@@ -16,21 +16,22 @@ Die Schaltfläche Ports auf 80, 443 & 3306 setzen stellt die Portnummern auf die
 ![MAMP](Ports.png)
 
 
-### Apache und MySQL als Benutzer starten
+### 
+*  **Apache und MySQL als Benutzer starten:** 
 Jedes Programm wird unter einem bestimmten Benutzer des Betriebssystems ausgeführt. Üblich ist der Benutzer www für den Webserver und der Benutzer mysql für den MySQL-Datenbankserver. Werden Dateien häufig mit externen Editoren bearbeitet, vermeidet man Schwierigkeiten mit den Zugriffsrechten, wenn die Server unter dem eigenen Benutzernamen laufen. Wählen sie in der Auswahlbox unter welchem Benutzer die Server gestartet werden sollen.
 
 Hinweis: Sie sollten die Server nur unter Ihrem eigenen Benutzernamen starten, wenn der Rechner ausreichend gegen potenziell bösartige Zugriffe aus dem Internet geschützt ist. Ansonsten könnten kompromittierte Skripte auf dem Webserver den uneingeschränkten Zugriff auf Ihre persönlichen Daten ermöglichen.
 Apache und MySQL beim Systemstart automatisch starten
 Die Apache- und MySQL-Server werden beim Start des Betriebssystems automatisch gestartet, d.h. die Dienste stehen schon vor der Benutzeranmeldung zur Verfügung.
 
-### Beim Öffnen von MAMP PRO Apache und MySQL starten
+*  **Beim Öffnen von MAMP PRO Apache und MySQL starten**
 Die Serverdienste werden beim Öffnen von MAMP PRO automatisch gestartet.
 
-### Beim Beenden von MAMP PRO Apache und MySQL stoppen
+*  **Beim Beenden von MAMP PRO Apache und MySQL stoppen**
 Die Serverdienste werden beim Beenden von MAMP PRO automatisch gestoppt.
 
-### Logdateien bei Server-Start löschen
+*  **Logdateien bei Server-Start löschen**
 Die Logdateien werden vor dem Starten der Serverdienste geleert. Dadurch sind immer nur Einträge seit dem letzten Serverstart in den Logdateien enthalten.
 
-### Fehlerdatei von Apache
+*  **Fehlerdatei von Apache**
 Sollte es beim Starten oder während des Betriebs des Apache-Servers zu Fehlern kommen, werden diese in einer Logdatei festgehalten. Legen Sie hier fest, wo diese Datei gespeichert werden soll.
