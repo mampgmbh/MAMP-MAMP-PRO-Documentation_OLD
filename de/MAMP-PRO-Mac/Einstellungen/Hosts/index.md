@@ -8,7 +8,7 @@ language: de
 
 ## Einstellungen > Hosts
 
-- [Algemein](Algemein/)  
+- [Allgemein](Allgemein/)  
 - [Apache](Apache/)  
 - [Nginx](Nginx/)  
 - [SSL](SSL/)
