@@ -8,6 +8,12 @@ language: de
 
 ## Sprachen > PHP
 
-PHP is a popular web scripting programming language. MAMP PRO installs several versions of the PHP script interpreter.
+PHP ist eine weit verbreitete Web-Scripting Programmiersprache. MAMP PRO installiert mehrere Versionen der PHP-Skript-Interpreter.
 
 ![MAMP](php.png)
+
+---
+
+*  **Standardversion**  
+   Wählen Sie die PHP-Version aus, die Sie als Standard verwenden möchten. Diese Version wird  dann für alle Hosts              verwendet, solange Sie sich in der Betriebsart Modul (siehe folgenden Abschnitt) befinden.
+
