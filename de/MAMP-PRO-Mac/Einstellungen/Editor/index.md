@@ -8,7 +8,7 @@ language: de
 
 ## Editor
 
-### Editing
+### Editieren
 
 ![MAMP](Editieren.png)
 
@@ -47,13 +47,13 @@ language: de
 
 ---
 
-### Colors
+### Farben
 
 ![MAMP](Farben.png)
 
 ---
 
-### External Apps
+### Externe Apps
 
 ![MAMP](StandardApps.png)
 
