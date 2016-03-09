@@ -42,7 +42,7 @@ PHP ist eine weit verbreitete Web-Scripting Programmiersprache. MAMP PRO install
 
 ---
 
-*  **Zu protokollierende Fehler**
+*  **Zu protokollierende Fehler**  
    Hier legen Sie fest, was während der Ausführung eines Scripts protokolliert werden soll:
 
    Fehler anzeigen, die beim Start von PHP auftreten: Zeichnet PHP-Fehler auf, die auftreten, wenn Apache das PHP-Module       lädt.
