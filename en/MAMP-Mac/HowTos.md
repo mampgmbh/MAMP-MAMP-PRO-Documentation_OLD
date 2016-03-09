@@ -45,7 +45,7 @@ The MySQL server of MAMP uses the Default Storage Engine MyISAM. If you want to 
 Stop the MAMP Server if it is running.
 Use a text editor to create a file named my.cnf and save it to the /Applications/MAMP/conf folder.
 Add the following lines into the file:
-[mysqld]default-storage-engine = InnoDB
+`[mysqld]default-storage-engine = InnoDB`
 Save the file and close your editor.
 Start the MAMP servers. Use MySQL command line.
 
@@ -61,12 +61,12 @@ Open Terminal.app (/Applications/Utilities)
 
 Type in and hit Enter
 
-cd /Applications/MAMP/Library/bin
+`cd /Applications/MAMP/Library/bin`
 Type in and hit Enter
 
-./mysql --host=localhost -u root -proot
+`./mysql --host=localhost -u root -proot`
 Now you can use the MySQL command line. For example to show all your databases with:
-show databases;
+`show databases;`
 
 ---
 
