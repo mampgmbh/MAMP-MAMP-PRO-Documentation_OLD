@@ -59,6 +59,7 @@ PHP ist eine weit verbreitete Web-Scripting Programmiersprache. MAMP PRO install
  
 ---
    
-*  **Fehlerprotokoll**
+
+*  **Fehlerprotokoll**  
    Hier legen Sie fest, ob das Fehlerprotokoll auf dem Bildschirm angezeigt und/oder in einer Logdatei protokolliert werden     soll. Den Speicherort dieser Datei dürfen Sie frei wählen.
    
