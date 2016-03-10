@@ -22,6 +22,6 @@ To enable the PHP scripting language you must activate the php_module, if you wa
 
 Information on custom configuring your MAMP PRO Apache Server installation can be found [here](../../Settings/Hosts/Apache) .
 
-For more information on Apache Server see [https://httpd.apache.org](https://httpd.apache.org).
+For more further information on Apache Server see [https://httpd.apache.org](https://httpd.apache.org).
 
 ![MAMP](Apache.png)
