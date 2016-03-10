@@ -24,7 +24,7 @@ Your default host for MAMP PRO is `localhost`. The files for localhost are initi
 *  **MAMP PRO**  
    Open the http://mamp.info web page.
 *  **Customize**  
-   Make changes to your toolbar.
+   Customize your toolbar. Additional information about the toolbar can be found in the Customize section.
 *  **Editor**  
    Open the MAMP PRO Editor.
 *  **WebStart**  
