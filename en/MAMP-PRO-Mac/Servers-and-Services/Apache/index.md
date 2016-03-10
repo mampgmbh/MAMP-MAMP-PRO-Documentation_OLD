@@ -22,6 +22,6 @@ To enable the PHP scripting language you must activate the php_module, if you wa
 
 Information on how to custom configure your Apache Server can be found [here](../../Settings/Hosts/Apache) .
 
-See [https://httpd.apache.org](https://httpd.apache.org)for more information on Apache Server.
+See [https://httpd.apache.org](https://httpd.apache.org) for more information on Apache Server.
 
 ![MAMP](Apache.png)
