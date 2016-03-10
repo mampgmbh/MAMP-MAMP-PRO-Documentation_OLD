@@ -58,14 +58,12 @@ The MySQL database server is a popular database used on production servers. An i
    MAMP PRO comes pre-installed with several MySQL administration tools.
 
     *  **phpMyAdmin** is a web-based administrational tool. It allows you to change data and perform administrative duties
-       like creating new databases. See [https://www.phpmyadmin.net](https://www.phpmyadmin.net){:target="_blank"}
-      for more information.
+       like creating new databases. See [https://www.phpmyadmin.net](https://www.phpmyadmin.net) for more information.
 
     *  **Sequel Pro** is a native Mac application. It allows you to create and visualise database schemas in addition
        to administrative duties.
 
-    *  **MySQLWorkbench** is also a native Mac application from the makers of MySQL. It allows you to visually create database
-       schemas in addition to administrative duties.
+    *  **MySQLWorkbench** is also a native Mac application from the makers of MySQL. It allows you to visually create                 database schemas in addition to administrative duties.
 
 ---
 
