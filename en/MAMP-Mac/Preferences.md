@@ -17,9 +17,9 @@
 
 ---
 
-![MAMP](Ports.png)
-
 ### Ports
+
+![MAMP](Ports.png)
 
 Server programs, when addressed via the network, need to be assigned to a certain network port. This way, multiple server programs may run on one server machine. Every service has a default port: The Apache web server typically uses port 80, the MySQL database server utilises port 3306.
 
@@ -31,9 +31,9 @@ If you want MAMP to be available via the Internet please make sure that the conf
 
 ---
 
-![MAMP](PHP.png)
-
 ### PHP
+
+![MAMP](PHP.png)
 
 *   **Standard Version**  
    Choose whether PHP 5.5.18 or PHP 5.6.2 is used. The available PHP versions depend on the installed version of MAMP.
@@ -42,9 +42,9 @@ If you want MAMP to be available via the Internet please make sure that the conf
 
 ---
 
-![MAMP](WebServer.png)
-
 ### Web Server
+
+![MAMP](WebServer.png)
 
 *   **Web Server**
    Choose either the Apache or Nginx web server.
@@ -53,9 +53,9 @@ If you want MAMP to be available via the Internet please make sure that the conf
 
 ---
 
-![MAMP](MySQL.png)
-
 ### MySQL
+
+![MAMP](MySQL.png)
 
 The MySQL database server is a popular database used on production servers. Several installations of MySQL are installed on your computer by MAMP.
 
@@ -75,9 +75,9 @@ The MySQL database server is a popular database used on production servers. Seve
 
 ---
 
-![MAMP](WebStart.png)
-
 ### Open WebStart Page
+
+![MAMP](WebStart.png)
 
 The default MAMP start page provides links to access utilities such as phpMyAdmin, phpInfo, SQLite Manager, phpLiteAdmin, FAQ, MyFavoriteLink and the MAMP Website.
 
