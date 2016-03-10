@@ -13,13 +13,22 @@ The MySQL database server is a popular database used on production servers. An i
 ![MAMP](MySQL.png)
 
 
-*  **Activate MySQL server**  
+*  **Activate MySQL server**
+   Check to activate the MySQL Server. MySQL will not start when this checkbox is not checked.
 
 ---
 
-*  **Version**  
+*  **Version**
+   Change the version of MySQL that will be launched.
+   <div class="alert" role="alert">
+   Data created in MySQL 5.6 or MySQL 5.7 it will not be accesible when launching MySQL 5.5 
+   </div>
 
-*  **Data directory**  
+*  **Data directory** 
+   Displays the location of your MySQL Data. This location cannot be changed.
+   <div class="alert" role="alert">
+   The MAMP PRO Uninstaller will delete this directory. Make backups before using the uninstller!
+   </div>
 
 ---
 
