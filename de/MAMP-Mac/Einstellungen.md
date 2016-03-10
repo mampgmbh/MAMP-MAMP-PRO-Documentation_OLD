@@ -1,5 +1,7 @@
 ## Einstellungen
 
+---
+
 ### Start/Stopp
 
 ![MAMP](StartStop.png)
@@ -15,6 +17,8 @@
 *   **My Favorite Link**  
    A link to this address will appear on the top menu of your Webstart page.
 
+---
+
 ### Ports
 
 ![MAMP](Ports.png)
@@ -27,6 +31,8 @@ Mit dem Button Apache- & MySQL Ports auf 80 & 3306 setzen stellen die Einstellun
 
 Soll MAMP auch von außen über das Internet erreichbar sein, so achten Sie bitte darauf, dass die hier konfigurierten Ports auch in Ihrer Firewall geöffnet sind.
 
+---
+
 ### PHP
 
 ![MAMP](PHP.png)
@@ -36,6 +42,7 @@ Soll MAMP auch von außen über das Internet erreichbar sein, so achten Sie bitt
 *   **Cache**  
    Wählen Sie eine PHP-Caching Option. Caching kann die Ausführung von PHP-Code beschleunigen. Die Standard-Caching-Option      ist aus. OPcache funktioniert nur mit PHP 5.5.x, eAccelerator nur mit PHP-Versionen vor 5.5.
 
+---
 
 ### WebServer
 
@@ -45,6 +52,30 @@ Soll MAMP auch von außen über das Internet erreichbar sein, so achten Sie bitt
    Apache oder Nginx web server wahlen.
 *   **Document Root** 
    Das Verzeichnis, welches Ihrer Webseiten enthält, heißt Document Root oder Stammverzeichnis. Nach der Installation lautet    es: /Programme/MAMP/htdocs. Klicken Sie auf ,um es auf einen anderen Ordner festzulegen.
+
+---
+
+### MySQL
+
+![MAMP](MySQL.png)
+
+The MySQL database server is a popular database used on production servers. Several installations of MySQL are installed on your computer by MAMP.
+
+*   **Upgrading**  
+    To upgrade your MySQL for MAMP you need to shut down your servers (maybe). Upgrade your MySQL by dragging                    /Applications/MAMP/bin/activateMySQL_5xx.sh from your Finder window into a Terminal window and pressing Enter.
+
+   Alternitavely you can open a terminal and type the following. You will be upgraded to MySQL 5.6. 
+
+   `/Applications/MAMP/bin/./activateMySQL_56.sh`
+
+   <div class="alert" role="alert">
+   Data you have entered using MySQL 5.6 or 5.7 cannot be transitioned back to 5.5.
+   </div>
+
+*   **Reverting**  
+    Reverting the MySQL software back to 5.5.x is easy, just re-install MAMP and MAMP PRO. Data you have entered using MySQL     5.6 will not be transitioned back to 5.5.
+
+---
 
 ### Webstartseite öffnen
 
