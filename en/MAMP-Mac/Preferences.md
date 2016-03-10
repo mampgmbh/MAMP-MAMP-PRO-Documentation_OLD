@@ -60,18 +60,18 @@ If you want MAMP to be available via the Internet please make sure that the conf
 The MySQL database server is a popular database used on production servers. Several installations of MySQL are installed on your computer by MAMP.
 
 *   **Upgrading**
-To upgrade your MySQL for MAMP you need to shut down your servers (maybe). Upgrade your MySQL by dragging /Applications/MAMP/bin/activateMySQL_5xx.sh from your Finder window into a Terminal window and pressing Enter.
+    To upgrade your MySQL for MAMP you need to shut down your servers (maybe). Upgrade your MySQL by dragging                    /Applications/MAMP/bin/activateMySQL_5xx.sh from your Finder window into a Terminal window and pressing Enter.
 
-Alternitavely you can open a terminal and type the following. You will be upgraded to MySQL 5.6 . 
+   Alternitavely you can open a terminal and type the following. You will be upgraded to MySQL 5.6 . 
 
-` cd /Applications/MAMP/bin/./activateMySQL_56.sh`
+   ` cd /Applications/MAMP/bin/./activateMySQL_56.sh`
 
-<div class="alert" role="alert">
-Data you have entered using MySQL 5.6 or 5.7 cannot be transitioned back to 5.5.
-</div>
+   <div class="alert" role="alert">
+   Data you have entered using MySQL 5.6 or 5.7 cannot be transitioned back to 5.5.
+   </div>
 
 *   **Reverting**  
-Reverting the MySQL software back to 5.5.x is easy, just re-install MAMP and MAMP PRO. Data you have entered using MySQL 5.6 will not be transitioned back to 5.5.
+    Reverting the MySQL software back to 5.5.x is easy, just re-install MAMP and MAMP PRO. Data you have entered using MySQL     5.6 will not be transitioned back to 5.5.
 
 ---
 
