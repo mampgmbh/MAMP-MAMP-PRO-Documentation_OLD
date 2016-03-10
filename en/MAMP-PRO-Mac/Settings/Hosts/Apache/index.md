@@ -36,6 +36,8 @@ Apache options can be set for the selected virtual host in the table. These opti
     *  **Multiviews**  
        Allows the use or disabling of dynamic documents depending on the language.
 
+---
+
 *  **Additional parameters for &lt;Directory&gt; directive**  
 
    *  **Directory Index**  
@@ -52,6 +54,8 @@ Apache options can be set for the selected virtual host in the table. These opti
 <div class="alert" role="alert">
 Note: Watch out for typos, they will otherwise prevent Apache from starting up.
 </div>
+
+---
 
 *  **httpd.conf File**
    You cannot directly you httpd.conf file in MAMP PRO. You need to make custom configurations through your httpd.conf          template file. Information on how to configure your httpd.conf template file can be found here.
