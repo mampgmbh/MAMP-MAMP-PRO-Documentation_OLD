@@ -60,6 +60,7 @@ If you want MAMP to be available via the Internet please make sure that the conf
 The MySQL database server is a popular database used on production servers. Several installations of MySQL are installed on your computer by MAMP. 
 
 To switch between MySQL versions you need to run a script.
+
 ---
 
 ![MAMP](WebStart.png)
