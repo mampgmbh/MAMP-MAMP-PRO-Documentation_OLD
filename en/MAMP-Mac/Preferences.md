@@ -1,8 +1,8 @@
 ## Preferences
 
-![MAMP](StartStop.png)
-
 ### Start/Stop
+
+![MAMP](StartStop.png)
 
 *   **Start Servers**  
    The Apache and MySQL services will start automatically when you launch MAMP.
