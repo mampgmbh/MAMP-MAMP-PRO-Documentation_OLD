@@ -10,6 +10,8 @@ language: en
 
 Nginx is a Server ....
 
+Information on how to custom configure your Nginx Server can be found [here](../../Settings/Hosts/Nginx)
+
 ![MAMP](nginX.png)
 
 
