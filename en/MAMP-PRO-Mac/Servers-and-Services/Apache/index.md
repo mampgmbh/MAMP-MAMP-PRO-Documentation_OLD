@@ -20,8 +20,8 @@ The web server modules can be activated or deactivated depending on your needs. 
 
 To enable the PHP scripting language you must activate the php_module, if you want to use Python you need mod_wsgi module, Perl needs perl_module. In order to switch to CGI mode and use multiple PHP versions you must activate cgi_module.
 
-Information on how to custom configure your Apache Server can be found [here](../../Settings/Hosts/Apache) .
+Information on how to custom configure your MAMP PRO Apache Server installation can be found [here](../../Settings/Hosts/Apache) .
 
-See [https://httpd.apache.org](https://httpd.apache.org) for more information on Apache Server.
+For more information on Apache Server see [https://httpd.apache.org](https://httpd.apache.org).
 
 ![MAMP](Apache.png)
