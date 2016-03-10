@@ -37,7 +37,7 @@ The MySQL database server is a popular database used on production servers. An i
    Therefore you should set the password to one only you know.  
    
    <div class="alert" role="alert"> 
-   Note: The default password of root is "root". To make things even more confusing there is    also a user root inside Mac     OS X. Don't confuse them. You can also use one of the MySQL administration tools to create other MySQL users if you do not    want to use almighty root.*
+   Note: The default password of root is "root". To make things even more confusing there is also a user root inside Mac        OS X. Don't confuse them. You can also use one of the MySQL administration tools to create other MySQL users if you do not    want to use almighty root.*
    </div>
 
 ---
@@ -47,7 +47,7 @@ The MySQL database server is a popular database used on production servers. An i
    even from programs installed locally.
 
    <div class="alert" role="alert"> 
-   Note: This is an advanced feature not need for local development.
+   Note: This is an advanced feature not needed for local development.
    </div>
    
     *  **only from this Mac**  
