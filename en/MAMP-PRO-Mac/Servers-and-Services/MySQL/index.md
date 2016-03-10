@@ -21,7 +21,7 @@ The MySQL database server is a popular database used on production servers. An i
 *  **Version**
    Change the version of MySQL that will be launched.
    <div class="alert" role="alert">
-   Data created in MySQL 5.6 or MySQL 5.7 it will not be accesible when launching MySQL 5.5 
+   Data created using MySQL 5.6 or MySQL 5.7 it will not be accesible when launching MySQL 5.5 
    </div>
 
 *  **Data directory** 
@@ -58,7 +58,8 @@ The MySQL database server is a popular database used on production servers. An i
    MAMP PRO comes pre-installed with several MySQL administration tools.
 
     *  **phpMyAdmin** is a web-based administrational tool. It allows you to change data and perform administrative duties
-       like creating new databases.
+       like creating new databases. See [https://www.phpmyadmin.net](https://www.phpmyadmin.net){:target="_blank"}
+      for more information.
 
     *  **Sequel Pro** is a native Mac application. It allows you to create and visualise database schemas in addition
        to administrative duties.
