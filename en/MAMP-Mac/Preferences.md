@@ -15,6 +15,8 @@
 *   **My Favorite Link**  
    A link to this address will appear on the top menu of your Webstart page.
 
+---
+
 ### Ports
 
 ![MAMP](Ports.png)
@@ -27,6 +29,8 @@ The button Set Apache & MySQL ports to 80 & 3306 will set the ports to the value
 
 If you want MAMP to be available via the Internet please make sure that the configured ports are opened in your firewall.
 
+---
+
 ### PHP
 
 ![MAMP](PHP.png)
@@ -36,6 +40,7 @@ If you want MAMP to be available via the Internet please make sure that the conf
 *   **Cache**  
    Caching can speed up the execution of your PHP code. The default caching option is off. OPcache is only available with PHP    5.5.x, eAccelerator only with versions before 5.5.
 
+---
 
 ### Web Server
 
@@ -45,6 +50,14 @@ If you want MAMP to be available via the Internet please make sure that the conf
    Choose either the Apache or Nginx web server.
 *   **Document Root** 
    Click on  to select where your html/PHP files and images are stored. This directory is called Document Root. The default     Document Root in MAMP is: `/Applications/MAMP/htdocs`.
+
+---
+
+### MySQL
+
+![MAMP](MySQL.png)
+
+You have the choice of three different MySQL versions ... 
 
 ### Open WebStart Page
 
