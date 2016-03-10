@@ -59,7 +59,7 @@ If you want MAMP to be available via the Internet please make sure that the conf
 
 The MySQL database server is a popular database used on production servers. Several installations of MySQL are installed on your computer by MAMP.
 
-*   **Upgrading**
+*   **Upgrading**  
     To upgrade your MySQL for MAMP you need to shut down your servers (maybe). Upgrade your MySQL by dragging                    /Applications/MAMP/bin/activateMySQL_5xx.sh from your Finder window into a Terminal window and pressing Enter.
 
    Alternitavely you can open a terminal and type the following. You will be upgraded to MySQL 5.6 . 
