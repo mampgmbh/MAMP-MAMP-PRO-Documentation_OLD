@@ -1,8 +1,8 @@
 ## Preferences
 
-### Start/Stop
-
 ![MAMP](StartStop.png)
+
+### Start/Stop
 
 *   **Start Servers**  
    The Apache and MySQL services will start automatically when you launch MAMP.
@@ -17,9 +17,9 @@
 
 ---
 
-### Ports
-
 ![MAMP](Ports.png)
+
+### Ports
 
 Server programs, when addressed via the network, need to be assigned to a certain network port. This way, multiple server programs may run on one server machine. Every service has a default port: The Apache web server typically uses port 80, the MySQL database server utilises port 3306.
 
@@ -31,9 +31,9 @@ If you want MAMP to be available via the Internet please make sure that the conf
 
 ---
 
-### PHP
-
 ![MAMP](PHP.png)
+
+### PHP
 
 *   **Standard Version**  
    Choose whether PHP 5.5.18 or PHP 5.6.2 is used. The available PHP versions depend on the installed version of MAMP.
@@ -42,9 +42,9 @@ If you want MAMP to be available via the Internet please make sure that the conf
 
 ---
 
-### Web Server
-
 ![MAMP](WebServer.png)
+
+### Web Server
 
 *   **Web Server**
    Choose either the Apache or Nginx web server.
@@ -53,15 +53,17 @@ If you want MAMP to be available via the Internet please make sure that the conf
 
 ---
 
-### MySQL
-
 ![MAMP](MySQL.png)
+
+### MySQL
 
 You have the choice of three different MySQL versions ... 
 
-### Open WebStart Page
+---
 
 ![MAMP](WebStart.png)
+
+### Open WebStart Page
 
 The default MAMP start page provides links to access utilities such as phpMyAdmin, phpInfo, SQLite Manager, phpLiteAdmin, FAQ, MyFavoriteLink and the MAMP Website.
 
