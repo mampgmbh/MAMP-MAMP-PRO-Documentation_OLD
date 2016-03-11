@@ -42,11 +42,11 @@ Find videos on how to MAMP PRO here ...
 
 *  **[Connecting To Your Database With Sequel Pro](https://www.youtube.com/watch?v=MyNIr7XUpBI){:target="_blank"}** 
 
-   This video includes information on finding your socket ... blah blah
+   This video explains how to access your MAMP PRO MySQL database data through Sequel Pro. SequelPro is a database management    tool for OS X. Learn more about SequelPro
 
 *  **[Using CODA With MAMP PRO](https://www.youtube.com/watch?v=e9pnimdCygw){:target="_blank"}** 
 
-   This video contains blah ...
+   This video describes how to point your Coda project 'Website' to an existing host on MAMP PRO. Coda is an editor for OS X    by Panic Inc. Learn more about Coda: https://panic.com/coda/
 
 *  **[Using Dreamweaver With MAMP PRO](https://www.youtube.com/watch?v=EoW55awCHLc){:target="_blank"}**
 
