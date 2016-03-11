@@ -133,34 +133,33 @@ The following list contains all files which are created and changed by MAMP PRO 
 
 Click on the following links for further information on
 
-
-*  **[Apache Server](https://httpd.apache.org){:target="_blank"}*
+[Apache Server](https://httpd.apache.org){:target="_blank"}
   
-*  **[Nginx Server](https://httpd.apache.org){:target="_blank"}*
+[Nginx Server](https://httpd.apache.org){:target="_blank"}
 
-*  **[MySQL](https://www.mysql.com){:target="_blank"}*  
+[MySQL](https://www.mysql.com){:target="_blank"}
 
-*  **[PHP](http://php.net){:target="_blank"}* 
+[PHP](http://php.net){:target="_blank"}
 
-*  **[Ruby](http://www.ruby-lang.org/en/){:target="_blank"}* 
+[Ruby](http://www.ruby-lang.org/en/){:target="_blank"}
 
-*  **[Perl](https://www.perl.org){:target="_blank"}* 
+[Perl](https://www.perl.org){:target="_blank"}
 
-*  **[Python](https://www.python.org){:target="_blank"}*
+[Python](https://www.python.org){:target="_blank"}
   
-*  **[MacGDP](https://httpd.apache.org){:target="_blank"}*
-  
-*  **[APC](http://php.net/manual/en/book.apc.php){:target="_blank"}*
+[MacGDP](https://httpd.apache.org){:target="_blank"}
 
-*  **[eaccelerator](http://eaccelerator.net){:target="_blank"}*
+[APC](http://php.net/manual/en/book.apc.php){:target="_blank"}
 
-*  **[xcache](https://xcache.lighttpd.net){:target="_blank"}*
+[eaccelerator](http://eaccelerator.net){:target="_blank"}
 
-*  **[opcache](http://php.net/manual/en/book.opcache.php){:target="_blank"}*
+[xcache](https://xcache.lighttpd.net){:target="_blank"}
 
-*  **[phpMyAdmin](https://www.phpmyadmin.net){:target="_blank"}* 
+[opcache](http://php.net/manual/en/book.opcache.php){:target="_blank"}
 
-*  **[Sequel Pro](http://www.sequelpro.com){:target="_blank"}* 
+[phpMyAdmin](https://www.phpmyadmin.net){:target="_blank"}
 
-*  **[MySQL Workbench](http://mysqlworkbench.org){:target="_blank"}* 
+[Sequel Pro](http://www.sequelpro.com){:target="_blank"}
+
+[MySQL Workbench](http://mysqlworkbench.org){:target="_blank"}
 
