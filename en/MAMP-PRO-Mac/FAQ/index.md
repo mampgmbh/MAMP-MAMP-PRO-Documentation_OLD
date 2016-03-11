@@ -135,10 +135,10 @@ Click on the following links for further information on
 
 *  **[Apache Server](https://httpd.apache.org){:target="_blank"}*
   
-*  **[[APC](http://php.net/manual/en/book.apc.php){:target="_blank"}*
+*  **[APC](http://php.net/manual/en/book.apc.php){:target="_blank"}*
 
-*  **[[eaccelerator](http://eaccelerator.net){:target="_blank"}*
+*  **[eaccelerator](http://eaccelerator.net){:target="_blank"}*
 
-*  **[[xcache](https://xcache.lighttpd.net){:target="_blank"}*
+*  **[xcache](https://xcache.lighttpd.net){:target="_blank"}*
 
-*  **[[opcache](http://php.net/manual/en/book.opcache.php){:target="_blank"}*
+*  **[opcache](http://php.net/manual/en/book.opcache.php){:target="_blank"}*
