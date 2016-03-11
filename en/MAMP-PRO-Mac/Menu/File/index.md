@@ -47,9 +47,13 @@ language: en
      
 *  **Import Template:**
      Import external templates.
+     
      <div class="alert" role="alert">
      Importing templates made in a different version of MAMP PRO may cause some configuration files to be invalid thus           preventing servers from being started.
      </div>
+
+[MAMP PRO and httpd.conf, php.ini, my.cnf](https://www.youtube.com/watch?v=uh6s7uMCISU){:target="_blank"}
+
 ---
 
 *  **Factory Settings:**
