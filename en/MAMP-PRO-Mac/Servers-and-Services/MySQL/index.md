@@ -69,7 +69,7 @@ The MySQL database server is a popular database used on production servers. An i
 
     *  **MySQLWorkbench** is also a native Mac application from the makers of MySQL. It allows you to visually create                 database schemas in addition to administrative duties.
     
-    https://www.youtube.com/watch?v=4ZqfrWX82vo
+    ![MAMP](../Videos/MAMPtv.png) [Installing MAMP PRO](https://www.youtube.com/watch?v=MyNIr7XUpBI){:target="_blank"}
 
 ---
 
