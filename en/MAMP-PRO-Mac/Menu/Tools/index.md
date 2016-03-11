@@ -33,7 +33,7 @@ language: en
 
      When tranferring databases ...
       
-     ![MAMP](transferDB.png)
+     ![MAMP](DBTransfer.png)
       
      You can only transfer to a higher version ...
 
