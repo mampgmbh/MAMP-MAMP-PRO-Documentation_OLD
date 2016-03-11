@@ -26,6 +26,6 @@ Press the 'Servers' button in the upper right corner to launch you servers. Your
 
 Your database data is copied from your MAMP database data folder to your MAMP PRO database data location when you launch the servers in MAMP PRO for the first time. It is important to remember MAMP PRO will only copy your data once.
 
-Your MAMP database data is located in `/Applications/MAMP/db
+Your MAMP database data is located in `/Applications/MAMP/db`
 
-Your MAMP PRO database data is located in /Library/application data/appsolute/MAMP PRO/db
+Your MAMP PRO database data is located in `/Library/application data/appsolute/MAMP PRO/db`
