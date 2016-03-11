@@ -48,7 +48,16 @@
 		{% endif %}
 	</li>
 	<li><a href="/MAMP-MAMP-PRO-Documentation/en/MAMP-PRO-Mac/Customize/">Customize</a></li>
-	<li><a href="/MAMP-MAMP-PRO-Documentation/en/MAMP-PRO-Mac/Menu/">Menu</a></li>
+	<li>
+		<a href="/MAMP-MAMP-PRO-Documentation/en/MAMP-PRO-Mac/Menu/">Menu</a>
+		{% if page_url contains "/en/MAMP-PRO-Mac/Menu/" %}
+		<ul class="no-bullets">
+			<li><a href="/MAMP-MAMP-PRO-Documentation/en/MAMP-PRO-Mac/Menu/MAMP-PRO/">MAMP PRO</a></li>
+			<li><a href="/MAMP-MAMP-PRO-Documentation/en/MAMP-PRO-Mac/Menu/File/">File</a></li>
+			<li><a href="/MAMP-MAMP-PRO-Documentation/en/MAMP-PRO-Mac/Menu/Tools/">Tools</a></li>
+		</ul>
+		{% endif %}
+	</li>
 	<li><a href="/MAMP-MAMP-PRO-Documentation/en/MAMP-PRO-Mac/Editor/">Editor</a></li>
 	<li><a href="/MAMP-MAMP-PRO-Documentation/en/MAMP-PRO-Mac/Troubleshooting/">Troubleshooting</a></li>
 	<li><a href="/MAMP-MAMP-PRO-Documentation/en/MAMP-PRO-Mac/How-Tos/">How-Tos</a></li>
