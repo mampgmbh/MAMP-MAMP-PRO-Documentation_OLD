@@ -49,5 +49,5 @@ When MAMP PRO launched it's servers it (re) copied database data from the MAMP l
 
 A video is available on mamp.tv detailing how to upgrade from MAMP to MAMP PRO.
 
-[Upgrading From MAMP To MAMP PRO](https://www.youtube.com/watch?v=KOH8bvfE0a0}
+[Upgrading From MAMP To MAMP PRO](https://www.youtube.com/watch?v=KOH8bvfE0a0){:target="_blank"}
     
