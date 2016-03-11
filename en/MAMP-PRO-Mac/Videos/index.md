@@ -8,7 +8,9 @@ language: en
 
 ## Video Documentation
 
-![MAMP](MAMPtv.png)
+Find videos on how to MAMP PRO here ...
+
+
 
  
  
