@@ -44,4 +44,12 @@ Problems can occur if you had previously demoed MAMP PRO and launched your serve
 4. Open MAMP PRO and launch your servers.
 
 When MAMP PRO launched it's servers it (re) copied database data from the MAMP location to the MAMP PRO location because it did not detect a `/Library/application data/appsolute/MAMP PRO/db` folder. You should now be looking at your current database data.
+
+---
+
+
+
+A video is available on mamp.tv detailing how to upgrade from MAMP to MAMP PRO.
+
+*  **[Upgrading From MAMP To MAMP PRO](https://www.youtube.com/watch?v=KOH8bvfE0a0}*
     
