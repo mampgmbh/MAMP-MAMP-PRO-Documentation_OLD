@@ -37,6 +37,10 @@ To use MAMP PRO, your system must meet the following requirements:
 Note: You need administrator permissions to install MAMP PRO!
 </div>
 
+![MAMP](../Videos/MAMPtv.png) [Installing MAMP PRO](https://www.youtube.com/watch?v=4ZqfrWX82vo){:target="_blank"}
+
+---
+
 ### Uninstall
 
 Use the MAMP PRO Uninstaller located in `/Applications/MAMP PRO` to remove MAMP PRO.
