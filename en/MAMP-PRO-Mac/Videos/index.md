@@ -12,9 +12,9 @@ Find videos on how to MAMP PRO here ...
 
 *  **[Intoduction To MAMP And MAMP PRO](https://www.youtube.com/watch?v=bpHEutbHFPo){:target="_blank"}**
 
-### Installation, Upgrade And De-Installation
-
 ---
+
+### Installation, Upgrade And De-Installation
 
 *  **[Installing MAMP PRO](https://www.youtube.com/watch?v=4ZqfrWX82vo){:target="_blank"}**
 
@@ -35,10 +35,10 @@ Find videos on how to MAMP PRO here ...
 *  **[Uninstalling MAMP PRO](https://www.youtube.com/watch?v=Sjpdcnp92bY){:target="_blank"}**
 
    Information about  ...
-   
-### MAMP PRO With External Software
 
 ---
+
+### MAMP PRO With External Software
 
 *  **[Connecting To Your Database With Sequel Pro](https://www.youtube.com/watch?v=MyNIr7XUpBI){:target="_blank"}** 
 
@@ -55,10 +55,10 @@ Find videos on how to MAMP PRO here ...
 *  **[Using Wordpress With MAMP PRO](https://www.youtube.com/watch?v=6rMFZa2TOjg){:target="_blank"}**
 
    Information on installing Wordpress ...
-   
-### Additional MAMP PRO Videos
-
+ 
 ---
+
+### Additional MAMP PRO Videos
 
 *  **[Transferring Your Site To A Host Provider](https://www.youtube.com/watch?v=-3Fwyd5Okrg){:target="_blank"}**
 
