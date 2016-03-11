@@ -39,3 +39,4 @@ Problems can occur if you had previously demoed MAMP PRO and launched your serve
     3. Rename you `/db` folder to `/db_bak`.
     4. Open MAMP PRO and launch your servers.
     5. Verify that you have a `/Library/application data/appsolute/MAMP PRO/db` folder.
+    
