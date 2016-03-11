@@ -157,9 +157,9 @@ Click on the following links for further information on
 
 *  **[opcache](http://php.net/manual/en/book.opcache.php){:target="_blank"}*
 
-**[phpMyAdmin](https://www.phpmyadmin.net){:target="_blank"}* 
+* **[phpMyAdmin](https://www.phpmyadmin.net){:target="_blank"}* 
 
-**[Sequel Pro](http://www.sequelpro.com){:target="_blank"}* 
+* **[Sequel Pro](http://www.sequelpro.com){:target="_blank"}* 
 
-**[MySQL Workbench](http://mysqlworkbench.org){:target="_blank"}* 
+* **[MySQL Workbench](http://mysqlworkbench.org){:target="_blank"}* 
 
