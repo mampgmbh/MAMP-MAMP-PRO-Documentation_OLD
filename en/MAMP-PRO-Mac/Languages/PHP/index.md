@@ -95,4 +95,4 @@ Several caches provide a user interface to help analyze and profile your code. P
 ---
 
 *  **Log Errors**  
-   Determine if these errors should be recorded in a log file and/or displayed in the web browser window.
+   Determine if errors should be recorded in a log file and/or displayed in a web browser window.
