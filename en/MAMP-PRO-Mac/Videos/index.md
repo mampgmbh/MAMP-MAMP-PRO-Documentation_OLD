@@ -10,6 +10,14 @@ language: en
 
 Find videos on how to MAMP PRO here ...
 
+### MAMP PRO With External Software
+
+#### Sequel Pro
+
+
+
+This video includes information on finding your socket ... blah blah
+
 
 
  
