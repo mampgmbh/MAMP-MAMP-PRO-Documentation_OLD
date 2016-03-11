@@ -68,6 +68,8 @@ The MySQL database server is a popular database used on production servers. An i
        to administrative duties.
 
     *  **MySQLWorkbench** is also a native Mac application from the makers of MySQL. It allows you to visually create                 database schemas in addition to administrative duties.
+    
+    https://www.youtube.com/watch?v=4ZqfrWX82vo
 
 ---
 
