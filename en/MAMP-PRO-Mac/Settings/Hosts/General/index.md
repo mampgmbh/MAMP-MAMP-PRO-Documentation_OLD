@@ -74,13 +74,12 @@ The document root is also known as the web root folder. MAMP PRO will automatica
        Allow other computers on your local network to access your web site.
        Using the Share button you can send the Xip.io address to other users.
       
-      <div class="alert" role="alert">
-       Note: The Xip.io addresses will only work in your local network. They are temporary and may become invalid
-       if you restart your Mac. Also make sure that your Internet router is not blocking Xip.io calls by using a DNS Rebind
-       protection. If the router does this you can either deactivate this function, add Xip.io as an exception or not use          the router as DNS server in your Macs network settings.
-      </div>
+         <div class="alert" role="alert">
+         Note: The Xip.io addresses will only work in your local network. They are temporary and may become invalid
+         if you restart your Mac. Also make sure that your Internet router is not blocking Xip.io calls by using a DNS               Rebind protection. If the router does this you can either deactivate this function, add Xip.io as an exception or           not use the router as DNS server in your Macs network settings.
+         </div>
       
-      ![MAMP](../../../Videos/MAMPtv.png) [Viewing On Mobile                             Device](https://www.youtube.com/watch?v=sYHPYCDvU1Q){:target="_blank"}
+         ![MAMP](../../../Videos/MAMPtv.png) [Viewing On Mobile                             Device](https://www.youtube.com/watch?v=sYHPYCDvU1Q){:target="_blank"}
 
 *  **Document root**  
    The location of the documents (HTML/PHP files etc.) of a virtual host is called a document root.
