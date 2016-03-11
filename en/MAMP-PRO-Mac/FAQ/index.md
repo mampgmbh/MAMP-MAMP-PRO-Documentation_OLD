@@ -134,9 +134,9 @@ The following list contains all files which are created and changed by MAMP PRO 
 Click on the following links for further information on
 
 
-*  ** [Apache Server](https://httpd.apache.org){:target="_blank"}*
+*  **[Apache Server](https://httpd.apache.org){:target="_blank"}*
   
-*  ** [Nginx Server](https://httpd.apache.org){:target="_blank"}*
+*  **[Nginx Server](https://httpd.apache.org){:target="_blank"}*
 
 *  **[MySQL](https://www.mysql.com){:target="_blank"}*  
 
