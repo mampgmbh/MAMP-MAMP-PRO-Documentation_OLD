@@ -12,6 +12,8 @@ Find videos on how to MAMP PRO here ...
 
 *  **[Intoduction To MAMP And MAMP PRO](https://www.youtube.com/watch?v=bpHEutbHFPo){:target="_blank"}**
 
+---
+
 ## Installation, Upgrade And De-Installation
 
 *  **[Installing MAMP PRO](https://www.youtube.com/watch?v=4ZqfrWX82vo){:target="_blank"}**
@@ -34,7 +36,7 @@ Find videos on how to MAMP PRO here ...
 
    Information about  ...
    
-   
+---
 
 ### MAMP PRO With External Software
 
@@ -54,6 +56,7 @@ Find videos on how to MAMP PRO here ...
 
    Information on installing Wordpress ...
    
+---
 
 ### Additional MAMP PRO Videos
 
