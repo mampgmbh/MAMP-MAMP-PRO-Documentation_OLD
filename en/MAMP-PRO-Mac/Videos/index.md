@@ -8,9 +8,9 @@ language: en
 
 ## Video Documentation ![MAMP](MAMPtv.png)
 
-Find videos on how to MAMP PRO here ...
-
 *  **[Intoduction To MAMP And MAMP PRO](https://www.youtube.com/watch?v=bpHEutbHFPo){:target="_blank"}**
+
+This video provides a description of both MAMP and MAMP PRO.
 
 ---
 
@@ -18,23 +18,23 @@ Find videos on how to MAMP PRO here ...
 
 *  **[Installing MAMP PRO](https://www.youtube.com/watch?v=4ZqfrWX82vo){:target="_blank"}**
 
-   Information about  ...
+   This video gives a description on how to install MAMP and MAMP PRO.
    
 *  **[Upgrading MAMP PRO](https://www.youtube.com/watch?v=h1Ct63XLVYU){:target="_blank"}**
 
-   Information about  ...
+   This video gives a detailed description on how to upgrade your current MAMP PRO installation.
    
 *  **[Upgrading From MAMP To MAMP PRO](https://www.youtube.com/watch?v=KOH8bvfE0a0){:target="_blank"}**
 
-   Information about  ...
+   This video gives a detailed description on how to upgrade from MAMP to MAMP PRO, including making sure you database data     is properly transferred.
    
 *  **[Upgrading To MAMP PRO - Missing Data](https://www.youtube.com/watch?v=wBnHo1o4W8Q){:target="_blank"}**
 
-   Information about  ...
+   This video explains potential pitfalls when upgrading from MAMP to MAMP PRO, specifically missing database data.
    
 *  **[Uninstalling MAMP PRO](https://www.youtube.com/watch?v=Sjpdcnp92bY){:target="_blank"}**
 
-   Information about  ...
+   This video contains a brief description on how to completely uninstall MAMP PRO.
 
 ---
 
@@ -46,15 +46,15 @@ Find videos on how to MAMP PRO here ...
 
 *  **[Using CODA With MAMP PRO](https://www.youtube.com/watch?v=e9pnimdCygw){:target="_blank"}** 
 
-   This video describes how to point your Coda project 'Website' to an existing host on MAMP PRO. Coda is an editor for OS X    by Panic Inc. Learn more about Coda: https://panic.com/coda/
+   This video describes how to point your Coda project 'Website' to an existing host on MAMP PRO. Coda is an editor for OS X    by Panic Inc.
 
 *  **[Using Dreamweaver With MAMP PRO](https://www.youtube.com/watch?v=EoW55awCHLc){:target="_blank"}**
 
-   This video contains information on how to connect to blah ...
+   This video is about working with MAMP PRO and Adobe Dreamweaver.
    
 *  **[Using Wordpress With MAMP PRO](https://www.youtube.com/watch?v=6rMFZa2TOjg){:target="_blank"}**
 
-   Information on installing Wordpress ...
+   This video explains how to install Wordpress both using the 'Extras' feature in MAMP PRO, and on your own downloading the    files from the wordpress.org website.
  
 ---
 
@@ -62,19 +62,19 @@ Find videos on how to MAMP PRO here ...
 
 *  **[Transferring Your Site To A Host Provider](https://www.youtube.com/watch?v=-3Fwyd5Okrg){:target="_blank"}**
 
-   Information about  ...
+   This video describes the steps in uploading your local work to a host provider, using a Wordpress host.
    
 *  **[MAMP PRO and httpd.conf, php.ini, my.cnf](https://www.youtube.com/watch?v=uh6s7uMCISU){:target="_blank"}**
 
-   Information about  ...
+   MAMP PRO and editing the httpd.conf, php.ini and my.cnf files.
    
 *  **[The WebStart Button](https://www.youtube.com/watch?v=925V7Pafxzw){:target="_blank"}**
 
-   Information about  ...
+   This video gives a detailed explanation of all the features on the 'Webstart' button.
    
 *  **[Viewing MAMP On A Mobile Device](https://www.youtube.com/watch?v=sYHPYCDvU1Q){:target="_blank"}**
 
-   Information about  ...
+   This video explains how to view you MAMP PRO sites on a mobile device such as your iPhone or iPad.
    
 
    
