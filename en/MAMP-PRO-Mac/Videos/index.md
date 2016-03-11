@@ -6,7 +6,7 @@ product: MAMP PRO Mac
 language: en
 ---
 
-## Video Documentation
+## Video Documentation ![MAMP](MAMPtv.png)
 
 Find videos on how to MAMP PRO here ...
 
