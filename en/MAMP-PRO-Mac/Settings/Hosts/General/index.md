@@ -79,6 +79,8 @@ The document root is also known as the web root folder. MAMP PRO will automatica
        if you restart your Mac. Also make sure that your Internet router is not blocking Xip.io calls by using a DNS Rebind
        protection. If the router does this you can either deactivate this function, add Xip.io as an exception or not use          the router as DNS server in your Macs network settings.
       </div>
+      
+      ![MAMP](../../Videos/MAMPtv.png) [Viewing On Mobile                             Device](https://www.youtube.com/watch?v=sYHPYCDvU1Q){:target="_blank"}
 
 *  **Document root**  
    The location of the documents (HTML/PHP files etc.) of a virtual host is called a document root.
