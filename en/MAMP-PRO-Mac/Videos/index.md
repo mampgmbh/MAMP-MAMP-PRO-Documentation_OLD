@@ -14,15 +14,15 @@ Find videos on how to MAMP PRO here ...
 
 *  **[Connecting To Your Database With Sequel Pro](https://www.youtube.com/watch?v=MyNIr7XUpBI){:target="_blank"}** 
 
-This video includes information on finding your socket ... blah blah
+   This video includes information on finding your socket ... blah blah
 
 *  **[Using CODA With MAMP PRO](https://www.youtube.com/watch?v=e9pnimdCygw){:target="_blank"}** 
 
-This video contains blah ...
+   This video contains blah ...
 
 *  **[Using Dreamweaver With MAMP PRO](https://www.youtube.com/watch?v=EoW55awCHLc){:target="_blank"}**
 
-This video contains information on how to connect to blah ...  
+   This video contains information on how to connect to blah ...  
 
 
 
