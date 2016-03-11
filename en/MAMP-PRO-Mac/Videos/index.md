@@ -12,7 +12,7 @@ Find videos on how to MAMP PRO here ...
 
 *  **[Intoduction To MAMP And MAMP PRO](https://www.youtube.com/watch?v=bpHEutbHFPo){:target="_blank"}**
 
-## Installation, Upgrade And De-Installation
+### Installation, Upgrade And De-Installation
 
 ---
 
