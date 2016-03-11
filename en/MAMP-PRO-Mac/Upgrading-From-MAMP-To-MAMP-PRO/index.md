@@ -47,5 +47,5 @@ When MAMP PRO launched it's servers it (re) copied database data from the MAMP l
 
 ---
 
-![MAMP](MAMPtv.png) [Upgrading From MAMP To MAMP PRO](https://www.youtube.com/watch?v=KOH8bvfE0a0){:target="_blank"}
+![MAMP](../Videos/MAMPtv.png) [Upgrading From MAMP To MAMP PRO](https://www.youtube.com/watch?v=KOH8bvfE0a0){:target="_blank"}
     
