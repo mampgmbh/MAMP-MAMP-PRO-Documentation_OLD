@@ -40,7 +40,7 @@ To find out which PHP modules are included click on the (i) button in the host s
 
 ### Where do I find my registration number?
 
-Open the dialog File/About MAMP PRO, it is shown there.
+Open  MAMP PRO > About MAMP PRO in the menu.
 
 ---
 
@@ -53,12 +53,6 @@ Compiled binaries of the PHP interpreter can be found at [https://www.mamp.info/
 ### Can the port assignment be the same for MAMP and MAMP PRO?
 
 You can set the same ports for MAMP and MAMP PRO but it is not recommended to run both applications at the same time.
-
----
-
-### Can I use MAMP at the same time as MAMP PRO?
-
-Both applications, MAMP as well as MAMP PRO, are configuration tools for the tools inside the folder MAMP. Though you could run them simultaneously you should not do it. You would run into sporadic problems, even data loss may occur.
 
 ---
 
@@ -102,7 +96,7 @@ No, with MAMP PRO you can use as many hosts and aliases as you like.
 
 ### Where can I find the log files?
 
-Clicking the black right arrow will open the log file in the Console application.
+Your log files are located in `/Applications/MAMP/logs`. You can access the various logs through the MAMP PRO interface.
 
 ---
 
