@@ -8,8 +8,6 @@ language: en
 
 ## Video Documentation
 
----
-
 ![MAMP](MAMPtv.png)
 
  
