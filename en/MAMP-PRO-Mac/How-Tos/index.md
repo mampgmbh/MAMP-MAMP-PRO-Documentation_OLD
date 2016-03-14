@@ -173,6 +173,23 @@ To use the MySQL command line, perform the following steps:
 
 2. To connect to your databases you have to fill in several required fields. Navigate to the ‘Socket’ tab.
 
+![MAMP](SequelProInterface.png)
+
+
+Name - This is the host name. The default host is ‘localhost’.
+
+Username - This is your MySQL username. Your MySQL username will be ‘root’ if you have not changed the default username setup in MAMP PRO.
+
+Password - This is your MySQL password.Your MySQL username password will be ‘root’ if you have not changed the default password setup in MAMP PRO.
+
+3. Press Connect.
+
+4. You can access your individual databases by clicking on the ‘Choose Database…’ Drop down menu.
+
+
+![MAMP](SequelProDatabaseList.png)
+
+
 ---
 
 ### <a name="upgrade_to_mamp_pro_missing_databases"></a>How To Transfer Your Databases From MAMP To MAMP PRO 
