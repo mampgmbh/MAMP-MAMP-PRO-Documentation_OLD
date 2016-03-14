@@ -138,19 +138,6 @@ The following example shows how to connect to a MySQL database using the `mysqli
 
 ---
 
-### How do I install PEAR?
-
-1. Open up a terminal and type the following (replace X.X.X with your version of PHP).  
-   `$ echo "export PATH=/Applications/MAMP/bin/php/phpX.X.X/bin:$PATH" >> ~/.profile`
-2. Close your terminal session and open up another one.
-3. Type the following in the terminal window.  
-   `$ which PHP`
-3. You should see a path to one of your PHP installations.  
-4. Type the following in the terminal window.  
-   `$ pear`
-
----
-
 ### Using MySQL command line
 
 To use the MySQL command line, perform the following steps:
@@ -173,22 +160,20 @@ To use the MySQL command line, perform the following steps:
 
 2. To connect to your databases you have to fill in several required fields. Navigate to the ‘Socket’ tab.
 
-![MAMP](SequelProInterface.png)
+   ![MAMP](SequelProInterface.png)
 
 
-Name - This is the host name. The default host is ‘localhost’.
+   *  **Name:** *  ** This is the host name. The default host is ‘localhost’.
 
-Username - This is your MySQL username. Your MySQL username will be ‘root’ if you have not changed the default username setup in MAMP PRO.
+   *  **Username:* ** This is your MySQL username. Your MySQL username will be ‘root’ if you have not changed the default           username setup in MAMP PRO.
 
-Password - This is your MySQL password.Your MySQL username password will be ‘root’ if you have not changed the default password setup in MAMP PRO.
+   *  **Password:* ** This is your MySQL password.Your MySQL username password will be ‘root’ if you have not changed the           default password setup in MAMP PRO.
 
 3. Press Connect.
 
 4. You can access your individual databases by clicking on the ‘Choose Database…’ Drop down menu.
 
-
-![MAMP](SequelProDatabaseList.png)
-
+   ![MAMP](SequelProDatabaseList.png)
 
 ---
 
