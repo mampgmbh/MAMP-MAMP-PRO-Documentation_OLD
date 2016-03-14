@@ -6,9 +6,9 @@ product: MAMP PRO Mac
 language: en
 ---
 
-## File
+##  File
 
-*  **Edit Template:**
+*  **Edit Template:<a name="edit_templates"></a>**
      MAMP PRO uses templates to create the necessary server config files. You can edit these templates from the menu item        File > Edit template. Here, you have access to options which are not accessible from the MAMP PRO user interface.
 
      A template file is created in ~/Library/application support/appsolute/MAMP PRO/templates when you make a change to one      of your templates.There are separate templates for your Apache, Apache SSL, PHP, and MySQL configurations. If you have      not made any changes to your templates, your ~/Library/application support/appsolute/MAMP PRO/templates directory will      be empty.
