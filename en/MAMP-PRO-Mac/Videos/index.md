@@ -8,7 +8,7 @@ language: en
 
 ## Video Documentation ![MAMP](MAMPtv.png)
 
-*  **[Intoduction To MAMP And MAMP PRO](https://www.youtube.com/watch?v=bpHEutbHFPo){:target="_blank"}**
+*  **[Introduction To MAMP And MAMP PRO](https://www.youtube.com/watch?v=bpHEutbHFPo){:target="_blank"}**
 
 This video provides a description of both MAMP and MAMP PRO.
 
