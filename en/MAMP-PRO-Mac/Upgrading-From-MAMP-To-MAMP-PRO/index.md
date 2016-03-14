@@ -36,7 +36,11 @@ Your MAMP PRO database data is located in
 
 `/Library/application data/appsolute/MAMP PRO/db`
 
-Problems can occur if you had previously demoed MAMP PRO and launched your servers. Your data was copied over then. You will be looking at an old copy of your database data if you have now decided to purchase MAMP PRO. This can easily be solved by this one trick you just found on the internet.
+Problems can occur if you had previously demoed MAMP PRO and launched your servers. Your data was copied over then. You will be looking at an old copy of your database data if you have now decided to upgrade to MAMP PRO. 
+
+For information on how to re copy your databases from MAMP to MAMP PRO
+
+This can easily be solved by this one trick you just found on the internet.
 
 1. Stop your servers and close any instances of MAMP and MAMP PRO.
 2. Open your Mac Finder and navigate to `/Library/application data/appsolute/MAMP PRO`.
