@@ -65,7 +65,7 @@ The MySQL database server is a popular database used on production servers. An i
        like creating new databases.
 
     *  **Sequel Pro** is a native Mac application. It allows you to create and visualise database schemas in addition
-       to administrative duties. Find more information on how to [connect to MySQL using Sequel Pro](../../How-Tos) in our How To section.
+       to administrative duties. More information on how to [connect to MySQL using Sequel Pro](../../How-Tos) can be found         in our How To section.
        
        ![MAMP](../../Videos/MAMPtv.png) [Using Sequel Pro With MAMP PRO](https://www.youtube.com/watch?v=MyNIr7XUpBI){:target="_blank"}
 
