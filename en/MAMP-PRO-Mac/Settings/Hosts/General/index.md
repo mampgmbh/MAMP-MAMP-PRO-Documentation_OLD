@@ -45,7 +45,7 @@ The document root is also known as the web root folder. MAMP PRO will automatica
    If you select the Standard PHP version MAMP PRO will automatically adapt this setting if you choose
    a new standard version in the PHP tab. Use a fixed setting to tell MAMP PRO not to alter the PHP version.
    
-   ![MAMP](PHP.png)
+      ![MAMP](PHP.png)
 
    Sounds complicated? Let's take a look at an example: The default version is set to 5.5.9. You have oneHost
    set to PHP version `Default (5.5.9)`, anotherHost set to `5.5.9` and yetAnotherHost set to `5.3.28`.
