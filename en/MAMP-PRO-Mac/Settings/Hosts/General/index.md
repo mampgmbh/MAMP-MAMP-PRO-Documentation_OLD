@@ -52,14 +52,14 @@ The document root is also known as the web root folder. MAMP PRO will automatica
    If you set the PHP version in the PHP section to `5.4.25`, MAMP PRO will adapt the PHP version of oneHost
    to this version (it is set to always use the standard version). The other 2 hosts will not be changed.
   
+     ![MAMP](../../../Videos/MAMPtv.png) [Setting Your PHP Version in MAMP    PRO](https://www.youtube.com/watch?v=fsOWq9k_OAc){:target="_blank"}.
+
       *  **PHPInfo()**
       
       ![MAMP](php.ini.png)
       
       View your php configuration by pressing the 'i' button to the right of the version name.
       
-   ![MAMP](../../../Videos/MAMPtv.png) [Setting Your PHP Version in MAMP PRO](https://www.youtube.com/watch?v=fsOWq9k_OAc){:target="_blank"}.
-
 *  **Dynamic DNS**  
    Determines, if this virtual host is accessible with the Dynamic DNS service from the internet.
 
