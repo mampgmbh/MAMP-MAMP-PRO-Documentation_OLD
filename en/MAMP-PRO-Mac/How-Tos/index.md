@@ -77,7 +77,7 @@ The MySQL server of MAMP PRO uses the Default Storage Engine MyISAM. If you want
 
 ---
 
-### Show the Postfix log file With a text editor
+### Show the Postfix log file With a text editor <a name="postfix_log"></a> 
 
 <div class="alert" role="alert">
 Note: If you want to open the Postfix log file with a text editor, you have to make the file visible.
