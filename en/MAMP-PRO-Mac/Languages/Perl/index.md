@@ -8,7 +8,7 @@ language: en
 
 ## Languages > Perl
 
-Perl is a high-level, general-purpose, interpreted, dynamic programming language. A version 5 of Perl is included with MAMP PRO.
+Perl is a high-level, g eneral-purpose, interpreted, dynamic programming language. A version 5 of Perl is included with MAMP PRO.
 
 ![MAMP](Perl.png)
 
