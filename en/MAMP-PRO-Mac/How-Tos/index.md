@@ -164,3 +164,12 @@ To use the MySQL command line, perform the following steps:
    `./mysql --host=localhost -u root -proot`
 6. Now you can use the MySQL command line. For example to show all your databases with:  
    `show databases;`
+
+### How To Connect to MySQL using Sequel Pro
+
+1. Sequel Pro can be launched via the MAMP PRO interface in the ‘MySQL’ tab. Click on the Sequel Pro icon at the bottom of the tab. The instance of Sequel Pro launched from the MAMP PRO interface resides in your Applications/MAMP folder. If your MAMP PRO download package did not come with Sequel Pro you can download it here.
+
+2. To connect to your databases you have to fill in several required fields. Navigate to the ‘Socket’ tab.
+
+
+
