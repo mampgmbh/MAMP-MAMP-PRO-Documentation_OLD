@@ -8,6 +8,8 @@ language: en
 
 ## Languages > Python
 
+Python is a widely used high-level, general-purpose, interpreted, dynamic programming language. 
+
 ![MAMP](Python.png)
 
 ---
