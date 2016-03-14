@@ -58,6 +58,6 @@ Note: Watch out for typos, they will otherwise prevent Apache from starting up.
 ---
 
 *  **httpd.conf File**
-   You cannot directly you httpd.conf file in MAMP PRO. You need to make custom configurations through your httpd.conf          template file. Information on how to configure your httpd.conf template file can be found                                    [here](../../../Menu/File#edit_templates).
+   You cannot directly you httpd.conf file in MAMP PRO. You need to make custom configurations through your httpd.conf          template file. More information on how to [configure your httpd template file](../../../Menu/File#edit_templates) can be     found in our Menu > File section.
 
-   ![MAMP](../../../Videos/MAMPtv.png) [MAMP PRO and httpd.conf, php.ini, my.cnf](https://www.youtube.com/watch?v=uh6s7uMCISU){:target="_blank"}
+   ![MAMP](../../../Videos/MAMPtv.png) [MAMP PRO and httpd.conf, php.ini,                      my.cnf](https://www.youtube.com/watch?v=uh6s7uMCISU){:target="_blank"}
