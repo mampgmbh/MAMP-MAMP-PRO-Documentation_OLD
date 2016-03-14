@@ -157,7 +157,7 @@ link = mysql.connector.connect(**config)
 {% endhighlight %}
 
 
-or using an UNIX Socket:
+   or using an UNIX Socket:
 
 {% highlight  %}
 
