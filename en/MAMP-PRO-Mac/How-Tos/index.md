@@ -140,8 +140,42 @@ The following example shows how to connect to a MySQL database using the `mysqli
 
 ### How To Connect To MySQL using Python <a name="python_connect"></a> 
 
-You can connnect here ... . 
+{% highlight php %}
 
+import mysql.connector
+
+config = {
+  'user': 'root',
+  'password': 'root',
+  'host': 'localhost:8889',
+  'database': 'inventory',
+  'raise_on_warnings': True,
+}
+
+link = mysql.connector.connect(**config)
+
+{% endhighlight %}
+
+
+or using an UNIX Socket:
+
+{% highlight php %}
+
+import mysql.connector
+
+config = {
+  'user': 'root',
+  'password': 'root',
+  'unix_socket': '/Applications/MAMP/tmp/mysql/mysql.sock',
+  'database': 'inventory',
+  'raise_on_warnings': True,
+}
+
+link = mysql.connector.connect(**config)
+
+{% endhighlight %}
+
+---
 
 ### <a name="connect_using_sequel_pro"></a>How To Connect to MySQL using Sequel Pro
 
