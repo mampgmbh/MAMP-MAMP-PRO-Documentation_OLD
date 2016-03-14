@@ -137,10 +137,10 @@ The following example shows how to connect to a MySQL database using the `mysqli
 {% endhighlight %}
 
 ---
+<a name="python_connect"></a> 
+### How To Connect To MySQL using Python 
 
-### How To Connect To MySQL using Python <a name="python_connect"></a> 
-
-{% highlight php %}
+{% highlight  %}
 
 import mysql.connector
 
@@ -159,7 +159,7 @@ link = mysql.connector.connect(**config)
 
 or using an UNIX Socket:
 
-{% highlight php %}
+{% highlight  %}
 
 import mysql.connector
 
