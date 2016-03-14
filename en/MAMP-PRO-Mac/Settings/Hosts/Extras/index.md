@@ -8,7 +8,7 @@ language: en
 
 ## Settings > Hosts > Extras
 
-MAMP PRO allows you to easily add popular packages to your hosts which we call Extras. Extras will always be loaded from the appsolute servers if you have an Internet connection. Over time more Extras will become available.
+MAMP PRO allows you to easily add popular packages to your hosts which we call Extras. Extras will always be loaded from the appsolute servers if you have an Internet connection.
 
 ![MAMP](Extras.png)
 
@@ -77,7 +77,7 @@ webEdition will always be installed in a folder called webEdition inside the doc
 
 *  **Database name:**  
    Set the name of your database schema which will be added to your local database.
-   After installation you can view this database for this instance of webEdition using phpMyAdmin, Sequel Pro, or MySQLWorkbench. 
+   After installation you can view this database for this instance of webEdition using phpMyAdmin, Sequel Pro, or               MySQLWorkbench. 
 
 <div class="alert" role="alert">
 Note: When a Content Management System is setup the host name and Apache port number is stored in its database. Going forward the Apache port in MAMP PRO cannot be changed. A change in the Apache port will result in breaking the CMS, returning only a vague error message. Content Management Systems usually provide a mechanism for changing the host and port names. If changes are made in the CMS, then they must also be made in MAMP PRO.
