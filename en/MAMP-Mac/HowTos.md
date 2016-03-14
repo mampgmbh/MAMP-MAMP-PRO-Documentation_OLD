@@ -68,31 +68,24 @@ The MySQL server of MAMP uses the Default Storage Engine MyISAM. If you want to 
 
 ### Connect to MySQL from PHP
 
-The following example shows how to connect to a MySQL database using the mysqli() library:
+The following example shows how to connect to a MySQL database using the `mysqli()` library:
+
 {% highlight php %}
 <?php
+  DEFINE('DB_USERNAME', 'root');
+  DEFINE('DB_PASSWORD', 'root');
+  DEFINE('DB_HOST', 'localhost');
+  DEFINE('DB_DATABASE', 'performance_schema');
 
-$user = 'root';
+  $mysqli = new mysqli(DB_HOST, DB_USERNAME, DB_PASSWORD, DB_DATABASE);
 
-$password = 'root';
+  if (mysqli_connect_error()) {
+    die('Connect Error ('.mysqli_connect_errno().') '.mysqli_connect_error());
+  }
 
-$db = 'inventory';
+  echo 'Connected successfully.';
 
-$host = 'localhost';
-
-$port = 8889;
-
-$link = mysqli_init();
-
-$success = mysqli_real_connect(
-   $link, 
-   $host, 
-   $user, 
-   $password, 
-   $db,
-   $port
-);
-
+  $mysqli->close();
 ?>
 {% endhighlight %}
 
