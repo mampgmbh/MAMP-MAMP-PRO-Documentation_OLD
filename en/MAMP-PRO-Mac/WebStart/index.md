@@ -27,11 +27,7 @@ Which php.ini file has configured your localhost php instance is looking at ?
   The phpInfo accessed through the Webstart page is that of the localhost.
 </div>
 
-![MAMP](php.ini.png)
-
-To access the phpInfo of each individual host see the Options > Hosts > General section.
-
-
+To access the [php Info of each individual host](../Settings/Hosts/General) see the Settings > Hosts > General section.
 
 ## Database Connection
 
