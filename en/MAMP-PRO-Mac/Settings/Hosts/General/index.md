@@ -56,9 +56,9 @@ The document root is also known as the web root folder. MAMP PRO will automatica
 
       *  **<a name="php_info"></a>PHPInfo()**
       
-      ![MAMP](php.ini.png)
+         ![MAMP](php.ini.png)
       
-      View your php configuration by pressing the 'i' button to the right of the version name.
+         View your php configuration by pressing the 'i' button to the right of the version name.
       
 *  **Dynamic DNS**  
    Determines, if this virtual host is accessible with the Dynamic DNS service from the internet.
