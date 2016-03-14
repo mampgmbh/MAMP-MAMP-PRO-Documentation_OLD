@@ -38,16 +38,7 @@ Your MAMP PRO database data is located in
 
 Problems can occur if you had previously demoed MAMP PRO and launched your servers. Your data was copied over then. You will be looking at an old copy of your database data if you have now decided to upgrade to MAMP PRO. 
 
-For information on how to re copy your databases from MAMP to MAMP PRO
-
-This can easily be solved by this one trick you just found on the internet.
-
-1. Stop your servers and close any instances of MAMP and MAMP PRO.
-2. Open your Mac Finder and navigate to `/Library/application data/appsolute/MAMP PRO`.
-3. Rename your `/db` folder to `/db_bak`.
-4. Open MAMP PRO and launch your servers.
-
-When MAMP PRO launched it's servers it (re) copied database data from the MAMP location to the MAMP PRO location because it did not detect a `/Library/application data/appsolute/MAMP PRO/db` folder. You should now be looking at your current database data.
+More information on how to [copy your databases from MAMP to MAMP PRO](../../How-Tos#connect_using_sequel_pro) can be found in our How To section.
 
 ---
 
@@ -55,3 +46,5 @@ When MAMP PRO launched it's servers it (re) copied database data from the MAMP l
 
 ![MAMP](../Videos/MAMPtv.png) [Upgrading From MAMP To MAMP PRO](https://www.youtube.com/watch?v=KOH8bvfE0a0){:target="_blank"}
     
+
+
