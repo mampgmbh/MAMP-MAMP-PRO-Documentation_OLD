@@ -163,11 +163,11 @@ To use the MySQL command line, perform the following steps:
    ![MAMP](SequelProInterface.png)
 
 
-   *  **Name:** *  ** This is the host name. The default host is ‘localhost’.
+   *  **Name:** This is the host name. The default host is ‘localhost’.
 
-   *  **Username:* ** This is your MySQL username. Your MySQL username will be ‘root’ if you have not changed the default           username setup in MAMP PRO.
+   *  **Username:** This is your MySQL username. Your MySQL username will be ‘root’ if you have not changed the default             username setup in MAMP PRO.
 
-   *  **Password:* ** This is your MySQL password.Your MySQL username password will be ‘root’ if you have not changed the           default password setup in MAMP PRO.
+   *  **Password:** This is your MySQL password.Your MySQL username password will be ‘root’ if you have not changed the             default password setup in MAMP PRO.
 
 3. Press Connect.
 
