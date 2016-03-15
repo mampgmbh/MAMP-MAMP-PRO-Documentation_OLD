@@ -57,8 +57,6 @@ Several caches provide a user interface to help analyze and profile your code. P
     *  **Open MacGDBp**  
        With Xdebug activated you can open the MacGDBp debugger to enable PHP debugging.
        By default, MacGDBp expects debugging information on port 9000 of localhost.
-       See [http://www.bluestatic.org/software/macgdbp/](http://www.bluestatic.org/software/macgdbp/){:target="_blank"}
-       for more information.  
 
 ---
 
