@@ -54,7 +54,6 @@ The document root is also known as the web root folder. MAMP PRO will automatica
   
      ![MAMP](../../../Videos/MAMPtv.png) [Setting Your PHP Version in MAMP              PRO](https://www.youtube.com/watch?v=fsOWq9k_OAc){:target="_blank"}.
 
-      <a name="php_info"></a>
       *  **PHPInfo**
       
          ![MAMP](php.ini.png)
@@ -92,8 +91,8 @@ The document root is also known as the web root folder. MAMP PRO will automatica
    The location of the documents (HTML/PHP files etc.) of a virtual host is called a document root.
 
 *  **Access Rights for Document Root Directory**  
-   For Apache to be able to access the files inside the document root folder and serve them to a web browser it needs adequate rights.
-   If you use the user `www` to start Apache, then this user must have the right to access the files inside the document root folder.
+   For Apache to be able to access the files inside the document root folder and serve them to a web browser it needs          adequate rights.
+   If you use the user `www` to start Apache, then this user must have the right to access the files inside the document       root folder.
    Typically this is not the case. You can either adapt the access rights or use the current Mac user to start Apache.
 
    During the development phase of a site it is easier to use the current Mac user to start Apache.
@@ -120,5 +119,5 @@ The document root is also known as the web root folder. MAMP PRO will automatica
        *  **Change file right**  
 
 *  **Alias Name**  
-   Aliases are additional names for your virtual host. The same constraints apply to these additional names as to the host itself.
+   Aliases are additional names for your virtual host. The same constraints apply to these additional names as to the host     itself.
    Add aliases with the plus-button.
