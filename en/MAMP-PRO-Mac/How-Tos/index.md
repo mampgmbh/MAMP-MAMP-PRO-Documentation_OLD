@@ -77,6 +77,7 @@ The MySQL server of MAMP PRO uses the Default Storage Engine MyISAM. If you want
 
 ---
 <a name="postfix_log"></a> 
+
 ### Show the Postfix log file With a text editor 
 
 <div class="alert" role="alert">
@@ -113,6 +114,8 @@ Note: If you want to open the Postfix log file with a text editor, you have to m
 
 ---
 
+<a name="php_connect"></a> 
+
 ### Connect to MySQL from PHP
 
 The following example shows how to connect to a MySQL database using the `mysqli()` library:
@@ -137,7 +140,8 @@ The following example shows how to connect to a MySQL database using the `mysqli
 {% endhighlight %}
 
 ---
-<a name="python_connect"></a> 
+<a name="python_connect"></a>
+
 ### How To Connect To MySQL using Python 
 
 {% highlight php %}
@@ -178,6 +182,7 @@ link = mysql.connector.connect(**config)
 ---
 
 <a name="perl_connect"></a> 
+
 ### How To Connect To MySQL using Perl 
 
 {% highlight php %}
