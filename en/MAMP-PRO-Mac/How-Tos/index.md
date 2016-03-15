@@ -183,9 +183,12 @@ $success = mysqli_real_connect(
    $port
 );
 
+{% endhighlight %}
+
 or using an UNIX Socket:
 
 {% highlight php %}
+
 $user = 'root';
 $password = 'root';
 $db = 'inventory';
@@ -204,7 +207,7 @@ $success = mysqli_real_connect(
    $socket
 );
 
-
+{% endhighlight %}
 
 ---
 
@@ -251,7 +254,7 @@ link = mysql.connector.connect(**config)
 
 <a name="perl_connect"></a> 
 
-### How To Connect To MySQL using Perl 
+### Connect To MySQL using Perl 
 
 {% highlight php %}
 
@@ -290,7 +293,8 @@ my $link = DBI->connect(
 {% endhighlight %}
 
 <a name="connect_using_sequel_pro"></a>
-### How To Connect to MySQL using Sequel Pro
+
+### Connect to MySQL using Sequel Pro
 
 1. Sequel Pro can be launched via the MAMP PRO interface in the ‘MySQL’ tab. Click on the Sequel Pro icon at the bottom of the tab. The instance of Sequel Pro launched from the MAMP PRO interface resides in your Applications/MAMP folder. If your MAMP PRO download package did not come with Sequel Pro you can download it here.
 
