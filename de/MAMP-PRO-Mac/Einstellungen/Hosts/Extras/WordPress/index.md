@@ -18,31 +18,29 @@ Note: When some Content Management Systems such as Wordpress are setup the host 
 
 ![MAMP](WordPress.png)
 
-*  **Name of the blog:**  
-   Name your blog.
+*  **Name des Blogs:**  
+   Geben Sie Ihrem Blog einen aussagekräftigen Namen.
 
-*  **Email address:**  
-   Your email address.  
-   *Note: You must enter a valid email address to setup a WordPress installation.*
+*  **E-Mail-Adresse:**  
+   An diese E-Mail-Adresse wird Ihre Wordpress-Installation Fehlermeldungen verschicken.  
+   *Hinweis: Um Wordpress zu installieren, ist die Eingabe einer gültigen E-Mail-Adresse erforderlich.*
 
-*  **Directory:**  
-   The installation directory. If it is left blank the Wordpress files will be copied directly to the document root folder.  
-   *Note: Do not install over a previous installation of Wordpress! Files will be overwritten without warning.*  
+*  **Verzeichnis:**  
+   Wenn Sie Wordpress direkt im Stammverzeichnis des Hosts installieren möchten, dann lassen Sie dieses Feld leer.
 
-*  **Database name:**  
-   Set the name of your database schema which will be added to your local database.  
-   After installation you can view this database for this instance of WordPress using phpMyAdmin, Sequel Pro, or                MySQLWorkbench. 
+   Möchten Sie Wordpress lieber in einen eigenen Ordner installieren, dann geben Sie diesen Ordnernamen an. Dieser Ordner       darf noch nicht im Stammverzeichnis des Hosts existieren, denn er wird automatisch angelegt.
+   
+   *Hinweis: Installieren Sie Wordpress nicht über eine bereits vorhandene Installation. Diese wird ansonsten überschrieben!*  
+*  **Datenbank-Name:**  
+   Eine Datenbank mit diesem Name darf auf dem MySQL-Server noch nicht existieren. Sie wird automatisch angelegt.
  
-*  **Username:**  
-   The WordPress admin.  
-   *Note: You will need this username to login into your new of WordPress blog, please write this down.*  
+*  **Benutzername:**  
+   Es wird automatisch der Benutzername admin verwendet.  
+   *Hinweis: Nutzen Sie diesen Nutzernamen, um sich später auf Ihrem Wordpress-Blog einzuloggen.*  
 
-*  **Password:**  
-   The WordPress admins default password.  
-   *Note: You will need this password to login into your new WordPress blog, please write this down.*
-
-
-![MAMP](../../../Videos/MAMPtv.png) [Installing wordPress with Extras and Manually](https://www.youtube.com/watch?v=6rMFZa2TOjg){:target="_blank"}
+*  **Passwort:**  
+   Es wird automatisch das Passwort admin verwendet.  
+   *Hinweis: Nutzen Sie dieses Passwort, um sich später auf Ihr Wordpress-Blog einzuloggen. Sie können es im Admin-Bereich      von Wordpress ändern.*
 
 
 
