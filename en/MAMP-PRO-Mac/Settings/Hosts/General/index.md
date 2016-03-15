@@ -39,7 +39,6 @@ The document root is also known as the web root folder. MAMP PRO will automatica
    In most cases the preset value does not need to be changed.
 
 <a name="php_version"></a> 
-
 *  **PHP Version**  
    Determine which version of PHP a host will use. This can only be set when Individual PHP version
    for every host (CGI) is set in the PHP section of MAMP PRO.
