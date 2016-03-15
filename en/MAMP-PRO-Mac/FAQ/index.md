@@ -142,7 +142,7 @@ Click on the following links for further information on
 
 [Python](https://www.python.org){:target="_blank"}
   
-[MacGDP](https://httpd.apache.org){:target="_blank"}
+[MacGDP](http://www.bluestatic.org/software/macgdbp/](http://www.bluestatic.org/software/macgdbp/){:target="_blank"}
 
 [APC](http://php.net/manual/en/book.apc.php){:target="_blank"}
 
