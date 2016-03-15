@@ -11,7 +11,11 @@ language: en
 - [WordPress](WordPress/)  
 - [Joomla](Joomla/)  
 - [Drupal](Drupal/) 
-- [webEdition](webEdition/) 
+- [webEdition](webEdition/)
+- [Magento](Magento/)
+- [Mediawiki](Mediawiki/) 
+- [phpBB](phpBB/) 
+- [PrestaShop](PrestaShop/) 
 
 ---
 
