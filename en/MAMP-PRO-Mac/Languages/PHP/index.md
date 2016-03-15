@@ -87,3 +87,9 @@ Several caches provide a user interface to help analyze and profile your code. P
 
 *  **Log Errors**  
    Determine if errors should be recorded in a log file and/or displayed in a web browser window.
+
+More information on how to [connect to MySQL using PHP (PHP <= 5.5.x)](../../How-Tos/#php_connect_mysql) can be found in our How To section.
+
+
+More information on how to [connect to MySQL using PHP (PHP >= 5.6.x) ](../../How-Tos/#php_connect_mysqli) can be found in our How To section.
+
