@@ -128,33 +128,54 @@ The following list contains all files which are created and changed by MAMP PRO 
 
 Click on the following links for further information on
 
-[Apache Server](https://httpd.apache.org){:target="_blank"}
+*  **Servers & Services**  
+
+   [Apache Server](https://httpd.apache.org){:target="_blank"}
   
-[Nginx Server](https://httpd.apache.org){:target="_blank"}
+   [Nginx Server](https://httpd.apache.org){:target="_blank"}
 
-[MySQL](https://www.mysql.com){:target="_blank"}
+   [MySQL](https://www.mysql.com){:target="_blank"}
 
-[PHP](http://php.net){:target="_blank"}
+*  **Languages**  
 
-[Ruby](http://www.ruby-lang.org/en/){:target="_blank"}
+   [PHP](http://php.net){:target="_blank"}
 
-[Perl](https://www.perl.org){:target="_blank"}
+   [Ruby](http://www.ruby-lang.org/en/){:target="_blank"}
 
-[Python](https://www.python.org){:target="_blank"}
+   [Perl](https://www.perl.org){:target="_blank"}
+
+   [Python](https://www.python.org){:target="_blank"}
+   
+*  **Cache Options & Debugger**   
   
-[MacGDP](http://www.bluestatic.org/software/macgdbp/){:target="_blank"}
+   [MacGDP](http://www.bluestatic.org/software/macgdbp/){:target="_blank"}
 
-[APC](http://php.net/manual/en/book.apc.php){:target="_blank"}
+   [APC](http://php.net/manual/en/book.apc.php){:target="_blank"}
 
-[eaccelerator](http://eaccelerator.net){:target="_blank"}
+   [eaccelerator](http://eaccelerator.net){:target="_blank"}
 
-[xcache](https://xcache.lighttpd.net){:target="_blank"}
+   [xcache](https://xcache.lighttpd.net){:target="_blank"}
 
-[opcache](http://php.net/manual/en/book.opcache.php){:target="_blank"}
+   [opcache](http://php.net/manual/en/book.opcache.php){:target="_blank"}
+   
+*  **Database Administration**   
 
-[phpMyAdmin](https://www.phpmyadmin.net){:target="_blank"}
+   [phpMyAdmin](https://www.phpmyadmin.net){:target="_blank"}
 
-[Sequel Pro](http://www.sequelpro.com){:target="_blank"}
+   [Sequel Pro](http://www.sequelpro.com){:target="_blank"}
 
-[MySQL Workbench](http://mysqlworkbench.org){:target="_blank"}
+   [MySQL Workbench](http://mysqlworkbench.org){:target="_blank"}
+   
+*  **Content Management Systems** 
+
+   [WordPress](https://www.phpmyadmin.net){:target="_blank"}
+   
+   [Joomla](https://www.phpmyadmin.net){:target="_blank"}
+   
+   [Drupal](https://www.phpmyadmin.net){:target="_blank"}
+   
+   [webEdition](https://www.phpmyadmin.net){:target="_blank"}
+   
+   
+
 
