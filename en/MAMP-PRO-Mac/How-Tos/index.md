@@ -166,6 +166,7 @@ $db_selected = mysql_select_db(
 ### Connect to MySQL from PHP (PHP >= 5.6.x)
 
 {% highlight php %}
+
 $user = 'root';
 $password = 'root';
 $db = 'inventory';
@@ -184,6 +185,7 @@ $success = mysqli_real_connect(
 
 or using an UNIX Socket:
 
+{% highlight php %}
 $user = 'root';
 $password = 'root';
 $db = 'inventory';
