@@ -124,6 +124,7 @@ The following list contains all files which are created and changed by MAMP PRO 
     * An existing postfix configuration will be backed up to `/etc/postfix/MAMP_backup` before writing a new config file.  
 
 ---
+
 ### Where can I find more information on the various servers, interpreters, debuggers and other tools that MAMP PRO uses?
 
 Click on the following links for further information on
