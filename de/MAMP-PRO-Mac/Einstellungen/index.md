@@ -6,7 +6,7 @@ product: MAMP PRO Mac
 language: de
 ---
 
-## Settings
+## Einstellungen
 
 - [Hosts](Hosts/)  
 - [Ports](Ports/)  
