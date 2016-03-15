@@ -114,32 +114,98 @@ Note: If you want to open the Postfix log file with a text editor, you have to m
 
 ---
 
-<a name="php_connect"></a> 
+<a name="php_connect_mysql"></a> 
 
-### Connect to MySQL from PHP
-
-The following example shows how to connect to a MySQL database using the `mysqli()` library:
+### Connect to MySQL from PHP (PHP <= 5.5.x)
 
 {% highlight php %}
-<?php
-  DEFINE('DB_USERNAME', 'root');
-  DEFINE('DB_PASSWORD', 'root');
-  DEFINE('DB_HOST', 'localhost');
-  DEFINE('DB_DATABASE', 'performance_schema');
 
-  $mysqli = new mysqli(DB_HOST, DB_USERNAME, DB_PASSWORD, DB_DATABASE);
+$user = 'root';
+$password = 'root';
+$db = 'inventory';
+$host = 'localhost';
+$port = 8889;
 
-  if (mysqli_connect_error()) {
-    die('Connect Error ('.mysqli_connect_errno().') '.mysqli_connect_error());
-  }
+$link = mysql_connect(
+   "$host:$port", 
+   $user, 
+   $password
+);
+$db_selected = mysql_select_db(
+   $db, 
+   $link
+);
 
-  echo 'Connected successfully.';
+{% endhighlight %}
 
-  $mysqli->close();
-?>
+or using an UNIX Socket:
+
+{% highlight php %}
+
+$user = 'root';
+$password = 'root';
+$db = 'inventory';
+$socket = 'localhost:/Applications/MAMP/tmp/mysql/mysql.sock';
+
+$link = mysql_connect(
+   $socket, 
+   $user, 
+   $password
+);
+$db_selected = mysql_select_db(
+   $db, 
+   $link
+);
+
 {% endhighlight %}
 
 ---
+
+<a name="php_connect_mysqli"></a> 
+
+### Connect to MySQL from PHP (PHP >= 5.6.x)
+
+{% highlight php %}
+$user = 'root';
+$password = 'root';
+$db = 'inventory';
+$host = 'localhost';
+$port = 8889;
+
+$link = mysqli_init();
+$success = mysqli_real_connect(
+   $link, 
+   $host, 
+   $user, 
+   $password, 
+   $db,
+   $port
+);
+
+or using an UNIX Socket:
+
+$user = 'root';
+$password = 'root';
+$db = 'inventory';
+$host = '127.0.0.1';
+$port = 8889;
+$socket = 'localhost:/Applications/MAMP/tmp/mysql/mysql.sock';
+
+$link = mysqli_init();
+$success = mysqli_real_connect(
+   $link, 
+   $host,
+   $user, 
+   $password, 
+   $db,
+   $port,
+   $socket
+);
+
+
+
+---
+
 <a name="python_connect"></a>
 
 ### How To Connect To MySQL using Python 
