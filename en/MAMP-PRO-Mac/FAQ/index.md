@@ -177,6 +177,14 @@ Click on the following links for further information on
    
    [webEdition](https://www.phpmyadmin.net){:target="_blank"}
    
+   [Magento](https://www.phpmyadmin.net){:target="_blank"}
+   
+   [Mediawiki](https://www.phpmyadmin.net){:target="_blank"}
+   
+   [phpBB](https://www.phpmyadmin.net){:target="_blank"}
+   
+   [PrestaShop](https://www.phpmyadmin.net){:target="_blank"}
+   
    
 
 
