@@ -157,7 +157,7 @@ link = mysql.connector.connect(**config)
 {% endhighlight %}
 
 
-         or using an UNIX Socket:
+or using an UNIX Socket:
 
 {% highlight php %}
 
@@ -216,8 +216,8 @@ my $link = DBI->connect(
 
 {% endhighlight %}
 
-### <a name="connect_using_sequel_pro"></a>
-How To Connect to MySQL using Sequel Pro
+<a name="connect_using_sequel_pro"></a>
+### How To Connect to MySQL using Sequel Pro
 
 1. Sequel Pro can be launched via the MAMP PRO interface in the ‘MySQL’ tab. Click on the Sequel Pro icon at the bottom of the tab. The instance of Sequel Pro launched from the MAMP PRO interface resides in your Applications/MAMP folder. If your MAMP PRO download package did not come with Sequel Pro you can download it here.
 
