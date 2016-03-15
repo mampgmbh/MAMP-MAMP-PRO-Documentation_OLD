@@ -8,15 +8,13 @@ language: de
 
 ## webEdition
 
-webEdition will always be installed in a folder called webEdition inside the document root folder.
+Das CMS webEdition wird immer im Ordner /webEdition innerhalb des Stammverzeichnisses installiert.
 
 ![MAMP](webEdition.png)
 
-*  **Table prefix:**  
-   Set the name of your database schema prefix. webEdition offers the ability to manage multiple websites
-   using a single database schema.
+*  **Tabellen-Präfix:**  
+   Durch Verwendung unterschiedlicher Tabellen-Präfixe kann webEdition Daten für mehrere Websites in einer einzigen Datenbank    verwalten.
 
-*  **Database name:**  
-   Set the name of your database schema which will be added to your local database.
-   After installation you can view this database for this instance of webEdition using phpMyAdmin, Sequel Pro, or               MySQLWorkbench. 
+*  **Databank-Name:**  
+   Auf dem MySQL-Server darf noch keine Datenbank mit dem selben Datenbanknamen vorhanden sein. Die Datenbank wird              automatisch erzeugt. 
 
