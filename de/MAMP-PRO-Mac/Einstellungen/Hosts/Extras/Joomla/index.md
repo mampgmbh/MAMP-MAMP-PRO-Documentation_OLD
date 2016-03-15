@@ -8,15 +8,15 @@ language: de
 
 ## Joomla
 
-Joomla installations can share a single MySQL database if you provide a unique table prefix during installation. To use an existing database enter the name of the database and a unique table prefix. To create a new database use a unique database name, table prefix must not be empty.
+Installationen von Joomla können sich eine einzige MySQL-Datenbanken teilen, sofern Sie jede Joomla-Installation einen anderen Tabellen-Präfix benutzet. Um eine bereits vorhandene Datenbank zu verwenden, geben Sie den Namen der Datenbank an und wählen Sie einen neuen Tabellen-Präfix. Um eine neue Datenbank zu nutzen, wählen einen individuellen Datenbanknamen. Ein Tabellen-Präfix muss gewählt werden, das Eingabefeld darf nicht leer bleiben.
+
 
 ![MAMP](Joomla.png)
 
-*  **Table prefix:**  
-   Set the name of your database schema prefix. Joomla offers the ability to manage multiple websites using a single database schema.
+*  **Tabellen-Präfix:**  
+   Durch die Verwendung von unterschiedlichen Tabellen-Präfixen kann Joomla Daten für mehrere Websites in einer einzigen        Datenbank verwalten.
 
-*  **Database name:**  
-   Set the name of your database schema which will be added to your local database.
-   After installation you can view this database for this instance of Joomla using phpMyAdmin, Sequel Pro, or MySQLWorkbench. 
+*  **Datenbank-Name:**  
+   Auf dem MySQL-Server darf noch keine Datenbank mit dem selben Datenbanknamen vorhanden sein. Die Datenbank wird              automatisch erzeugt. 
 
 
