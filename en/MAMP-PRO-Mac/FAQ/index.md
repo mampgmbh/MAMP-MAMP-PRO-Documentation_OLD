@@ -169,21 +169,21 @@ Click on the following links for further information on
    
 *  **Content Management Systems** 
 
-   [WordPress](https://www.phpmyadmin.net){:target="_blank"}
+   [WordPress](https://wordpress.org){:target="_blank"}
    
-   [Joomla](https://www.phpmyadmin.net){:target="_blank"}
+   [Joomla](https://www.joomla.org){:target="_blank"}
    
-   [Drupal](https://www.phpmyadmin.net){:target="_blank"}
+   [Drupal](https://www.drupal.org){:target="_blank"}
    
-   [webEdition](https://www.phpmyadmin.net){:target="_blank"}
+   [webEdition](http://www.webedition.org){:target="_blank"}
    
-   [Magento](https://www.phpmyadmin.net){:target="_blank"}
+   [Magento](https://magento.com){:target="_blank"}
    
-   [Mediawiki](https://www.phpmyadmin.net){:target="_blank"}
+   [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki){:target="_blank"}
    
-   [phpBB](https://www.phpmyadmin.net){:target="_blank"}
+   [phpBB](https://www.phpbb.com){:target="_blank"}
    
-   [PrestaShop](https://www.phpmyadmin.net){:target="_blank"}
+   [PrestaShop](https://www.prestashop.com){:target="_blank"}
    
    
 
