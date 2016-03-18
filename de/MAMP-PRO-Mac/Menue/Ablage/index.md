@@ -1,3 +1,11 @@
+---
+title: MAMP PRO (Mac) Dokumentation
+description: 
+layout: default-2
+product: MAMP PRO Mac
+language: de
+---
+
 ## Ablage
 
 Einstellungen, die Sie in MAMP PRO vornehmen, werden beim Speichern in Konfigurationsdateien für die Server geschrieben. Dazu verwendet MAMP PRO Vorlagen, in denen auch weitere Konfigurationsoptionen fest enthalten sind. Sie können diese Vorlagen unter dem Menüpunkt Ablage > Vorlagen editieren und verändern. Dadurch können Sie auch auf Optionen zugreifen, die in der MAMP PRO Oberfläche nicht verfügbar sind.
