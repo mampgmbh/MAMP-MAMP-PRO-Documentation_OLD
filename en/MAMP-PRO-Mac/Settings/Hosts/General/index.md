@@ -20,11 +20,10 @@ Click on the folder icon to choose a document root. Use the right arrow button t
 
 The document root is also known as the web root folder. MAMP PRO will automatically add an `index.php` file and a MAMP image to this location when Apache is restarted and the folder is empty.
 
-
-
-When your host page is functioning or at any other time you can save your host settings so you can go back to them at a later date.
-
 ![MAMP](HostSaveSettings.png)
+
+When your host page is functioning or at any other time you can save your host settings so you can go back to them at a later date. This serves as a backup in the case you make some server changes and discover your site is no longer accessible.
+
 
 *  **Server Name**  
    The server name and port number in combination must be unique within MAMP PRO.
