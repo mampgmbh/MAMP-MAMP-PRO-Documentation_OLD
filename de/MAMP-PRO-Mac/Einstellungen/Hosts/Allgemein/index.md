@@ -25,6 +25,11 @@ Klicken Sie auf den Rechtspfeil-Button, um den Ordner im Finder zu öffnen.
 
 Das Stammverzeichnis wird auch als Document Root bezeichnet. Ist dieses Verzeichnis leer, legt MAMP PRO beim nächsten Start von Apache automatisch eine index.php-Datei und eine MAMP-Bilddatei dort ab.
 
+![MAMP](HostSaveSettings.png)
+
+When your host page is functioning or at any other time you can save your host settings so you can go back to them at a later date. This serves as a backup in the case you make some server changes and discover your site is no longer accessible.
+
+
 *  **Server Name**  
 Der Server-Name muss in Kombination mit der Portnummer eindeutig sein. Er darf nur Buchstaben, Zahlen und das Minuszeichen (-) enthalten. Das Minuszeichen (-) darf allerdings weder das erste noch das letzte Zeichen sein.
 
