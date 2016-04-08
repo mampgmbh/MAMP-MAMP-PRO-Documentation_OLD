@@ -8,6 +8,7 @@ language: en
 
 ## Drupal
 
+Drupal is content management software. It's used to make many of the websites and applications you use every day. 
 
 ![MAMP](Drupal.png)
 
