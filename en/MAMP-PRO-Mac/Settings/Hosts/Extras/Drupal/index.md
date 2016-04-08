@@ -9,7 +9,7 @@ language: en
 ## Drupal
 
 
-![MAMP](drupal.png)
+![MAMP](Drupal.png)
 
 *  **Name of the blog:**  
    Name your blog.
