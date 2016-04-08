@@ -41,6 +41,8 @@ When you are done filling out all the required fields Mediawiki will be download
 
 ![MAMP](MediaWikiInstalled.png)
 
+The <document root> indicates you installed Mediawiki directly in the document root and not a subfolder. mediawiki_1 indicates the database name and (wiki_) indicates the table prefix name. You can go directly to your host site by pressing the 'manage...' button
+
 
 
 
