@@ -37,5 +37,12 @@ MediaWiki is a free software open source wiki package written in PHP, originally
 
 
 
+When you are done filling out all the required fields Mediawiki will be downloaded into your host directory. A database will be created using the database name you entered.
+
+![MAMP](MediaWikiInstalled.png)
+
+
+
+
 
 
