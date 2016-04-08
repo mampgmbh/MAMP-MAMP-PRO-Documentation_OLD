@@ -12,8 +12,8 @@ MediaWiki is a free software open source wiki package written in PHP, originally
 
 ![MAMP](MediaWiki.png)
 
-*  **Name of the blog:**  
-   Name your blog.
+*  **Name of Wiki:**  
+   Your Wiki a descriptive name.
 
 *  **Email address:**  
    Your email address.  
