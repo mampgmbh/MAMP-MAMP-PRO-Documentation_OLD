@@ -24,5 +24,12 @@ webEdition will always be installed in a folder called webEdition inside the doc
    Set the name of your database schema which will be added to your local database.
    After installation you can view this database for this instance of webEdition using phpMyAdmin, Sequel Pro, or               MySQLWorkbench.
 
+*  **Username:**  
+   The WordPress admin.  
+   *Note: You will need this username to login into your new of WordPress blog, please write this down.*  
+
+*  **Password:**  
+   The WordPress admins default password.  
+   *Note: You will need this password to login into your new WordPress blog, please write this down.*
 
 
