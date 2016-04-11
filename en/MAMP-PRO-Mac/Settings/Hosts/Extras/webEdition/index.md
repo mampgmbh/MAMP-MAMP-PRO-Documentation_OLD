@@ -14,7 +14,7 @@ webEdition will always be installed in a folder called webEdition inside the doc
 
 *  **Email address:**  
    Your email address.  
-   *Note: You must enter a valid email address to setup a WordPress installation.*
+   *Note: You must enter a valid email address to setup a webEdition installation.*
 
 *  **Table prefix:**  
    Set the name of your database schema prefix. webEdition offers the ability to manage multiple websites
