@@ -65,7 +65,13 @@ The MySQL database server is a popular database used on production servers. Seve
    Alternitavely you can open a terminal and type the following. You will be upgraded to MySQL 5.6. 
 
    `/Applications/MAMP/bin/./activateMySQL_56.sh`
-
+   
+   <div class="alert" role="alert">
+   MAMP will now launch MySQL 5.6. Your data has not been transitioned over to MySQl 5.6 . Please see our How Tos on how to move your data from MySQL 5.5 to MySQL 5.6. 
+   </div>
+   
+   Once you have transitioned your data to 5.6 you can continue on adding data to your 5.6 databases.
+   
    <div class="alert" role="alert">
    Data you have entered using MySQL 5.6 or 5.7 cannot be transitioned back to 5.5.
    </div>
