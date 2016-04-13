@@ -76,8 +76,6 @@ The MySQL database server is a popular database used on production servers. Seve
    Data you have entered using MySQL 5.6 or 5.7 cannot be transitioned back to 5.5.
    </div>
 
-*   **Reverting**  
-    Reverting the MySQL software back to 5.5.x is easy, just re-install MAMP and MAMP PRO. Data you have entered using MySQL     5.6 will not be transitioned back to 5.5.
 
 ---
 
