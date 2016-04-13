@@ -1,5 +1,16 @@
 ## Anleitungen
 
+### Upgrade Data from MySQL 5.5 to MySQL 5.6
+
+Your current MySQL 5.5. data is located in `/Applications/MAMP/db/mysql`.
+You need to export your data first. You can use mysqldump to export your data. To do this cut and paste the following in a terminal window.
+
+`/Applications/MAMP/Library/bin/./mysqldump -u root -p --all-databases > /Applications/MAMP/db/dump.sql`
+
+You will be prompted for your MySQL root user password. By defualt MAMP PRO sets this to [root].
+After you have entered your password you should have a dump.sql file in your /Applications/MAMP/db folder
+
+
 ### Wie ändere ich das Passwort für den MySQL-Benutzer root?
 
 Öffnen Sie das Programm Terminal (in "/Programme/Dienstprogramme") und geben Sie die folgenden Zeilen ein:
