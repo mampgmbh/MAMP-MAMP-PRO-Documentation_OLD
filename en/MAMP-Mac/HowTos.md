@@ -5,7 +5,8 @@
 
 Your current MySQL 5.5. data is located in `/Applications/MAMP/db/mysql`.
 You need to export your data first. You can use mysqldump to export your data. To do this type the following in your terminal.
-'/Applications/MAMP/Library/bin/./mysqldump -u root -p --all-databases > /Applications/MAMP/db/dump.sql'
+
+`/Applications/MAMP/Library/bin/./mysqldump -u root -p --all-databases > /Applications/MAMP/db/dump.sql`
 
 You will be prompted for your MySQL root user password. By defualt MAMP PRO sets this to [root].
 After you have entered your password you should have a dump.sql file in you /Applications/MAMP/db folder
