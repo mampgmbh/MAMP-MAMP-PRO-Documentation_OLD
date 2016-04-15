@@ -8,7 +8,7 @@ language: de
 
 ## Mediawiki
 
-![MAMP](mediawiki.png)
+![MAMP](MediaWiki.png)
 
 *  **Name des Blogs:**  
    Geben Sie Ihrem Blog einen aussagekräftigen Namen.
