@@ -7,3 +7,5 @@ language: de
 ---
 
 ## phpBB
+
+![MAMP](phpBB.png)
