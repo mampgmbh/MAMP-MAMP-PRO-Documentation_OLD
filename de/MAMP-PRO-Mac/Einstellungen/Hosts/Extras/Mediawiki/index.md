@@ -8,4 +8,7 @@ language: de
 
 ## Mediawiki
 
+![MAMP](mediawiki.png)
+
+
 
