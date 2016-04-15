@@ -21,8 +21,10 @@ Drupal ist ein Content Management Software. It's used to make many of the websit
 *  **Verzeichnis:**  
    Wenn Sie Wordpress direkt im Stammverzeichnis des Hosts installieren möchten, dann lassen Sie dieses Feld leer.
 
-   Möchten Sie Wordpress lieber in einen eigenen Ordner installieren, dann geben Sie diesen Ordnernamen an. Dieser Ordner darf noch nicht im Stammverzeichnis des Hosts existieren, denn er wird automatisch angelegt.  
-   *Hinweis: Installieren Sie Wordpress nicht über eine bereits vorhandene Installation. Diese wird ansonsten überschrieben!*  
+   Möchten Sie Wordpress lieber in einen eigenen Ordner installieren, dann geben Sie diesen Ordnernamen an. Dieser Ordner darf noch nicht im Stammverzeichnis des Hosts existieren, denn er wird automatisch angelegt.
+   <div class="alert" role="alert">
+   *Hinweis: Installieren Sie Wordpress nicht über eine bereits vorhandene Installation. Diese wird ansonsten überschrieben!* </div>
+   
 *  **Datenbank-Name:**  
    Eine Datenbank mit diesem Name darf auf dem MySQL-Server noch nicht existieren. Sie wird automatisch angelegt. 
  
@@ -32,6 +34,7 @@ Drupal ist ein Content Management Software. It's used to make many of the websit
 
 *  **Passwort:**  
    Es wird automatisch das Passwort admin verwendet.
+   <div class="alert" role="alert">
    *Hinweis: Nutzen Sie dieses Passwort, um sich später auf Ihr Wordpress-Blog einzuloggen. Sie können es im Admin-Bereich von Wordpress ändern.*
-
+   </div>
 
