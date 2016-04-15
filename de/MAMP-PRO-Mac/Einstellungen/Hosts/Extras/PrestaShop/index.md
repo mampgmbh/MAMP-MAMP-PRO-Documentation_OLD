@@ -7,3 +7,5 @@ language: de
 ---
 
 ## Prestashop
+
+![MAMP](PrestaShop.png)
