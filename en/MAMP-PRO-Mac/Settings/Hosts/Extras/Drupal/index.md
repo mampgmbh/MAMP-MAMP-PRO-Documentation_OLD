@@ -21,7 +21,8 @@ Drupal is content management software. It's used to make many of the websites an
 
 *  **Directory:**  
    The installation directory. If it is left blank the Wordpress files will be copied directly to the document root folder.  
-   *Note: Do not install over a previous installation of Wordpress! Files will be overwritten without warning.*  
+   
+*Note: Do not install over a previous installation of Wordpress! Files will be overwritten without warning.*  
 
 *  **Database name:**  
    Set the name of your database schema which will be added to your local database.  
