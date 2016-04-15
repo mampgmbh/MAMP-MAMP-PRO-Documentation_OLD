@@ -10,29 +10,29 @@ language: de
 
 ![MAMP](MediaWiki.png)
 
-*  **Name des Blogs:**  
-   Geben Sie Ihrem Blog einen aussagekräftigen Namen.
+*  **Name des Wiki:**  
+   Geben Sie Ihrem Wiki einen aussagekräftigen Namen.
 
 *  **E-Mail-Adresse:**  
-   An diese E-Mail-Adresse wird Ihre Wordpress-Installation Fehlermeldungen verschicken.  
-   *Hinweis: Um Wordpress zu installieren, ist die Eingabe einer gültigen E-Mail-Adresse erforderlich.*
+   An diese E-Mail-Adresse wird Ihre MediaWiki-Installation Fehlermeldungen verschicken.  
+   *Hinweis: Um MediaWiki zu installieren, ist die Eingabe einer gültigen E-Mail-Adresse erforderlich.*
 
 *  **Verzeichnis:**  
-   Wenn Sie Wordpress direkt im Stammverzeichnis des Hosts installieren möchten, dann lassen Sie dieses Feld leer.
+   Wenn Sie MediaWiki direkt im Stammverzeichnis des Hosts installieren möchten, dann lassen Sie dieses Feld leer.
 
-   Möchten Sie Wordpress lieber in einen eigenen Ordner installieren, dann geben Sie diesen Ordnernamen an. Dieser Ordner       darf noch nicht im Stammverzeichnis des Hosts existieren, denn er wird automatisch angelegt.
+   Möchten Sie MediaWiki lieber in einen eigenen Ordner installieren, dann geben Sie diesen Ordnernamen an. Dieser Ordner  darf noch nicht im Stammverzeichnis des Hosts existieren, denn er wird automatisch angelegt.
    
-   *Hinweis: Installieren Sie Wordpress nicht über eine bereits vorhandene Installation. Diese wird ansonsten überschrieben!*  
+   *Hinweis: Installieren Sie MediaWiki nicht über eine bereits vorhandene Installation. Diese wird ansonsten überschrieben!*  
 *  **Datenbank-Name:**  
    Eine Datenbank mit diesem Name darf auf dem MySQL-Server noch nicht existieren. Sie wird automatisch angelegt.
  
 *  **Benutzername:**  
    Es wird automatisch der Benutzername admin verwendet.  
-   *Hinweis: Nutzen Sie diesen Nutzernamen, um sich später auf Ihrem Wordpress-Blog einzuloggen.*  
+   *Hinweis: Nutzen Sie diesen Nutzernamen, um sich später auf Ihrem Wiki einzuloggen.*  
 
 *  **Passwort:**  
    Es wird automatisch das Passwort admin verwendet.  
-   *Hinweis: Nutzen Sie dieses Passwort, um sich später auf Ihr Wordpress-Blog einzuloggen. Sie können es im Admin-Bereich      von Wordpress ändern.*
+   *Hinweis: Nutzen Sie dieses Passwort, um sich später auf Ihr Wiki einzuloggen. Sie können es im Admin-Bereich von MediaWiki ändern.*
 
 
 
