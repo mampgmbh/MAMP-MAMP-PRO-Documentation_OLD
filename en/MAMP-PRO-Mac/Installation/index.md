@@ -34,7 +34,7 @@ To use MAMP PRO, your system must meet the following requirements:
 5. Confirm that all data has been transferred correctly before starting MAMP PRO.
 6. If you you were using MySQL version 5.5 (most likely scenerio) you will be prompted to upgrade your MySQL to version 5.6 . This is recommended.
 
- ![MAMP](UpgradeMyQLNotice.png)
+ ![MAMP](UpgradeMySQLNotice.png)
  
 7. 
 
