@@ -32,13 +32,15 @@ To use MAMP PRO, your system must meet the following requirements:
 3. If the installer detects an existing `/Applications/MAMP` folder it will rename it to `/Applications/MAMP_current_date`.
 4. Your existing `htdocs` folder will be moved to your new `/Applications/MAMP` folder.
 5. Confirm that all data has been transferred correctly before starting MAMP PRO.
-6. If you you were using MySQL version 5.5 (most likely scenerio) you will be prompted to upgrade your MySQL to version 5.6 . This is recommended.
+6. If you you were using MySQL version 5.5 (most likely scenerio) you will be informed to upgrade your MySQL to version 5.6 . This is recommended.
 
  ![MAMP](UpgradeMySQLNotice.png)
  
-7. 
+7. When the installation process is finished and you open MAMP PRO for the first time you prompted to update your databases.
 
-7. Your `/Applications/MAMP_current_date` folder can now be deleted. You may however keep it, so you can fall back to your original setup.
+![MAMP](UpgradeMySQL.png)
+
+8. Your `/Applications/MAMP_current_date` folder can now be deleted. You may however keep it, so you can fall back to your original setup.
 
 
 #### Upgrading from version 4.xx to version 4.xx
