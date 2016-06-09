@@ -36,7 +36,7 @@ To use MAMP PRO, your system must meet the following requirements:
 
  ![MAMP](UpgradeMySQLNotice.png)
  
-7. When the installation process is finished and you open MAMP PRO for the first time you prompted to update your databases.
+7. When the installation process is finished and you open MAMP PRO for the first time you prompted to update your databases. Update your databases.
 
 ![MAMP](UpgradeMySQL.png)
 
