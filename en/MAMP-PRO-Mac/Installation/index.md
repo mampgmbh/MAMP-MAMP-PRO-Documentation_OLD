@@ -21,21 +21,40 @@ To use MAMP PRO, your system must meet the following requirements:
 
 #### New MAMP PRO 4 installation
 
-#### Upgrading from version 3 to version 4
+1. Download MAMP PRO from https://www.mamp.info
+2. Double click on the `MAMP_MAMP_PRO_4.xx.pkg` file in your `Downloads` folder.
+3. The System Installer will guide you through the installation process.
+
+### Updgrading from version 3 to version 4
 
 1. Download MAMP PRO from https://www.mamp.info.
-2. Double click on the `MAMP_MAMP_PRO_4.0.pkg` file in your `Downloads` folder.
-3. The System Installer will guide you through the installation process.
-4. If the installer detects an existing `/Applications/MAMP` folder it will rename it to `/Applications/MAMP_current_date`.
-5. Your existing `htdocs` folder will be moved to your new `/Applications/MAMP` folder.
-6. If there has been a change to the configuration of Apache, PHP, or MySQL (A directive was modified or a new one added)    between versions of MAMP PRO and you have already made changes to your current configuration (resulting in the creation of a template file in ~/Library/application support/appsolute/MAMP PRO/templates ), MAMP PRO will ask you to save off your old templates when you upgrade.
+2. Double click on the `MAMP_MAMP_PRO_4.xx.pkg` file in your `Downloads` folder to start the installation process.
+3. If the installer detects an existing `/Applications/MAMP` folder it will rename it to `/Applications/MAMP_current_date`.
+4. Your existing `htdocs` folder will be moved to your new `/Applications/MAMP` folder.
+5. Confirm that all data has been transferred correctly before starting MAMP PRO.
+6. If you you were using MySQL version 5.5 (most likely scenerio) you will be prompted to upgrade your MySQL to version 5.6 . This is recommended.
+
+ ![MAMP](UpgradeMyQLNotice.png)
+ 
+7. 
+
+7. Your `/Applications/MAMP_current_date` folder can now be deleted. You may however keep it, so you can fall back to your original setup.
+
+
+#### Upgrading from version 4.xx to version 4.xx
+
+1. Download MAMP PRO from https://www.mamp.info.
+2. Double click on the `MAMP_MAMP_PRO_4.xx.pkg` file in your `Downloads` folder to start the installation process.
+3. If the installer detects an existing `/Applications/MAMP` folder it will rename it to `/Applications/MAMP_current_date`.
+4. Your existing `htdocs` folder will be moved to your new `/Applications/MAMP` folder.
+5. If there has been a change to the configuration of Apache, PHP, or MySQL (A directive was modified or a new one added)    between versions of MAMP PRO and you have already made changes to your current configuration (resulting in the creation of a template file in ~/Library/application support/appsolute/MAMP PRO/templates ), MAMP PRO will ask you to save off your old templates when you upgrade.
 
     ![MAMP](Templates.png)
   
-    Save your template files. You can use these saved template files as a guide of your previous modifications. New              (re) modifications need to be made through the MAMP PRO interface (File > Edit Templates), just as you had done before in     your previous version of MAMP PRO.
+    Save your template files. You can use these saved template files as a guide of your previous modifications. New         (re) modifications need to be made through the MAMP PRO interface (File > Edit Templates), just as you had done before in your previous version of MAMP PRO.
 
-7. Confirm that all data has been transferred correctly before starting MAMP PRO.
-8. Your `/Applications/MAMP_current_date` folder can now be deleted. You may however keep it, so you can fall back to your original setup.
+6. Confirm that all data has been transferred correctly before starting MAMP PRO.
+7. Your `/Applications/MAMP_current_date` folder can now be deleted. You may however keep it, so you can fall back to your original setup.
 
 <div class="alert" role="alert">
 Note: You need administrator permissions to install MAMP PRO!
