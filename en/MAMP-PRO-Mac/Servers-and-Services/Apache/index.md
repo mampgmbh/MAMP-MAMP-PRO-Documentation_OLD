@@ -10,7 +10,7 @@ language: en
 
 The Apache Server is a popular web server used in production environments. An instance of Apache Server is installed on your Mac by MAMP PRO.
 
----
+![MAMP](Apache.png)
 
 *  **Activate Apache server**  
 
@@ -28,4 +28,4 @@ To enable the PHP scripting language you must activate the php_module, if you wa
 
 Information on configuring your MAMP PRO Apache Server installation can be found [here](../../Settings/Hosts/Apache) .
 
-![MAMP](Apache.png)
+
