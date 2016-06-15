@@ -18,7 +18,7 @@ When activated Apache will automatically start when the Servers button is presse
 
 ---
 
-### Apache Modules
+*  **Apache Modules**  
 
 The Apache Web Server installed by MAMP PRO comes with many modules pre-installed.
 
