@@ -10,6 +10,8 @@ language: en
 
 *  **Activate Apache server**  
 
+When activated Apache will automatically start when the Servers button is pressed.
+
 ---
 
 ### Apache Modules
