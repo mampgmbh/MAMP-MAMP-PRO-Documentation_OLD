@@ -69,7 +69,7 @@ When your host page is functioning or at any other time you can save your host s
    Determines, if this virtual host is accessible with the Dynamic DNS service from the internet.
 
 *  **Use with**  
-   This allows you to use these settings with Apache, Nginx, or both.
+    Determine which web server will be used as default when opening your site in a web browser through the MAMP PRO interface.
 
 ---
 
