@@ -31,5 +31,5 @@ Information on configuring your MAMP PRO Apache Server installation can be found
 ---
 
 *  **Path To Apache log file**
-*  
+
 Errors occurring during execution of the Apache server will be saved in this log file.
