@@ -15,7 +15,7 @@ The Nginx Web Server ...
 
 *  **Activate Nginx server**  
 
-When activated Nginx will automatically start when the Servers button is pressed.
+Check to activate the Nginx Server. When activated Nginx will automatically start when the Servers button is pressed.
 
 Information on how to custom configure your Nginx Server can be found [here](../../Settings/Hosts/Nginx)
 
