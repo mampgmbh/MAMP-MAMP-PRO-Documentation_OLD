@@ -8,7 +8,7 @@ language: en
 
 ## Servers and Services > Nginx
 
-The Nginx Web Server ...
+The Nginx Web Server is a popular web server used in production environments. An instance of Nginx is installed on your Mac by MAMP PRO.
 
 ![MAMP](Nginx.png)
 
@@ -22,6 +22,7 @@ Information on how to custom configure your Nginx Server can be found [here](../
 
 *  **Use Nginx as a Reverse Proxy for Apache**  
 
+Check to use Nginx as a revers proxy for Apache.
 ---
 
 *  **Nginx Modules**
