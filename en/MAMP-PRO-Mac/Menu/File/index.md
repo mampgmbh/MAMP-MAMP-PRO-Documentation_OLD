@@ -72,4 +72,12 @@ language: en
      Restore From Backup
      </div>
      
-*  **Restore your host settings and MySQL database files.:**
+*  **Restore your host settings and MySQL database files:**
+
+##  Factory Settings
+
+*  **Setting 1**
+     These are the settings for setting 1
+
+*  **Setting 2**
+     These are the settings for setting 2
