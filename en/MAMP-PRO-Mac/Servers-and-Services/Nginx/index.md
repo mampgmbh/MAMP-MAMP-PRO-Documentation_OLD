@@ -10,7 +10,7 @@ language: en
 
 The Nginx Web Server ...
 
-![MAMP](nginX.png)
+![MAMP](Nginx.png)
 
 *  **Activate Nginx server**  
 
@@ -24,7 +24,11 @@ Information on how to custom configure your Nginx Server can be found [here](../
 
 ---
 
-*  ** Nginx Modules**
+*  **Nginx Modules**
+
+The Nginx Web Server installed by MAMP PRO comes with several modules pre-installed.
+
+The web server modules can be activated or deactivated depending on your needs. Module Description provides information pertaining to features and functions of the selected module.
 
 ---
 
