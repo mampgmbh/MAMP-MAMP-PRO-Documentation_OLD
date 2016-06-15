@@ -20,21 +20,16 @@ Check your version number and MAMP PRO key.
 
 ---
 
-![MAMP](Preferences.png)
-
 #### Preferences…
+
+![MAMP](Preferences.png)
 
 *  **Open WebStart when starting MAMP PRO:**
      Your default browser will bring up the web start page when MAMP PRO is launched.
 
-*  **Path To Webstart:**
-     The default MAMP start page provides links to access utilities such as phpMyAdmin, phpInfo, SQLite Manager,       phpLiteAdmin, FAQ, and the MAMP Website.
-
+*  **My Favorite Link:**
+     Set the My Favorite Link on the Webstart page. This link appears at the top of the page.
 ---
-
-When left using the default setting (`/MAMP/`), you will be directed to the MAMP PRO utilities start page using the Alias definition `/MAMP/`. If this field is left blank, you will be taken to your default document root (http://localhost:8888 in the `/Applications/MAMP/htdocs`). If you enter /subDirectory in this field, you will be taken to the `/Applications/MAMP/htdocs/subDirectory` folder via your default web browser (http://localhost:8888/subDirectory).
-
- 
 
 *  **Allow Saving when Document Root is invalid:**
      MAMP PRO will ignore invalid paths to hosts and proceed with saving your settings.
