@@ -12,9 +12,8 @@ language: en
 
 *  **Web Start:**
 
-*  **Extras:**
-
 ---
+
 *  **Extras:**
      Go directly to the Extras pane of the last selected host.
 
