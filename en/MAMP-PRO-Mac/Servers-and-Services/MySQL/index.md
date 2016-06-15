@@ -20,7 +20,7 @@ When activated MySQL server will automatically start when the Servers button is 
 
 
 *  **Activate MySQL server**
-   Check to activate the MySQL Server. MySQL will not start when this checkbox is not checked.
+   Check to activate the MySQL Server. When activated MySQL server will automatically start when the Servers button is pressed.
 
 ---
 
