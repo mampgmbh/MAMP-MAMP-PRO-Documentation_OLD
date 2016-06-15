@@ -6,9 +6,9 @@ product: MAMP PRO Mac
 language: en
 ---
 
-The Apache Server is a popular web server used in production environments. An instance of Apache Server is installed on your Mac by MAMP PRO.
-
 ## Servers and Services > Apache
+
+The Apache Server is a popular web server used in production environments. An instance of Apache Server is installed on your Mac by MAMP PRO.
 
 *  **Activate Apache server**  
 
