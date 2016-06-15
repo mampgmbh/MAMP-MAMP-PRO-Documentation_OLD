@@ -32,7 +32,7 @@ To use MAMP PRO, your system must meet the following requirements:
 3. If the installer detects an existing `/Applications/MAMP` folder it will rename it to `/Applications/MAMP_current_date`.
 4. Your existing `htdocs` folder will be moved to your new `/Applications/MAMP` folder.
 5. Confirm that all data has been transferred correctly before starting MAMP PRO.
-6. If you were using MySQL 5.5 (most likely scenerio) you will be informed to upgrade your MySQL to 5.6 . This is recommended. Your original database data has been copied from /Library/Application Support/appsolute/MAMP PRO/db/mysql to /Library/Application Support/appsolute/MAMP PRO/db/msql56 . 
+6. If you were using MySQL 5.5 (most likely scenerio) you will be informed to upgrade your MySQL to 5.6 . This is recommended. Your original database data has been copied from `/Library/Application Support/appsolute/MAMP PRO/db/mysql` to `/Library/Application Support/appsolute/MAMP PRO/db/msql56`. 
 
  ![MAMP](UpgradeMySQLNotice.png)
  
