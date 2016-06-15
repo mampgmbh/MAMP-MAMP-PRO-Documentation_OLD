@@ -14,6 +14,7 @@ Sometimes you may need to send an email with PHP. To do so you have to configure
 
 *  **Activate Postfix service**  
 
+Check to activate Postfix. When activated Postfix will automatically start when the Servers button is pressed.
 ---
 
 *  **Set domain of outgoing e-mails to**  
