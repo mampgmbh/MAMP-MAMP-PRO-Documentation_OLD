@@ -8,6 +8,10 @@ language: en
 
 ## Servers and Services > Nginx
 
+*  **Activate Nginx server**  
+
+When activated Nginx will automatically start when the Servers button is pressed.
+
 Nginx is a Server ....
 
 Information on how to custom configure your Nginx Server can be found [here](../../Settings/Hosts/Nginx)
