@@ -24,6 +24,10 @@ Information on how to custom configure your Nginx Server can be found [here](../
 
 ---
 
+*  ** Nginx Modules**
+
+---
+
 *  **Path to Nginx log file**
 
 Errors occurring during execution of the Nginx server will be saved in this log file.
