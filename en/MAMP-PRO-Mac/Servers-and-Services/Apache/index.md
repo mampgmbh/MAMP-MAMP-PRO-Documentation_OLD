@@ -10,6 +10,8 @@ language: en
 
 The Apache Server is a popular web server used in production environments. An instance of Apache Server is installed on your Mac by MAMP PRO.
 
+---
+
 *  **Activate Apache server**  
 
 When activated Apache will automatically start when the Servers button is pressed.
