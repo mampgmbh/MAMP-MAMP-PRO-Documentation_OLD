@@ -23,6 +23,7 @@ Information on how to custom configure your Nginx Server can be found [here](../
 *  **Use Nginx as a Reverse Proxy for Apache**  
 
 Check to use Nginx as a revers proxy for Apache.
+
 ---
 
 *  **Nginx Modules**
