@@ -12,14 +12,11 @@ The Nginx Web Server ...
 
 ![MAMP](nginX.png)
 
-
 *  **Activate Nginx server**  
 
 Check to activate the Nginx Server. When activated Nginx will automatically start when the Servers button is pressed.
 
 Information on how to custom configure your Nginx Server can be found [here](../../Settings/Hosts/Nginx)
-
-*  **Activate Nginx Server**  
 
 ---
 
