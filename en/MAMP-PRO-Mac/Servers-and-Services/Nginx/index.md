@@ -6,18 +6,18 @@ product: MAMP PRO Mac
 language: en
 ---
 
-Nginx is a Server ....
-
 ## Servers and Services > Nginx
+
+The Nginx Web Server ...
+
+![MAMP](nginX.png)
+
 
 *  **Activate Nginx server**  
 
 When activated Nginx will automatically start when the Servers button is pressed.
 
 Information on how to custom configure your Nginx Server can be found [here](../../Settings/Hosts/Nginx)
-
-![MAMP](nginX.png)
-
 
 *  **Activate Nginx Server**  
 
