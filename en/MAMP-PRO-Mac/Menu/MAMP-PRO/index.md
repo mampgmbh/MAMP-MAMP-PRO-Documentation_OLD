@@ -57,17 +57,22 @@ When left using the default setting (`/MAMP/`), you will be directed to the MAMP
 Only M cannot be used as a shortcut key. The ^ key stands for the ctrl key.
 
 *  **Show Status in Menu Bar:**
-     The elephant icon will appear in the Menu Bar. When MAMP PRO has the servers running the elephant icon will be blue,         when the servers are not running the elephant will be black.
+     The elephant icon will appear in the Menu Bar. When MAMP PRO has the servers running the elephant icon will be blue,  when the servers are not running the elephant will be black.
 
-*  **Hide Doc Icon:**
-     The Doc Icon will be hidden. This option will only take affect after the restart of MAMP PRO.
+*  **Hide Dock Icon:**
+     The Dock Icon will be hidden. This option will only take affect after the restart of MAMP PRO.
 
      <div class="alert" role="alert">
      Note: You will not be able to see the MAMP PRO Menu Bar.
      </div>
 
-*  **Use Message Center (OS X 10.9 or later):**
-     The Message Center will inform you of when Apache and MySQL have started. The Message Center can only be used when the       doc icon is hidden.
+*  **Use Message Center:**
+     The Message Center will inform you of when Apache and MySQL have started. The Message Center can only be used when the doc icon is hidden.
+
+---
+
+*  **Show a red dot on the Dock icon if a server is running:**
+     A red dot will appear on the MAMP PRO icon on the dock when this is checked.
 
 ---
 
