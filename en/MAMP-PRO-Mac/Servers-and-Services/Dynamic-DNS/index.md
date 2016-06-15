@@ -24,6 +24,8 @@ Note: To use the Dynamic DNS functions, you will need to register with one of th
 
 *  **Activate Dynamic DNS service**  
 
+Check to activate the DNS Server. When activated the DNS Server will automatically start when the Servers button is pressed.
+
 ---
 
 *  **Activate Service**  
