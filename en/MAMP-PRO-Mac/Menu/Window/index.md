@@ -19,20 +19,19 @@ Overview allows quick access to preview websites. Overview can be added to the t
 
 *  **Assets:**
 
-Track your assets using the Asset Manager
+Track your assets using the Asset Manager. The Asset Manager can be added to the toolbar.
   
 ![MAMP](Assets.png)
 
-The Asset Manager .... 
 
 ---
 
 *  **Scrap Pad:**
-    Use your scrap pad to ... scrap  
+
+    Use your scrap pad to paste notes or code for later use. The Scrap Pad can be added to the toolbar.
 
 ![MAMP](ScrapPad.png)
 
-With the scrap pad ... you are scrappy
-
 *  **Summary:**
-    A summary of your setup
+
+    Summary provides a summary of your MAMP PRO setup, inlcluding all individual host settings.
