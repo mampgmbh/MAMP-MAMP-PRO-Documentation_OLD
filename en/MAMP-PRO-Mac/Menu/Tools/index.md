@@ -34,7 +34,8 @@ Runs mysqlcheck which performs table maintenance.
 
  
 *  **Update MySQL Databases:**
-     Update your databases. The server must be shutdown to use this function.
+     
+Update your databases. The server must be shutdown to use this function.
 
  
 *  **Save MySQL Databases:**
