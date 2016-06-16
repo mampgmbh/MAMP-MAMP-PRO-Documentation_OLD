@@ -8,7 +8,9 @@ language: en
 
 ## Tools
 
-*  **Stop Servers:**
+*  **Start/Stop Servers:**
+
+Start and start the active servers.
 
 *  **Web Start:**
 
