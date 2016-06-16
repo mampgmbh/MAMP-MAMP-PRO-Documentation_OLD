@@ -34,4 +34,4 @@ Track your assets using the Asset Manager. The Asset Manager can be added to the
 
 *  **Summary:**
 
-    Summary provides a summary of your MAMP PRO setup, inlcluding all individual host settings.
+    Summary provides a summary of your MAMP PRO setup, including all individual host settings.
