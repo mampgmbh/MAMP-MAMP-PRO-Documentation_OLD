@@ -55,6 +55,7 @@ Import external templates.
 Importing templates made in a different version of MAMP PRO may cause some configuration files to be invalid thus           preventing servers from being started.
 </div>
 
+
 ![MAMP](../../Videos/MAMPtv.png) [MAMP PRO and httpd.conf, php.ini, my.cnf](https://www.youtube.com/watch?v=uh6s7uMCISU){:target="_blank"}
 
 ---
