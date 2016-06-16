@@ -26,7 +26,7 @@ Changes are reflected in your real httpd.conf file after your servers are restar
 </div>
      
 *Nginx (nginx.conf)*
-     
+
 Open and edit your nginx.conf template file here. Changes made to your template file will be reflected your                 real nginx.conf file. The nginx.conf file created from the template file and is located in `/Library/appsolute/MAMP         PRO/conf`.
      
 *PHP (php.ini)*
