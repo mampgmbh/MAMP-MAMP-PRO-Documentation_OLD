@@ -12,20 +12,25 @@ language: en
 
 Start and start the active servers.
 
-*  **Web Start:**
+*  **WebStart:**
+
+Open the WebStart page.
 
 ---
 
 *  **Extras:**
-     Go directly to the Extras pane of the last selected host.
+
+Go directly to the Extras pane of the last selected host.
 
 ---
 
 *  **Verify MySQL Databases:**
-     Get a complete list of schemas and tables inside of your MySQL Database. The database must be running in order for this      function to work.
+     
+Get a complete list of schemas and tables inside of your MySQL Database. The database must be running in order for this      function to work.
 
 *  **Repair MySQL Databases:**
-      Runs mysqlcheck which performs table maintenance.
+
+Runs mysqlcheck which performs table maintenance.
 
  
 *  **Update MySQL Databases:**
@@ -33,7 +38,8 @@ Start and start the active servers.
 
  
 *  **Save MySQL Databases:**
-     Make a backup of your databases. The server must be shutdown to use this function.
+     
+Make a backup of your databases. The server must be shutdown to use this function.
 
 ---
 
