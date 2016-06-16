@@ -9,75 +9,82 @@ language: en
 ##  File
 
 *  **Edit Template:<a name="edit_templates"></a>**
-     MAMP PRO uses templates to create the necessary server config files. You can edit these templates from the menu item        File > Edit template. Here, you have access to options which are not accessible from the MAMP PRO user interface.
 
-     A template file is created in ~/Library/application support/appsolute/MAMP PRO/templates when you make a change to one      of your templates.There are separate templates for your Apache, Apache SSL, PHP, and MySQL configurations. If you have      not made any changes to your templates, your ~/Library/application support/appsolute/MAMP PRO/templates directory will      be empty.
+MAMP PRO uses templates to create the necessary server config files. You can edit these templates from the menu item        File > Edit template. Here, you have access to options which are not accessible from the MAMP PRO user interface.
+
+A template file is created in ~/Library/application support/appsolute/MAMP PRO/templates when you make a change to one      of your templates.There are separate templates for your Apache, Apache SSL, PHP, and MySQL configurations. If you have      not made any changes to your templates, your ~/Library/application support/appsolute/MAMP PRO/templates directory will      be empty.
      
-     <div class="alert" role="alert">
-     Note: Edition errors in the templates of the configuration files can cause the servers not to start. This could mean        that you will have to reset the settings for MAMP PRO, and you may lose all your other custom settings. You should edit      these templates only if you are familiar with the exact syntax and meaning of the options.
-     </div>
+<div class="alert" role="alert">
+Note: Edition errors in the templates of the configuration files can cause the servers not to start. This could mean        that you will have to reset the settings for MAMP PRO, and you may lose all your other custom settings. You should edit      these templates only if you are familiar with the exact syntax and meaning of the options.
+</div>
      
-     *Apache (httpd.conf and httpd-ssl.conf)*
+*Apache (httpd.conf and httpd-ssl.conf)*
      
-     Open and edit your httd.conf template file here. Changes made to your template file will be reflected your         real      httpd.conf file. The httpd.conf file created from the template file and is located in `/Library/appsolute/MAMP              PRO/conf`. You can check this file to verify changes you are making in your template file are properly reflected.
-     <div class="alert" role="alert">
-     Changes are reflected in your real httpd.conf file after your servers are restarted. This applies to all                    configuration files including nginx.conf, php.ini, my.cnf and main.cnf.
-     </div>
+Open and edit your httd.conf template file here. Changes made to your template file will be reflected your         real      httpd.conf file. The httpd.conf file created from the template file and is located in `/Library/appsolute/MAMP              PRO/conf`. You can check this file to verify changes you are making in your template file are properly reflected.
+<div class="alert" role="alert">
+Changes are reflected in your real httpd.conf file after your servers are restarted. This applies to all                    configuration files including nginx.conf, php.ini, my.cnf and main.cnf.
+</div>
      
-     *Nginx (nginx.conf)*
+*Nginx (nginx.conf)*
      
-     Open and edit your nginx.conf template file here. Changes made to your template file will be reflected your                 real nginx.conf file. The nginx.conf file created from the template file and is located in `/Library/appsolute/MAMP         PRO/conf`.
+Open and edit your nginx.conf template file here. Changes made to your template file will be reflected your                 real nginx.conf file. The nginx.conf file created from the template file and is located in `/Library/appsolute/MAMP         PRO/conf`.
      
-     *PHP (php.ini)*
+*PHP (php.ini)*
      
-     Open and edit your php.ini template file here. There are likely several versions of php available, each of them with        their own template file. Changes made to your template file will be reflected your real php.ini file. The php.ini file      created from the template file and is located in `/Library/appsolute/MAMP PRO/conf`.
+Open and edit your php.ini template file here. There are likely several versions of php available, each of them with        their own template file. Changes made to your template file will be reflected your real php.ini file. The php.ini file      created from the template file and is located in `/Library/appsolute/MAMP PRO/conf`.
      
-     ![MAMP](PHPini.png)
+![MAMP](PHPini.png)
      
-     *MySQL(my.cnf)*
+*MySQL(my.cnf)*
      
-     Open and edit your my.cnf template file here. There are likely several versions of MySQL available, each of them with       their own template file. Changes made to your template file will be reflected your real my.cnf file. The my.cnf file        created from the template file and is located in `/Library/appsolute/MAMP PRO/conf`.
+Open and edit your my.cnf template file here. There are likely several versions of MySQL available, each of them with       their own template file. Changes made to your template file will be reflected your real my.cnf file. The my.cnf file        created from the template file and is located in `/Library/appsolute/MAMP PRO/conf`.
      
-     *Postfix (main.cf)*
+*Postfix (main.cf)*
      
-     Open and edit your main.cnf template file here. There are likely several versions of MySQL available, each of them with      their own template file. Changes made to your template file will be reflected your real main.cnf file. The main.cnf         file created from the template file and is located in `/Library/appsolute/MAMP PRO/conf`.
+Open and edit your main.cnf template file here. There are likely several versions of MySQL available, each of them with      their own template file. Changes made to your template file will be reflected your real main.cnf file. The main.cnf         file created from the template file and is located in `/Library/appsolute/MAMP PRO/conf`.
      
 *  **Export Template:**
-     Export your current templates.
+     
+Export your current templates.
      
 *  **Import Template:**
-     Import external templates.
      
-     <div class="alert" role="alert">
-     Importing templates made in a different version of MAMP PRO may cause some configuration files to be invalid thus           preventing servers from being started.
-     </div>
+Import external templates.
+     
+<div class="alert" role="alert">
+Importing templates made in a different version of MAMP PRO may cause some configuration files to be invalid thus           preventing servers from being started.
+</div>
 
-     ![MAMP](../../Videos/MAMPtv.png) [MAMP PRO and httpd.conf, php.ini, my.cnf](https://www.youtube.com/watch?v=uh6s7uMCISU){:target="_blank"}
+![MAMP](../../Videos/MAMPtv.png) [MAMP PRO and httpd.conf, php.ini, my.cnf](https://www.youtube.com/watch?v=uh6s7uMCISU){:target="_blank"}
 
 ---
 
 *  **Factory Settings:**
-     Development
+     
+Development
 
-     Development will reset all your host and server settings back to default, including setting your Apache ports back to       8888, 8890, 8889, and your Apache User/MySQL User to username/username.
+Development will reset all your host and server settings back to default, including setting your Apache ports back to       8888, 8890, 8889, and your Apache User/MySQL User to username/username.
 
 *  **Live:**
-     Live will reset all your host and server settings back to default, including setting your ports back to 80, 440, 3306,      and your Apache User/MySQL User to www/mysql.
+
+Live will reset all your host and server settings back to default, including setting your ports back to 80, 440, 3306,      and your Apache User/MySQL User to www/mysql.
 
 *  **Backup…:**
-     Make a backup of all your host settings and database files.
+
+Make a backup of all your host settings and database files.
      
-     <div class="alert" role="alert">
-     Note: The backup feature makes a backup of your current host settings. It will not back up the files(.php, .html, .js       etc…) in a hosts document root! 
-     Restore From Backup
-     </div>
+<div class="alert" role="alert">
+Note: The backup feature makes a backup of your current host settings. It will not back up the files(.php, .html, .js       etc…) in a hosts document root! 
+</div>
      
 *  **Restore your host settings and MySQL database files:**
 
 ##  Factory Settings
 
 *  **Setting 1**
-     These are the settings for setting 1
+
+These are the settings for setting 1
 
 *  **Setting 2**
-     These are the settings for setting 2
+
+These are the settings for setting 2
