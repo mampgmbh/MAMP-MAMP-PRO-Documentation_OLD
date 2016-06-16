@@ -10,16 +10,16 @@ language: en
 
 
 *  **Overview:**
-    Look at a quick preview of your websites ...
+
+Overview allows quick access to preview websites. Overview can be added to the toolbar.
 
 ![MAMP](Overview.png)
-
-You can use the overview ... press the Arrow button to look 
 
 ---
 
 *  **Assets:**
-    Track your assets using the Asset Manager
+
+Track your assets using the Asset Manager
   
 ![MAMP](Assets.png)
 
