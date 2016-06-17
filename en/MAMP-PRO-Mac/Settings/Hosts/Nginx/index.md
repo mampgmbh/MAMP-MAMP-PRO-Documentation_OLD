@@ -8,7 +8,7 @@ language: en
 
 ## Settings > Hosts > Nginx
 
-The Nginx server ...
+Nginx options can be set for the selected virtual host in the table. These options are security relevant!
 
 ![MAMP](Nginx.png)
 
