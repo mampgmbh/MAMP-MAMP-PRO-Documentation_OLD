@@ -14,13 +14,13 @@ The default MAMP PRO WebStart page provides links to access utilities such as ph
 
 ### PHPMyAdmin
 
-phpMyAdmin is a web based database administrator. Your MAMP PRO of instance of phpMyAdmin can be reached through a link in the WebStart page. The source files for this instance of phpMyAdmin are located in the 
+phpMyAdmin is a web based database administrator. Your MAMP PRO instance of phpMyAdmin can be accessed through a link in the WebStart page. The source files for this instance of phpMyAdmin are located in 
 
-`/Library/Application Support/appsolute/MAMP PRO/phpMyAdmin` folder.
+`/Library/Application Support/appsolute/MAMP PRO/phpMyAdmin`.
 
 ### PHPInfo
 
-PHPInfo is a provides general information about your php interpreter. Information including which extensions are included can be found using phpInfo.
+PHPInfo provides general information about your php interpreter. Information including which extensions are included can be found using phpInfo.
 
 ![MAMP](php.ini.png)
 
