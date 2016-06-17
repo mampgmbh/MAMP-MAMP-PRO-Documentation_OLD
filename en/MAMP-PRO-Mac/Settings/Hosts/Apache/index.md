@@ -24,7 +24,7 @@ Apache options can be set for the selected virtual host in the table. These opti
 
     *  **FollowSymLinks**  
        Allows the use of symbolic links as reference to documents in other directories. This is an elegant feature if
-       you would like to reference to objects, that are outside of the directory tree (e.g. protocol files of the web server),
+       you would like references to objects that are outside of the directory tree (e.g. protocol files of the web server),
        but know you want to avoid the hiding of objects through the URL tree.
 
     *  **SymLinksIfOwnerMatch**  
@@ -41,7 +41,7 @@ Apache options can be set for the selected virtual host in the table. These opti
 *  **Additional parameters for &lt;Directory&gt; directive**  
 
    *  **Directory Index**  
-      Determine which file Apache should serve if no filename is given in a address.
+      Determine which file Apache should serve if no filename is given in an address.
       By default it is either index.html or index.php.
 
 *  **Additional Parameters for &lt;VirtualHost&gt; directive**  
@@ -58,6 +58,6 @@ Note: Watch out for typos, they will otherwise prevent Apache from starting up.
 ---
 
 *  **httpd.conf File**
-   You cannot directly you httpd.conf file in MAMP PRO. You need to make custom configurations through your httpd.conf          template file. More information on how to [configure your httpd template file](../../../Menu/File#edit_templates) can be     found in our Menu > File section.
+   You cannot directly edit your httpd.conf file in MAMP PRO. You need to make custom configurations through your httpd.conf template file. More information on how to [configure your httpd template file](../../../Menu/File#edit_templates) can be found in our Menu > File section.
 
    ![MAMP](../../../Videos/MAMPtv.png) [MAMP PRO and httpd.conf, php.ini,                      my.cnf](https://www.youtube.com/watch?v=uh6s7uMCISU){:target="_blank"}
