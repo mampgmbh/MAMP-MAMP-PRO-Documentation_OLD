@@ -16,7 +16,7 @@ MAMP PRO is the commercial, professional grade version of the classic local serv
 
 ### Are updates free of charge?
 
-Yes, all updates in the current major version (3.x) are free of charge. To update MAMP PRO from e.g. 4.1.2 to 4.9 just use the serial number you already have. Licenses are good forever, they are not on a subscription basis.
+Yes, all updates in the current major version (4.x) are free of charge. To update MAMP PRO from e.g. 4.1.2 to 4.9 just use the serial number you already have. Licenses are good forever, they are not on a subscription basis.
 
 ---
 
@@ -28,7 +28,7 @@ Yes, MAMP PRO is indeed compatible with Mac OS X 10.11 (El Capitan).
 
 ### Can I use MAMP at the same time as MAMP PRO?
 
-Both applications, MAMP as well as MAMP PRO, are configuration tools for the tools inside the folder MAMP. Though you could run them simultaneously you should not do it. You would run into sporadic problems, even data loss may occur.
+Both applications, MAMP as well as MAMP PRO, are configuration tools for the tools inside the folder MAMP. Though you could run them simultaneously you should not. You may run into sporadic problems, even data loss can occur.
 
 ---
 
@@ -58,7 +58,7 @@ You can set the same ports for MAMP and MAMP PRO but it is not recommended to ru
 
 ### Where should I store my HTML and PHP pages?
 
-By default, PHP and HTML Pages should be stored inside the MAMP `/Applications/MAMP/htdocs` folder. This folder is called "Document Root". The location of the document root folder can be changed in the host settings.
+By default, PHP and HTML Pages should be stored inside the MAMP `/Applications/MAMP/htdocs` folder. This folder is called "Document Root". The location of the document root folder can be changed in the host settings. Each additional host should have their own document root folder.
 
 ---
 
