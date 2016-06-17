@@ -32,4 +32,4 @@ To access the [php Info of each individual host](../Settings/Hosts/General#php_i
 
 ### Examples
 
-Several examples of how to connect to the MySQL database using [PHP](../Languages/PHP), [Python](../Languages/Python), [Perl](../Languages/Perl), [Ruby](../Languages/Ruby)
+Several examples show how to connect to the MySQL database using [PHP](../Languages/PHP), [Python](../Languages/Python), [Perl](../Languages/Perl), [Ruby](../Languages/Ruby)
