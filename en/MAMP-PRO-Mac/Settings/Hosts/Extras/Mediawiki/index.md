@@ -25,7 +25,9 @@ MediaWiki is a free software open source wiki package written in PHP, originally
 
 *  **Database name:**  
    Set the name of your database schema which will be added to your local database.  
-   After installation you can view this database for this instance of WordPress using phpMyAdmin, Sequel Pro, or                MySQLWorkbench. 
+*  **Database name:**  
+   Set the name of your database schema which will be added to your local database.  
+   After installation you can view this database for this instance of WordPress using phpMyAdmin, Sequel Pro, or           MySQLWorkbench. 
  
 *  **Username:**  
    The WordPress admin.  
