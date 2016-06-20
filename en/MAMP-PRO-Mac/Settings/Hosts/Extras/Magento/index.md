@@ -26,10 +26,6 @@ Magento Commerce is a popular php based e-commerce platform.
 *  **Database Name:**  
    Set the name of your database schema which will be added to your local database.  
    After installation you can view this database for this instance of Magento using phpMyAdmin, Sequel Pro, or           MySQLWorkbench.
-
-*  **Database name:**
-   Set the name of your database schema which will be added to your local database.  
-   After installation you can view this database for this instance of Magento using phpMyAdmin, Sequel Pro, or           MySQLWorkbench. 
  
 *  **Username:**  
    The Magento admin.  
