@@ -27,7 +27,7 @@ language: en
 
 *  **Password:**  
    The PrestaShop admins default password.  
-   *Note: You will need this password to login into your new PrestaShop blog, please write this down.*
+   *Note: You will need this password to login into your new PrestaShop site, please write this down.*
 
 *  **Directory:**  
    The installation directory. If it is left blank the PrestaShop files will be copied directly to the document root folder.  
