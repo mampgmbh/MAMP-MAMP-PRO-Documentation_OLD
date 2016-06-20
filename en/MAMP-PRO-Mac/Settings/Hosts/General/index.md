@@ -69,7 +69,7 @@ When your host page is functioning or at any other time you can save your host s
    Determines, if this virtual host is accessible with the Dynamic DNS service from the internet.
 
 *  **Use with**  
-    Determine which web server will be used as default when opening your site in a web browser through the MAMP PRO interface.
+    Determine which web server will be used with your host. An icon next to the server name in the server list will also indicate which web server you chose.
 
 ---
 
