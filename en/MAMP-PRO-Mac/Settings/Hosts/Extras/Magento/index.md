@@ -20,7 +20,7 @@ Magento Commerce is the leading provider of open omnichannel innovation. Our ope
    The installation directory. If it is left blank the Wordpress files will be copied directly to the document root folder.  
    *Note: Do not install over a previous installation of Wordpress! Files will be overwritten without warning.*  
 
-*  **Directory:**  
+*  **Table Prefix:**  
    Magento can use a table prefix to manage multiple web sites in a single database. The prefix has a maximum of five characters.
 
 *  **Database name:**
