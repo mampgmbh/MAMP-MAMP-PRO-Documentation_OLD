@@ -33,12 +33,11 @@ language: en
    The installation directory. If it is left blank the PrestaShop files will be copied directly to the document root folder.  
    *Note: Do not install over a previous installation of Prestashop! Files will be overwritten without warning.*  
 
+*  **Table prefix:**  
+   Set the name of your database schema which will be added to your local database.  
+
 *  **Database name:**  
    Set the name of your database schema which will be added to your local database.  
    After installation you can view this database for this instance of PrestaShop using phpMyAdmin, Sequel Pro, or           MySQLWorkbench. 
- 
-*  **Username:**  
-   The PrestaShop admin.  
-   *Note: You will need this username to login into your new of PrestaShop blog, please write this down.*  
 
 
