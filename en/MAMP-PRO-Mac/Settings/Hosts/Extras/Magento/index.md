@@ -24,7 +24,8 @@ Magento Commerce is a popular php based e-commerce platform.
    Magento can use a table prefix to manage multiple web sites in a single database. The prefix has a maximum of five characters.
 
 *  **Database Name:**  
-   Magento can use a table prefix to manage multiple web sites in a single database. The prefix has a maximum of five characters.
+   Set the name of your database schema which will be added to your local database.  
+   After installation you can view this database for this instance of Magento using phpMyAdmin, Sequel Pro, or           MySQLWorkbench.
 
 *  **Database name:**
    Set the name of your database schema which will be added to your local database.  
