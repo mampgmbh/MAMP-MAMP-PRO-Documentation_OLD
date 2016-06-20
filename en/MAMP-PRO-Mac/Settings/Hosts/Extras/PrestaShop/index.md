@@ -15,6 +15,12 @@ language: en
 *  **Name of the blog:**  
    Name your blog.
 
+*  **First Name:**  
+   Your first name.
+
+*  **Last Name:**  
+   Your last name.
+
 *  **Email address:**  
    Your email address.  
    *Note: You must enter a valid email address to setup a PrestaShop installation.*
