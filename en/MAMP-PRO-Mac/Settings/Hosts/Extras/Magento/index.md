@@ -36,7 +36,7 @@ Magento Commerce is a popular php based e-commerce platform.
    *Note: You will need this password to login into your new Magento e-commerce site, please write this down.*
 
 *  **Password:**  
-   The Magento admins default password. 
+   This key is used for encrypting your sensitive data. You will need it if you move your data to a different Magento installation. Some payment and shipment processors require it. The key is located in <document root>/app/etc/env.php .
 
 *  **Encryption Key:**
    This key is used for encrypting your sensitive data. You will need it if you move your data to a different Magento installation. Some payment and shipment processors require it. The key is located in <document root>/app/etc/env.php . 
