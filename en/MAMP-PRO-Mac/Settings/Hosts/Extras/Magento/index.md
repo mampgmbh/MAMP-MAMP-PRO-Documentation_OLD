@@ -23,7 +23,7 @@ Magento Commerce is the leading provider of open omnichannel innovation. Our ope
 *  **Directory:**
    Magento can use a table prefix to manage multiple web sites in a single database. The prefix has a maximum of five characters.
 
-*  **Database name:**  
+*  **Database name:**
    Set the name of your database schema which will be added to your local database.  
    After installation you can view this database for this instance of WordPress using phpMyAdmin, Sequel Pro, or           MySQLWorkbench. 
  
