@@ -8,7 +8,7 @@ language: en
 
 ## Magento
 
-Magento Commerce is the leading provider of open omnichannel innovation. Our open source digital commerce platform and cloud-based omnichannel solutions empower merchants to integrate digital and physical shopping experiences.
+Magento Commerce is a popular php based e-commerce platform. 
 
 ![MAMP](Magento.png)
 
