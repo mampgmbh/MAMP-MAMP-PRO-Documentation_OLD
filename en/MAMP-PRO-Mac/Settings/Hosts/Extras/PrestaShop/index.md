@@ -34,7 +34,7 @@ language: en
    *Note: Do not install over a previous installation of Prestashop! Files will be overwritten without warning.*  
 
 *  **Table prefix:**  
-   Set the name of your database schema which will be added to your local database.  
+   PrestaShop can use a table prefix to manage multiple web sites in a single database.  
 
 *  **Database name:**  
    Set the name of your database schema which will be added to your local database.  
