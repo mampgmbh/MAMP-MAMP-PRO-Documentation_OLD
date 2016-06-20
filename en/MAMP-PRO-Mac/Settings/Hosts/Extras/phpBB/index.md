@@ -11,9 +11,6 @@ language: en
 
 ![MAMP](phpBB.png)
 
-*  **Name of the blog:**  
-   Name your blog.
-
 *  **Email address:**  
    Your email address.  
    *Note: You must enter a valid email address to setup a WordPress installation.*
@@ -22,6 +19,8 @@ language: en
    The installation directory. If it is left blank the Wordpress files will be copied directly to the document root folder.  
    *Note: Do not install over a previous installation of Wordpress! Files will be overwritten without warning.*  
 
+*  **Directory:**  
+   The installation directory. If it is left blank the Wordpress files will be copied directly to the document root folder. 
 *  **Database name:**  
    Set the name of your database schema which will be added to your local database.  
    After installation you can view this database for this instance of WordPress using phpMyAdmin, Sequel Pro, or                MySQLWorkbench. 
