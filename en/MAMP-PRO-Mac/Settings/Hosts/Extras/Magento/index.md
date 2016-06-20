@@ -21,11 +21,12 @@ Magento Commerce is the leading provider of open omnichannel innovation. Our ope
    *Note: Do not install over a previous installation of Wordpress! Files will be overwritten without warning.*  
 
 *  **Table Prefix:**
+   
    Magento can use a table prefix to manage multiple web sites in a single database. The prefix has a maximum of five characters.
 
 *  **Database name:**  
    Set the name of your database schema which will be added to your local database.  
-   After installation you can view this database for this instance of WordPress using phpMyAdmin, Sequel Pro, or                MySQLWorkbench. 
+   After installation you can view this database for this instance of WordPress using phpMyAdmin, Sequel Pro, or           MySQLWorkbench. 
  
 *  **Username:**  
    The WordPress admin.  
@@ -36,5 +37,6 @@ Magento Commerce is the leading provider of open omnichannel innovation. Our ope
    *Note: You will need this password to login into your new WordPress blog, please write this down.*
 
 *  **Encryption Key:**
+   
    This key is used for encrypting your sensitive data. You will need it if you move your data to a different Magento installation. Some payment and shipment processors require it. The key is located in <document root>/app/etc/env.php . 
 
