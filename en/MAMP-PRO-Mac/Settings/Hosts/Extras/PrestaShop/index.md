@@ -25,6 +25,10 @@ language: en
    Your email address.  
    *Note: You must enter a valid email address to setup a PrestaShop installation.*
 
+*  **Password:**  
+   The PrestaShop admins default password.  
+   *Note: You will need this password to login into your new PrestaShop blog, please write this down.*
+
 *  **Directory:**  
    The installation directory. If it is left blank the PrestaShop files will be copied directly to the document root folder.  
    *Note: Do not install over a previous installation of Prestashop! Files will be overwritten without warning.*  
@@ -37,7 +41,4 @@ language: en
    The PrestaShop admin.  
    *Note: You will need this username to login into your new of PrestaShop blog, please write this down.*  
 
-*  **Password:**  
-   The PrestaShop admins default password.  
-   *Note: You will need this password to login into your new PrestaShop blog, please write this down.*
 
