@@ -12,9 +12,6 @@ Magento Commerce is the leading provider of open omnichannel innovation. Our ope
 
 ![MAMP](Magento.png)
 
-*  **Name of the blog:**  
-   Name your blog.
-
 *  **Email address:**  
    Your email address.  
    *Note: You must enter a valid email address to setup a WordPress installation.*
@@ -22,6 +19,9 @@ Magento Commerce is the leading provider of open omnichannel innovation. Our ope
 *  **Directory:**  
    The installation directory. If it is left blank the Wordpress files will be copied directly to the document root folder.  
    *Note: Do not install over a previous installation of Wordpress! Files will be overwritten without warning.*  
+
+*  **Table Prefix:**
+   Magento can use a table prefix to manage multiple web sites in a single database. The prefix has a maximum of five characters.
 
 *  **Database name:**  
    Set the name of your database schema which will be added to your local database.  
@@ -34,4 +34,7 @@ Magento Commerce is the leading provider of open omnichannel innovation. Our ope
 *  **Password:**  
    The WordPress admins default password.  
    *Note: You will need this password to login into your new WordPress blog, please write this down.*
+
+*  **Encryption Key:**
+   This key is used for encrypting your sensitive data. You will need it if you move your data to a different Magento installation. Some payment and shipment processors require it. The key is located in <document root>/app/etc/env.php . 
 
