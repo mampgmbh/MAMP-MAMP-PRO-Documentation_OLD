@@ -17,25 +17,26 @@ MediaWiki is a free software open source wiki package written in PHP, originally
 
 *  **Email address:**  
    Your email address.  
-   *Note: You must enter a valid email address to setup a WordPress installation.*
+   *Note: You must enter a valid email address to setup a Mediawiki installation.*
 
 *  **Directory:**  
-   The installation directory. If it is left blank the Wordpress files will be copied directly to the document root folder.  
-   *Note: Do not install over a previous installation of Wordpress! Files will be overwritten without warning.*  
+   The installation directory. If it is left blank the Mediawiki files will be copied directly to the document root folder.  
+   *Note: Do not install over a previous installation of Mediawiki! Files will be overwritten without warning.*  
+
+*  **Table prefix:**  
+   Mediawiki can use a table prefix to manage multiple forums in a single database.
 
 *  **Database name:**  
    Set the name of your database schema which will be added to your local database.  
-*  **Database name:**  
-   Set the name of your database schema which will be added to your local database.  
-   After installation you can view this database for this instance of WordPress using phpMyAdmin, Sequel Pro, or           MySQLWorkbench. 
+   After installation you can view this database for this instance of Mediawiki using phpMyAdmin, Sequel Pro, or           MySQLWorkbench. 
  
 *  **Username:**  
-   The WordPress admin.  
-   *Note: You will need this username to login into your new of WordPress blog, please write this down.*  
+   The Mediawiki admin.  
+   *Note: You will need this username to login into your new of Mediawiki blog, please write this down.*  
 
 *  **Password:**  
-   The WordPress admins default password.  
-   *Note: You will need this password to login into your new WordPress blog, please write this down.*
+   The Mediawiki admins default password.  
+   *Note: You will need this password to login into your new Mediawiki blog, please write this down.*
 
 
 
