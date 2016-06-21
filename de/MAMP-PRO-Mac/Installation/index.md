@@ -12,10 +12,10 @@ language: de
 
 MAMP PRO setzt Folgendes voraus:
 
-Eine bestehende MAMP-Installation (MAMP wird direkt mit dem Installationspaket von MAMP PRO heruntergeladen).
-Betriebssystem: OS X ab Version 10.8.0 oder höher.
-Ein Mac mit 64-Bit-CPU (x64) von Intel.
-Um mit MAMP PRO arbeiten zu können, müssen Sie mit einem Benutzerkonto angemeldet sein, das den Rechner verwalten darf. Überprüfen Sie dies unter Systemeinstellungen -> Benutzer und Gruppen.
+- Eine bestehende MAMP-Installation (MAMP wird direkt mit dem Installationspaket von MAMP PRO heruntergeladen).
+- Betriebssystem: OS X ab Version 10.8.0 oder höher.
+- Ein Mac mit 64-Bit-CPU (x64) von Intel.
+- Um mit MAMP PRO arbeiten zu können, müssen Sie mit einem Benutzerkonto angemeldet sein, das den Rechner verwalten darf. Überprüfen Sie dies unter Systemeinstellungen -> Benutzer und Gruppen.
 
 ---
 
