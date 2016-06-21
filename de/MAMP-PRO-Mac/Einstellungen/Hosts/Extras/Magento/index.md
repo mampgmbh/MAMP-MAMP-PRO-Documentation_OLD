@@ -8,7 +8,7 @@ language: de
 
 ## Magento
 
-Magento is ...
+Magento Commerce is a popular php based e-commerce platform.
 
 ![MAMP](Magento.png)
 
