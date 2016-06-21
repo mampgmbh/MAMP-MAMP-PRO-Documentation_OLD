@@ -22,9 +22,9 @@ MySQL ist ein weit verbreiteter Datenbankserver. MySQL wird von MAMP PRO auf Ihr
 Der Datenbankadministrator wird als root bezeichnet. Dieser Benutzer hat uneingeschränkten Zugriff auf alle Datenbanken. Daher sollten Sie ein sicheres Kennwort verwenden, das nur Ihnen bekannt ist.
 
  
-
+<div class="alert" role="alert">
 Hinweis:Das Standardpasswort des Benutzers root lautet “root". Dieser Benutzer ist  nicht zu verwechseln mit dem Benutzer “root” von OS X. Sie können auch eines der MySQL -Administrationswerkzeuge verwenden, um einen weiteren MySQL-Benutzer anzulegen. Diesem könnten Sie dann eingeschränkte Rechte zuweisen.
- 
+</div>
 
 *  **Netzwerkzugriffe auf MySQL erlauben**
 
@@ -35,13 +35,13 @@ Ist die Checkbox Netzwerkzugriff auf MySQL zulassen nicht aktiviert, dann wird d
 Hinweis: Diese Option sollten Sie nur aktivieren, wenn es unbedingt nötig ist.
 </div>
 
-      *  **nur von diesem Rechner**
+   *  **nur von diesem Rechner**
 
 Nur Programme, die auf Ihrem Computer installiert sind, können über Netzwerk-Funktionen auf MySQL zugreifen.
 
  
 
-      *  **auch von anderen Rechnern**
+   *  **auch von anderen Rechnern**
 
 MySQL erlaubt alle Netzwerkzugriffe. Abhängig von Ihren Netzwerkeinstellungen können dies auch Zugriffe aus dem Internet sein.
 
