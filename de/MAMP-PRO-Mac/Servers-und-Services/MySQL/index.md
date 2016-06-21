@@ -26,6 +26,7 @@ Der Datenbankadministrator wird als root bezeichnet. Dieser Benutzer hat uneinge
 Hinweis:Das Standardpasswort des Benutzers root lautet “root". Dieser Benutzer ist  nicht zu verwechseln mit dem Benutzer “root” von OS X. Sie können auch eines der MySQL -Administrationswerkzeuge verwenden, um einen weiteren MySQL-Benutzer anzulegen. Diesem könnten Sie dann eingeschränkte Rechte zuweisen.
 </div>
 
+---
 *  **Netzwerkzugriffe auf MySQL erlauben**
 
 Ist die Checkbox Netzwerkzugriff auf MySQL zulassen nicht aktiviert, dann wird der Zugriff auf MySQL via Netzwerk-Funktionen unterbunden. Solche Netzwerk-Zugriffe müssen nicht zwangsläufig von anderen Rechnern im Netzwerk kommen, auch andere Programme auf Ihrem Mac können über Netzwerk-Funktionen mit MySQL kommunizieren. Dies ist aber in der Regel unnötig, da lokale Programme ebenso über sogenannte sockets mit MySQL sprechen können.
