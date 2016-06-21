@@ -22,3 +22,7 @@ Hier legen Sie erweiterte Optionen für den in der Tabelle markierten virtuellen
 *  **Additional parameters for &lt;server&gt;**  
 
 Add additional parameters to the <server> directive here.
+
+<div class="alert" role="alert">
+Note: Watch out for typos, they will otherwise prevent Nginx from starting up.
+</div>
