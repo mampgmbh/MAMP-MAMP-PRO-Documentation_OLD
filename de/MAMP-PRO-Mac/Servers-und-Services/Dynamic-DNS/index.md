@@ -17,13 +17,23 @@ Ist Ihr lokales Netzwerk über einen Router mit dem Internet verbunden, der Dyna
 Ansonsten können Sie sich bei einem Dynamic DNS Service registrieren und anschliessend Ihren Benutzernamen und Passwort in die entsprechenden Felder eingeben. Zusätzlich können Sie einstellen, ob und wann der Dynamic DNS Service aktiviert werden soll.
 
 Hinweis: Um diese Funktion nutzen zu können, müssen Sie sich bei einem der unterstützen Dienste registrieren. Diese sind unabhängig von MAMP PRO und kein Angebot der appsolute GmbH. Beachten Sie bitte, dass die Dienste für dyn.com und easydns.com nur für bereits bestehende Accounts unterstützt werden.
-Benutzername
+
+*  **Aktivieren der dynamischen Dienste**
+
+Activate dyndns here.
+
+---
+*  **Benutzername**
+
 Tragen Sie hier Ihren Benutzernamen ein, den Sie vom Betreiber Ihres Dynamic DNS Service erhalten haben.
 
-Passwort
+*  **Passwort**
+
 Tragen Sie hier das Passwort ein, das Sie vom Betreiber Ihres Dynamic DNS Service erhalten haben.
 
-Aktivieren der dynamischen Dienste
+---
+
+
 
 Nie (keine dynamischen DNS-Dienste nutzen)
 Deaktiviert den Dienst Dynamic DNS.
