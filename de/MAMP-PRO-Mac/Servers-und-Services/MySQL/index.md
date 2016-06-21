@@ -12,7 +12,12 @@ MySQL ist ein weit verbreiteter Datenbankserver. MySQL wird von MAMP PRO auf Ihr
 
 ![MAMP](MySQL.png)
 
-Passwort des Benutzers “root” ändern
+*  **Activate MySQL server**
+   Check to activate the MySQL Server. When activated MySQL server will automatically start when the Servers button is pressed.
+
+---
+
+*  **Passwort des Benutzers “root” ändern**
 
 Der Datenbankadministrator wird als root bezeichnet. Dieser Benutzer hat uneingeschränkten Zugriff auf alle Datenbanken. Daher sollten Sie ein sicheres Kennwort verwenden, das nur Ihnen bekannt ist.
 
@@ -21,7 +26,7 @@ Der Datenbankadministrator wird als root bezeichnet. Dieser Benutzer hat uneinge
 Hinweis:Das Standardpasswort des Benutzers root lautet “root". Dieser Benutzer ist  nicht zu verwechseln mit dem Benutzer “root” von OS X. Sie können auch eines der MySQL -Administrationswerkzeuge verwenden, um einen weiteren MySQL-Benutzer anzulegen. Diesem könnten Sie dann eingeschränkte Rechte zuweisen.
  
 
-Netzwerkzugriffe auf MySQL erlauben
+*  **Netzwerkzugriffe auf MySQL erlauben**
 
 Ist die Checkbox Netzwerkzugriff auf MySQL zulassen nicht aktiviert, dann wird der Zugriff auf MySQL via Netzwerk-Funktionen unterbunden. Solche Netzwerk-Zugriffe müssen nicht zwangsläufig von anderen Rechnern im Netzwerk kommen, auch andere Programme auf Ihrem Mac können über Netzwerk-Funktionen mit MySQL kommunizieren. Dies ist aber in der Regel unnötig, da lokale Programme ebenso über sogenannte sockets mit MySQL sprechen können.
 
@@ -30,13 +35,13 @@ Ist die Checkbox Netzwerkzugriff auf MySQL zulassen nicht aktiviert, dann wird d
 Hinweis: Diese Option sollten Sie nur aktivieren, wenn es unbedingt nötig ist.
  
 
-nur von diesem Rechner
+  *  **nur von diesem Rechner**
 
 Nur Programme, die auf Ihrem Computer installiert sind, können über Netzwerk-Funktionen auf MySQL zugreifen.
 
  
 
-auch von anderen Rechnern
+  *  **auch von anderen Rechnern**
 
 MySQL erlaubt alle Netzwerkzugriffe. Abhängig von Ihren Netzwerkeinstellungen können dies auch Zugriffe aus dem Internet sein.
 
