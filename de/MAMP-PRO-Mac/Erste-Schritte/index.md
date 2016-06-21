@@ -14,7 +14,7 @@ Beim ersten Start von MAMP PRO werden einige Helfer-Tools installiert. Sie werde
 
 Klicken Sie auf die Schaltfläche Start in der Titelleiste von MAMP PRO. In der Statusanzeige oben rechts wird der Status der Server angezeigt.
 
-Der Apache-Server wird standardmäßig auf Port 8888 betrieben. Dieser Port muss beim Aufruf der lokalen Webseite im Browser zusätzlich mit angegeben werden: http://localhost:8888
+Der Apache-Server wird standardmäßig auf Port 8888 betrieben. Dieser Port muss beim Aufruf der lokalen Webseite im Browser zusätzlich mit angegeben werden: http://localhost:8888 . A check mark next to the server/service indicates that this server/service will start/stop when the Servers button is pressed. 
 
 Der Standard-Host für MAMP PRO lautet localhost. Die Dateien für localhost werden nach der Installation im Ordner Programme/MAMP/htdocs abgelegt. Mehr Informationen zu Hosts finden Sie im Abschnitt 2. Hosts.
 
@@ -29,7 +29,7 @@ Der Standard-Host für MAMP PRO lautet localhost. Die Dateien für localhost wer
    Sonder Ausstattung
   
 *  **Webstart** 
-   Öffnet die MAMP PRO Startseite Ihres lokalen Webservers. Zusätzliche Informationen zu WebStart finden Sie im Abschnitt 2.    Hosts.
+   Öffnet die MAMP PRO Startseite Ihres lokalen Webservers. Zusätzliche Informationen zu WebStart finden Sie im Abschnitt 2. Hosts.
 
 *  **Editor** 
    Editor öffnen.
