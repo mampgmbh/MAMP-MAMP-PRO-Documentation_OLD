@@ -37,7 +37,7 @@ Tragen Sie den Benutzernamen Ihres E-Mail-Kontos ein.
 Passwort
 
 Tragen Sie das Passwort für Ihres E-Mail-Kontos ein.
-
+<div class="alert" role="alert">
 Hinweis: Einige Provider, wie z. B. Google Mail, unterstützen die Verwendung von Smarthosts nicht.
-
+</div>
 ---
