@@ -25,8 +25,8 @@ PHP ist eine weit verbreitete Web-Scripting Programmiersprache. MAMP PRO install
 *  **Betriebsart**  
    Sie können zwischen zwei Betriebsarten wählen:
 
-   Modul-Modus (Gleiche PHP Version für alle Hosts)
-   CGI-Modus (Individuelle PHP-Version für jeden Host)
+   *  **Modul-Modus (Gleiche PHP Version für alle Hosts)**
+   *  **CGI-Modus (Individuelle PHP-Version für jeden Host)**
 
    Im Modul-Modus verwendet jeder Host die PHP-Version, die Sie als Standardversion eingestellt haben. Wechseln sie die         PHP-Standard-Version, gilt diese Einstellung automatisch für alle Hosts. Im CGI-Modus können Sie jedem Host eine             individuelle PHP-Version zuweisen (Reiter Hosts). Informationen dazu finden Sie im Abschnitt 2. Hosts.
    
