@@ -8,4 +8,6 @@ language: de
 
 ## phpBB
 
+phpBB is an Internet forum package written in the PHP scripting language. 
 ![MAMP](phpBB.png)
+
