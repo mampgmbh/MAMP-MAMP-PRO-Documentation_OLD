@@ -23,17 +23,8 @@ Hinweis: Um diese Funktion nutzen zu können, müssen Sie sich bei einem der unt
 Activate dyndns here.
 
 ---
-*  **Benutzername**
 
-Tragen Sie hier Ihren Benutzernamen ein, den Sie vom Betreiber Ihres Dynamic DNS Service erhalten haben.
-
-*  **Passwort**
-
-Tragen Sie hier das Passwort ein, das Sie vom Betreiber Ihres Dynamic DNS Service erhalten haben.
-
----
-
-
+*  **Run Background Daemon**
 
 Nie (keine dynamischen DNS-Dienste nutzen)
 Deaktiviert den Dienst Dynamic DNS.
@@ -43,3 +34,16 @@ Startet den Dienst Dynamic DNS mit dem Apache-Server.
 
 Permanent (als System-Dienst im Hintergrund)
 Startet den Dienst Dynamic DNS mit dem Betriebssystem.
+
+---
+
+*  **Benutzername**
+
+Tragen Sie hier Ihren Benutzernamen ein, den Sie vom Betreiber Ihres Dynamic DNS Service erhalten haben.
+
+*  **Passwort**
+
+Tragen Sie hier das Passwort ein, das Sie vom Betreiber Ihres Dynamic DNS Service erhalten haben.
+
+
+
