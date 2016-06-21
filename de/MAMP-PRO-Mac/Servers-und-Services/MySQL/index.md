@@ -46,11 +46,6 @@ Nur Programme, die auf Ihrem Computer installiert sind, können über Netzwerk-F
 
 MySQL erlaubt alle Netzwerkzugriffe. Abhängig von Ihren Netzwerkeinstellungen können dies auch Zugriffe aus dem Internet sein.
 
---- 
-
-*  **Pfad zur Logdatei von MySQL**
-
-Hier legen Sie den Speicherort der MySQL-Logdatei fest. Alle Fehler, die beim Starten oder Ausführen des MySQL-Servers auftreten, werden in dieser Datei protokolliert.
 
 --- 
 
@@ -63,5 +58,13 @@ PHPMyAdmin ist eine webbasierte Administrationsoberfläche. Mit ihr können Sie 
 Sequel Pro ist eine native OS X-Anwendung für die MySQL-Administration. Zusätzlich zu den rein administrativen Aufgaben, erlaubt Ihnen Sequel Pro die Erstellung und Visualisierung von Datenbankschemata.
 
 Auch MySQL Workbench ist eine native OS X-Anwendung für die MySQL-Administration, die ebenfalls Schemata Erstellen und Visualisieren kann.
+
+--- 
+
+*  **Pfad zur Logdatei von MySQL**
+
+Hier legen Sie den Speicherort der MySQL-Logdatei fest. Alle Fehler, die beim Starten oder Ausführen des MySQL-Servers auftreten, werden in dieser Datei protokolliert.
+
+
 
 
