@@ -41,8 +41,6 @@ Check to activate the DNS Server. When activated the DNS Server will automatical
 
     *  **Password**  
        Enter the password that was given to you by the provider of the Dynamic DNS Service.  
-       
-    *  **Server**  
 
 ---
 
