@@ -17,6 +17,8 @@ To use MAMP PRO, your system must meet the following requirements:
 - A Mac with a 64-Bit-capable CPU.
 - A user account that is part of the Admin Group. Go to Preferences > Users & Groups to confirm this.
 
+---
+
 ### Installing and upgrading MAMP PRO
 
 #### New MAMP PRO 4 installation
@@ -24,6 +26,8 @@ To use MAMP PRO, your system must meet the following requirements:
 1. Download MAMP PRO from https://www.mamp.info
 2. Double click on the `MAMP_MAMP_PRO_4.xx.pkg` file in your `Downloads` folder.
 3. The System Installer will guide you through the installation process.
+
+---
 
 ### Updgrading from version 3 to version 4
 
@@ -42,6 +46,7 @@ To use MAMP PRO, your system must meet the following requirements:
 
 8. The installation process will create an `/Applications/MAMP_current_date` folder. This folder can now be deleted. You may however keep it, so you can fall back to your original setup.
 
+---
 
 #### Upgrading from version 4.xx to version 4.xx
 
