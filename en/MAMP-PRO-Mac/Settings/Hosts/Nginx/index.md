@@ -21,7 +21,7 @@ Nginx options can be set for the selected virtual host in the table. These optio
     
 *  **Additional parameters for &lt;server&gt;**
 
-Add additional parameters to the <server> directive here.  
+Add additional parameters to the &lt;server&gt; directive here.  
 
 <div class="alert" role="alert">
 Note: Watch out for typos, they will otherwise prevent Nginx from starting up.
