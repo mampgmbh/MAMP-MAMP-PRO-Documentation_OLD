@@ -15,7 +15,7 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
 ---
 
 *  **Default version**  
-   Choose which PHP version to use.  
+   Select which PHP version will be the default version.  
 
     *  **Make this version available on the command line**  
 
