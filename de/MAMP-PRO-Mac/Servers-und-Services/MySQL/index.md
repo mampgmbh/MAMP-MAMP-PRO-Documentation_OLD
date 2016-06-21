@@ -46,15 +46,15 @@ Nur Programme, die auf Ihrem Computer installiert sind, können über Netzwerk-F
 
 MySQL erlaubt alle Netzwerkzugriffe. Abhängig von Ihren Netzwerkeinstellungen können dies auch Zugriffe aus dem Internet sein.
 
- 
+--- 
 
-Pfad zur Logdatei von MySQL
+*  **Pfad zur Logdatei von MySQL**
 
 Hier legen Sie den Speicherort der MySQL-Logdatei fest. Alle Fehler, die beim Starten oder Ausführen des MySQL-Servers auftreten, werden in dieser Datei protokolliert.
 
  
 
-MySQL konfigurieren mit
+*  **MySQL konfigurieren mit**
 
 Zum Lieferumfang von MAMP PRO gehören einige MySQL-Administrationstools:
 
