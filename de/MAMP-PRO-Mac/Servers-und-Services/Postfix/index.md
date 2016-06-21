@@ -22,22 +22,22 @@ Möchten Sie die E-Mail an andere Personen und nicht an sich selbst versenden, d
 
 ---
 
-* **Server-Name**
+*  **Use a smart host for routing**  
 
-Geben Sie den Namen Ihres Servers für ausgehende E-Mails an. Dies könnte zum Beispiel smtp.meinedomain.com sein. Fragen Sie gegebenenfalls Ihren Provider, falls sie sich unsicher betreffend des Namens sein sollten.
+    * **Server-Name**
+    Geben Sie den Namen Ihres Servers für ausgehende E-Mails an. Dies könnte zum Beispiel smtp.meinedomain.com sein. Fragen Sie gegebenenfalls Ihren Provider, falls sie sich unsicher betreffend des Namens sein sollten.
 
-Authentifizierung
+   * **Authentifizierung**
+   Geben Sie die Art der Authentifizierung für ausgehende E-Mails an. Fragen Sie gegebenenfalls Ihren Provider, falls sie sich unsicher betreffend der Art der Authentifizierung sein sollten.
 
-Geben Sie die Art der Authentifizierung für ausgehende E-Mails an. Fragen Sie gegebenenfalls Ihren Provider, falls sie sich unsicher betreffend der Art der Authentifizierung sein sollten.
+   * **Benutzername**
+   Tragen Sie den Benutzernamen Ihres E-Mail-Kontos ein.
 
-Benutzername
+   * **Passwort**
+   Tragen Sie das Passwort für Ihres E-Mail-Kontos ein.
 
-Tragen Sie den Benutzernamen Ihres E-Mail-Kontos ein.
-
-Passwort
-
-Tragen Sie das Passwort für Ihres E-Mail-Kontos ein.
 <div class="alert" role="alert">
 Hinweis: Einige Provider, wie z. B. Google Mail, unterstützen die Verwendung von Smarthosts nicht.
 </div>
+
 ---
