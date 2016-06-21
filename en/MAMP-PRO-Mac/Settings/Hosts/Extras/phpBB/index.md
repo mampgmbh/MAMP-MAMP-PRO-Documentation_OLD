@@ -8,11 +8,12 @@ language: en
 
 ## phpBB
 
+phpBB is an Internet forum package written in the PHP scripting language. 
 
 ![MAMP](phpBB.png)
 
 *  **Email address:**  
-   Your email address.  
+   Your email address. You phpBB installation will send error messages to this e-mail address.
    *Note: You must enter a valid email address to setup a phpBB installation.*
 
 *  **Directory:**  
