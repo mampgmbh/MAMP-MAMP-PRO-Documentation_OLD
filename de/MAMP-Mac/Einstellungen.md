@@ -49,7 +49,7 @@ Soll MAMP auch von außen über das Internet erreichbar sein, so achten Sie bitt
 *   **Webserver**
    Apache oder Nginx web server wahlen.
 *   **Document Root** 
-   Das Verzeichnis, welches Ihrer Webseiten enthält, heißt Document Root oder Stammverzeichnis. Nach der Installation lautet    es: /Programme/MAMP/htdocs. Klicken Sie auf ![MAMP](BlackArrow.png) ,um es auf einen anderen Ordner festzulegen.
+   Das Verzeichnis, welches Ihrer Webseiten enthält, heißt Document Root oder Stammverzeichnis. Nach der Installation lautet    es: /Programme/MAMP/htdocs. Klicken Sie auf ![MAMP](Docs.png) ,um es auf einen anderen Ordner festzulegen.
 
 ---
 
