@@ -19,4 +19,8 @@ Nginx options can be set for the selected virtual host in the table. These optio
     *  **allow**  
     *  **deny**  
     
-*  **Additional parameters for &lt;server&gt;**  
+*  **Additional parameters for &lt;server&gt;**
+
+Add additional parameters to the <server> directive here.  
+
+
