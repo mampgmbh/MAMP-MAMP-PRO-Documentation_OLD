@@ -50,4 +50,4 @@ Note: Some providers do not allow Smart-Hosts, like Google Mail.
 
 *  **Path to Postfix log file**  
 
-More information on how to [Show your Postfix log file](../../How-Tos/#postfix_log) can be found in our How To     section.
+More information on how to [Show your Postfix log file](../../How-Tos/#postfix_log) can be found in our How To section.
