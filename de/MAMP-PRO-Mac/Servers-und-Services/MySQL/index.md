@@ -52,7 +52,7 @@ MySQL erlaubt alle Netzwerkzugriffe. Abhängig von Ihren Netzwerkeinstellungen k
 
 Hier legen Sie den Speicherort der MySQL-Logdatei fest. Alle Fehler, die beim Starten oder Ausführen des MySQL-Servers auftreten, werden in dieser Datei protokolliert.
 
- 
+--- 
 
 *  **MySQL konfigurieren mit**
 
