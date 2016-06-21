@@ -19,8 +19,8 @@ Für den Betrieb von MAMP müssen die folgenden Voraussetzungen erfüllt sein:
 * Den alten Ordner `/MAMP_current_date` dürfen Sie löschen. Sie können ihn aber auch behalten, falls Sie zu einem späteren Zeitpunkt noch einmal darauf zurückgreifen möchten.
 
 <div class="alert" role="alert">
-<p><strong>Hinweis:</strong></p>
-<p>Um MAMP zu installieren, benötigen Sie Administratorrechte.</p>
+<p><strong>Hinweis:</strong>
+Um MAMP zu installieren, benötigen Sie Administratorrechte.</p>
 </div>
 
 Bei der Installation von MAMP wird zusätzlich der Ordner /Programme/MAMP PRO installiert. Sie können diesen Ordner ignorieren, wenn Sie MAMP PRO nicht verwenden möchten.
