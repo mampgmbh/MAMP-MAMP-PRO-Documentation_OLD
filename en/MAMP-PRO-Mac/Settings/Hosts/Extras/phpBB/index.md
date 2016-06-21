@@ -25,14 +25,14 @@ phpBB is an Internet forum package written in the PHP scripting language.
 
 *  **Database name:**  
    Set the name of your database schema which will be added to your local database.  
-   After installation you can view this database for this instance of phpBB using phpMyAdmin, Sequel Pro, or           MySQLWorkbench. 
+   After installation you can view this database using phpMyAdmin, Sequel Pro, or MySQLWorkbench. 
  
 *  **Username:**  
-   The phpBB admin.  
+   The phpBB admin. Use this username to log into the admin area of your phpBB installation. 
    *Note: You will need this username to login into your new of phpBB installation, please write this down.*  
 
 *  **Password:**  
-   The phpBB admins default password.  
+   The phpBB admins default password. Use this password to log into the admin area of your phpBB installation.
    *Note: You will need this password to login into your new phpBB installation, please write this down.*
 
 
