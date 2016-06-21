@@ -49,7 +49,7 @@ Soll MAMP auch von außen über das Internet erreichbar sein, so achten Sie bitt
 *   **Webserver**
    Apache oder Nginx web server wahlen.
 *   **Document Root** 
-   Das Verzeichnis, welches Ihrer Webseiten enthält, heißt Document Root oder Stammverzeichnis. Nach der Installation lautet    es: /Programme/MAMP/htdocs. Klicken Sie auf ![MAMP](Docs.png) ,um es auf einen anderen Ordner festzulegen.
+   Das Verzeichnis, welches Ihrer Webseiten enthält, heißt Document Root oder Stammverzeichnis. Nach der Installation lautet    es: /Programme/MAMP/htdocs. Klicken Sie auf ![MAMP](Docs.png) um es auf einen anderen Ordner festzulegen.
 
 ---
 
@@ -71,7 +71,7 @@ The MySQL database server is a popular database used on production servers. Seve
    </div>
 
 *   **Reverting**  
-    Reverting the MySQL software back to 5.5.x is easy, just re-install MAMP and MAMP PRO. Data you have entered using MySQL     5.6 will not be transitioned back to 5.5.
+    Reverting the MySQL software back to 5.5.x is easy, just re-install MAMP and MAMP PRO. Data you have entered using MySQL 5.6 will not be transitioned back to 5.5.
 
 ---
 
