@@ -33,7 +33,17 @@ PHP ist eine weit verbreitete Web-Scripting Programmiersprache. MAMP PRO install
 ---
 
 *  **Cache-Modul zum Beschleunigen der PHP-Ausführung**  
-   PHP verfügt über mehrere Cache-Erweiterungen, die zu einer beschleunigten Ausführung ihrer Webseite führen können.           Standardmäßig ist das Caching abgeschaltet. Eine Aktivierung des Cache-Moduls führt nicht zwangsläufig zu einer höheren      Ausführungsgeschwindigkeit.
+   PHP verfügt über mehrere Cache-Erweiterungen, die zu einer beschleunigten Ausführung ihrer Webseite führen können.      Standardmäßig ist das Caching abgeschaltet. Eine Aktivierung des Cache-Moduls führt nicht zwangsläufig zu einer höheren Ausführungsgeschwindigkeit.
+
+   *  **off**  
+   *  **APC**  
+   *  **eAccelerator**  
+   *  **XCache**  
+   *  **OPCache**  
+   
+![MAMP](cache.png) 
+   
+Several caches provide a user interface to help analyze and profile your code. Press the Arrow button to the right of the  cache name to view this interface. An interface is not available if the Arrow button is not enabled.
 
 ---
 
