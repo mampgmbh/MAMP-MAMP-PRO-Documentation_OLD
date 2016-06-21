@@ -41,6 +41,6 @@ Magento Commerce is a popular php based e-commerce platform.
    *Hinweis: Nutzen Sie dieses Passwort, um sich später auf Ihr Magento-Blog einzuloggen. Sie können es im Admin-Bereich      von Magento ändern.*
 
 *  **Encryption:**  
-   Es wird automatisch das Passwort admin verwendet.  
+   This key is used for encrypting your sensitive data. You will need it if you move your data to a different Magento installation. Some payment and shipment processors require it. The key is located in <document root>/app/etc/env.php .
 
 
