@@ -20,7 +20,7 @@ MediaWiki is a free software open source wiki package written in PHP, originally
    *Note: You must enter a valid email address to setup a Mediawiki installation.*
 
 *  **Directory:**  
-   The installation directory. If it is left blank the Mediawiki files will be copied directly to the document root folder.  
+   The installation directory. If it is left blank the Mediawiki files will be copied directly to the document root folder. If you provide a name, a subdirectoy will be created and you Mediawiki files will be placed in this directory. 
    *Note: Do not install over a previous installation of Mediawiki! Files will be overwritten without warning.*  
 
 *  **Table prefix:**  
@@ -28,16 +28,15 @@ MediaWiki is a free software open source wiki package written in PHP, originally
 
 *  **Database name:**  
    Set the name of your database schema which will be added to your local database.  
-   After installation you can view this database for this instance of Mediawiki using phpMyAdmin, Sequel Pro, or           MySQLWorkbench. 
+   After installation you can view this database using phpMyAdmin, Sequel Pro, or MySQLWorkbench. 
  
 *  **Username:**  
-   The Mediawiki admin.  
+   Use this username to log into the admin area of your Mediawiki installation.  
    *Note: You will need this username to login into your new of Mediawiki blog, please write this down.*  
 
 *  **Password:**  
-   The Mediawiki admins default password.  
+   Use this password to log into the admin area of your MediaWikin installation.  
    *Note: You will need this password to login into your new Mediawiki blog, please write this down.*
-
 
 
 When you are done filling out all the required fields Mediawiki will be downloaded into your host directory. A database will be created using the database name you entered.
