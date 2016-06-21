@@ -31,17 +31,17 @@ Hinweis:Das Standardpasswort des Benutzers root lautet “root". Dieser Benutzer
 Ist die Checkbox Netzwerkzugriff auf MySQL zulassen nicht aktiviert, dann wird der Zugriff auf MySQL via Netzwerk-Funktionen unterbunden. Solche Netzwerk-Zugriffe müssen nicht zwangsläufig von anderen Rechnern im Netzwerk kommen, auch andere Programme auf Ihrem Mac können über Netzwerk-Funktionen mit MySQL kommunizieren. Dies ist aber in der Regel unnötig, da lokale Programme ebenso über sogenannte sockets mit MySQL sprechen können.
 
  
-
+<div class="alert" role="alert">
 Hinweis: Diese Option sollten Sie nur aktivieren, wenn es unbedingt nötig ist.
- 
+</div>
 
-  *  **nur von diesem Rechner**
+      *  **nur von diesem Rechner**
 
 Nur Programme, die auf Ihrem Computer installiert sind, können über Netzwerk-Funktionen auf MySQL zugreifen.
 
  
 
-  *  **auch von anderen Rechnern**
+      *  **auch von anderen Rechnern**
 
 MySQL erlaubt alle Netzwerkzugriffe. Abhängig von Ihren Netzwerkeinstellungen können dies auch Zugriffe aus dem Internet sein.
 
