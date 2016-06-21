@@ -1,7 +1,5 @@
 ## Einstellungen
 
----
-
 ### Start/Stopp
 
 ![MAMP](StartStop.png)
