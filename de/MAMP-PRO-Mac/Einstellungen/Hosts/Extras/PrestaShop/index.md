@@ -23,6 +23,9 @@ language: de
    Möchten Sie PrestaShop lieber in einen eigenen Ordner installieren, dann geben Sie diesen Ordnernamen an. Dieser Ordner  darf noch nicht im Stammverzeichnis des Hosts existieren, denn er wird automatisch angelegt.
    
    *Hinweis: Installieren Sie Wordpress nicht über eine bereits vorhandene Installation. Diese wird ansonsten überschrieben!*  
+*  **Tabellen-Präfix:**  
+   Durch Verwendung unterschiedlicher Tabellen-Präfixe kann PrestaShop Daten für mehrere Websites in einer einzigen Datenbank verwalten.
+
 *  **Datenbank-Name:**  
    Eine Datenbank mit diesem Name darf auf dem MySQL-Server noch nicht existieren. Sie wird automatisch angelegt.
  
