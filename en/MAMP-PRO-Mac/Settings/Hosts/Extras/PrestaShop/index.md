@@ -22,7 +22,7 @@ language: en
    Your last name.
 
 *  **Email address:**  
-   Your email address.  
+   Your email address. With this email address you can configure your PrestaShop installation. 
    *Note: You must enter a valid email address to setup a PrestaShop installation.*
 
 *  **Password:**  
