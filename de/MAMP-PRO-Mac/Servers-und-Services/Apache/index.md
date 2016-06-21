@@ -16,4 +16,10 @@ Beispiel: Möchten Sie die Skriptsprache PHP verwenden, dann muss PHP_module akt
 
 Bei Änderungen ist ein Neustart der MAMP PRO Server erforderlich.
 
+---
+
+*  **Path To Apache log file**
+
+Errors occurring during execution of the Apache server will be saved in this log file.
+
 
