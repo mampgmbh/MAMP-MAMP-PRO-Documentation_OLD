@@ -20,8 +20,8 @@ The button `Set ports to 80, 443 & 3306` will set the ports to the value commonl
    Production servers typically use www/msql to run Apache and MySQL. These users may not have the right to access your files,
    therefore it’s generally a good idea to run them under your own username.  
     <div class="alert" role="alert">
-   *Note: You should only start the servers with your own user name when the machine is adequately protected against
-   malicious attacks from the internet. Malicious scripts on your server may enable unlimited access to your personal data.*
+   Note: You should only start the servers with your own user name when the machine is adequately protected against
+   malicious attacks from the internet. Malicious scripts on your server may enable unlimited access to your personal data.
    </div>
 *  **Start Apache and MySQL at system start**  
    Apache and MySQL are started during startup of the OS, this means that the services are available before a user
