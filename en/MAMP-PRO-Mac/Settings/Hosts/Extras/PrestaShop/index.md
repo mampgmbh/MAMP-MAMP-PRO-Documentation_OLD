@@ -30,7 +30,7 @@ language: en
    *Note: You will need this password to login into your new PrestaShop site, please write this down.*
 
 *  **Directory:**  
-   The installation directory. If it is left blank the PrestaShop files will be copied directly to the document root folder.  
+   The installation directory. If it is left blank the PrestaShop files will be copied directly to the document root folder. If you provide a name, a subdirectoy will be created and your PrestaShop files will be placed in this directory.  
    *Note: Do not install over a previous installation of Prestashop! Files will be overwritten without warning.*  
 
 *  **Table prefix:**  
