@@ -8,7 +8,7 @@ language: de
 
 ## Einstellungen > Hosts > Nginx
 
-The Nginx server ...
+Hier legen Sie erweiterte Optionen für den in der Tabelle markierten virtuellen Host fest. Diese Optionen sind sicherheitsrelevant!
 
 ![MAMP](Nginx.png)
 
@@ -21,3 +21,4 @@ The Nginx server ...
     
 *  **Additional parameters for &lt;server&gt;**  
 
+Add additional parameters to the <server> directive here.
