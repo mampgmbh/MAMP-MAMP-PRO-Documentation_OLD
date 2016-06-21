@@ -8,6 +8,8 @@ language: de
 
 ## Sprachen > Perl
 
+Perl is a high-level, general-purpose, interpreted, dynamic programming language. A version 5 of Perl is included with MAMP PRO.
+
 ![MAMP](Perl.png)
 
 *  **Make Perl directly available on the command line**  
