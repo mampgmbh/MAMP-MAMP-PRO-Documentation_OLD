@@ -25,9 +25,8 @@ Magento Commerce is a popular php based e-commerce platform.
    
    *Hinweis: Installieren Sie Magento nicht über eine bereits vorhandene Installation. Diese wird ansonsten überschrieben!*  
 
-*  **Prefix:**  
-   Geben Sie Ihrem Blog einen aussagekräftigen Namen.
-
+*  **Tabellen-Präfix:**  
+   Durch Verwendung unterschiedlicher Tabellen-Präfixe kann Magento Daten für mehrere Websites in einer einzigen Datenbank verwalten.
 
 *  **Datenbank-Name:**  
    Eine Datenbank mit diesem Name darf auf dem MySQL-Server noch nicht existieren. Sie wird automatisch angelegt.
