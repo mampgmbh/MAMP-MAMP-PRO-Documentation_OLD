@@ -13,26 +13,25 @@ Magento Commerce is a popular php based e-commerce platform.
 ![MAMP](Magento.png)
 
 *  **Email address:**  
-   Your email address.  
+   Your email address. Your Magento installation will send error messages to this email address.
    *Note: You must enter a valid email address to setup a Magento installation.*
 
 *  **Directory:**  
-   The installation directory. If it is left blank the Magento files will be copied directly to the document root folder.  
+   If you would like to install Magento directly in the host document root directory, leave this field empty. If you provide a name, Magento will be installed in this directory. The directory must not yet exist.  
    *Note: Do not install over a previous installation of Magento! Files will be overwritten without warning.*  
 
 *  **Table Prefix:**  
    Magento can use a table prefix to manage multiple web sites in a single database. The prefix has a maximum of five characters.
 
 *  **Database Name:**  
-   Set the name of your database schema which will be added to your local database.  
-   After installation you can view this database for this instance of Magento using phpMyAdmin, Sequel Pro, or           MySQLWorkbench.
+   Set the name of your database schema. After installation you can view this database using phpMyAdmin, Sequel Pro, or MySQLWorkbench.
  
 *  **Username:**  
-   The Magento admin.  
+   Use this username to login into the Magento adminn area.  
    *Note: You will need this username to login into your new of Magento e-commerce site, please write this down.*  
 
 *  **Password:**  
-   The Magento admins default password.  
+   Use this Magento password to login to the admin area of your installation.  
    *Note: You will need this password to login into your new Magento e-commerce site, please write this down.*
 
 *  **Encryption Key:**  
