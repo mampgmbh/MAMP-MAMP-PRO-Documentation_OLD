@@ -29,6 +29,7 @@ Check your version number and MAMP PRO key.
 
 *  **My Favorite Link:**
      Set the My Favorite Link on the Webstart page. This link appears at the top of the page.
+
 ---
 
 *  **Allow Saving when Document Root is invalid:**
