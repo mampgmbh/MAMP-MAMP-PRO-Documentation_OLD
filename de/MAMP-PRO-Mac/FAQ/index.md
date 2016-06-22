@@ -16,13 +16,13 @@ MAMP PRO ist das kommerzielle, professionelle Konfigurationsprogramm für den Kl
 
 ### Sind Updates kostenlos?
 
-Innerhalb einer Hauptversion sind alle Updates kostenlos. Möchten Sie zum Beispiel MAMP PRO von Version 3.0 auf Version 3.5 aktualisieren, können Sie Ihre bisherige Seriennummer weiterverwenden.
+Innerhalb einer Hauptversion sind alle Updates kostenlos. Möchten Sie zum Beispiel MAMP PRO von Version 4.0 auf Version 4.xx aktualisieren, können Sie Ihre bisherige Seriennummer weiterverwenden.
 
 ---
 
-### Ist MAMP PRO kompatibel mit Mac OS X 10.9 (Mavericks)?
+### Ist MAMP PRO kompatibel mit Mac OS X 10.11 (El Capitan)?
 
-Ja, MAMP PRO ist kompatibel mit Mac OS X 10.9 (Mavericks).
+Ja, MAMP PRO ist kompatibel mit Mac OS X 10.11 (El Capitan).
 
 ---
 
@@ -53,12 +53,6 @@ Binaries des PHP-Interpreters können von https://www.mamp.info/en/downloads/ ge
 ### Kann MAMP PRO die selben Ports verwenden wie MAMP?
 
 Ja, Sie können MAMP PRO die selben Ports zuweisen wie MAMP. Allerdings ist es nicht empfehlenswert, beide Programme (MAMP und MAMP PRO) zeitgleich laufen zu lassen.
-
----
-
-### Can I use MAMP at the same time as MAMP PRO?
-
-Both applications, MAMP as well as MAMP PRO, are configuration tools for the tools inside the folder MAMP. Though you could run them simultaneously you should not do it. You would run into sporadic problems, even data loss may occur.
 
 ---
 
