@@ -74,6 +74,5 @@ Hinweis: Bitte beachten Sie, dass Sie bei ausgeblendetem Dock-Icon nicht mehr au
 
 ---
 
-#### Beim Start von MAMP PRO auf Updates überprüfen
-
-Ist diese Einstellung aktiviert, überprüft MAMP PRO bei jedem Start, ob ein Update für MAMP PRO vorliegt.
+*  **Beim Start von MAMP PRO auf Updates überprüfen**
+    Ist diese Einstellung aktiviert, überprüft MAMP PRO bei jedem Start, ob ein Update für MAMP PRO vorliegt.
