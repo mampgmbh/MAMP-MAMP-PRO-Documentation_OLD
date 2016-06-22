@@ -29,15 +29,15 @@ Nach der Installation von Wordpress lautet Ihr Benutzername/Passwort: admin/admi
 
 Das häufigste Problem bei einem Apache-Server der nicht startet, ist eine weitere Apache-Instanz, die bereits auf dem selben Port läuft. Um dies zu überprüfen gehen Sie wie folgt vor:
 
-- Beenden Sie MAMP PRO. 
+1. Beenden Sie MAMP PRO. 
 
-- Öffnen Sie den Aktivitätsmonitor im Ordner /Programme/Dienstprogramme. 
+2. Öffnen Sie den Aktivitätsmonitor im Ordner /Programme/Dienstprogramme. 
 
-- Geben Sie httpd in das Suchfeld oben rechts ein.
+3. Geben Sie httpd in das Suchfeld oben rechts ein.
 
-- Beenden Sie jeden Prozess, den Sie nach Ihrer Suche finden. 
+4. Beenden Sie jeden Prozess, den Sie nach Ihrer Suche finden. 
 
-- Starten Sie MAMP PRO. 
+5. Starten Sie MAMP PRO. 
 
 Wenn der Apache-Server immer noch nicht startet, überprüfen Sie die Protokolldatei auf Fehlermeldungen.
 
@@ -53,15 +53,15 @@ You must edit the httpd.conf, php.ini and my.cnf files through the Template Edit
 
 Das häufigste Problem bei einem MySQL-Server der nicht startet, ist ein weiterer MySQL-Dienst, der auf dem selben Port läuft. Um dies zu überprüfen gehen Sie wie folgt vor:
 
-- Beenden Sie MAMP PRO. 
+1. Beenden Sie MAMP PRO. 
 
-- Öffnen Sie den Aktivitätsmonitor im Ordner /Programme/Dienstprogramme. 
+2. Öffnen Sie den Aktivitätsmonitor im Ordner /Programme/Dienstprogramme. 
 
-- Geben Sie mysqld in das Suchfeld oben rechts ein.
+3. Geben Sie mysqld in das Suchfeld oben rechts ein.
 
-- Beenden Sie jeden Prozess, den Sie nach Ihrer Suche finden. 
+4. Beenden Sie jeden Prozess, den Sie nach Ihrer Suche finden. 
 
-- Starten Sie MAMP PRO. 
+5. Starten Sie MAMP PRO. 
 
 Sollte MySQL immer noch nicht starten, überprüfen Sie die Protokolldatei auf Fehlermeldungen.
 
