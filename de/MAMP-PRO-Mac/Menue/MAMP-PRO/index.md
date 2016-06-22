@@ -22,6 +22,8 @@ Check your version number and MAMP PRO key.
 
 #### Preferences...
  
+![MAMP](Einstellungen.png)
+
 
 #### Öffne WebStart bei Start von MAMP PRO
 
