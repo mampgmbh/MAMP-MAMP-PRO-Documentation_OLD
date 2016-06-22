@@ -23,12 +23,11 @@ Track your assets using the Asset Manager. The Asset Manager can be added to the
   
 ![MAMP](Assets.png)
 
-
 ---
 
 ### Scrap Pad
 
-    Use your scrap pad to paste notes or code for later use. The Scrap Pad can be added to the toolbar.
+Use your scrap pad to paste notes or code for later use. The Scrap Pad can be added to the toolbar.
 
 ![MAMP](ScrapPad.png)
 
@@ -36,4 +35,4 @@ Track your assets using the Asset Manager. The Asset Manager can be added to the
 
 ### Summary
 
-    Summary provides a summary of your MAMP PRO setup, including all individual host settings.
+Summary provides a summary of your MAMP PRO setup, including all individual host settings.
