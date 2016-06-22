@@ -8,7 +8,23 @@ language: de
 
 ## Tools
 
-### Default Storage Engine von MySQL einstellen
+*  **Start/Stop Servers:**
+
+Start and start the active servers.
+
+*  **WebStart:**
+
+Open the WebStart page.
+
+---
+
+*  **Extras:**
+
+Dieses Menu führt Sie zur Extras-Ansicht des zuletzt benutzten virtuellen Hosts.
+
+---
+
+*  **Default Storage Engine von MySQL einstellen**
 
 Der MySQL-Server von MAMP nutzt die Default Storage Engine MyISAM. Möchten Sie dies ändern, müssen Sie die Konfigurationsdatei des MySQL-Servers erweitern. Die folgende Anleitung zeigt, wie Sie die Default Storage Engine auf InnoDB setzen.
 
@@ -19,13 +35,7 @@ Fügen folgenden Inhalt in diese Datei ein:
 Speichern Sie die Datei my.cnf und schließen Sie den Texteditor.
 Starten Sie die MAMP-Server.
 Hinweis: Speichern Sie als reine Textdatei (Endung txt), nicht im Word- oder RTF-Format.
-### Tools
 
-#### Extras
-
-Dieses Menu führt Sie zur Extras-Ansicht des zuletzt benutzten virtuellen Hosts.
-
- 
 
 #### MySQL-Datenbanken überprüfen 
 
