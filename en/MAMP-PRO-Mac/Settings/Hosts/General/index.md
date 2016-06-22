@@ -82,6 +82,7 @@ The column to the right of host name indicates which server the host will run on
        The basic mapping mechanism which uses the the file `/etc/hosts`.
 
     *  **for "MAMP Viewer" (LAN only)**  
+         Enable your host to be viewed on the MAMP Viewer.
 
     *  **via Xip.io (LAN only)**  
        Allow other computers on your local network to access your web site.
