@@ -12,6 +12,15 @@ language: de
 
 Hier können Sie überprüfen, ob ein Update für MAMP PRO zur Verfügung steht. Es wird jedoch nicht nach neuen Versionen einzelner Komponenten gesucht.
 
+---
+
+#### About MAMP PRO
+
+Check your version number and MAMP PRO key.
+
+---
+
+#### Preferences...
  
 
 #### Öffne WebStart bei Start von MAMP PRO
