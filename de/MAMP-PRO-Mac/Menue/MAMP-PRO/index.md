@@ -25,15 +25,12 @@ Check your version number and MAMP PRO key.
 ![MAMP](Einstellungen.png)
 
 
-#### Öffne WebStart bei Start von MAMP PRO
+*  **Öffne WebStart bei Start von MAMP PRO**
+     Ihr Standard-Browser öffnet sich und die WebStart-Seite von MAMP PRO wird geöffnet.
 
-Ihr Standard-Browser öffnet sich und die WebStart-Seite von MAMP PRO wird geöffnet.
-
- 
-
-#### WebStart-Pfad
-
-Hier geben Sie an, welche Seite von Ihrem Browser geöffnet wird, wenn Sie auf den Button webStart klicken (bzw. welche Seite sich automatisch beim Starten von MAMP PRO öffnet  sofern Sie diese Funktion aktiviert haben).
+*  **My Favorite Link:**
+     Set the My Favorite Link on the Webstart page. This link appears at the top of the page.
+---
 
  
 
