@@ -9,7 +9,7 @@ language: en
 ##  Window
 
 
-*  **Overview:**
+### Overview:
 
 Overview allows quick access to preview websites. Overview can be added to the toolbar.
 
@@ -17,7 +17,7 @@ Overview allows quick access to preview websites. Overview can be added to the t
 
 ---
 
-*  **Assets:**
+### Assets:
 
 Track your assets using the Asset Manager. The Asset Manager can be added to the toolbar.
   
@@ -26,12 +26,12 @@ Track your assets using the Asset Manager. The Asset Manager can be added to the
 
 ---
 
-*  **Scrap Pad:**
+### Scrap Pad:
 
     Use your scrap pad to paste notes or code for later use. The Scrap Pad can be added to the toolbar.
 
 ![MAMP](ScrapPad.png)
 
-*  **Summary:**
+### Summary:
 
     Summary provides a summary of your MAMP PRO setup, including all individual host settings.
