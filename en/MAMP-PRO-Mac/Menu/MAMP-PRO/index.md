@@ -8,19 +8,19 @@ language: en
 
 ## MAMP PRO
 
-#### Check For Updates
+### Check For Updates
 
 Check MAMP PRO updates checks for updates to the MAMP PRO application. It does not check for new versions of individual components.
 
 ---
 
-#### About MAMP PRO
+### About MAMP PRO
 
 Check your version number and MAMP PRO key.
 
 ---
 
-#### Preferences…
+### Preferences…
 
 ![MAMP](Preferences.png)
 
