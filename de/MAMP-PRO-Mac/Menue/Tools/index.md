@@ -24,25 +24,25 @@ Dieses Menu führt Sie zur Extras-Ansicht des zuletzt benutzten virtuellen Hosts
 
 ---
 
-#### MySQL-Datenbanken überprüfen 
+### MySQL-Datenbanken überprüfen 
 
 Mit diesem Tool können Sie Ihre MYSQL-Datenbanken überprüfen. Dazu muss der MySQL-Server aktiv sein.
 
-#### MySQL-Datenbanken reparieren
+### MySQL-Datenbanken reparieren
 
 Mit diesem Tool können Sie Ihre MYSQL-Datenbanken mit Hilfe von mysqlcheck reparieren.
 
-#### MySQL-Datenbanken aktualisieren
+### MySQL-Datenbanken aktualisieren
 
 Aktualisieren Sie Ihre Datenbanken.
 
-#### MySQL-Datenbanken sichern
+### MySQL-Datenbanken sichern
 
 Machen Sie ein Backup Ihrer Datenbanken. Der Server muss aus sein, um diese Funktion zu nutzen.
 
 ---
 
-#### hosts-Datei anzeigen
+### hosts-Datei anzeigen
 
 Die hosts-Datei befindet sich im Verzeichnis /etc. Sie ordnet Hostnamen IP-Adressen zu.
 
@@ -50,7 +50,7 @@ In der hosts-Datei sind sämtliche Hostnamen verzeichnet. Alle Hostnamen, die vo
 
 ---
  
-#### System Apache/WebSharing starten
+### System Apache/WebSharing starten
 
 Aktiviert den Apache-Server von OS X.
 
