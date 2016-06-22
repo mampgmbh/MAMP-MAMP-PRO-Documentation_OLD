@@ -1,7 +1,7 @@
 
 ---
 title: MAMP PRO (Mac) Documentation
-description: What is MAMP PRO
+description: MAMP Viewer
 layout: default-2
 product: MAMP PRO Mac
 language: en
