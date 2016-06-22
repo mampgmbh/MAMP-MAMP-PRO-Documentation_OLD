@@ -8,7 +8,6 @@ language: de
 
 ## Fenster
 
-
 *  **Overview** 
     Look at a quick preview of your websites ...
 
@@ -33,5 +32,9 @@ The Asset Manager ....
 ![MAMP](ScrapPad.png)
 
 With the scrap pad ... you a scrappy
-*  **Summary**
-    A summary of your setup
+
+---
+
+### Summary
+
+A summary of your setup
