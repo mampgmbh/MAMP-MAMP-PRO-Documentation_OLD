@@ -1,4 +1,3 @@
-
 ---
 title: MAMP PRO (Mac) Documentation
 description: MAMP Viewer
@@ -8,3 +7,4 @@ language: en
 ---
 
 ## MAMP Viewer
+
