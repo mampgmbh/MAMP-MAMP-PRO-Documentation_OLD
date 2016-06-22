@@ -8,7 +8,7 @@ language: en
 
 ##  File
 
-*  **Edit Template:<a name="edit_templates"></a>**
+### Edit Template:<a name="edit_templates"></a>
 
 MAMP PRO uses templates to create the necessary server config files. You can edit these templates from the menu item        File > Edit template. Here, you have access to options which are not accessible from the MAMP PRO user interface.
 
@@ -60,7 +60,7 @@ Importing templates made in a different version of MAMP PRO may cause some confi
 
 ---
 
-*  **Factory Settings:**
+### Factory Settings:
      
 Setting 1
 
