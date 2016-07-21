@@ -63,7 +63,7 @@ The column to the right of host name indicates which server the host will run on
 
       *  **PHPInfo**
       
-         ![MAMP](php.ini.png)
+         ![MAMP](phpInfo.png)
       
          View your php configuration by pressing the 'i' button to the right of the version name.
       
