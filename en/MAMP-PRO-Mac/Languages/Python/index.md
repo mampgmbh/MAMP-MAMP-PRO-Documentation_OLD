@@ -14,7 +14,7 @@ Python is a widely used high-level, general-purpose, interpreted, dynamic progra
 
 ---
 
-*  **Make Python directly available on the command line**  
+*  **Make Python available on the command line**  
    If you check this option, you can use this version of Python on the command line by just typing `python`.
 
 More information on how to [connect to MySQL using Python](../../How-Tos/#python_connect) can be found in our How To     section.
