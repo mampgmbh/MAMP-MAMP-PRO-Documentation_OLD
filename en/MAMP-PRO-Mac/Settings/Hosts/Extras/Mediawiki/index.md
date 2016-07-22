@@ -22,7 +22,9 @@ MediaWiki is a free software open source wiki package written in PHP, originally
    </div>
 *  **Directory:**  
    The installation directory. If it is left blank the Mediawiki files will be copied directly to the document root folder. If you provide a name, a subdirectoy will be created and your Mediawiki files will be placed in this directory. 
-   *Note: Do not install over a previous installation of Mediawiki! Files will be overwritten without warning.  
+   <div class="alert" role="alert">    
+   Note: Do not install over a previous installation of Mediawiki! Files will be overwritten without warning.  
+   </div>
 
 *  **Table prefix:**  
    Mediawiki can use a table prefix to manage multiple forums in a single database.
