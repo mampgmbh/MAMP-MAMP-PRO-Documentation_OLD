@@ -32,9 +32,10 @@ PrestaShop is a free, open source e-commerce solution. More information about Pr
    Note: You will need this password to login into your new PrestaShop site, please write this down.
    </div>
 *  **Directory:**  
-   The installation directory. If it is left blank the PrestaShop files will be copied directly to the document root folder. If you provide a name, a subdirectoy will be created and your PrestaShop files will be placed in this directory.  
-   *Note: Do not install over a previous installation of Prestashop! Files will be overwritten without warning.*  
-
+   The installation directory. If it is left blank the PrestaShop files will be copied directly to the document root folder. If you provide a name, a subdirectoy will be created and your PrestaShop files will be placed in this directory.
+   <div class="alert" role="alert">
+   Note: Do not install over a previous installation of Prestashop! Files will be overwritten without warning.  
+   </div>
 *  **Table prefix:**  
    PrestaShop can use a table prefix to manage multiple web sites in a single database.  
 
