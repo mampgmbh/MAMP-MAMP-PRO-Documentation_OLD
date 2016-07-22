@@ -12,11 +12,7 @@ MAMP PRO Extras allow you the ability to install a content management system in 
 
 ![MAMP](ExtrasPreview.png)
 
-The arrow represents ...
-This represents ...
-This represents ...
-
-
+The Extras panel shows the name of the extra, how many installations are possible per document root, and the php compatibility.
 
 - [WordPress](WordPress/)  
 - [Joomla](Joomla/)  
