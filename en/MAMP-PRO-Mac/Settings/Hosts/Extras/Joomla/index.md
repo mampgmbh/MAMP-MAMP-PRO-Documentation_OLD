@@ -8,7 +8,7 @@ language: en
 
 ## Joomla
 
-Joomla is a free and open-source content management system. More information about Joomla can be found here.
+Joomla is a free and open-source content management system. More information about Joomla can be found [here](https://www.joomla.org){:target="_blank"}.
 
 Joomla installations can share a single MySQL database if you provide a unique table prefix during installation. To use an existing database enter the name of the database and a unique table prefix. To create a new database use a unique database name, table prefix must not be empty.
 
