@@ -8,11 +8,9 @@ language: de
 
 ## Magento
 
-Magento Commerce is a popular php based e-commerce platform.
+Magento Commerce is a popular php based e-commerce platform. More information about Magento can be found [here](https://www.magento.com){:target="_blank"}.
 
 ![MAMP](Magento.png)
-
-
 
 *  **E-Mail-Adresse:**  
    An diese E-Mail-Adresse wird Ihre Magento-Installation Fehlermeldungen verschicken.  
