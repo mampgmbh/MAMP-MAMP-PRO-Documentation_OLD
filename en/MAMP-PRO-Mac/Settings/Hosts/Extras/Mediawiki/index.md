@@ -40,7 +40,7 @@ MediaWiki is a free software open source wiki package written in PHP, originally
 *  **Password:**  
    Use this password to log into the admin area of your MediaWikin installation.  
    <div class="alert" role="alert">   
-   Note: You will need this password to login into your new Mediawiki blog, please write this down.*
+   Note: You will need this password to login into your new Mediawiki blog, please write this down.
    </div>
 
 When you are done filling out all the required fields Mediawiki will be downloaded into your host directory. A database will be created using the database name you entered.
