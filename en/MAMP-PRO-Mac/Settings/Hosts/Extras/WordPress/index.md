@@ -8,7 +8,7 @@ language: en
 
 ## Wordpress
 
-WordPress is a free and open-source content management system based on PHP and MySQL.
+WordPress is a free and open-source content management system based on PHP and MySQL. More information about Wordpress can be found [here](https://www.wordpress.org){:target="_blank"}.
 
 
 <div class="alert" role="alert">
