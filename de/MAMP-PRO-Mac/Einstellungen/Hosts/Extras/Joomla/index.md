@@ -8,6 +8,8 @@ language: de
 
 ## Joomla
 
+Joomla is a free and open-source content management system. More information about Joomla can be found [here](https://www.joomla.org){:target="_blank"}.
+
 Installationen von Joomla können sich eine einzige MySQL-Datenbanken teilen, sofern Sie jede Joomla-Installation einen anderen Tabellen-Präfix benutzet. Um eine bereits vorhandene Datenbank zu verwenden, geben Sie den Namen der Datenbank an und wählen Sie einen neuen Tabellen-Präfix. Um eine neue Datenbank zu nutzen, wählen einen individuellen Datenbanknamen. Ein Tabellen-Präfix muss gewählt werden, das Eingabefeld darf nicht leer bleiben.
 
 
