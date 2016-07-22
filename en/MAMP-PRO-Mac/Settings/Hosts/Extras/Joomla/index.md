@@ -37,6 +37,7 @@ Joomla installations can share a single MySQL database if you provide a unique t
 *  **Database name:**  
    Set the name of your database schema which will be added to your local database.
    After installation you can view this database for this instance of Joomla using phpMyAdmin, Sequel Pro, or MySQLWorkbench. 
+
 *  **Username:**  
    The Joomla admin.
    <div class="alert" role="alert">
