@@ -8,7 +8,7 @@ language: de
 
 ## Drupal
 
-Drupal ist ein Content Management Software. It's used to make many of the websites and applications you use every day. 
+Drupal is content management software. It’s used to make many of the websites and applications you use every day. More information about Drupal can be found here.
 
 ![MAMP](Drupal.png)
 
