@@ -21,22 +21,27 @@ Drupal is content management software. It's used to make many of the websites an
 
 *  **Directory:**  
    The installation directory. If it is left blank the Wordpress files will be copied directly to the document root folder.  
-   
-*Note: Do not install over a previous installation of Wordpress! Files will be overwritten without warning.*  
+  
+   <div class="alert" role="alert"> 
+   Note: Do not install over a previous installation of Wordpress! Files will be overwritten without warning. 
+   </div>
 
 *  **Table Prefix:**  
    The table prefix for your site.
 
 *  **Database name:**  
    Set the name of your database schema which will be added to your local database.  
-   After installation you can view this database for this instance of WordPress using phpMyAdmin, Sequel Pro, or                MySQLWorkbench. 
+   After installation you can view this database for this instance of WordPress using phpMyAdmin, Sequel Pro, or           MySQLWorkbench. 
  
 *  **Username:**  
-   The Drupal admin.  
-   *Note: You will need this username to login into your new of Drupal site, please write this down.*  
+   The Drupal admin.
+   <div class="alert" role="alert">
+   Note: You will need this username to login into your new of Drupal site, please write this down. 
+   </div>
 
 *  **Password:**  
    The Drupal admins default password.  
-   *Note: You will need this password to login into your new Drupal site, please write this down.*
-
+   <div class="alert" role="alert">   
+   Note: You will need this password to login into your new Drupal site, please write this down.
+   </div>
 
