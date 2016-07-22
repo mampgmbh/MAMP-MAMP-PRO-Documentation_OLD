@@ -33,6 +33,9 @@ Note: When some Content Management Systems such as Wordpress are setup the host 
    Note: Do not install over a previous installation of Wordpress! Files will be overwritten without warning.  
    </div>
 
+*  **Table prefix:**  
+   Set the name of your database schema prefix. Wordpress offers the ability to manage multiple websites using a single database schema.
+
 *  **Database name:**  
    Set the name of your database schema which will be added to your local database.  
    After installation you can view this database for this instance of WordPress using phpMyAdmin, Sequel Pro, or           MySQLWorkbench. 
