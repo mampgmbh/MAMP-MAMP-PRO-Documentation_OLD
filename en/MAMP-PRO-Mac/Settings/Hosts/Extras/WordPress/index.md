@@ -23,24 +23,31 @@ Note: When some Content Management Systems such as Wordpress are setup the host 
 
 *  **Email address:**  
    Your email address.  
-   *Note: You must enter a valid email address to setup a WordPress installation.*
+   <div class="alert" role="alert"> 
+   Note: You must enter a valid email address to setup a WordPress installation.
+   </div>
 
 *  **Directory:**  
    The installation directory. If it is left blank the Wordpress files will be copied directly to the document root folder.  
-   *Note: Do not install over a previous installation of Wordpress! Files will be overwritten without warning.*  
+   <div class="alert" role="alert">    
+   Note: Do not install over a previous installation of Wordpress! Files will be overwritten without warning.  
+   </div>
 
 *  **Database name:**  
    Set the name of your database schema which will be added to your local database.  
-   After installation you can view this database for this instance of WordPress using phpMyAdmin, Sequel Pro, or                MySQLWorkbench. 
+   After installation you can view this database for this instance of WordPress using phpMyAdmin, Sequel Pro, or           MySQLWorkbench. 
  
 *  **Username:**  
-   The WordPress admin.  
-   *Note: You will need this username to login into your new of WordPress blog, please write this down.*  
+   The WordPress admin.
+   <div class="alert" role="alert"> 
+   Note: You will need this username to login into your new of WordPress blog, please write this down.
+   </div>
 
 *  **Password:**  
    The WordPress admins default password.  
-   *Note: You will need this password to login into your new WordPress blog, please write this down.*
-
+   <div class="alert" role="alert"> 
+   Note: You will need this password to login into your new WordPress blog, please write this down.
+   </div>
 
 ![MAMP](../../../Videos/MAMPtv.png) [Installing wordPress with Extras and Manually](https://www.youtube.com/watch?v=6rMFZa2TOjg){:target="_blank"}
 
