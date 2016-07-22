@@ -49,7 +49,7 @@ Note: When some Content Management Systems such as Wordpress are setup the host 
    Note: You will need this password to login into your new WordPress blog, please write this down.
    </div>
 
-![MAMP](../../../Videos/MAMPtv.png) [Installing wordPress with Extras and Manually](https://www.youtube.com/watch?v=6rMFZa2TOjg){:target="_blank"}
+![MAMP](../../../../Videos/MAMPtv.png) [Installing wordPress with Extras and Manually](https://www.youtube.com/watch?v=6rMFZa2TOjg){:target="_blank"}
 
 
 
