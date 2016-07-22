@@ -22,9 +22,10 @@ PrestaShop is a free, open source e-commerce solution. More information about Pr
    Your last name.
 
 *  **Email address:**  
-   Your email address. With this email address you can configure your PrestaShop installation. 
+   Your email address. With this email address you can configure your PrestaShop installation.
+   <div class="alert" role="alert">
    *Note: You must enter a valid email address to setup a PrestaShop installation.*
-
+   </div>
 *  **Password:**  
    The PrestaShop admins default password.  
    *Note: You will need this password to login into your new PrestaShop site, please write this down.*
