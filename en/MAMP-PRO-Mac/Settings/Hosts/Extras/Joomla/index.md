@@ -14,6 +14,23 @@ Joomla installations can share a single MySQL database if you provide a unique t
 
 ![MAMP](Joomla.png)
 
+*  **Name of the site:**  
+   Name your site.
+
+*  **Email address:**  
+   Your email address.  
+   
+   <div class="alert" role="alert"> 
+   Note: You must enter a valid email address to setup a Drupal installation.
+   </div>
+
+*  **Directory:**  
+   The installation directory. If it is left blank the Drupal files will be copied directly to the document root folder.  
+  
+   <div class="alert" role="alert"> 
+   Note: Do not install over a previous installation of Drupal! Files will be overwritten without warning. 
+   </div>
+
 *  **Table prefix:**  
    Set the name of your database schema prefix. Joomla offers the ability to manage multiple websites using a single database schema.
 
