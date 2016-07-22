@@ -34,11 +34,11 @@ phpBB is an Internet forum package written in the PHP scripting language. More i
 *  **Username:**  
    The phpBB admin. Use this username to log into the admin area of your phpBB installation. 
    <div class="alert" role="alert">   
-   Note: You will need this username to login into your new of phpBB installation, please write this down.*  
+   Note: You will need this username to login into your new of phpBB installation, please write this down.
    </div>
 *  **Password:**  
    The phpBB admins default password. Use this password to log into the admin area of your phpBB installation.
    <div class="alert" role="alert">
-   Note: You will need this password to login into your new phpBB installation, please write this down.*
+   Note: You will need this password to login into your new phpBB installation, please write this down.
    </div>
 
