@@ -38,5 +38,6 @@ webEdition is an open source web application framework and content management sy
    Note: You will need this password to login into your new webEdition site, please write this down.
    </div>
 
-*  **Directory:**
-   WebEdition will be installed in a subdirectory of your document root named webEdition.
+*  **Password:**  
+   TWebEdition will be installed in a subdirectory of your document root named webEdition.
+   
