@@ -8,7 +8,7 @@ language: en
 
 ## phpBB
 
-phpBB is an Internet forum package written in the PHP scripting language. More information about phpBB can be found here.
+phpBB is an Internet forum package written in the PHP scripting language. More information about phpBB can be found [here](https://www.phpbb.com){:target="_blank"}.
 
 ![MAMP](phpBB.png)
 
