@@ -14,7 +14,9 @@ phpBB is an Internet forum package written in the PHP scripting language. More i
 
 *  **Email address:**  
    Your email address. You phpBB installation will send error messages to this e-mail address.
-   *Note: You must enter a valid email address to setup a phpBB installation.*
+   <div class="alert" role="alert">   
+   Note: You must enter a valid email address to setup a phpBB installation.
+   </div>
 
 *  **Directory:**  
    The installation directory. If it is left blank the phpBB files will be copied directly to the document root folder. If you provide a name, a subdirectoy will be created and your phpBB files will be placed in this directory.  
