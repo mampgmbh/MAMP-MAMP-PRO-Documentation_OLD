@@ -8,7 +8,7 @@ language: en
 
 ## Prestashop
 
-PrestaShop is a free, open source e-commerce solution. More information about PrestaShop can be found here.
+PrestaShop is a free, open source e-commerce solution. More information about PrestaShop can be found [here](https://www.prestashop.com){:target="_blank"}.
 
 ![MAMP](PrestaShop.png)
 
