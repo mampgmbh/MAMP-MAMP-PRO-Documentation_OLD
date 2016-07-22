@@ -8,7 +8,7 @@ language: en
 
 ## webEdition
 
-webEdition is an open source web application framework and content management system. webEdition will always be installed in a folder called webEdition inside the document root folder. More information about webEdition can be found here.
+webEdition is an open source web application framework and content management system. webEdition will always be installed in a folder called webEdition inside the document root folder. More information about webEdition can be found [here](https://www.webedition.org){:target="_blank"}.
 
 ![MAMP](webEdition.png)
 
