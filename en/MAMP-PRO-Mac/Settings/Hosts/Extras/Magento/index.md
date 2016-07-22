@@ -20,7 +20,10 @@ Magento Commerce is a popular php based e-commerce platform. More information ab
 
 *  **Directory:**  
    If you would like to install Magento directly in the host document root directory, leave this field empty. If you provide a name, Magento will be installed in this directory. The directory must not yet exist.  
-   *Note: Do not install over a previous installation of Magento! Files will be overwritten without warning.*  
+   
+   <div class="alert" role="alert">      
+   Note: Do not install over a previous installation of Magento! Files will be overwritten without warning.
+   </div>
 
 *  **Table Prefix:**  
    Magento can use a table prefix to manage multiple web sites in a single database. The prefix has a maximum of five characters.
