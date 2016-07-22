@@ -39,5 +39,5 @@ webEdition is an open source web application framework and content management sy
    </div>
 
 *  **Password:**  
-   TWebEdition will be installed in a subdirectory of your document root named webEdition.
+   WebEdition will be installed in a subdirectory of your document root named webEdition.
    
