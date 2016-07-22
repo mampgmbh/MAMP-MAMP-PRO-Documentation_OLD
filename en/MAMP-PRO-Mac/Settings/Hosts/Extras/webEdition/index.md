@@ -13,8 +13,10 @@ webEdition is an open source web application framework and content management sy
 ![MAMP](webEdition.png)
 
 *  **Email address:**  
-   Your email address.  
-   *Note: You must enter a valid email address to setup a webEdition installation.*
+   Your email address.
+   <div class="alert" role="alert">   
+   Note: You must enter a valid email address to setup a webEdition installation.
+   </div>
 
 *  **Table prefix:**  
    Set the name of your database schema prefix. webEdition offers the ability to manage multiple websites
@@ -22,14 +24,17 @@ webEdition is an open source web application framework and content management sy
 
 *  **Database name:**  
    Set the name of your database schema which will be added to your local database.
-   After installation you can view this database for this instance of webEdition using phpMyAdmin, Sequel Pro, or               MySQLWorkbench.
+   After installation you can view this database for this instance of webEdition using phpMyAdmin, Sequel Pro, or          MySQLWorkbench.
 
 *  **Username:**  
-   The webEdition admin.  
-   *Note: You will need this username to login into your new webEdition site, please write this down.*  
+   The webEdition admin.
+   <div class="alert" role="alert">   
+   Note: You will need this username to login into your new webEdition site, please write this down.  
+   </div>
 
 *  **Password:**  
-   The WebEdition admins default password.  
-   *Note: You will need this password to login into your new webEdition site, please write this down.*
-
+   The WebEdition admins default password.
+   <div class="alert" role="alert">   
+   Note: You will need this password to login into your new webEdition site, please write this down.
+   </div>
 
