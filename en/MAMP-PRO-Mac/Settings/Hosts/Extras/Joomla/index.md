@@ -21,14 +21,14 @@ Joomla installations can share a single MySQL database if you provide a unique t
    Your email address.  
    
    <div class="alert" role="alert"> 
-   Note: You must enter a valid email address to setup a Drupal installation.
+   Note: You must enter a valid email address to setup a Joomla installation.
    </div>
 
 *  **Directory:**  
-   The installation directory. If it is left blank the Drupal files will be copied directly to the document root folder.  
+   The installation directory. If it is left blank the Joomla files will be copied directly to the document root folder.  
   
    <div class="alert" role="alert"> 
-   Note: Do not install over a previous installation of Drupal! Files will be overwritten without warning. 
+   Note: Do not install over a previous installation of Joomla! Files will be overwritten without warning. 
    </div>
 
 *  **Table prefix:**  
@@ -37,5 +37,16 @@ Joomla installations can share a single MySQL database if you provide a unique t
 *  **Database name:**  
    Set the name of your database schema which will be added to your local database.
    After installation you can view this database for this instance of Joomla using phpMyAdmin, Sequel Pro, or MySQLWorkbench. 
+   *  **Username:**  
+   The Joomla admin.
+   <div class="alert" role="alert">
+   Note: You will need this username to login into your new of Joomla site, please write this down. 
+   </div>
+
+*  **Password:**  
+   The Joomla admins default password.  
+   <div class="alert" role="alert">   
+   Note: You will need this password to login into your new Joomla site, please write this down.
+   </div>
 
 
