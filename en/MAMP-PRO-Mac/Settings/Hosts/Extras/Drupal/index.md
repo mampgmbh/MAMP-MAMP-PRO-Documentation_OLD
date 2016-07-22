@@ -17,7 +17,10 @@ Drupal is content management software. It's used to make many of the websites an
 
 *  **Email address:**  
    Your email address.  
-   *Note: You must enter a valid email address to setup a WordPress installation.*
+   
+   <div class="alert" role="alert"> 
+   Note: You must enter a valid email address to setup a WordPress installation.
+   </div>
 
 *  **Directory:**  
    The installation directory. If it is left blank the Wordpress files will be copied directly to the document root folder.  
