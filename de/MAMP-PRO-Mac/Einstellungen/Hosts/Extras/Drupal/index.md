@@ -21,7 +21,7 @@ Drupal is content management software. It’s used to make many of the websites 
 *  **Verzeichnis:**  
    Wenn Sie Drupal direkt im Stammverzeichnis des Hosts installieren möchten, dann lassen Sie dieses Feld leer.
 
-   Möchten Sie Wordpress lieber in einen eigenen Ordner installieren, dann geben Sie diesen Ordnernamen an. Dieser Ordner darf noch nicht im Stammverzeichnis des Hosts existieren, denn er wird automatisch angelegt.
+   Möchten Sie Drupal lieber in einen eigenen Ordner installieren, dann geben Sie diesen Ordnernamen an. Dieser Ordner darf noch nicht im Stammverzeichnis des Hosts existieren, denn er wird automatisch angelegt.
    <div class="alert" role="alert">
    Hinweis: Installieren Sie Wordpress nicht über eine bereits vorhandene Installation. Diese wird ansonsten überschrieben! </div>
    
