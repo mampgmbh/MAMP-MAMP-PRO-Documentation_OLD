@@ -14,7 +14,9 @@ Magento Commerce is a popular php based e-commerce platform. More information ab
 
 *  **E-Mail-Adresse:**  
    An diese E-Mail-Adresse wird Ihre Magento-Installation Fehlermeldungen verschicken.  
-   *Hinweis: Um Magento zu installieren, ist die Eingabe einer gültigen E-Mail-Adresse erforderlich.*
+   <div class="alert" role="alert">   
+   Hinweis: Um Magento zu installieren, ist die Eingabe einer gültigen E-Mail-Adresse erforderlich.
+   </div>
 
 *  **Verzeichnis:**  
    Wenn Sie Magento direkt im Stammverzeichnis des Hosts installieren möchten, dann lassen Sie dieses Feld leer.
