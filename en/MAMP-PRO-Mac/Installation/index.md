@@ -33,7 +33,7 @@ You cannot delete the /MAMP folder, MAMP and MAMP PRO share many components.
 
 ### Upgrading from MAMP PRO 3 to MAMP PRO 4
 
-When up upgrading to MAMP PRO 4 you will be asked to upgrade your data to MySQL 5.6 This is recommended. Your current MySQL data will be copied to `/Library/Application Support/appsolute/MAMP PRO/db/mysql` to  `/Library/Application Support/appsolute/MAMP PRO/db/mysql56` when you upgrade your data to MySQL 5.6. Your old data will be preserved intact in  `/Library/Application Support/appsolute/MAMP PRO/db/mysql`.
+When up upgrading to MAMP PRO 4 you will be asked to upgrade your data to MySQL 5.6 This is recommended. Your current MySQL data will be copied from `/Library/Application Support/appsolute/MAMP PRO/db/mysql` to  `/Library/Application Support/appsolute/MAMP PRO/db/mysql56` when you upgrade your data to MySQL 5.6. Your old data will be preserved intact in  `/Library/Application Support/appsolute/MAMP PRO/db/mysql`.
 
 1. Download MAMP PRO from https://www.mamp.info.
 2. Double click on the `MAMP_MAMP_PRO_4.xx.pkg` file in your `Downloads` folder to start the installation process.
