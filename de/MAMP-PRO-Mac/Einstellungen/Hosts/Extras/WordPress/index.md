@@ -22,7 +22,9 @@ Note: When some Content Management Systems such as Wordpress are setup the host 
 
 *  **E-Mail-Adresse:**  
    An diese E-Mail-Adresse wird Ihre Wordpress-Installation Fehlermeldungen verschicken.  
-   *Hinweis: Um Wordpress zu installieren, ist die Eingabe einer gültigen E-Mail-Adresse erforderlich.*
+   <div class="alert" role="alert">   
+   Hinweis: Um Wordpress zu installieren, ist die Eingabe einer gültigen E-Mail-Adresse erforderlich.
+   </div>
 
 *  **Verzeichnis:**  
    Wenn Sie Wordpress direkt im Stammverzeichnis des Hosts installieren möchten, dann lassen Sie dieses Feld leer.
