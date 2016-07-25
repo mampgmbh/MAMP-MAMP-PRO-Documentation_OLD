@@ -17,14 +17,20 @@ MediaWiki is a free software open source wiki package written in PHP, originally
 
 *  **E-Mail-Adresse:**  
    An diese E-Mail-Adresse wird Ihre MediaWiki-Installation Fehlermeldungen verschicken.  
-   *Hinweis: Um MediaWiki zu installieren, ist die Eingabe einer gültigen E-Mail-Adresse erforderlich.*
+   
+   <div class="alert" role="alert">   
+   Hinweis: Um MediaWiki zu installieren, ist die Eingabe einer gültigen E-Mail-Adresse erforderlich.*
+   </div>
 
 *  **Verzeichnis:**  
    Wenn Sie MediaWiki direkt im Stammverzeichnis des Hosts installieren möchten, dann lassen Sie dieses Feld leer.
 
    Möchten Sie MediaWiki lieber in einen eigenen Ordner installieren, dann geben Sie diesen Ordnernamen an. Dieser Ordner  darf noch nicht im Stammverzeichnis des Hosts existieren, denn er wird automatisch angelegt.
    
-   *Hinweis: Installieren Sie MediaWiki nicht über eine bereits vorhandene Installation. Diese wird ansonsten überschrieben!*  
+   <div class="alert" role="alert">   
+   Hinweis: Installieren Sie MediaWiki nicht über eine bereits vorhandene Installation. Diese wird ansonsten überschrieben!* 
+   </div>
+   
 *  **Tabellen-Präfix:**  
    Durch Verwendung unterschiedlicher Tabellen-Präfixe kann Mediawiki Daten für mehrere Websites in einer einzigen Datenbank verwalten.
 
@@ -33,11 +39,15 @@ MediaWiki is a free software open source wiki package written in PHP, originally
  
 *  **Benutzername:**  
    Es wird automatisch der Benutzername admin verwendet.  
-   *Hinweis: Nutzen Sie diesen Nutzernamen, um sich später auf Ihrem Wiki einzuloggen.*  
+   <div class="alert" role="alert">   
+   Hinweis: Nutzen Sie diesen Nutzernamen, um sich später auf Ihrem Wiki einzuloggen.*  
+   </div>   
 
 *  **Passwort:**  
    Es wird automatisch das Passwort admin verwendet.  
-   *Hinweis: Nutzen Sie dieses Passwort, um sich später auf Ihr Wiki einzuloggen. Sie können es im Admin-Bereich von MediaWiki ändern.*
+   <div class="alert" role="alert">   
+   Hinweis: Nutzen Sie dieses Passwort, um sich später auf Ihr Wiki einzuloggen. Sie können es im Admin-Bereich von MediaWiki ändern.
+   </div>
 
 
 
