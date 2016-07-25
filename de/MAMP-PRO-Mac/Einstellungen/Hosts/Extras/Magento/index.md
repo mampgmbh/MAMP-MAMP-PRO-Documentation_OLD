@@ -21,7 +21,9 @@ Magento Commerce is a popular php based e-commerce platform. More information ab
 
    Möchten Sie Magento lieber in einen eigenen Ordner installieren, dann geben Sie diesen Ordnernamen an. Dieser Ordner    darf noch nicht im Stammverzeichnis des Hosts existieren, denn er wird automatisch angelegt.
    
-   *Hinweis: Installieren Sie Magento nicht über eine bereits vorhandene Installation. Diese wird ansonsten überschrieben!*  
+   <div class="alert" role="alert">
+   Hinweis: Installieren Sie Magento nicht über eine bereits vorhandene Installation. Diese wird ansonsten überschrieben!
+   </div>
 
 *  **Tabellen-Präfix:**  
    Durch Verwendung unterschiedlicher Tabellen-Präfixe kann Magento Daten für mehrere Websites in einer einzigen Datenbank verwalten.
@@ -31,11 +33,17 @@ Magento Commerce is a popular php based e-commerce platform. More information ab
  
 *  **Benutzername:**  
    Es wird automatisch der Benutzername admin verwendet.  
-   *Hinweis: Nutzen Sie diesen Nutzernamen, um sich später auf Ihrem Magento-Blog einzuloggen.*  
+   
+   <div class="alert" role="alert">
+   Hinweis: Nutzen Sie diesen Nutzernamen, um sich später auf Ihrem Magento-Blog einzuloggen.*  
+   </div>
 
 *  **Passwort:**  
    Es wird automatisch das Passwort admin verwendet.  
-   *Hinweis: Nutzen Sie dieses Passwort, um sich später auf Ihr Magento-Blog einzuloggen. Sie können es im Admin-Bereich      von Magento ändern.*
+   
+   <div class="alert" role="alert">
+   Hinweis: Nutzen Sie dieses Passwort, um sich später auf Ihr Magento-Blog einzuloggen. Sie können es im Admin-Bereich      von Magento ändern.
+   </div>
 
 *  **Encryption:**  
    This key is used for encrypting your sensitive data. You will need it if you move your data to a different Magento installation. Some payment and shipment processors require it. The key is located in <document root>/app/etc/env.php .
