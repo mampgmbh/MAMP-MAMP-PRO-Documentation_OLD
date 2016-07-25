@@ -21,7 +21,7 @@ To use MAMP PRO, your system must meet the following requirements:
 
 ### New Installation of MAMP PRO 4
 
-A new installation of MAMP/MAMP PRO will create two new directories in your /Applications folder. The installer will create an /Applications/MAMP folder and an /Applications/MAMP PRO folder. The MAMP PRO applications will reside in the /MAMP PRO folder while the MAMP application will reside in the /MAMP folder. 
+A new installation of MAMP/MAMP PRO will create two new directories in your `/Applications` folder. The installer will create an `/Applications/MAMP` folder and an `/Applications/MAMP PRO` folder. The MAMP PRO applications will reside in the `/Applications/MAMP PRO` folder while the MAMP application will reside in the `Applications/MAMP` folder. 
 
 <div class="alert" role="alert">
 You cannot delete the /MAMP folder, MAMP and MAMP PRO share many components.
