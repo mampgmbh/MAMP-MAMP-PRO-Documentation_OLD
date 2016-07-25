@@ -19,7 +19,7 @@ Drupal is content management software. It’s used to make many of the websites 
    An diese E-Mail-Adresse wird Ihre Drupal-Installation Fehlermeldungen verschicken.
 
 *  **Verzeichnis:**  
-   Wenn Sie Wordpress direkt im Stammverzeichnis des Hosts installieren möchten, dann lassen Sie dieses Feld leer.
+   Wenn Sie Drupal direkt im Stammverzeichnis des Hosts installieren möchten, dann lassen Sie dieses Feld leer.
 
    Möchten Sie Wordpress lieber in einen eigenen Ordner installieren, dann geben Sie diesen Ordnernamen an. Dieser Ordner darf noch nicht im Stammverzeichnis des Hosts existieren, denn er wird automatisch angelegt.
    <div class="alert" role="alert">
