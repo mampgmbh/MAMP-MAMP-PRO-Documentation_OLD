@@ -19,7 +19,7 @@ MediaWiki is a free software open source wiki package written in PHP, originally
    An diese E-Mail-Adresse wird Ihre MediaWiki-Installation Fehlermeldungen verschicken.  
    
    <div class="alert" role="alert">   
-   Hinweis: Um MediaWiki zu installieren, ist die Eingabe einer gültigen E-Mail-Adresse erforderlich.*
+   Hinweis: Um MediaWiki zu installieren, ist die Eingabe einer gültigen E-Mail-Adresse erforderlich.
    </div>
 
 *  **Verzeichnis:**  
