@@ -17,8 +17,6 @@ To use MAMP PRO, your system must meet the following requirements:
 - A Mac with a 64-Bit-capable CPU.
 - A user account that is part of the Admin Group. Go to Preferences > Users & Groups to confirm this.
 
----
-
 ### New Installation of MAMP PRO 4
 
 A new installation of MAMP/MAMP PRO will create two new directories in your `/Applications` folder. The installer will create an `/Applications/MAMP` folder and an `/Applications/MAMP PRO` folder. The MAMP PRO applications will reside in the `/Applications/MAMP PRO` folder while the MAMP application will reside in the `Applications/MAMP` folder. 
@@ -75,7 +73,7 @@ Note: You need administrator permissions to install MAMP PRO!
 
 ---
 
-### Uninstall
+## Uninstall
 
 Use the MAMP PRO Uninstaller located in `/Applications/MAMP PRO` to remove MAMP PRO.
 
