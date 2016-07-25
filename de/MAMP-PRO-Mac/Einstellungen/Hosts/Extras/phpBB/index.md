@@ -22,7 +22,7 @@ phpBB is an Internet forum package written in the PHP scripting language.
 *  **Directory:**  
    The installation directory. If it is left blank the phpBB files will be copied directly to the document root folder. If you provide a name, a subdirectoy will be created and your phpBB files will be placed in this directory.  
    <div class="alert" role="alert">  
-   Note: Do not install over a previous installation of phpBB! Files will be overwritten without warning.*  
+   Note: Do not install over a previous installation of phpBB! Files will be overwritten without warning.
    </div>
 
 *  **Table Prefix:**  
