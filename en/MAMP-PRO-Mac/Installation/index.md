@@ -71,7 +71,6 @@ Note: You need administrator permissions to install MAMP PRO!
 
 ![MAMP](../Videos/MAMPtv.png) [Upgrading MAMP PRO](https://www.youtube.com/watch?v=h1Ct63XLVYU){:target="_blank"}
 
----
 
 ## Uninstall
 
