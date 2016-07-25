@@ -25,15 +25,22 @@ Drupal is content management software. It’s used to make many of the websites 
    <div class="alert" role="alert">
    Hinweis: Installieren Sie Wordpress nicht über eine bereits vorhandene Installation. Diese wird ansonsten überschrieben! </div>
    
+*  **Table Prefix:**  
+   The table prefix for your site.
+   
 *  **Datenbank-Name:**  
    Eine Datenbank mit diesem Name darf auf dem MySQL-Server noch nicht existieren. Sie wird automatisch angelegt. 
  
 *  **Benutzername:**  
    Es wird automatisch der Benutzername admin verwendet.
-   *Hinweis: Nutzen Sie diesen Nutzernamen, um sich später auf Ihrem Wordpress-Blog einzuloggen.*  
+   
+   <div class="alert" role="alert">
+   Hinweis: Nutzen Sie diesen Nutzernamen, um sich später auf Ihrem Wordpress-Blog einzuloggen.
+   </div>
 
 *  **Passwort:**  
    Es wird automatisch das Passwort admin verwendet.
+   
    <div class="alert" role="alert">
    Hinweis: Nutzen Sie dieses Passwort, um sich später auf Ihr Wordpress-Blog einzuloggen. Sie können es im Admin-Bereich von Wordpress ändern.
    </div>
