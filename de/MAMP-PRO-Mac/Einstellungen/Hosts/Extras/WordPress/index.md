@@ -27,19 +27,31 @@ Note: When some Content Management Systems such as Wordpress are setup the host 
 *  **Verzeichnis:**  
    Wenn Sie Wordpress direkt im Stammverzeichnis des Hosts installieren möchten, dann lassen Sie dieses Feld leer.
 
-   Möchten Sie Wordpress lieber in einen eigenen Ordner installieren, dann geben Sie diesen Ordnernamen an. Dieser Ordner       darf noch nicht im Stammverzeichnis des Hosts existieren, denn er wird automatisch angelegt.
+   Möchten Sie Wordpress lieber in einen eigenen Ordner installieren, dann geben Sie diesen Ordnernamen an. Dieser Ordner  darf noch nicht im Stammverzeichnis des Hosts existieren, denn er wird automatisch angelegt.
    
-   *Hinweis: Installieren Sie Wordpress nicht über eine bereits vorhandene Installation. Diese wird ansonsten überschrieben!*  
+  <div class="alert" role="alert">
+  Hinweis: Installieren Sie Wordpress nicht über eine bereits vorhandene Installation. Diese wird ansonsten überschrieben!
+  </div>
+  
+*  **Table prefix:**  
+   Set the name of your database schema prefix. Wordpress offers the ability to manage multiple websites using a single database schema.
+
+
 *  **Datenbank-Name:**  
    Eine Datenbank mit diesem Name darf auf dem MySQL-Server noch nicht existieren. Sie wird automatisch angelegt.
  
 *  **Benutzername:**  
    Es wird automatisch der Benutzername admin verwendet.  
-   *Hinweis: Nutzen Sie diesen Nutzernamen, um sich später auf Ihrem Wordpress-Blog einzuloggen.*  
+   
+   <div class="alert" role="alert">
+   Hinweis: Nutzen Sie diesen Nutzernamen, um sich später auf Ihrem Wordpress-Blog einzuloggen.*  
+   </div>
 
 *  **Passwort:**  
    Es wird automatisch das Passwort admin verwendet.  
-   *Hinweis: Nutzen Sie dieses Passwort, um sich später auf Ihr Wordpress-Blog einzuloggen. Sie können es im Admin-Bereich      von Wordpress ändern.*
-
+   
+   <div class="alert" role="alert">
+   Hinweis: Nutzen Sie dieses Passwort, um sich später auf Ihr Wordpress-Blog einzuloggen. Sie können es im Admin-Bereich  von Wordpress ändern.
+   </div>
 
 
