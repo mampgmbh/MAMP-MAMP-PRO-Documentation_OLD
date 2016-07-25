@@ -31,7 +31,7 @@ You cannot delete the /MAMP folder, MAMP and MAMP PRO share many components.
 2. Double click on the `MAMP_MAMP_PRO_4.xx.pkg` file in your `Downloads` folder.
 3. The System Installer will guide you through the installation process.
 
-### Upgrading from version 3 to version 4
+### Upgrading from MAMP PRO 3 to MAMP PRO 4
 
 1. Download MAMP PRO from https://www.mamp.info.
 2. Double click on the `MAMP_MAMP_PRO_4.xx.pkg` file in your `Downloads` folder to start the installation process.
