@@ -35,13 +35,13 @@ Drupal is content management software. It’s used to make many of the websites 
    Es wird automatisch der Benutzername admin verwendet.
    
    <div class="alert" role="alert">
-   Hinweis: Nutzen Sie diesen Nutzernamen, um sich später auf Ihrem Wordpress-Blog einzuloggen.
+   Hinweis: Nutzen Sie diesen Nutzernamen, um sich später auf Ihrem Drupal-Site einzuloggen.
    </div>
 
 *  **Passwort:**  
    Es wird automatisch das Passwort admin verwendet.
    
    <div class="alert" role="alert">
-   Hinweis: Nutzen Sie dieses Passwort, um sich später auf Ihr Wordpress-Blog einzuloggen. Sie können es im Admin-Bereich von Wordpress ändern.
+   Hinweis: Nutzen Sie dieses Passwort, um sich später auf Ihr Drupal-Site einzuloggen. Sie können es im Admin-Bereich von Drupal ändern.
    </div>
 
