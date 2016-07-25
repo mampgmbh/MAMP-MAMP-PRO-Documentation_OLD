@@ -29,9 +29,9 @@ Note: When some Content Management Systems such as Wordpress are setup the host 
 
    Möchten Sie Wordpress lieber in einen eigenen Ordner installieren, dann geben Sie diesen Ordnernamen an. Dieser Ordner  darf noch nicht im Stammverzeichnis des Hosts existieren, denn er wird automatisch angelegt.
    
-  <div class="alert" role="alert">
-  Hinweis: Installieren Sie Wordpress nicht über eine bereits vorhandene Installation. Diese wird ansonsten überschrieben!
-  </div>
+   <div class="alert" role="alert">
+   Hinweis: Installieren Sie Wordpress nicht über eine bereits vorhandene Installation. Diese wird ansonsten überschrieben!
+   </div>
   
 *  **Table prefix:**  
    Set the name of your database schema prefix. Wordpress offers the ability to manage multiple websites using a single database schema.
