@@ -23,7 +23,7 @@ When upgrading MySQL ...
 - [New Install](New-Install/)  
 - [Upgrading From MAMP PRO 3.x to MAMP PRO 4.x](MAMP-PRO-3xx-4xx-Upgrade/)  
 - [Upgrading From MAMP PRO 4.xx to MAMP PRO 4.xx](MAMP-PRO-4xx-4xx-Upgrade/)  
-- [Uprading From MAMP To MAMP PRO](Ruby/)
+- [Uprading From MAMP To MAMP PRO](MAMP-MAMP-PRO-Upgrade/)
 - [Uninstalling MAMP PRO](Uninstall/)
 
 
