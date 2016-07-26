@@ -20,7 +20,11 @@ To use MAMP PRO, your system must meet the following requirements:
 
 When upgrading MySQL ...
 
-
+- [New Install](PHP/)  
+- [Upgrading From MAMMP PRO 3.x to MAMP PRO 4.x](Python/)  
+- [Upgrading From MAMMP PRO 4.xx to MAMP PRO 4.xx](Perl/)  
+- [Uprading From MAMP To MAMP PRO](Ruby/)
+- [Uninstalling MAMP PRO](fads/)
 
 
 
