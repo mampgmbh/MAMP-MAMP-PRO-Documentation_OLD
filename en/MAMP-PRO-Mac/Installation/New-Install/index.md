@@ -6,5 +6,5 @@ product: MAMP PRO Mac
 language: en
 ---
 
-## New Installation
+## New MAMP PRO Installation
 
