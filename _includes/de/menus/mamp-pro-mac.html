@@ -1,6 +1,17 @@
 {% if page.product == "MAMP PRO Mac" and page.language == "de" %}
 <ul class="no-bullets">
-	<li><a href="/MAMP-MAMP-PRO-Documentation/de/MAMP-PRO-Mac/Installation/">Installation</a></li>
+	<li>
+		<a href="/MAMP-MAMP-PRO-Documentation/de/MAMP-PRO-Mac/Installation/">Installation</a>
+		{% if page_url contains "/de/MAMP-PRO-Mac/Einstellungen/Hosts/Extras/" %}
+			<ul class="no-bullets">
+				<li><a href="/MAMP-MAMP-PRO-Documentation/de/MAMP-PRO-Mac/Einstellungen/Hosts/Extras/webEdition/">webEdition</a></li>
+				<li><a href="/MAMP-MAMP-PRO-Documentation/de/MAMP-PRO-Mac/Einstellungen/Hosts/Extras/Magento/">Magento</a></li>
+				<li><a href="/MAMP-MAMP-PRO-Documentation/de/MAMP-PRO-Mac/Einstellungen/Hosts/Extras/Mediawiki/">Mediawiki</a></li>
+				<li><a href="/MAMP-MAMP-PRO-Documentation/de/MAMP-PRO-Mac/Einstellungen/Hosts/Extras/phpBB/">phpBB</a></li>
+				<li><a href="/MAMP-MAMP-PRO-Documentation/de/MAMP-PRO-Mac/Einstellungen/Hosts/Extras/PrestaShop/">PrestaShop</a></li>
+			</ul>
+		{% endif %}
+	</li>
 	<li><a href="/MAMP-MAMP-PRO-Documentation/de/MAMP-PRO-Mac/Erste-Schritte/">Erste Schritte</a></li>
 	<li>
 		<a href="/MAMP-MAMP-PRO-Documentation/de/MAMP-PRO-Mac/Einstellungen/">Einstellungen</a>
