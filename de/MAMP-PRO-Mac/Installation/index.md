@@ -36,7 +36,7 @@ MAMP PRO setzt Folgendes voraus:
 Hinweis: Um MAMP PRO zu installieren, benötigen Sie Administratorrechte!
 </div>
 
-- [New Install](New-Install/)  
+- [New Install](Neu-Installation/)  
 - [Upgrading From MAMP PRO 3.xx to MAMP PRO 4.xx](MAMP-PRO-Upgrade-3x-4x/)  
 - [Upgrading From MAMP PRO 4.xx to MAMP PRO 4.xx](MAMP-PRO-Upgrade-4x-4x/)  
 - [Uprading From MAMP To MAMP PRO](MAMP-MAMP-PRO-Upgrade/)
