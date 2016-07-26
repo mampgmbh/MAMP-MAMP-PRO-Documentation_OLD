@@ -25,8 +25,8 @@ language: en
 Note: You need administrator permissions to install MAMP PRO!
 </div>
 
-![MAMP](../Videos/MAMPtv.png) [Installing MAMP PRO](https://www.youtube.com/watch?v=4ZqfrWX82vo){:target="_blank"}
+![MAMP](../../Videos/MAMPtv.png) [Installing MAMP PRO](https://www.youtube.com/watch?v=4ZqfrWX82vo){:target="_blank"}
 
-![MAMP](../Videos/MAMPtv.png) [Upgrading MAMP PRO](https://www.youtube.com/watch?v=h1Ct63XLVYU){:target="_blank"}
+![MAMP](../../Videos/MAMPtv.png) [Upgrading MAMP PRO](https://www.youtube.com/watch?v=h1Ct63XLVYU){:target="_blank"}
 
 
