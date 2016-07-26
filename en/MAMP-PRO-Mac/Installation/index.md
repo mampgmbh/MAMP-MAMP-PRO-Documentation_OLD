@@ -21,7 +21,7 @@ To use MAMP PRO, your system must meet the following requirements:
 When upgrading to MAMP PRO 4 you will be asked to upgrade your MySQL data to version 5.6 . It is recommended you upgrade your data. A copy of your old MySQL 5.5.x data will be kept in  `/Library/Application Support/appsolute/MAMP PRO/db/mysql `.
 
 - [New Install](New-Install/)  
-- [Upgrading From MAMP PRO 3.x to MAMP PRO 4.x](MAMP-PRO-3xx-4xx-Upgrade/)  
+- [Upgrading From MAMP PRO 3.xx to MAMP PRO 4.xx](MAMP-PRO-3xx-4xx-Upgrade/)  
 - [Upgrading From MAMP PRO 4.xx to MAMP PRO 4.xx](MAMP-PRO-4xx-4xx-Upgrade/)  
 - [Uprading From MAMP To MAMP PRO](MAMP-MAMP-PRO-Upgrade/)
 - [Uninstalling MAMP PRO](Uninstall/)
