@@ -8,7 +8,7 @@ language: en
 
 ## Settings > Hosts > Nginx
 
-Nginx options can be set for the selected virtual host in the table. These options are security relevant!More information about configuring your Nginx Server can be found [here](https://httpd.apache.org/docs/2.2/){:target="_blank"} at the Nginx website.
+Nginx options can be set for the selected virtual host in the table. These options are security relevant!
 
 ![MAMP](Nginx.png)
 
