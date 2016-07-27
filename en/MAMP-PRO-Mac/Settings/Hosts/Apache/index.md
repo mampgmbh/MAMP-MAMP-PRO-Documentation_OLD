@@ -8,7 +8,7 @@ language: en
 
 ## Settings > Hosts > Apache
 
-Apache options can be set for the selected virtual host in the table. These options are security relevant!
+Apache options can be set for the selected virtual host in the table. These options are security relevant! More information about configuring your Apache Server be found [here](https://httpd.apache.org/docs/2.2/}.
 
 ![MAMP](Apache.png)
 
