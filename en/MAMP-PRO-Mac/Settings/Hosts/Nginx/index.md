@@ -13,7 +13,9 @@ Nginx options can be set for the selected virtual host in the table. These optio
 ![MAMP](Nginx.png)
 
 *  **Directory index**  
-   Nginx will automatically look for an index.php or index.html page. 
+   Activates or deactivates "directory browsing". If there is no index.html, index.php, etc in the document root, the content of the folder is displayed when this option is enabled. Without this option, nothing will be displayed or an error message will appear.
+
+*  **AutoIndex**  
 
 *  **Access Limits**  
 
