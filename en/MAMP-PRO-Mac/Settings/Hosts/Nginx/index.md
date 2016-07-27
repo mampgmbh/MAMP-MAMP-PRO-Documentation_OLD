@@ -13,9 +13,12 @@ Nginx options can be set for the selected virtual host in the table. These optio
 ![MAMP](Nginx.png)
 
 *  **Directory index**  
-   Activates or deactivates "directory browsing". If there is no index.html, index.php, etc in the document root, the content of the folder is displayed when this option is enabled. Without this option, nothing will be displayed or an error message will appear.
 
-*  **AutoIndex**  
+   Determine which file Apache should serve if no filename is given in an address. By default it is either index.html or index.php.
+   
+*  **AutoIndex**
+
+   Activates or deactivates "directory browsing". If there is no index.html, index.php, etc in the document root, the content of the folder is displayed when this option is enabled. Without this option, nothing will be displayed or an error message will appear.
 
 *  **Access Limits**  
 
