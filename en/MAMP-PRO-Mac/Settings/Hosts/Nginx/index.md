@@ -13,6 +13,7 @@ Nginx options can be set for the selected virtual host in the table. These optio
 ![MAMP](Nginx.png)
 
 *  **Directory index**  
+   Nginx will automatically look for an index.php or index.html page. 
 
 *  **Access Limits**  
 
