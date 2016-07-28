@@ -14,7 +14,7 @@ Nginx options can be set for the selected virtual host in the table. These optio
 
 *  **Directory index**  
 
-   Determine which file Apache should serve if no filename is given in an address. By default it is either index.html or index.php.
+   Determine which file Nginx should serve if no filename is given in an address. By default it is either index.html or index.php.
    
 *  **AutoIndex**
 
@@ -22,8 +22,13 @@ Nginx options can be set for the selected virtual host in the table. These optio
 
 *  **Access Limits**  
 
-    *  **allow**  
-    *  **deny**  
+    *  **allow**
+    
+    Put an access limit here ...
+    
+    *  **deny**
+    
+    Put an access limit here ... 
     
 *  **Additional parameters for &lt;server&gt; directive**
 
