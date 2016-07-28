@@ -86,3 +86,5 @@ Note: The backup feature makes a backup of your current host settings. It will n
      
 ### Restore From Backup:
 
+Restore your backed up files.
+
