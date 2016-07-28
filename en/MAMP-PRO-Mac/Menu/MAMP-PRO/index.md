@@ -78,6 +78,6 @@ Only M cannot be used as a shortcut key. The ^ key stands for the ctrl key.
 
 ---
 
-*  **Automatically Check For Updates:**
+*  **Dialogue Warnings:**
      Reset your dialogue warnings.
 
