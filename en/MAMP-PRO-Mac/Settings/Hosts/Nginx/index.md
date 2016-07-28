@@ -24,11 +24,11 @@ Nginx options can be set for the selected virtual host in the table. These optio
 
     *  **allow**
     
-    Put an access limit here ...
+         Put an access limit here ...
     
     *  **deny**
     
-    Put an access limit here ... 
+         Put an access limit here ... 
     
 *  **Additional parameters for &lt;server&gt; directive**
 
