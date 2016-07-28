@@ -10,6 +10,8 @@ language: en
 
 ### Editing
 
+Adjust your document editing settings here.
+
 ![MAMP](Editing.png)
 
 *  **Auto-Save:**  
@@ -49,10 +51,14 @@ language: en
 
 ### Colors
 
+Adjust your document color settings here.
+
 ![MAMP](Colors.png)
 
 ---
 
 ### External Apps
+
+Adjust your default application settings here.
 
 ![MAMP](DefaultApps.png)
