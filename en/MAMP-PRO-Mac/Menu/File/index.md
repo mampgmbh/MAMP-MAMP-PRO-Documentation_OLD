@@ -79,12 +79,16 @@ Importing templates made in a different version of MAMP PRO may cause some confi
 ### Backup…:
 
 Make a backup of all your host settings and database files.
+
+![MAMP](Backup.png)
      
 <div class="alert" role="alert">
-Note: The backup feature makes a backup of your current host settings. It will not back up the files(.php, .html, .js       etc…) in a hosts document root! 
+Note: The backup feature makes a backup of your current host settings. It will not back up the files(.php, .html, .js      etc…) in a hosts document root! 
 </div>
      
 ### Restore From Backup:
 
 Restore your backed up files.
+
+![MAMP](Restore.png)
 
