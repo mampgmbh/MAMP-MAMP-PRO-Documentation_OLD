@@ -37,9 +37,12 @@ Adjust your document editing settings here.
 
 ---
 
-*  **Tab Width**  
+*  **Tab Width** 
+      Number of spaces to tab with
 
 *  **Indent Width** 
+      Number of spaces to indent with
+
 *  **Indenting**  
     *  **Indent with spaces, not tabs**  
     *  **Tab stops**  
