@@ -28,13 +28,13 @@ Note: Edition errors in the templates of the configuration files can cause the s
 
 *  **Nginx (nginx.conf)**   
 
-Open and edit your nginx.conf template file here. Changes made to your template file will be reflected your                 real nginx.conf file. The nginx.conf file created from the template file and is located in `/Library/appsolute/MAMP         PRO/conf`.
+     Open and edit your nginx.conf template file here. Changes made to your template file will be reflected your        real nginx.conf file. The nginx.conf file created from the template file and is located in `/Library/appsolute/MAMP PRO/conf`.
 
 *  **PHP (php.ini)**        
      
      Open and edit your php.ini template file here. There are likely several versions of php available, each of them with  their own template file. Changes made to your template file will be reflected your real php.ini file. The php.ini file created from the template file and is located in `/Library/appsolute/MAMP PRO/conf`.
      
-![MAMP](PHPini.png)
+     ![MAMP](PHPini.png)
 
 *  **MySQL(my.cnf)**        
      
@@ -44,24 +44,23 @@ Open and edit your nginx.conf template file here. Changes made to your template 
      
      Open and edit your main.cnf template file here. There are likely several versions of MySQL available, each of them with their own template file. Changes made to your template file will be reflected your real main.cnf file. The main.cnf file created from the template file and is located in `/Library/appsolute/MAMP PRO/conf`.
  
----
-
-### Factory Settings
-
-*  **Export Template:**
-     
-Export your current templates.
-     
-*  **Import Template:**
-     
-Import external templates.
-     
-<div class="alert" role="alert">
-Importing templates made in a different version of MAMP PRO may cause some configuration files to be invalid thus           preventing servers from being started.
-</div>
 
 
 ![MAMP](../../Videos/MAMPtv.png) [MAMP PRO and httpd.conf, php.ini, my.cnf](https://www.youtube.com/watch?v=uh6s7uMCISU){:target="_blank"}
+
+---
+
+### Export Template
+     
+Export your current templates.
+
+### Import Template     
+
+Import external templates.
+     
+<div class="alert" role="alert">
+Importing templates made in a different version of MAMP PRO may cause some configuration files to be invalid thus preventing servers from being started.
+</div>
 
 ---
 
