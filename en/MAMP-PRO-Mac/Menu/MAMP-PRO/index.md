@@ -35,7 +35,6 @@ Check MAMP PRO updates checks for updates to the MAMP PRO application. It does n
 *  **Allow Saving when Document Root is invalid:**
      MAMP PRO will ignore invalid paths to hosts and proceed with saving your settings.
 
---- 
 
 *  **Allow Saving when IP Address is invalid:**
      MAMP PRO will ignore invalid IP addresses for hosts and proceed with saving your settings.
@@ -43,6 +42,8 @@ Check MAMP PRO updates checks for updates to the MAMP PRO application. It does n
      <div class="alert" role="alert">
      Note: Setting these options may prevent Apache from starting up.
      </div>
+     
+--- 
 
 *  **Automatically Restart Servers if necessary (don’t ask):**
      MAMP PRO will automatically restart when changes are made that require a restart.
