@@ -63,13 +63,13 @@ Only M cannot be used as a shortcut key. The ^ key stands for the ctrl key.
      Note: You will not be able to see the MAMP PRO Menu Bar.
      </div>
 
-*  **Use Message Center:**
-     The Message Center will inform you of when Apache and MySQL have started. The Message Center can only be used when the doc icon is hidden.
+*  **Use Notification Center:**
+     The Notification Center will inform you of when Apache and MySQL have started. The Notification Center can only be used when the doc icon is hidden.
 
 ---
 
-*  **Show a red dot on the Dock icon if a server is running:**
-     A red dot will appear on the MAMP PRO icon on the dock when this is checked.
+*  **Show a red play symbol on the Dock icon if a server is running:**
+     A red play symbol will appear on the MAMP PRO icon on the dock when this is checked.
 
 ---
 
