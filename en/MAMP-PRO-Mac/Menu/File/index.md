@@ -62,13 +62,13 @@ Importing templates made in a different version of MAMP PRO may cause some confi
 
 ### Factory Settings:
      
-Setting 1
+*Setting 1*
 
-Development will reset all your host and server settings back to default, including setting your Apache ports back to       8888, 8890, 8889, and your Apache User/MySQL User to username/username.
+Setting 1 will reset all your host and server settings back to default, including setting your Apache ports back to       8888, 8890, 8889, and your Apache User/MySQL User to username/username.
 
-Setting 2
+*Setting 2*
 
-Live will reset all your host and server settings back to default, including setting your ports back to 80, 440, 3306,      and your Apache User/MySQL User to www/mysql.
+Setting 2 will reset all your host and server settings back to default, including setting your ports back to 80, 440, 3306, and your Apache User/MySQL User to www/mysql.
 
 *  **Backup…:**
 
