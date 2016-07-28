@@ -50,7 +50,7 @@ Note: Edition errors in the templates of the configuration files can cause the s
 
 ---
 
-### Export Template
+### Export Template:
      
 Export your current templates.
 
@@ -74,7 +74,9 @@ Importing templates made in a different version of MAMP PRO may cause some confi
 
      Setting 2 will reset all your host and server settings back to default, including setting your ports back to 80, 440, 3306, and your Apache User/MySQL User to www/mysql.
 
-*  **Backup…:**
+---
+
+### Backup…:
 
 Make a backup of all your host settings and database files.
      
@@ -82,5 +84,5 @@ Make a backup of all your host settings and database files.
 Note: The backup feature makes a backup of your current host settings. It will not back up the files(.php, .html, .js       etc…) in a hosts document root! 
 </div>
      
-*  **Restore your host settings and MySQL database files:**
+### Restore From Backup:
 
