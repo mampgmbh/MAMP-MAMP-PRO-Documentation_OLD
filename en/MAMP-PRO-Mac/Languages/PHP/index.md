@@ -42,9 +42,9 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
    *  **XCache**  
    *  **OPCache**  
    
-![MAMP](cache.png) 
+   ![MAMP](cache.png) 
    
-Several caches provide a user interface to help analyze and profile your code. Press the Arrow button to the right of the  cache name to view this interface. An interface is not available if the Arrow button is not enabled.
+   Several caches provide a user interface to help analyze and profile your code. Press the Arrow button to the right of the cache name to view this interface. An interface is not available if the Arrow button is not enabled.
 
 ---
 
