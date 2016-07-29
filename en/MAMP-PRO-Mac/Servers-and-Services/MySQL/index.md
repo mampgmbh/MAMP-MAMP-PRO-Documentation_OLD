@@ -18,7 +18,6 @@ The MySQL database server is a popular database used on production servers. An i
 ---
 
 *  **Version**  
-
    Change the version of MySQL that will be launched.
    
    <div class="alert" role="alert">
