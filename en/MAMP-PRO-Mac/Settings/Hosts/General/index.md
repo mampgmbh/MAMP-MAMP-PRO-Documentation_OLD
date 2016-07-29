@@ -20,14 +20,21 @@ Click on the folder icon to choose a document root. Use the right arrow button t
 
 The document root is also known as the web root folder. MAMP PRO will automatically add an `index.php` file and a MAMP image to this location when Apache is restarted and the folder is empty.
 
+*  **Hosts Table**
+
+The hosts table contains five columns. The first column contains your host name. The second column indicates which web server will host the file. 
+
+The third column indicates whether the host is active. If left unchecked, the host will not be active and cannot be viewed in a web browser.
+
+The fourth column contains the php version that is used with host. The fifth column will display an icon of the Extra installed if an Extra is installed.
+
 When your host page is functioning or at any other time you can save your host settings so you can go back to them at a later date. This serves as a backup in the case you make some server changes and discover your site is no longer accessible.
 
 ![MAMP](HostSaveSettings.png)
 
-The column to the right of host name indicates which server the host will run on. The column next to this indicates whether the host is activated. The host will not be active when this column does not have a check mark.
+---
 
-
-*  **Server Name**  
+*  **Name**  
    The server name and port number in combination must be unique within MAMP PRO.
    The host name may only contain letters and/or numbers, as well as dashes ("-");
    but it may not begin or end with a "-" character.
