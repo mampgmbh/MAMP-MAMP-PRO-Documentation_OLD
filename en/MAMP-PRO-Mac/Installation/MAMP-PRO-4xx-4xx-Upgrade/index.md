@@ -16,7 +16,7 @@ language: en
 
     ![MAMP](Templates.png)
   
-    Save your template files. You can use these saved template files as a guide of your previous modifications. New         (re) modifications need to be made through the MAMP PRO interface (File > Edit Templates), just as you had done before in your previous version of MAMP PRO.
+    Save your template files. You can use these saved template files as a guide of your previous modifications. New         (re) modifications need to be made through the MAMP PRO interface (File > Edit Templates), just as you had done previously in MAMP PRO.
 
 6. Confirm that all data has been transferred correctly before starting MAMP PRO.
 7. Your `/Applications/MAMP_current_date` folder can now be deleted. You may however keep it, so you can fall back to your original setup.
