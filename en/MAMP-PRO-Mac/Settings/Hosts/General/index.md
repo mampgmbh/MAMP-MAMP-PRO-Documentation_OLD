@@ -8,7 +8,7 @@ language: en
 
 ## Settings > Hosts > General
 
-MAMP PRO uses virtual hosts to allow Apache to serve different websites. The virtual host `localhost` is created by default and cannot be deleted. You can add an unlimited number of hosts allowing you to create one host per project. Every host can have it's own directory to store html, php files, and images. This directory is called Document Root.
+MAMP PRO uses virtual hosts to allow your web servers to serve different websites. The virtual host `localhost` is created by default and cannot be deleted. You can add an unlimited number of hosts allowing you to create one host per project. Every host can have it's own directory to store html, php files, and images. This directory is called Document Root.
 
 The name of a host (server name) must be unique, often it's practical to use a reverse domain naming scheme to easily identify them (e.g. use de.appsolute.mamp instead of mamp.appsolute.de). The unreversed name may conflict with an outside domain name.
 
@@ -107,8 +107,7 @@ The document root is also known as the web root folder. MAMP PRO will automatica
 
 *  **Access Rights for Document Root Directory**  
    For the web server to be able to access the files inside the document root folder and serve them to a web browser it needs adequate rights.
-   If you use the user `www` to start your web server, then this user must have the right to access the files inside the document root folder.
-   Typically this is not the case. You can either adapt the access rights or use the current Mac user to start Apache.
+   If you use the user `www` to start your web server, then this user must have the right to access the files inside the document root folder. Typically this is not the case. You can either adapt the access rights or use the current Mac user to start your web servers.
 
    During the development phase of a site it is easier to use the current Mac user to start your web server.
    The user `www` is generally only used on production servers.
@@ -133,5 +132,4 @@ The document root is also known as the web root folder. MAMP PRO will automatica
        *  **Change file right**  
 
 *  **Alias Name**  
-   Aliases are additional names for your virtual host. The same constraints apply to these additional names as to the host     itself.
-   Add aliases with the plus-button.
+   Aliases are additional names for your virtual host. The same constraints apply to these additional names as to the host itself. Add aliases with the plus-button.
