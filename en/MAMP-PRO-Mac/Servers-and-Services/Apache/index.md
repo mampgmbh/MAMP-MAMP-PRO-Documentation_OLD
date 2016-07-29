@@ -14,7 +14,7 @@ The Apache Server is a popular web server used in production environments. An in
 
 *  **Activate Apache server**  
 
-  Check to activate the Apache Server. When activated Apache will automatically start when the Servers button is pressed.
+    Check to activate the Apache Server. When activated Apache will automatically start when the Servers button is pressed.
 
 ---
 
