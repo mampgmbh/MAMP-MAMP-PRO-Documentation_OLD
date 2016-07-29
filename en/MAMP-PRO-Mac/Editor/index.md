@@ -8,7 +8,7 @@ language: en
 
 ## Editor
 
-Make changes to your scripts using the built in Editor. You can adjust the setting for your editor here.
+Make changes to your scripts using the built in Editor. You can adjust the setting for your editor [here](../Settings/Editor)
 
 
 ![MAMP](Editor.png)
