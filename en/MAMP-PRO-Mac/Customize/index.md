@@ -12,12 +12,13 @@ Add your favorite short cuts the tool bar with the customize menu.
 
 ![MAMP](Customize.png)
 
-### Space
 
-### Flexible Space
+*  **Space**  
 
-### MAMP PRO
-Open the MAMP PRO website.
+*  **Flexible Space**  
+
+*  **MAMP PRO**  
+    Open the MAMP PRO website.
 
 ### Webstart
 Open the Webstart page.
