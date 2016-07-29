@@ -30,7 +30,7 @@ Your default host for MAMP PRO is `localhost`. The files for localhost are initi
    Open the MAMP PRO Editor. Additional information about the MAMP PRO Editor can be found in the [Editor](../Editor/)     section.
 *  **WebStart**  
    Open the MAMP PRO start page of your local web server.
-   Additional information about the MAMP PRO start page is in the [Hosts](../Hosts/Apache) section.
+   Additional information about the MAMP PRO start page is in the [Hosts](..Services/Hosts/Apache) section.
 *  **Servers**  
    Starts or stops the currently selected web server and database services of MAMP PRO. MAMP PRO comes with both the            [Apache](../Servers-and-Services/Apache) and [Nginx](../Servers-and-Services/Nginx) web servers as well as the    [MySQL](../Servers-and-Services/MySQL) database server. 
 *  **Revert**  
