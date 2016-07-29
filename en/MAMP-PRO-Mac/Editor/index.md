@@ -8,6 +8,8 @@ language: en
 
 ## Editor
 
+Make changes to your scripts using the built in Editor. You can adjust the setting for your editor here.
+
+
 ![MAMP](Editor.png)
 
-This is your editor.
