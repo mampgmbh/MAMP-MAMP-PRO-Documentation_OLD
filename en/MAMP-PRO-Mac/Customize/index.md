@@ -12,7 +12,6 @@ Add your favorite short cuts the tool bar with the customize menu.
 
 ![MAMP](Customize.png)
 
-
 *  **Space**  
 
 *  **Flexible Space**  
@@ -20,46 +19,46 @@ Add your favorite short cuts the tool bar with the customize menu.
 *  **MAMP PRO**  
     Open the MAMP PRO website.
 
-### Webstart
-Open the Webstart page.
+*  **Webstart**  
+        Open the Webstart page.
 
-### Start/Stop Servers
-Start or stop the current active web and database servers.
+*  **Start/Stop Servers**  
+        Start or stop the current active web and database servers.
 
-### Previous View
-Revert to the previous screen on the main MAMP PRO window.
+*  **Previous View**  
+        Revert to the previous screen on the main MAMP PRO window.
 
-### Next View
-Return to the next view on the main MAMP PRO window.
+*  **Next View**  
+        Return to the next view on the main MAMP PRO window.
 
-##### Overview
-A preview of your current web pages.
+*  **Overview**  
+        A preview of your current web pages.
 
-### Summary
-A summary of your all of your host, language and server settings.
+*  **Summary**  
+        A summary of your all of your host, language and server settings.
 
-### Backup
-Backup tool for your host and database settings.
+*  **Backup**  
+        Backup tool for your host and database settings.
 
-### Add Host
-A short cut to the add host button.
+*  **Add Host**  
+        A short cut to the add host button.
 
-### Recent Hosts
-A dropdown list of your recent hosts.
+*  **Recent Hosts**  
+        A dropdown list of your recent hosts.
 
-### Templates
-Quick access to your template files.
+*  **Templates**  
+        Quick access to your template files.
 
-##### Logs
-A dropdown menu of all of your log files.
+*  **Logs**  
+        A dropdown menu of all of your log files.
 
-### Editor
-Open the MAMP PRO Editor.
+*  **Editor**  
+        Open the MAMP PRO Editor.
 
-### Prefs
-A short cut to your MAMP PRO prefences.
+*  **Prefs**  
+        A short cut to your MAMP PRO prefences.
 
-### Customize
-Open the Customize window.
+*  **Customize**  
+        Open the Customize window.
 
 
