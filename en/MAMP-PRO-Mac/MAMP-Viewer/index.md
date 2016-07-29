@@ -8,7 +8,7 @@ language: en
 
 ## MAMP Viewer
 
-Preview your work using the MAMP Viewer. 
+Preview your work using the MAMP Viewer available on iOS.
 
 ![MAMP](MAMPViewer.png)
 
