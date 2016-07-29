@@ -20,10 +20,10 @@ Check to activate Postfix. When activated Postfix will automatically start when 
 
 *  **Set domain of outgoing e-mails to**
 
-If you want to use the PHP function `mail()` for sending emails to your own email address (like mail@johndoe.com) you
-just need to open MAMP PRO, go to Server -> Postfix and add the value "johndoe.com" (without quotes and the according
-domain name) into the field "Domain of outgoing mail". Only if you want to send e-mail to others you will need to fill
-in the other fields. In this case make sure that your e-mail provider allows the use of a Smart host.
+   If you want to use the PHP function `mail()` for sending emails to your own email address (like mail@johndoe.com) you
+   just need to open MAMP PRO, go to Server -> Postfix and add the value "johndoe.com" (without quotes and the according
+   domain name) into the field "Domain of outgoing mail". Only if you want to send e-mail to others you will need to fill
+   in the other fields. In this case make sure that your e-mail provider allows the use of a Smart host.
 
 ---
 
@@ -42,12 +42,12 @@ in the other fields. In this case make sure that your e-mail provider allows the
     *  **Password**  
        Add the password for your email user account.  
 
-<div class="alert" role="alert">
-Note: Some providers do not allow Smart-Hosts, like Google Mail.
-</div>
+   <div class="alert" role="alert">
+   Note: Some providers do not allow Smart-Hosts, like Google Mail.
+   </div>
 
 ---
 
 *  **Path to Postfix log file**  
 
-More information on how to [Show your Postfix log file](../../How-Tos/#postfix_log) can be found in our How To section.
+   More information on how to [Show your Postfix log file](../../How-Tos/#postfix_log) can be found in our How To section.
