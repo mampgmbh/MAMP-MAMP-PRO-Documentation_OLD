@@ -19,7 +19,7 @@ When up upgrading to MAMP PRO 4 you will be asked to upgrade your data to MySQL 
 
  ![MAMP](UpgradeMySQLNotice.png)
  
-7. When the installation process is finished and you open MAMP PRO for the first time you prompted to upgrade your databases to MySQL 5.6. Click Upgrade to upgrade your databases. 
+7. When the installation process is finished and you open MAMP PRO for the first time you will be prompted to upgrade your databases to MySQL 5.6. Click Upgrade to upgrade your databases. 
 
 ![MAMP](UpgradeMySQL.png)
 
