@@ -12,9 +12,9 @@ Add your favorite short cuts the tool bar with the customize menu.
 
 ![MAMP](Customize.png)
 
-##### Space
+#### Space
 
-##### Flexible Space
+### Flexible Space
 
 ##### MAMP PRO
 Open the MAMP PRO website.
