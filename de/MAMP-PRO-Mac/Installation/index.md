@@ -17,9 +17,13 @@ MAMP PRO setzt Folgendes voraus:
 - Ein Mac mit 64-Bit-CPU (x64) von Intel.
 - Um mit MAMP PRO arbeiten zu können, müssen Sie mit einem Benutzerkonto angemeldet sein, das den Rechner verwalten darf. Überprüfen Sie dies unter Systemeinstellungen -> Benutzer und Gruppen.
 
----
 
-### Installation und Update von MAMP PRO
+<div class="alert" role="alert"> 
+Note: When upgrading to MAMP PRO 4 you will be asked to upgrade your MySQL data to version 5.6 . It is recommended you upgrade your data. A copy of your old MySQL 5.5.x data will be kept in  /Library/Application Support/appsolute/MAMP PRO/db/mysql .
+</div> 
+
+
+---
 
 
 - [New Install](Neu-Installation/)  
