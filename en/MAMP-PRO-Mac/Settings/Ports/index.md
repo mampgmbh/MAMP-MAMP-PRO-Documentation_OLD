@@ -34,5 +34,5 @@ The button `Set ports to 80, 443 & 3306` will set the ports to the value commonl
 *  **Stop servers at shutdown of MAMP PRO**  
    The services will be stopped automatically when MAMP PRO shuts down.
 
-*  **Delete log files at server startup**
+*  **Delete log files at server startup**  
    The log files will be emptied before startup of the services. That way only current entries will be in the log files.
