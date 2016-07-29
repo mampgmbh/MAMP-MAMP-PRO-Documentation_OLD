@@ -19,7 +19,7 @@ Apache options can be set for the selected virtual host in the table. These opti
        the content of the folder is displayed when this option is enabled. Without this option, nothing will be displayed
        or an error message will appear.
 
-    *  **Includes** 
+   *  **Includes**  
        Allows the use of Server Side Includes (SSI).
 
     *  **FollowSymLinks**  
