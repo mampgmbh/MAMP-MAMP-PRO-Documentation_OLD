@@ -18,7 +18,7 @@ Click on the folder icon to choose a document root. Use the right arrow button t
 
 ![MAMP](General.png)
 
-The document root is also known as the web root folder. MAMP PRO will automatically add an `index.php` file and a MAMP image to this location when Apache is restarted and the folder is empty.
+The document root is also known as the web root folder. MAMP PRO will automatically add an `index.php` file and a MAMP image to this location when your web server is restarted and the folder is empty.
 
 *  **Hosts Table**
 
@@ -45,7 +45,7 @@ The document root is also known as the web root folder. MAMP PRO will automatica
   ![MAMP](Browsers.png)
 
 *  **IP address**  
-   If this field is left empty or contains an `*` Apache will use one of the computer's IP addresses to access this host.
+   If this field is left empty or contains an `*` the web server will use one of the computer's IP addresses to access this host.
    If you want to choose which of the IP addresses should be associated with a host, then select it from the pop up menu.
 
 *  **Port#**  
@@ -106,15 +106,14 @@ The document root is also known as the web root folder. MAMP PRO will automatica
    The location of the documents (HTML/PHP files etc.) of a virtual host is called a document root.
 
 *  **Access Rights for Document Root Directory**  
-   For Apache to be able to access the files inside the document root folder and serve them to a web browser it needs          adequate rights.
-   If you use the user `www` to start Apache, then this user must have the right to access the files inside the document       root folder.
+   For the web server to be able to access the files inside the document root folder and serve them to a web browser it needs adequate rights.
+   If you use the user `www` to start your web server, then this user must have the right to access the files inside the document root folder.
    Typically this is not the case. You can either adapt the access rights or use the current Mac user to start Apache.
 
-   During the development phase of a site it is easier to use the current Mac user to start Apache.
+   During the development phase of a site it is easier to use the current Mac user to start your web server.
    The user `www` is generally only used on production servers.
 
-   If Apache is reporting "access denied" in its error log or parts of your web pages are missing this might be due to
-   access rights problems.
+   If your web server is reporting "access denied" in its error log or parts of your web pages are missing this might be due to access rights problems.
 
    The rights dialog of MAMP PRO looks complicated at first sight but is actually very powerful. Not only does it show you
    the access rights of the document root folder but also all the rights of all the subdirectories and files inside it.
