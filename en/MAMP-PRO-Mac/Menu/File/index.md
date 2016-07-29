@@ -54,7 +54,7 @@ Note: Edition errors in the templates of the configuration files can cause the s
      
 Export your current templates.
 
-### Import Template     
+### Import Template:    
 
 Import external templates.
      
