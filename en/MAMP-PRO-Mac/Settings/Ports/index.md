@@ -25,7 +25,7 @@ The button `Set ports to 80, 443 & 3306` will set the ports to the value commonl
    </div>
 
 *  **Start servers at system start**  
-   Apache and MySQL are started during startup of the OS, this means that the services are available before a user
+   Apache, Nginx and MySQL are started during startup of the OS, this means that the services are available before a user
    has logged into the system.
 
 *  **Start servers at startup of MAMP PRO**  
