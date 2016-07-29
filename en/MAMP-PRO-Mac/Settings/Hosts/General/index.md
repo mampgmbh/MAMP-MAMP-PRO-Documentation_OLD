@@ -22,15 +22,15 @@ The document root is also known as the web root folder. MAMP PRO will automatica
 
 *  **Hosts Table**
 
-The hosts table contains five columns. The first column contains your host name. The second column indicates which web server will host the file. 
+   The hosts table contains five columns. The first column contains your host name. The second column indicates which web server will host the file. 
 
-The third column indicates whether the host is active. If left unchecked, the host will not be active and cannot be viewed in a web browser.
+   The third column indicates whether the host is active. If left unchecked, the host will not be active and cannot be viewed in a web browser.
 
-The fourth column contains the php version that is used with host. The fifth column will display an icon of the Extra installed if an Extra is installed.
+   The fourth column contains the php version that is used with host. The fifth column will display an icon of the Extra installed if an Extra is installed.
 
-When your host page is functioning or at any other time you can save your host settings so you can go back to them at a later date. This serves as a backup in the case you make some server changes and discover your site is no longer accessible.
+   When your host page is functioning or at any other time you can save your host settings so you can go back to them at a later date. This serves as a backup in the case you make some server changes and discover your site is no longer accessible.
 
-![MAMP](HostSaveSettings.png)
+   ![MAMP](HostSaveSettings.png)
 
 ---
 
