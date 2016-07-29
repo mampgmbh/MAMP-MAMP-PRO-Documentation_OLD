@@ -12,9 +12,5 @@ language: de
 2. Öffnen Sie die geladene Datei MAMP_MAMP_PRO_4.0.pkg per Doppelklick
 3. Das Installationsprogramm wird Sie durch den Installationsprozess führen.
 
-<div class="alert" role="alert">
-Hinweis: Um MAMP PRO zu installieren, benötigen Sie Administratorrechte!
-</div>
-
 
 
