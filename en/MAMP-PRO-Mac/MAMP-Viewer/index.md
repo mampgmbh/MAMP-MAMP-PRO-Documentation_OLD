@@ -10,9 +10,9 @@ language: en
 
 In order to make your individual host visible in the MAMP Viewer you must activate it on the Hosts > Settings > General Tab [here](../Settings/Hosts/General) . Restart your servers to enable viewing in MAMP Viewer.
 
----
-
 ![MAMP](SetMAMPViewer.png)
+
+---
 
 Preview your work using the MAMP Viewer available on iOS.
 
