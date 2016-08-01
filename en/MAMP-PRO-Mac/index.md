@@ -2,7 +2,7 @@
 title: MAMP PRO (Mac) Documentation
 description: What is MAMP PRO
 layout: default-2
-product: MAMP PRoO Mac
+product: MAMP PRO Mac
 language: en
 ---
 
