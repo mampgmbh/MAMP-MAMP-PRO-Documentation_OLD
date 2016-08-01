@@ -2,7 +2,7 @@
 title: MAMP (Mac) Documentation
 description: 
 layout: default-2
-product: MAMP PRO Mac
+product: MAMP Mac
 language: en
 ---
 
