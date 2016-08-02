@@ -18,7 +18,7 @@ To use the MAMP, your system must meet the following requirements:
 
 ### Installing and upgrading
 
-1. Download MAMP from https://www.mamp.info.
+1. Download MAMP PRO from [www.mamp.info](https://www.mamp.info){:target="_blank"} .
 2. Double click on the file `MAMP_MAMP_PRO_4.0.pkg` in your Downloads folder.
 3. The System Installer will guide you through the installation process.
 4. If the installer detects a previous MAMP installation it will rename its `MAMP` folder to `MAMP_current_date`.
