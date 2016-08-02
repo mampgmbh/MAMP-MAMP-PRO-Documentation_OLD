@@ -1,6 +1,6 @@
 ---
 title: MAMP (Mac) Documentation
-description: What is MAMP PRO
+description: What is MAMP 
 layout: default-2
 product: MAMP Mac
 language: en
