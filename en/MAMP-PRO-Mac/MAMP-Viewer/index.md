@@ -16,7 +16,7 @@ In order to make your individual host visible in the MAMP Viewer you must activa
 
 Preview your work using the MAMP Viewer available on iOS.
 
-![MAMP](MAMPViewer.png)
+![MAMP](MAMPViewer.jpg)
 
 
 
