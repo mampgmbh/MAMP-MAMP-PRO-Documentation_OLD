@@ -16,6 +16,8 @@ To use the MAMP, your system must meet the following requirements:
 - Mac with 64-Bit CPU from Intel (x84)
 - User account that allows to administer the computer (Administrator)
 
+---
+
 ### Installing and upgrading
 
 1. Download MAMP PRO from [www.mamp.info](https://www.mamp.info){:target="_blank"} .
@@ -31,6 +33,8 @@ Note: You need administrator permissions to install MAMP!
 </div>
 
 When installing MAMP, an `/Applications/MAMP PRO` folder will be installed in addition to your `/Applications/MAMP` folder. You can ignore this folder if you choose not use MAMP PRO.
+
+---
 
 ### Uninstall
 
