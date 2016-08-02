@@ -2,8 +2,4 @@
 title: MAMP Dokumentation
 description: This is the MAMP Documentation
 ---
-{% include_relative Installation.md %}
-{% include_relative Erste-Schritte.md %}
-{% include_relative Einstellungen.md %}
-{% include_relative FAQ.md %}
-{% include_relative Anleitungen.md %}
+MAMP is the free version of MAMP PRO ... 
