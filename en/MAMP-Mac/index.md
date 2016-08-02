@@ -10,5 +10,6 @@ language: en
 
 MAMP installs a local server environment in a matter of seconds on your computer. It comes free of charge, and is easily installed.
 
+![MAMP](MAMP.png)
 
 
