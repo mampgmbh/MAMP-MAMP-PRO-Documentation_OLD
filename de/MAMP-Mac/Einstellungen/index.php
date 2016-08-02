@@ -1,4 +1,10 @@
-
+---
+title: MAMP (Mac) Documentation
+description: Einstellungen
+layout: default-2
+product: MAMP Mac
+language: de
+---
 
 ## Einstellungen
 
