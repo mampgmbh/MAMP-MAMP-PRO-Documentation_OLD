@@ -16,3 +16,6 @@ Ruby is a dynamic, reflective, object-oriented, general-purpose programming lang
 
 *  **Make Ruby directly available on the command line**  
    If you check this option, you can use this version of Ruby on the command line by just typing `ruby`.
+
+
+
