@@ -19,4 +19,7 @@ You can update several components directly through the MAMP PRO interface using 
 *  **phpMyAdmin**  
     Update your php ...
 
+*  **OpenSSL**  
+    Update your OpenSSL ...
+
 
