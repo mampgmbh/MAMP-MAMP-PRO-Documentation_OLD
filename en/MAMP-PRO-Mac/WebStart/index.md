@@ -37,7 +37,7 @@ To access the [phpInfo of each individual host](../Settings/Hosts/General#php_in
     You can use this ...
 
 *  **phpLiteAdmin**  
-    phpLiteAdmin is a web-based SQLite database admin tool written in PHP with support for SQLite3 and SQLite2. You can find more information about phpLiteAdmin here.
+    phpLiteAdmin is a web-based SQLite database admin tool written in PHP with support for SQLite3 and SQLite2. You can find more information about phpLiteAdmin [here](https://www.joomla.org){:target="_blank"}
 
 *  **APC**  
     You can also use this ...
