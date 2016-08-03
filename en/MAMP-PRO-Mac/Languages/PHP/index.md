@@ -42,7 +42,7 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
    *  **eAccelerator**  
          The Alteis a free open-source PHP accelerator & optimizer. You can learn more about eaccelerator [here](http://eaccelerator.net){:target="_blank"}.
    *  **XCache**  
-         The Alte
+         XCache is a open-source opcode cacher.
    *  **OPCache**  
          The Alte  
    
