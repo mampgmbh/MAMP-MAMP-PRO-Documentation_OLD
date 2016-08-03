@@ -45,7 +45,7 @@ To access the [phpInfo of each individual host](../Settings/Hosts/General#php_in
     eAccelerator is a free open-source PHP accelerator & optimizer. You can learn more about eaccelerator [here](http://eaccelerator.net){:target="_blank"}.
 
 *  **xCache**  
-    You can also use this ...[xcache](https://xcache.lighttpd.net){:target="_blank"}
+    XCache is a open-source opcode cacher. You can learn more about xCache [here](https://xcache.lighttpd.net){:target="_blank"}.
 
 *  **opCache**  
     You can also use this ... [opcache](http://php.net/manual/en/book.opcache.php){:target="_blank"}
