@@ -10,13 +10,13 @@ language: en
 
 You can update several components directly through the MAMP PRO interface using the In App Update screen. Quit and restart MAMP PRO when you are finished downloading a new component.
 
-*  **MAMP PRO**
-    Download an updated version of MAMP PRO
+*  **MAMP PRO**  
+    Update your php ...
 
 *  **PHP**  
     Update your php ...
 
-*  **phpMyAdmin**
-    Update your phpMyAdmin ...
+*  **phpMyAdmin**  
+    Update your php ...
 
 
