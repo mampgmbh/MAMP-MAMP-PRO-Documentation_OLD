@@ -12,7 +12,7 @@ The default MAMP PRO WebStart page provides links to access utilities such as ph
 
 ---
 
-## PHPInfo
+### PHPInfo
 
 PHPInfo provides general information about your php interpreter. Information including which extensions are included can be found using phpInfo.
 
@@ -24,7 +24,7 @@ To access the [phpInfo of each individual host](../Settings/Hosts/General#php_in
 
 ---
 
-## Tools
+### Tools
 
 *  **phpMyAdmin**  
 
@@ -32,9 +32,8 @@ phpMyAdmin is a web based database administrator. Your MAMP PRO instance of phpM
 
 `/Library/Application Support/appsolute/MAMP PRO/phpMyAdmin`.
 
-
 ---
 
-## Examples
+### Examples
 
 Several examples show how to connect to the MySQL database using [PHP](../Languages/PHP), [Python](../Languages/Python), [Perl](../Languages/Perl), [Ruby](../Languages/Ruby)
