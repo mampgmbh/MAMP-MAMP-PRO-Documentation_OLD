@@ -26,6 +26,7 @@ Note: When upgrading to MAMP PRO 4 you will be asked to upgrade your MySQL data 
 - [Upgrading From MAMP PRO 4.xx to MAMP PRO 4.xx](MAMP-PRO-4xx-4xx-Upgrade/)  
 - [Uprading From MAMP To MAMP PRO](MAMP-MAMP-PRO-Upgrade/)
 - [Uninstalling MAMP PRO](Uninstall/)
+- [Updating MAMP PRO](Updating/)
 
 
 
