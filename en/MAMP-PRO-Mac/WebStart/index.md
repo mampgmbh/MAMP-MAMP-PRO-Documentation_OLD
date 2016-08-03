@@ -39,6 +39,17 @@ To access the [phpInfo of each individual host](../Settings/Hosts/General#php_in
 *  **phpLiteAdmin**  
     You can also use this ...
 
+*  **APC**  
+    You can also use this ...
+
+*  **eAccelerator**  
+    You can also use this ...
+
+*  **xCache**
+    You can also use this ..
+
+*  **opCache**
+    You can also use this ..
 ---
 
 ### Examples
