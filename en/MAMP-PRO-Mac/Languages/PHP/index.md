@@ -39,7 +39,8 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
    *  **off**  
    *  **APC**  
          The Alternative PHP Cache (APC) is a free and open opcode cache for PHP. You can learn more about APC here{:target="_blank"}
-   *  **eAccelerator**  
+   *  **eAccelerator**
+         eAccelerator is a free open-source PHP accelerator & optimizer. You can learn more about eaccelerator [here](http://eaccelerator.net){:target="_blank"}.
    *  **XCache**  
    *  **OPCache**  
    
