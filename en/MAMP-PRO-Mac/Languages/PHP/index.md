@@ -38,7 +38,7 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
 
    *  **off**  
    *  **APC**
-         The Alternative PHP Cache (APC) is a free and open opcode cache for PHP. You can learn more about APC here{:target="_blank"}
+            The Alternative PHP Cache (APC) is a free and open opcode cache for PHP. You can learn more about APC here{:target="_blank"}
    *  **eAccelerator**  
    *  **XCache**  
    *  **OPCache**  
