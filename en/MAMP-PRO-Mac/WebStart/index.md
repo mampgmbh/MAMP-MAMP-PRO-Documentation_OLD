@@ -32,6 +32,13 @@ phpMyAdmin is a web based database administrator. Your MAMP PRO instance of phpM
 
 `/Library/Application Support/appsolute/MAMP PRO/phpMyAdmin`.
 
+
+*  **SQL Lite Manager**  
+    You can use this ...
+
+*  **phpLiteAdmin**  
+    You can also use this ...
+
 ---
 
 ### Examples
