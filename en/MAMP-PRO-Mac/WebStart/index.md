@@ -36,13 +36,13 @@ To access the [phpInfo of each individual host](../Settings/Hosts/General#php_in
     You can use this ...
 
 *  **phpLiteAdmin**  
-    phpLiteAdmin is a web-based SQLite database admin tool written in PHP with support for SQLite3 and SQLite2. You can find more information about phpLiteAdmin [here](https://www.joomla.org){:target="_blank"}
+    phpLiteAdmin is a web-based SQLite database admin tool written in PHP with support for SQLite3 and SQLite2. You can find more information about phpLiteAdmin [here](https://www.joomla.org){:target="_blank"}.
 
 *  **APC**  
-    The Alternative PHP Cache (APC) is a free and open opcode cache for PHP. You can learn more about APC [here](http://php.net/manual/en/book.apc.php){:target="_blank"}
+    The Alternative PHP Cache (APC) is a free and open opcode cache for PHP. You can learn more about APC [here](http://php.net/manual/en/book.apc.php){:target="_blank"}.
 
 *  **eAccelerator**  
-    You can also use this ...[eaccelerator](http://eaccelerator.net){:target="_blank"}
+    eAccelerator is a free open-source PHP accelerator & optimizer. You can learn more about eaccelerator [here](http://eaccelerator.net){:target="_blank"}.
 
 *  **xCache**  
     You can also use this ...[xcache](https://xcache.lighttpd.net){:target="_blank"}
