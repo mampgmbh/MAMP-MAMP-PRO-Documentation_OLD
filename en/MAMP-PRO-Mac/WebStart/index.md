@@ -32,7 +32,6 @@ To access the [phpInfo of each individual host](../Settings/Hosts/General#php_in
 
     `/Library/Application Support/appsolute/MAMP PRO/phpMyAdmin`.
 
-
 *  **SQL Lite Manager**  
     You can use this ...
 
@@ -40,7 +39,7 @@ To access the [phpInfo of each individual host](../Settings/Hosts/General#php_in
     phpLiteAdmin is a web-based SQLite database admin tool written in PHP with support for SQLite3 and SQLite2. You can find more information about phpLiteAdmin [here](https://www.joomla.org){:target="_blank"}
 
 *  **APC**  
-    You can also use this ...[APC](http://php.net/manual/en/book.apc.php){:target="_blank"}
+    The Alternative PHP Cache (APC) is a free and open opcode cache for PHP. You can learn more about APC [here](http://php.net/manual/en/book.apc.php){:target="_blank"}
 
 *  **eAccelerator**  
     You can also use this ...[eaccelerator](http://eaccelerator.net){:target="_blank"}
@@ -52,14 +51,6 @@ To access the [phpInfo of each individual host](../Settings/Hosts/General#php_in
     You can also use this ... [opcache](http://php.net/manual/en/book.opcache.php){:target="_blank"}
 
 ---
-
- 
-
-   
-
-   
-
-  
 
 ### Examples
 
