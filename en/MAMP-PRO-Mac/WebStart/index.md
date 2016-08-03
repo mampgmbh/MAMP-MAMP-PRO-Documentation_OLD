@@ -26,7 +26,7 @@ To access the [phpInfo of each individual host](../Settings/Hosts/General#php_in
 
 ### Tools
 
-## PHPMyAdmin
+*  **phpMyAdmin**  
 
 phpMyAdmin is a web based database administrator. Your MAMP PRO instance of phpMyAdmin can be accessed through a link in the WebStart page. The source files for this instance of phpMyAdmin are located in 
 
