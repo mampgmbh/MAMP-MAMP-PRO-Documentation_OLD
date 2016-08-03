@@ -8,4 +8,7 @@ language: en
 
 ## In App Updates
 
-You can update several components in MAMP PRO ...
+You can update several components directly through the MAMP PRO interface using the In App Update screen. Quit and restart MAMP PRO when you are finished downloading a new component.
+
+
+
