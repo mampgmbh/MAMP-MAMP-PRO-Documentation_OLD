@@ -39,16 +39,16 @@ To access the [phpInfo of each individual host](../Settings/Hosts/General#php_in
     phpLiteAdmin is a web-based SQLite database admin tool written in PHP with support for SQLite3 and SQLite2. You can find more information about phpLiteAdmin [here](https://www.joomla.org){:target="_blank"}.
 
 *  **APC**  
-    The Alternative PHP Cache (APC) is a free and open opcode cache for PHP. You can learn more about APC [here](http://php.net/manual/en/book.apc.php){:target="_blank"}.
+    The [Alternative PHP Cache](http://php.net/manual/en/book.apc.php){:target="_blank"} is a free and open opcode cache for PHP.
 
 *  **eAccelerator**  
-    eAccelerator is a free open-source PHP accelerator & optimizer. You can learn more about eaccelerator [here](http://eaccelerator.net){:target="_blank"}.
+    [eAccelerator](http://eaccelerator.net){:target="_blank"} is a free open-source PHP accelerator & optimizer.
 
 *  **XCache**  
-    XCache is a open-source opcode cacher. You can learn more about xCache [here](https://xcache.lighttpd.net){:target="_blank"}.
+    [XCache](https://xcache.lighttpd.net){:target="_blank"} is a open-source opcode cache.
 
 *  **OPCache**  
-    OPcache improves PHP performance by storing precompiled script bytecode in shared memory, thereby removing the need for PHP to load and parse scripts on each request. You can learn more about OPcache  [here](http://php.net/manual/en/book.opcache.php){:target="_blank"}.
+    [OPcache]http://php.net/manual/en/book.opcache.php){:target="_blank"} improves PHP performance by storing precompiled script bytecode in shared memory, thereby removing the need for PHP to load and parse scripts on each request.
 
 ---
 
