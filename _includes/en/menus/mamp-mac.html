@@ -1,6 +1,6 @@
 {% if page.product == "MAMP Mac" and page.language == "en" %}
 <ul class="no-bullets">
-	<li><a href="/en/MAMP-Mac/Installation/">Installation</a></li>
+	<li><a href="/en/MAMP-Mac/Installation/"{% if page_url contains "/en/MAMP-Mac/Installation/" %} class="current"{% endif %}>Installation</a></li>
 	<li><a href="/en/MAMP-Mac/First-Steps/">First-Steps</a></li>
 	<li><a href="/en/MAMP-Mac/Preferences/">Preferences</a></li>
 	<li><a href="/en/MAMP-Mac/FAQ/">FAQ</a></li>
