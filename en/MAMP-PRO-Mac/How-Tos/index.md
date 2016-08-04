@@ -316,9 +316,9 @@ my $link = DBI->connect(
    ![MAMP](SequelProDatabaseList.png)
 
 ---
-<a name="mamp_mamp_pro_upgrade"></a>
+<a name="upgrade_to_mamp_pro_missing_databases"></a>
 
-### <a name="upgrade_to_mamp_pro_missing_databases"></a>How To Transfer Your Databases From MAMP To MAMP PRO 
+### How To Transfer Your Databases From MAMP To MAMP PRO 
 
 1. Stop your servers and close any instances of MAMP and MAMP PRO.
 2. Open your Mac Finder and navigate to `/Library/application data/appsolute/MAMP PRO`.
