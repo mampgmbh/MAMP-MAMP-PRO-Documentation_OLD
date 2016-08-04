@@ -4,7 +4,11 @@
 			© Copyright 2004 - {{ site.time | date: '%Y' }} <a href="https://www.appsolute.de" target="_blank">appsolute GmbH</a>
 		</div>
 		<div class="col-xxs-12 col-xs-12 col-s-4 col-m-4 col-l-4 text-push">
-			<!-- -->
+			{% if page.language == "en" %}
+				<a href="/de/">deutsch</a>
+			{% elsif page.language == "de" %}
+				<a href="/en/">english</a>
+			{% endif %}
 		</div>
 	</div>
 </footer>
