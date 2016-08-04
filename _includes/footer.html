@@ -5,9 +5,17 @@
 		</div>
 		<div class="col-xxs-12 col-xs-12 col-s-4 col-m-4 col-l-4 text-push">
 			{% if page.language == "en" %}
-				<a href="/de/">deutsch</a>
+				{% if page.product == "MAMP Mac" %}
+					<a href="/de/MAMP-Mac/">deutsch</a>
+				{% elsif page.product == "MAMP PRO Mac" %}
+					<a href="/de/MAMP-PRO-Mac/">deutsch</a>
+				{% endif %}
 			{% elsif page.language == "de" %}
-				<a href="/en/">english</a>
+				{% if page.product == "MAMP Mac" %}
+					<a href="/en/MAMP-Mac/">deutsch</a>
+				{% elsif page.product == "MAMP PRO Mac" %}
+					<a href="/en/MAMP-PRO-Mac/">deutsch</a>
+				{% endif %}
 			{% endif %}
 		</div>
 	</div>
