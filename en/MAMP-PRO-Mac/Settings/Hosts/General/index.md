@@ -67,6 +67,8 @@ The document root is also known as the web root folder. MAMP PRO will automatica
    to this version (it is set to always use the standard version). The other 2 hosts will not be changed.
   
      ![MAMP](../../../Videos/MAMPtv.png) [Setting Your PHP Version in MAMP              PRO](https://www.youtube.com/watch?v=fsOWq9k_OAc){:target="_blank"}.
+     
+     
 
       *  **PHPInfo**
       
