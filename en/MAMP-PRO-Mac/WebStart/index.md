@@ -20,7 +20,7 @@ PHPInfo provides general information about your php interpreter. Information inc
 
 Your php.ini file directory location can be found through phpInfo. The php.ini file cannot be modified directly. Changes to the php.ini file must be made through the [template file](../Menu/File).
 
-To access the [phpInfo of each individual host](../Settings/Hosts/General#php_info) see the Settings > Hosts > General section.
+To access the [phpInfo of each individual host](../Settings/Hosts/General/#php_info_access_button) see the Settings > Hosts > General section.
 
 ---
 
