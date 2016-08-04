@@ -13,7 +13,7 @@ You can update several components directly through the MAMP PRO interface using 
 ![MAMP](Updates.png)
 
 *  **MAMP PRO**  
-    Upgrade You entire MAMP PRO installation. A MAMP_MAMP_PRO.pkg file will be downloaded to your Dowloads folder.
+    Upgrade your entire MAMP PRO installation. A MAMP_MAMP_PRO.pkg file will be downloaded to your Dowloads folder.
 
 *  **PHP**  
     Add an additional version of PHP.
