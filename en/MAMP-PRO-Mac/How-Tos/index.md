@@ -316,6 +316,7 @@ my $link = DBI->connect(
    ![MAMP](SequelProDatabaseList.png)
 
 ---
+<a name="mamp_mamp_pro_upgrade"></a>
 
 ### <a name="upgrade_to_mamp_pro_missing_databases"></a>How To Transfer Your Databases From MAMP To MAMP PRO 
 
