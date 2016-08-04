@@ -10,6 +10,8 @@ language: en
 
 You can update several components directly through the MAMP PRO interface using the In App Update screen. Quit and restart MAMP PRO when you are finished downloading a new component.
 
+![MAMP](Updates.png)
+
 *  **MAMP PRO**  
     Upgrade You entire MAMP PRO installation. A MAMP_MAMP_PRO.pkg file will be downloaded to your Dowloads folder.
 
