@@ -48,7 +48,7 @@ To access the [phpInfo of each individual host](../Settings/Hosts/General#php_in
     [XCache](https://xcache.lighttpd.net){:target="_blank"} is a open-source opcode cache.
 
 *  **OPCache**  
-    [OPcache]http://php.net/manual/en/book.opcache.php){:target="_blank"} improves PHP performance by storing precompiled script bytecode in shared memory, thereby removing the need for PHP to load and parse scripts on each request.
+    [OPcache](http://php.net/manual/en/book.opcache.php){:target="_blank"} improves PHP performance by storing precompiled script bytecode in shared memory, thereby removing the need for PHP to load and parse scripts on each request.
 
 ---
 
