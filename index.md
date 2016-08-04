@@ -5,13 +5,13 @@ layout: default-1
 ---
 
 - English
-    - [MAMP (Mac)](/MAMP-MAMP-PRO-Documentation/en/MAMP-Mac/)
-    - [MAMP PRO (Mac)](/MAMP-MAMP-PRO-Documentation/en/MAMP-PRO-Mac/)
-    - [MAMP (Windows)](/MAMP-MAMP-PRO-Documentation/en/MAMP-Windows/)
-    - [MAMP PRO (Windows)](/MAMP-MAMP-PRO-Documentation/en/MAMP-PRO-Windows/)
+    - [MAMP (Mac)](/en/MAMP-Mac/)
+    - [MAMP PRO (Mac)](/en/MAMP-PRO-Mac/)
+    - [MAMP (Windows)](/en/MAMP-Windows/)
+    - [MAMP PRO (Windows)](/en/MAMP-PRO-Windows/)
 - Deutsch
-    - [MAMP (Windows)](/MAMP-MAMP-PRO-Documentation/de/MAMP-Windows/)
-    - [MAMP PRO (Windows)](/MAMP-MAMP-PRO-Documentation/de/MAMP-PRO-Windows/)
+    - [MAMP (Windows)](/de/MAMP-Windows/)
+    - [MAMP PRO (Windows)](/de/MAMP-PRO-Windows/)
 
-{% comment %}    - [MAMP (Mac)](/MAMP-MAMP-PRO-Documentation/de/MAMP-Mac/){% endcomment %}
-{% comment %}    - [MAMP PRO (Mac)](/MAMP-MAMP-PRO-Documentation/de/MAMP-PRO-Mac/){% endcomment %}
+{% comment %}    - [MAMP (Mac)](/de/MAMP-Mac/){% endcomment %}
+{% comment %}    - [MAMP PRO (Mac)](/de/MAMP-PRO-Mac/){% endcomment %}
