@@ -13,7 +13,7 @@ language: en
 
 Overview allows quick access to preview websites. Overview can be added to the toolbar.
 
-![MAMP](Overview.png)
+![MAMP](Overview.jpg)
 
 ---
 
