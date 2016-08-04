@@ -68,7 +68,7 @@ The document root is also known as the web root folder. MAMP PRO will automatica
   
      ![MAMP](../../../Videos/MAMPtv.png) [Setting Your PHP Version in MAMP              PRO](https://www.youtube.com/watch?v=fsOWq9k_OAc){:target="_blank"}.
      
-     
+     <a name="php_info_access_button"></a> 
 
       *  **PHPInfo**
       
