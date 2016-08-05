@@ -8,7 +8,7 @@ language: en
 
 ## MAMP Viewer
 
-In order to make your individual host visible in the MAMP Viewer you must activate it on the Hosts > Settings > General Tab [here](../Settings/Hosts/General) . Restart your servers to enable viewing in MAMP Viewer.
+In order to make your individual host visible in the MAMP Viewer you must activate it on the [Hosts > Settings > General](../Settings/Hosts/General/#mamp_viewer) Tab  . Restart your servers to enable viewing in MAMP Viewer.
 
 ![MAMP](SetMAMPViewer.png)
 
