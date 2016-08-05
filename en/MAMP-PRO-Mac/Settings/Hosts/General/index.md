@@ -84,13 +84,14 @@ The document root is also known as the web root folder. MAMP PRO will automatica
 
 ---
 
+<a name="mamp_viewer"></a> 
+
 *  **Name resolution**  
    This will determine how your system will map host names to ip addresses.
 
     *  **via /etc/host file (this Mac only)**  
        The basic mapping mechanism which uses the the file `/etc/hosts`.
        
-<a name="mamp_viewer"></a> 
     *  **for "MAMP Viewer" (LAN only)**  
          Enable your host to be viewed on the MAMP Viewer.
 
