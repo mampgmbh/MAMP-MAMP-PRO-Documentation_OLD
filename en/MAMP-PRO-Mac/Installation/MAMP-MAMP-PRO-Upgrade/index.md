@@ -38,7 +38,7 @@ Your MAMP PRO database data are located in
 
 Problems can occur if you had previously demoed MAMP PRO and launched your servers. Your data was copied over then. You will be looking at an old copy of your database data if you have now decided to upgrade to MAMP PRO. 
 
-More information on how to [copy your databases from MAMP to MAMP PRO](../../How-Tos#upgrade_to_mamp_pro_missing_databases) can be found in our How To section.
+More information on how to [copy your databases from MAMP to MAMP PRO](../../How-Tos/#upgrade_to_mamp_pro_missing_databases) can be found in our How To section.
 
 ---
 
