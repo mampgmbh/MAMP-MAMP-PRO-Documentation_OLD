@@ -6,4 +6,4 @@ product: MAMP PRO Mac
 language: de
 ---
 
-## In App Updates
+## In-App Updates
