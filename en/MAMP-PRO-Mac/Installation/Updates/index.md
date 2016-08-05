@@ -19,7 +19,7 @@ You can update several components directly through the MAMP PRO interface using 
     Add an additional version of PHP.
 
 *  **phpMyAdmin**  
-    Update your phMyAdmin. Your existing phpMyAdmin will be updated.
+    Update your phpMyAdmin. Your existing phpMyAdmin will be updated.
 
 *  **OpenSSL**  
     Update your OpenSSL. Your existing instance of OpenSSL will be updated.
