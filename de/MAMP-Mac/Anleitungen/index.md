@@ -108,6 +108,8 @@ Das folgende Beispiel zeigt, wie man in PHP mittels der Funktion mysqli() eine V
  $mysqli->close();
 ?>`
 
+---
+
 <a name="upgrade_to_mamp_pro_missing_databases"></a>
 
 ### How To Transfer Your Databases From MAMP To MAMP PRO 
