@@ -89,7 +89,8 @@ The document root is also known as the web root folder. MAMP PRO will automatica
 
     *  **via /etc/host file (this Mac only)**  
        The basic mapping mechanism which uses the the file `/etc/hosts`.
-
+       
+<a name="mamp_viewer"></a> 
     *  **for "MAMP Viewer" (LAN only)**  
          Enable your host to be viewed on the MAMP Viewer.
 
@@ -99,7 +100,7 @@ The document root is also known as the web root folder. MAMP PRO will automatica
       
          <div class="alert" role="alert">
          Note: The Xip.io addresses will only work in your local network. They are temporary and may become invalid
-         if you restart your Mac. Also make sure that your Internet router is not blocking Xip.io calls by using a DNS               Rebind protection. If the router does this you can either deactivate this function, add Xip.io as an exception or           not use the router as DNS server in your Macs network settings.
+         if you restart your Mac. Also make sure that your Internet router is not blocking Xip.io calls by using a DNS     Rebind protection. If the router does this you can either deactivate this function, add Xip.io as an exception or not use the router as DNS server in your Macs network settings.
          </div>
       
          ![MAMP](../../../Videos/MAMPtv.png) [Viewing On Mobile                             Device](https://www.youtube.com/watch?v=sYHPYCDvU1Q){:target="_blank"}
