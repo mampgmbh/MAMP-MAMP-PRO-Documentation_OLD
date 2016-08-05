@@ -8,7 +8,7 @@ language: en
 
 ## Settings > Hosts > Extras
 
-MAMP PRO Extras allow you the ability to install a content management system in just a few clicks.
+With MAMP PRO Extras you can install a content management system in just a few clicks.
 
 ![MAMP](ExtrasPreview.png)
 
