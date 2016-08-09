@@ -41,7 +41,7 @@ When installing MAMP, an `/Applications/MAMP PRO` folder will be installed in ad
 5. Your existing "htdocs" folder will be moved to your new `/Applications/MAMP` folder.
 6. If you have not previously upgraded your database files to MySQL 5.6 you will receive a notification reminding you to upgrade.
 
-![MAMP](MAMP.png)
+![MAMP](UpgradeMessage.png)
 
 7. Make sure that all data has been transferred correctly before starting MAMP.
 8. Your `/Applications/MAMP_current_date` folder can now be deleted. You may however keep it, so you can fall back to your original setup.
