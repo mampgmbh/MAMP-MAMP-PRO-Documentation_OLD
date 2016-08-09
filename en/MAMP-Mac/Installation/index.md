@@ -32,7 +32,9 @@ When installing MAMP, an `/Applications/MAMP PRO` folder will be installed in ad
 
 ---
 
-### Upgrade From MAMP PRO 3
+### Upgrade From MAMP 3
+
+You should backup your database data before upgrading from MAMP 3 to MAMP 4. Your database data is located in  `/Applications/MAMP/db`
 
 1. Download MAMP PRO from [www.mamp.info](https://www.mamp.info){:target="_blank"} .
 2. Double click on the file `MAMP_MAMP_PRO_4.0.pkg` in your Downloads folder.
