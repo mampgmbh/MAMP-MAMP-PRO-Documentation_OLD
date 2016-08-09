@@ -18,7 +18,21 @@ To use the MAMP, your system must meet the following requirements:
 
 ---
 
-### Installing and upgrading
+### New Installation
+
+1. Download MAMP PRO from [www.mamp.info](https://www.mamp.info){:target="_blank"} .
+2. Double click on the file `MAMP_MAMP_PRO_4.0.pkg` in your Downloads folder.
+3. The System Installer will guide you through the installation process.
+
+<div class="alert" role="alert">
+Note: You need administrator permissions to install MAMP!
+</div>
+
+When installing MAMP, an `/Applications/MAMP PRO` folder will be installed in addition to your `/Applications/MAMP` folder. You can ignore this folder if you choose not use MAMP PRO.
+
+---
+
+### Upgrade From MAMP PRO 3
 
 1. Download MAMP PRO from [www.mamp.info](https://www.mamp.info){:target="_blank"} .
 2. Double click on the file `MAMP_MAMP_PRO_4.0.pkg` in your Downloads folder.
@@ -27,12 +41,6 @@ To use the MAMP, your system must meet the following requirements:
 5. Your existing "htdocs" folder will be moved to your new `/Applications/MAMP` folder.
 6. Make sure that all data has been transferred correctly before starting MAMP.
 7. Your `/Applications/MAMP_current_date` folder can now be deleted. You may however keep it, so you can fall back to your original setup.
-
-<div class="alert" role="alert">
-Note: You need administrator permissions to install MAMP!
-</div>
-
-When installing MAMP, an `/Applications/MAMP PRO` folder will be installed in addition to your `/Applications/MAMP` folder. You can ignore this folder if you choose not use MAMP PRO.
 
 ---
 
