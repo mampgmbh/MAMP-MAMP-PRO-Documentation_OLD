@@ -53,7 +53,7 @@ You should backup your database data before upgrading from MAMP 3 to MAMP 4. You
 
 After the installer is finished you will be prompted to immediately upgrade your MySQL data if you chose to do so. Press 'OK' to proceed with the upgrade.
 
-
+![MAMP](UpgradePreComplete.png)
 
 
 
