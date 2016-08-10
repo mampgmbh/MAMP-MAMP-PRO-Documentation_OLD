@@ -59,7 +59,7 @@ The MySQL database server is a popular database used on production servers. An i
 ---
 
 *  **Administer MySQL with**  
-   MAMP PRO comes pre-installed with several MySQL administration tools.
+   MAMP PRO comes pre-installed with phpMyAdmin. You will see a direct link to both Sequel Pro and MySQL Workbench on the MySQL tab if you install them.
 
     *  **phpMyAdmin** is a web-based administrational tool. It allows you to change data and perform administrative duties
        like creating new databases.
