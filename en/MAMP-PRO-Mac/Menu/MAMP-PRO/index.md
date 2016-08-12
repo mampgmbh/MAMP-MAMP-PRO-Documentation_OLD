@@ -19,7 +19,9 @@ Check your version number and MAMP PRO key.
 Register your MAMP PRO.
 
 ---
+
 <a name="check_for_udpates"></a> 
+
 ### Check for Updates ...
 
 Check for Updates checks for updated versions of the MAMP PRO application and individual components.
