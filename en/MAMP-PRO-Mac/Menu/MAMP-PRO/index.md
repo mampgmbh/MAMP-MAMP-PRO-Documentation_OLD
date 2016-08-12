@@ -26,14 +26,8 @@ Check for Updates checks for updated versions of the MAMP PRO application and in
 
 ![MAMP](Updates.png)
 
-*  **Open WebStart when starting MAMP PRO:**
-     Your default browser will bring up the web start page when MAMP PRO is launched.
-
-*  **My Favorite Link:**
-     Set the My Favorite Link on the Webstart page. This link appears at the top of the page.
-
-*  **My Favorite Link:**
-     Set the My Favorite Link on the Webstart page. This link appears at the top of the page
+*  **Name**  
+   The server name and port n
 
 ---
 
