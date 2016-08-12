@@ -17,6 +17,8 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
 *  **Default version**  
    Select which PHP version will be the default version. To view the [php template file](../../Menu/File) press the ![MAMP](../../First-Steps/BlackArrow.png) button. Additional versions of php can be downloaded by pressing the 'Plus' button.
 
+   ![MAMP](phpUpdates.png)
+
     *  **Make this version available on the command line**  
    Choose this to make the current version available on the command line.
 
