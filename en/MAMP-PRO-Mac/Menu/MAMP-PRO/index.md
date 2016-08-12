@@ -20,9 +20,9 @@ Register your MAMP PRO.
 
 ---
 
-### Check For Updates ...
+### Check for Updates ...
 
-Check MAMP PRO updates checks for updates to the MAMP PRO application and individual components.
+Check for Updates checks for updated versions of the MAMP PRO application and individual components.
 
 ![MAMP](Updates.png)
 
