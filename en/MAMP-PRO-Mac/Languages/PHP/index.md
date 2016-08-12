@@ -15,9 +15,10 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
 ---
 
 *  **Default version**  
-   Select which PHP version will be the default version.  
+   Select which PHP version will be the default version. To view the [template file](../../Menu/File) press the 'Arrow' button. Additional versions of php can be downloaded by pressing the 'Plus' button.
 
     *  **Make this version available on the command line**  
+   Choose this to make the current version available on the command line.
 
 ---
 
