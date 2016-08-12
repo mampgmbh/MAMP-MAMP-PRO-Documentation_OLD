@@ -52,6 +52,8 @@ The document root is also known as the web root folder. MAMP PRO will automatica
    Determine the port with which the virtual host is accessible. Valid values are from 1 to 65535.
    In most cases the preset value does not need to be changed.
 
+<a name="setting_php_version"></a> 
+
 *  **PHP Version**  
    Determine which version of PHP a host will use. This can only be set when Individual PHP version
    for every host (CGI) is set in the PHP section of MAMP PRO.
