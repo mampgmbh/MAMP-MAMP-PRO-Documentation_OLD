@@ -14,16 +14,15 @@ Check your version number and MAMP PRO key.
 
 ---
 
+### Register MAMP PRO
+
+Register your MAMP PRO.
+
 ### Check For Updates ...
 
 Check MAMP PRO updates checks for updates to the MAMP PRO application and individual components.
 
 ![MAMP](Updates.png)
-
-
-
-
-
 
 ---
 
