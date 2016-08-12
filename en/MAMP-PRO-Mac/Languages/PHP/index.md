@@ -15,7 +15,7 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
 ---
 
 *  **Default version**  
-   Select which PHP version will be the default version. To view the [template file](../../Menu/File) press the ![MAMP](../../First-Steps/BlackArrow.png) button. Additional versions of php can be downloaded by pressing the 'Plus' button.
+   Select which PHP version will be the default version. To view the [php template file](../../Menu/File) press the ![MAMP](../../First-Steps/BlackArrow.png) button. Additional versions of php can be downloaded by pressing the 'Plus' button.
 
     *  **Make this version available on the command line**  
    Choose this to make the current version available on the command line.
@@ -25,7 +25,8 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
 *  **Mode**  
    Choose whether to use identical PHP versions for all hosts (module mode) or on a host by host basis (CGI mode).  
 
-    *  **Identical PHP version for all hosts (module mode)**
+    *  **Identical PHP versions for all hosts (module mode)**  
+       In module mode all hosts use the same PHP version.
     *  **Individual PHP version for every host (CGI mode)**  
        In CGI Mode the PHP settings will be identical for all hosts – except for the PHP version.
        Navigate to the Hosts section to change the PHP version for each individual host.
@@ -37,7 +38,8 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
    PHP has several cache extensions that can help speed up execution in certain circumstances.
    This is set to "off" by default. Enabling a cache extension does not necessarily translate into greater execution speed.     A particular cache is not available for the current PHP version if it is not enabled.  
 
-   *  **off**  
+    *  **off**  
+         No cache will be used.
    *  **APC**  
          The Alternative PHP Cache (APC) is a free and open opcode cache for PHP. You can learn more about APC here{:target="_blank"}
    *  **eAccelerator**  
@@ -49,7 +51,7 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
    
    ![MAMP](cache.png) 
    
-   Several caches provide a user interface to help analyze and profile your code. Press the Arrow button to the right of the cache name to view this interface. An interface is not available if the Arrow button is not enabled.
+   Several caches provide a user interface to help analyze and profile your code. Press the ![MAMP](../../First-Steps/BlackArrow.png) button to the right of the cache name to view this interface. An interface is not available if the Arrow button is not enabled.
 
 ---
 
