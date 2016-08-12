@@ -32,7 +32,7 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
     *  **Individual PHP version for every host (CGI mode)**  
        In CGI Mode the PHP settings will be identical for all hosts – except for the PHP version.
        Navigate to the Hosts section to change the PHP version for each individual host.
-       More information on how to [change the PHP version for an individual host](../../Settings/Hosts/General#setting_php_version) is covered in the Settings > Hosts > General section.  
+       More information on how to [change the PHP version for an individual host](../../Settings/Hosts/General/#setting_php_version) is covered in the Settings > Hosts > General section.  
 
 ---
 
@@ -43,7 +43,7 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
     *  **off**  
          No cache will be used.
    *  **APC**  
-         The Alternative PHP Cache (APC) is a free and open opcode cache for PHP. You can learn more about APC here{:target="_blank"}
+         The Alternative PHP Cache (APC) is a free and open opcode cache for PHP. You can learn more about APC [here]{:target="_blank"}
    *  **eAccelerator**  
          eAccelerator a free open-source PHP accelerator & optimizer. You can learn more about eaccelerator [here](http://eaccelerator.net){:target="_blank"}.
    *  **XCache**  
