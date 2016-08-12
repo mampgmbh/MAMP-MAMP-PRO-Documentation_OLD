@@ -14,9 +14,16 @@ Check your version number and MAMP PRO key.
 
 ---
 
-### Check For Updates
+### Check For Updates ...
 
-Check MAMP PRO updates checks for updates to the MAMP PRO application. It does not check for new versions of individual components.
+Check MAMP PRO updates checks for updates to the MAMP PRO application and individual components.
+
+![MAMP](Updates.png)
+
+
+
+
+
 
 ---
 
