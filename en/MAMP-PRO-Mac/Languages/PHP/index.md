@@ -15,7 +15,7 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
 ---
 
 *  **Default version**  
-   Select which PHP version will be the default version. To view the [template file](../../Menu/File) press the 'Arrow' button. Additional versions of php can be downloaded by pressing the 'Plus' button.
+   Select which PHP version will be the default version. To view the [template file](../../Menu/File) press the ![MAMP](../../FirstSteps/BlackArrow.png) button. Additional versions of php can be downloaded by pressing the 'Plus' button.
 
     *  **Make this version available on the command line**  
    Choose this to make the current version available on the command line.
@@ -41,7 +41,7 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
    *  **APC**  
          The Alternative PHP Cache (APC) is a free and open opcode cache for PHP. You can learn more about APC here{:target="_blank"}
    *  **eAccelerator**  
-         The Alteis a free open-source PHP accelerator & optimizer. You can learn more about eaccelerator [here](http://eaccelerator.net){:target="_blank"}.
+         eAccelerator a free open-source PHP accelerator & optimizer. You can learn more about eaccelerator [here](http://eaccelerator.net){:target="_blank"}.
    *  **XCache**  
          XCache is a open-source opcode cacher. You can learn more about xCache [here](https://xcache.lighttpd.net){:target="_blank"}.
    *  **OPCache**  
