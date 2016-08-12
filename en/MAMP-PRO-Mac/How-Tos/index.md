@@ -76,6 +76,7 @@ The MySQL server of MAMP PRO uses the Default Storage Engine MyISAM. If you want
 11. Start the MAMP PRO servers.
 
 ---
+
 <a name="postfix_log"></a> 
 
 ### Show the Postfix log file With a text editor 
