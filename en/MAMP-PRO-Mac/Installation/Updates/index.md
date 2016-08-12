@@ -8,9 +8,9 @@ language: en
 
 ## In-App Updates
 
-You can update several components directly through the MAMP PRO interface using the In App Update screen. Quit and restart MAMP PRO when you are finished downloading a new component.
+You can update several components directly through the MAMP PRO interface using Updates. To update MAMP PRO, phpMyAdmin, OpenSSL and more go to [MAMP PRO > Check for Updates ...](../Menu/index)
 
-![MAMP](Updates.png)
+You can install additional versions of php versions directly from the [PHP tab](../Languages/PHP).
 
 
 
