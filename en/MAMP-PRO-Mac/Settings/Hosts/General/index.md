@@ -40,7 +40,7 @@ The document root is also known as the web root folder. MAMP PRO will automatica
    but it may not begin or end with a "-" character.
    Names are not case-sensitive (upper and lower-case letters are not distinguished.)
 
-   If the servers are running you can use the right arrow button to open a host in your web browser.
+   If the servers are running you can use the ![MAMP](../../../First-Steps/BlackArrow.png) button to open a host in your web browser.
 
   ![MAMP](Browsers.png)
 
