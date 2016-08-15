@@ -47,6 +47,8 @@ e.g. http://localhost:8888
 
 What appears in your browser window thereafter may be shortened to localhost depending on the browser settings.
 
+You can open up your localhost or additional hosts through the MAMP PRO interface. With your host highlighted, press the Arrow button on the Hosts > General tab.
+
 ---
 
 ### Changes to my php.ini file and/or my httpd.conf file are not showing up when I restart MAMP PRO.
