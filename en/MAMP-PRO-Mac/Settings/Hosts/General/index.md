@@ -14,7 +14,7 @@ The name of a host (server name) must be unique, often it's practical to use a r
 
 To create a new host press the `Plus` button at the bottom left of the screen. Replace the default host name. The second required field to complete the setup of a new host is a location for its files document root.   
 
-Click on the folder icon to choose a document root. Use the right arrow button to open the folder in the Finder.
+Click on the folder icon to choose a document root. Use the ![MAMP](../../../First-Steps/BlackArrow.png) button to open the folder in the Finder.
 
 ![MAMP](General.png)
 
