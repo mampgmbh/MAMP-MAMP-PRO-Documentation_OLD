@@ -86,10 +86,12 @@ Make a backup of all your host settings and/or database files.
 
 Restore your backed up files.
 
+![MAMP](Restore.png)
+
 <div class="alert" role="alert">
 Note: Restoring your backed up files can potentially overwrite your current host and database files. Back up your current host and database files before restoring from a backup. 
 </div>
 
-![MAMP](Restore.png)
+
 
 
