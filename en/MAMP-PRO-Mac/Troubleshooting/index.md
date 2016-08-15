@@ -47,7 +47,7 @@ e.g. http://localhost:8888
 
 What appears in your browser window thereafter may be shortened to localhost depending on the browser settings.
 
-You can open up your localhost or additional hosts through the MAMP PRO interface. With your host highlighted, press the ![MAMP](../First-Steps/BlackArrow.png) button button on the Hosts > General tab.
+You can open up your localhost or additional hosts through the MAMP PRO interface. With your host highlighted, press the ![MAMP](../First-Steps/BlackArrow.png) button button on the [Hosts > General](../Settings/Hosts/General) tab.
 
 ---
 
