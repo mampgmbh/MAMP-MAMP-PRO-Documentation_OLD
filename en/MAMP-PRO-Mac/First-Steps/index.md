@@ -53,3 +53,5 @@ Your default host for MAMP PRO is `localhost`. The files for localhost are initi
 ![MAMP](info.png) Provide more information, including phpInfo().
 
 ![MAMP](RedArrow.png) Indicates that information is missing.
+
+![MAMP](Plus.png) Add a new PHP version.
