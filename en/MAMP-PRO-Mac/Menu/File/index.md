@@ -78,13 +78,13 @@ Importing templates made in a different version of MAMP PRO may cause some confi
 
 ### Backup…:
 
-Make a backup of all your host settings and/or database files.
+Make a backup of all your host settings, host and database files.
 
 ![MAMP](Backup.png)
      
 ### Restore From Backup:
 
-Restore your backed up files.
+Restore files from a previous backup.
 
 ![MAMP](Restore.png)
 
