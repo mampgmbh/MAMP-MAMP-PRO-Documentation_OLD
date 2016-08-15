@@ -34,6 +34,8 @@ The document root is also known as the web root folder. MAMP PRO will automatica
 
 ---
 
+<a name="open_host"></a>
+
 *  **Name**  
    The server name and port number in combination must be unique within MAMP PRO.
    The host name may only contain letters and/or numbers, as well as dashes ("-");
