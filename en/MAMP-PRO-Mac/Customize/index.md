@@ -32,7 +32,7 @@ Add your favorite short cuts the tool bar with the customize menu.
         Return to the next view on the main MAMP PRO window.
 
 *  **Overview**  
-        A [preview](../Menu/Window) of your current web pages.
+        A [preview](../Menu/Window#preview) of your current web pages.
 
 *  **Summary**  
         A [summary](../Menu/Window) of your all of your host, language and server settings.
