@@ -74,9 +74,9 @@ Importing templates made in a different version of MAMP PRO may cause some confi
 
      Setting 2 will reset all your host and server settings back to default, including setting your ports back to 80, 440, 3306, and your Apache User/MySQL User to www/mysql.
 
----
-
 <a name="backup"></a> 
+
+---
 
 ### Backup…:
 
