@@ -76,6 +76,8 @@ Importing templates made in a different version of MAMP PRO may cause some confi
 
 ---
 
+<a name="backup"></a> 
+
 ### Backup…:
 
 Make a backup of all your host settings, host and database files.
