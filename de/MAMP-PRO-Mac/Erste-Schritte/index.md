@@ -28,9 +28,6 @@ Der Standard-Host für MAMP PRO lautet localhost. Die Dateien für localhost wer
 *  **MAMP PRO**  
    [https://mamp.info](https://www.mamp.info){:target="_blank"} Webseite öffnen.
 
-*  **Webstart** 
-   Öffnet die MAMP PRO Startseite Ihres lokalen Webservers. Zusätzliche Informationen zu WebStart finden Sie im Abschnitt 2. Hosts.
-
 *  **Webstart**  
    Öffnet die MAMP PRO Startseite Ihres lokalen Webservers. Zusätzliche Informationen zu WebStart finden Sie im Abschnitt 2. Hosts.
 
