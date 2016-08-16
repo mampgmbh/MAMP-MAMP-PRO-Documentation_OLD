@@ -25,6 +25,9 @@ Der Standard-Host für MAMP PRO lautet localhost. Die Dateien für localhost wer
 *  **Ausstattung** 
    Sonder Ausstattung. Additional information about the toolbar can be found in the [Customize](../Customize/) section.
 
+*  **Ausstattung**  
+   Sonder Ausstattung. Additional information about the toolbar can be found in the [Customize](../Customize/) section.
+
 *  **MAMP PRO**  
    [https://mamp.info](https://www.mamp.info){:target="_blank"} Webseite öffnen.
 
