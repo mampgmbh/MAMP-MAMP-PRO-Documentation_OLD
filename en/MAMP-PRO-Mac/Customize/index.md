@@ -38,7 +38,7 @@ Add your favorite short cuts the tool bar with the customize menu.
         A [summary](../Menu/Window/#summary) of your all of your host, language and server settings.
 
 *  **Backup**  
-        [Backup tool](../Menu/File/#backup) for your host and database settings.
+        The [Backup tool](../Menu/File/#backup) for your host and database settings.
 
 *  **Add Host**  
         A short cut to the add host button.
