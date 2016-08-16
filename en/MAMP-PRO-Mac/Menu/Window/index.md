@@ -9,6 +9,8 @@ language: en
 ##  Window
 
 
+<a name="overview"></a> 
+
 ### Overview
 
 Overview allows quick access to preview websites. Overview can be added to the toolbar.
@@ -32,6 +34,8 @@ Use your scrap pad to paste notes or code for later use. The Scrap Pad can be ad
 ![MAMP](ScrapPad.png)
 
 ---
+
+<a name="summary"></a>
 
 ### Summary
 
