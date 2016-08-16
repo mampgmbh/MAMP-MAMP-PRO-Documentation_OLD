@@ -20,7 +20,7 @@ Add your favorite short cuts the tool bar with the customize menu.
     Open the MAMP PRO website.
 
 *  **Webstart**  
-        Open the Webstart page.
+        Open the [WebStart](../WebStart) page.
 
 *  **Start/Stop Servers**  
         Start or stop the current active web and database servers.
@@ -32,13 +32,13 @@ Add your favorite short cuts the tool bar with the customize menu.
         Return to the next view on the main MAMP PRO window.
 
 *  **Overview**  
-        A preview of your current web pages.
+        A [preview](../WebStart) of your current web pages.
 
 *  **Summary**  
-        A summary of your all of your host, language and server settings.
+        A [summary](../WebStart) of your all of your host, language and server settings.
 
 *  **Backup**  
-        Backup tool for your host and database settings.
+        [Backup tool](../WebStart) for your host and database settings.
 
 *  **Add Host**  
         A short cut to the add host button.
@@ -47,13 +47,13 @@ Add your favorite short cuts the tool bar with the customize menu.
         A dropdown list of your recent hosts.
 
 *  **Templates**  
-        Quick access to your template files.
+        Quick access to your [template files](../WebStart).
 
 *  **Logs**  
         A dropdown menu of all of your log files.
 
 *  **Editor**  
-        Open the MAMP PRO Editor.
+        Open the MAMP PRO [Editor](../WebStart).
 
 *  **Prefs**  
         A short cut to your MAMP PRO prefences.
