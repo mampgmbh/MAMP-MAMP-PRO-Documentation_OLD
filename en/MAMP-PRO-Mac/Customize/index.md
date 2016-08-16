@@ -17,7 +17,7 @@ Add your favorite short cuts the tool bar with the customize menu.
 *  **Flexible Space**  
 
 *  **MAMP PRO**  
-    Open the MAMP PRO website.
+    Open [https://mamp.info](https://www.mamp.info){:target="_blank"}.
 
 *  **Webstart**  
         Open the [WebStart](../WebStart) page.
