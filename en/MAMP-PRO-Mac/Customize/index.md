@@ -38,7 +38,7 @@ Add your favorite short cuts the tool bar with the customize menu.
         A [summary](../Menu/Window#summary) of your all of your host, language and server settings.
 
 *  **Backup**  
-        [Backup tool](../Menu/MAMP-PRO) for your host and database settings.
+        [Backup tool](../Menu/MAMP-PRO#backup) for your host and database settings.
 
 *  **Add Host**  
         A short cut to the add host button.
@@ -56,7 +56,7 @@ Add your favorite short cuts the tool bar with the customize menu.
         Open the MAMP PRO [Editor](../Editor).
 
 *  **Prefs**  
-        A short cut to your MAMP PRO [prefences](../Menu/MAMP-PRO).
+        A short cut to your MAMP PRO [prefences](../Menu/MAMP-PRO#preferences).
 
 *  **Customize**  
         Open the Customize window.
