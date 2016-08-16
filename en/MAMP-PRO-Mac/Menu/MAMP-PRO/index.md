@@ -39,6 +39,8 @@ Check for Updates checks for updated versions of the MAMP PRO application and in
 
 ---
 
+<a name="preferences"></a>
+
 ### Preferences…
 
 ![MAMP](Preferences.png)
