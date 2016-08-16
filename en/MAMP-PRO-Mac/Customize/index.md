@@ -32,13 +32,13 @@ Add your favorite short cuts the tool bar with the customize menu.
         Return to the next view on the main MAMP PRO window.
 
 *  **Overview**  
-        A [preview](../WebStart) of your current web pages.
+        A [preview](../Menu/Window) of your current web pages.
 
 *  **Summary**  
         A [summary](../Menu/Window) of your all of your host, language and server settings.
 
 *  **Backup**  
-        [Backup tool](../Menu/MAMP) for your host and database settings.
+        [Backup tool](../Menu/MAMP-PRO) for your host and database settings.
 
 *  **Add Host**  
         A short cut to the add host button.
