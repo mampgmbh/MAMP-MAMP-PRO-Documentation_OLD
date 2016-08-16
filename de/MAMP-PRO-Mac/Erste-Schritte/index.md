@@ -25,16 +25,19 @@ Der Standard-Host für MAMP PRO lautet localhost. Die Dateien für localhost wer
 *  **Ausstattung** 
    Sonder Ausstattung. Additional information about the toolbar can be found in the [Customize](../Customize/) section.
 
-*  **MAMP PRO** 
+*  **MAMP PRO**  
    [https://mamp.info](https://www.mamp.info){:target="_blank"} Webseite öffnen.
 
 *  **Webstart** 
    Öffnet die MAMP PRO Startseite Ihres lokalen Webservers. Zusätzliche Informationen zu WebStart finden Sie im Abschnitt 2. Hosts.
 
-*  **Editor** 
+*  **Webstart**  
+   Öffnet die MAMP PRO Startseite Ihres lokalen Webservers. Zusätzliche Informationen zu WebStart finden Sie im Abschnitt 2. Hosts.
+
+*  **Editor**  
    [Editor](../Editor/) öffnen.
 
-*  **Servers**
+*  **Servers**  
    Die Statusanzeige rechts oben zeigt an, welche Dienste derzeit gestartet sind ([Apache](../Servers-and-Services/Apache), [Nginx](../Servers-and-Services/Nginx), [MySQL](../Servers-and-Services/MySQL), Dynamic DNS).
 
 *  **Revert**  
