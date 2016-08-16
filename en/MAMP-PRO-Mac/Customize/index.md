@@ -35,10 +35,10 @@ Add your favorite short cuts the tool bar with the customize menu.
         A [preview](../WebStart) of your current web pages.
 
 *  **Summary**  
-        A [summary](../WebStart) of your all of your host, language and server settings.
+        A [summary](../Menu/Window) of your all of your host, language and server settings.
 
 *  **Backup**  
-        [Backup tool](../WebStart) for your host and database settings.
+        [Backup tool](../Menu/MAMP) for your host and database settings.
 
 *  **Add Host**  
         A short cut to the add host button.
@@ -47,13 +47,13 @@ Add your favorite short cuts the tool bar with the customize menu.
         A dropdown list of your recent hosts.
 
 *  **Templates**  
-        Quick access to your [template files](../WebStart).
+        Quick access to your [template files](../Menu/File).
 
 *  **Logs**  
         A dropdown menu of all of your log files.
 
 *  **Editor**  
-        Open the MAMP PRO [Editor](../WebStart).
+        Open the MAMP PRO [Editor](../Editor).
 
 *  **Prefs**  
         A short cut to your MAMP PRO prefences.
