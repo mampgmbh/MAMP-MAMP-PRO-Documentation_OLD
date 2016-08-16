@@ -56,7 +56,7 @@ Add your favorite short cuts the tool bar with the customize menu.
         Open the MAMP PRO [Editor](../Editor).
 
 *  **Prefs**  
-        A short cut to your MAMP PRO prefences.
+        A short cut to your MAMP PRO [prefences](../Menu/MAMP-PRO).
 
 *  **Customize**  
         Open the Customize window.
