@@ -20,7 +20,7 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
    ![MAMP](phpUpdates.png)
    
    <div class="alert" role="alert">
-      To remove unneeded PHP versions simply stop your servers, quit MAMP PRO, and remove your /Applications/MAMP/bin/php directory.
+      Note: To remove unneeded PHP versions simply stop your servers, quit MAMP PRO, and remove your /Applications/MAMP/bin/php/phpX.XX directory, where X.XX is the version of PHP you want removed.
    </div>
 
     *  **Make this version available on the command line**  
