@@ -35,11 +35,14 @@ Note: To use the Dynamic DNS functions, you will need to register with one of th
 
 *  **Account data for service**  
 
-    *  **User name**  
+    *  **User name:**  
        Enter the user name that was given to you by the provider of the Dynamic DNS Service.  
 
-    *  **Password**  
-       Enter the password that was given to you by the provider of the Dynamic DNS Service.  
+    *  **Password:**  
+       Enter the password that was given to you by the provider of the Dynamic DNS Service.
+       
+    *  **Server:**  
+       Enter the server name ... .  
 
 ---
 
