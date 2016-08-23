@@ -12,9 +12,9 @@ The Apache Server is a popular web server used in production environments. An in
 
 ![MAMP](Apache.png)
 
-*  **Include Apache server in GroupStart **  
+*  **Include Apache server in GroupStart**  
 
-    Check to activate the Apache Server. When activated Apache will automatically start when the Servers button is pressed.
+    Check to the Apache Server in the GroupStart. When activated Apache will automatically start when the Servers button is pressed.
 
 ---
 
