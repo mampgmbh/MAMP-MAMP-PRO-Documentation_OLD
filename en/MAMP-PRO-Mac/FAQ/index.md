@@ -185,15 +185,15 @@ Click on the following links for further information on
    
    [PrestaShop](https://www.prestashop.com){:target="_blank"}
    
-   *  **Dynamic DNS Providers** 
+   *  **Content Management Systems** 
    
    [DNS-O-Matic](https://dnsomatic.com){:target="_blank"} 
    
-   [no-ip.com](https://no-ip.com){:target="_blank"}    
+   [no-ip](https://no-ip.com){:target="_blank"}    
    
-   [dyn.com](https://dyn.com){:target="_blank"} 
+   [dyn](https://dyn.com){:target="_blank"} 
    
-   [easydns.com](https://easydns.com){:target="_blank"}
+   [easydns](https://easydns.com){:target="_blank"}
    
    
 
