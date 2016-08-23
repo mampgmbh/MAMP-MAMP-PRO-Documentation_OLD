@@ -33,7 +33,9 @@ Note: To use the Dynamic DNS functions, you will need to register with one of th
 
 ---
 
-*  **Account data for service**  
+*  **Account data for service**
+
+      Select the tab view of dynamic dns service provider when you have an account with [DNS-O-Matic](https://dnsomatic.com){:target="_blank"}, [no-ip.com](https://no-ip.com){:target="_blank"}, [dyn.com](https://dyn.com){:target="_blank"}, or [easydns.com](https://easydns.com){:target="_blank"}. Select the Generic tab for all other dynamic dns service providers.
 
     *  **User name:**  
        Enter the user name that was given to you by the provider of the Dynamic DNS Service.  
