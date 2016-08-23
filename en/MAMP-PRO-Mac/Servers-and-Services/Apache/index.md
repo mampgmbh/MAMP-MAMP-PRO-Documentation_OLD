@@ -14,7 +14,7 @@ The Apache Server is a popular web server used in production environments. An in
 
 *  **Include Apache server in GroupStart**  
 
-    Check to the Apache Server in the GroupStart. When activated Apache will automatically start when the Servers button is pressed.
+    Check to the Apache Server in the GroupStart. When activated Apache will automatically start/stop when the Servers button is pressed.
 
 ---
 
