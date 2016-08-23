@@ -185,7 +185,8 @@ Click on the following links for further information on
    
    [PrestaShop](https://www.prestashop.com){:target="_blank"}
    
-   *  **Database Administration**
+   
+*  **DNS Providers**
    
    [DNS-O-Matic](https://dnsomatic.com){:target="_blank"} 
    
