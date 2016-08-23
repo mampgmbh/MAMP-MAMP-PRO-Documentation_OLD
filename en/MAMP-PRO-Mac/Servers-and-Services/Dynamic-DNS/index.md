@@ -49,4 +49,4 @@ Note: To use the Dynamic DNS functions, you will need to register with one of th
 ---
 
 *  **Path to Dynamic DNS log file**  
-      All the events of the Dynamic DNS service will be recorded in a log file.
+      Events from the Dynamic DNS service will be recorded in a log file.
