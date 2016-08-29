@@ -17,5 +17,3 @@ Note: Using the uninstaller in /Applications/MAMP PRO will remove your databases
 ![MAMP](Uninstaller.png)
 
 Drag the `/Applications/MAMP` folder to the `Trash` to complete uninstallation.
-
-![MAMP](../../Videos/MAMPtv.png) [Uninstalling MAMP PRO](https://www.youtube.com/watch?v=Sjpdcnp92bY){:target="_blank"}
