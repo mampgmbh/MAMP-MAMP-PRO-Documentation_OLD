@@ -19,12 +19,8 @@ When up upgrading to MAMP PRO 4 you will be asked to upgrade your data to MySQL 
 
 ![MAMP](UpgradeMySQLNotice.png)
 
-When the installation process is finished and you open MAMP PRO for the first time you will be prompted to upgrade your databases to MySQL 5.6. Click Upgrade to upgrade your databases. 
-
+When the installation process is finished and you start your servers for the first time you will be prompted to upgrade your databases to MySQL 5.6. Click Upgrade to upgrade your databases. 
 
 ![MAMP](UpgradeMySQL.png)
-
-
- 
 
 The installation process will create an `/Applications/MAMP_current_date` folder. This folder can now be deleted. You may however keep it, so you can fall back to your original setup.
