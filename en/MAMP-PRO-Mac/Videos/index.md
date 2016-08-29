@@ -8,6 +8,9 @@ language: en
 
 ## Video Documentation ![MAMP](MAMPtv.png)
 
+
+### All current video documentation are for MAMP PRO 3. Videos covering MAMP PRO 4 will be available soon.
+
 *  **[Introduction To MAMP And MAMP PRO](https://www.youtube.com/watch?v=bpHEutbHFPo){:target="_blank"}**
 
 This video provides a description of both MAMP and MAMP PRO.
