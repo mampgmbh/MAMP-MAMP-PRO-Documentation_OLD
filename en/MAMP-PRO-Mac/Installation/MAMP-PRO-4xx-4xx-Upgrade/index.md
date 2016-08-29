@@ -21,9 +21,3 @@ language: en
 6. Confirm that all data has been transferred correctly before starting MAMP PRO.
 7. Your `/Applications/MAMP_current_date` folder can now be deleted. You may however keep it, so you can fall back to your original setup.
 
-
-![MAMP](../../Videos/MAMPtv.png) [Installing MAMP PRO](https://www.youtube.com/watch?v=4ZqfrWX82vo){:target="_blank"}
-
-![MAMP](../../Videos/MAMPtv.png) [Upgrading MAMP PRO](https://www.youtube.com/watch?v=h1Ct63XLVYU){:target="_blank"}
-
-
