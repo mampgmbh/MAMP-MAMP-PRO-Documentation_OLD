@@ -47,6 +47,10 @@ You should backup your database data before upgrading from MAMP 3 to MAMP 4. You
 
 Make sure that all data has been transferred correctly before starting MAMP. Your `/Applications/MAMP_current_date` folder can now be deleted. You may however keep it, so you can fall back to your original setup.
 
+---
+
+### Upgrading Your Database Data
+
 When you first start your servers in MAMP you will be asked to upgrade your database data.
 
 ![MAMP](UpgradeMessage.png)
@@ -54,16 +58,6 @@ When you first start your servers in MAMP you will be asked to upgrade your data
 Press Upgrade to upgrade your database data.
 
 ![MAMP](UpgradeComplete.png)
-
----
-
-### Upgrading Your Database Data
-
-After the installer is finished you will be prompted to immediately upgrade your MySQL data if you chose to do so. Press 'OK' to proceed with the upgrade.
-
-![MAMP](UpgradePreComplete.png)
-
-
 
 ---
 
