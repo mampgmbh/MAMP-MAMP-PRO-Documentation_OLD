@@ -63,7 +63,7 @@ If you want MAMP to be available via the Internet please make sure that the conf
    Choose either the Apache or Nginx web server.
 
 *   **Document Root** 
-   Click on  to select where your html/PHP files and images are stored. This directory is called Document Root. The default     Document Root in MAMP is: `/Applications/MAMP/htdocs`.
+   Click on  to select where your html/PHP files and images are stored. This directory is called the document root. The default document root in MAMP is: `/Applications/MAMP/htdocs`.
 
 ---
 
@@ -76,7 +76,7 @@ The MySQL database server is a popular database used on production servers. Seve
 *   **Upgrading**  
     To upgrade your MySQL for MAMP you need to shut down your servers (maybe). Upgrade your MySQL by dragging                    /Applications/MAMP/bin/activateMySQL_5xx.sh from your Finder window into a Terminal window and pressing Enter.
 
-   Alternitavely you can open a terminal and type the following. You will be upgraded to MySQL 5.6. 
+   Alternatively you can open a terminal and type the following. You will be upgraded to MySQL 5.6. 
 
    `/Applications/MAMP/bin/./activateMySQL_56.sh`
    
@@ -99,6 +99,6 @@ The MySQL database server is a popular database used on production servers. Seve
 
 The default MAMP start page provides links to access utilities such as phpMyAdmin, phpInfo, SQLite Manager, phpLiteAdmin, FAQ, MyFavoriteLink and the MAMP Website.
 
-When the My Favorite Link text box is filled in, a link will appear at the top of the MAMP start page with the title 'My Favorite Link'. The My Favorite Link page can be changed using Preferences…. When using the default setting (`/MAMP/`), you will be directed to the MAMP utilities start page using the Alias  definition `/MAMP/`.
+When the My Favorite Link text box is filled in, a link will appear at the top of the MAMP start page with the title 'My Favorite Link'. The My Favorite Link page can be changed using Preferences…. When using the default setting (`/MAMP/`), you will be directed to the MAMP utilities start page using the Alias definition `/MAMP/`.
 
 If this field is left blank, you will be taken to your default document root (http://localhost:8888 in the `/Applications/MAMP/htdocs`). If you enter /subDirectory in this field, you will be taken to the `/Applications/MAMP/htdocs/subDirectory` folder via your default web browser (http://localhost:8888/subDirectory).
