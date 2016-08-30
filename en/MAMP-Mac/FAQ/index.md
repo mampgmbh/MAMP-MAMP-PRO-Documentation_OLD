@@ -14,9 +14,9 @@ No, MAMP has to be installed on the system drive.
 
 ---
 
-#### Is MAMP compatible with Mac OS X 10.9 (Mavericks)?
+#### Is MAMP compatible with Mac OS X 10.11 (El Capitan)?
 
-Yes, MAMP is indeed compatible with Mac OS X 10.9 (Mavericks).
+Yes, MAMP is indeed compatible with Mac OS X 10.11 (El Capitan).
 
 ---
 
