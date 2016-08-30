@@ -48,7 +48,7 @@ If you want MAMP to be available via the Internet please make sure that the conf
 ![MAMP](PHP.png)
 
 *   **Standard Version**  
-   Choose whether PHP 5.5.18 or PHP 5.6.2 is used. The available PHP versions depend on the installed version of MAMP.
+   Choose whether PHP 5.6.26 or PHP 7.0.10 is used. The available PHP versions depend on the installed version of MAMP.
 
 *   **Cache**  
    Caching can speed up the execution of your PHP code. The default caching option is off. OPcache is only available with PHP    5.5.x, eAccelerator only with versions before 5.5.
