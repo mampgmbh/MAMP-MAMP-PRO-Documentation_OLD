@@ -10,6 +10,10 @@ language: en
 
 Nginx options can be set for the selected virtual host in the table. These options are security relevant!
 
+<div class="alert" role="alert">
+Note: You cannot make changes to the Nginx settings unless the host is set to Nginx on the Host > Settings > General tab.
+</div>
+
 ![MAMP](Nginx.png)
 
 *  **Directory index**  
