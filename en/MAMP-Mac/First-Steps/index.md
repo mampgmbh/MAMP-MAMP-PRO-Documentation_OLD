@@ -22,4 +22,4 @@ The web server (Apache) starts by default on port 8888, the database server (MyS
     Open the start page of your local web server.
 
 *   **Start Servers / Stop Servers**  
-    Start or stop the Apache and MySQL services of MAMP.
+    Start or stop the Apache/Nginx and MySQL services of MAMP.
