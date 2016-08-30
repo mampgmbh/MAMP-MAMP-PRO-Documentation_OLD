@@ -19,7 +19,7 @@ When upgrading to MAMP PRO 4 you will be asked to upgrade your data to MySQL 5.6
 
 ![MAMP](UpgradeMySQLNotice.png)
 
-When you open MAMP PRO and start your servers for the first time you will be prompted to upgrade your database data to MySQL 5.6.
+When you open MAMP PRO and start your servers for the first time you will be prompted to upgrade your database data to MySQL 5.6. Click OK to proceed with the database upgrade. 
 
 ![MAMP](UpgradeInfo.png)
 
