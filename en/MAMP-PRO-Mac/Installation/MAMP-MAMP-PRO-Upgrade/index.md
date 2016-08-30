@@ -44,8 +44,6 @@ More information on how to [copy your databases from MAMP to MAMP PRO](../../How
 
 ![MAMP](../../Videos/MAMPtv.png) [Upgrading To MAMP PRO - Missing Data](https://www.youtube.com/watch?v=wBnHo1o4W8Q){:target="_blank"}
 
-![MAMP](../../Videos/MAMPtv.png) [Upgrading From MAMP To MAMP PRO](https://www.youtube.com/watch?v=KOH8bvfE0a0){:target="_blank"}
-    
 
 
 
