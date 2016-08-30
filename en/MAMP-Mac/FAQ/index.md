@@ -28,7 +28,7 @@ The abbreviation "MAMP" stands for: My Apache - MySQL - PHP.
 
 ### Where can I download MAMP?
 
-Get the latest version of MAMP from our website https://www.mamp.info/en/downloads/.
+Get the latest version of MAMP from our website [https://www.mamp.info/en/downloads/](https://www.mamp.info/en/downloads/){:target="_blank"}.
 
 ---
 
