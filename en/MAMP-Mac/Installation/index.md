@@ -41,9 +41,15 @@ You should backup your database data before upgrading from MAMP 3 to MAMP 4. You
 3. The System Installer will guide you through the installation process.
 4. The installer will rename its `MAMP` folder to `MAMP_current_date`.
 5. Your existing "htdocs" folder will be moved to your new `/Applications/MAMP` folder.
-6. If you have not previously upgraded your database files to MySQL 5.6 you will receive a notification reminding you to upgrade. It is recommended that you upgrade your database data to MySQL 5.6 at this time.
+6. If you have not previously upgraded your database files to MySQL 5.6 you will receive a notification reminding you to upgrade. It is recommended that you upgrade your database data to MySQL 5.6 when you start your servers in MAMP.
+
+![MAMP](UpgradeInfo.png)
+
 7. Make sure that all data has been transferred correctly before starting MAMP.
 8. Your `/Applications/MAMP_current_date` folder can now be deleted. You may however keep it, so you can fall back to your     original setup.
+
+
+When you first start your servers in MAMP you will be asked to upgrade your database data.
 
 ![MAMP](UpgradeMessage.png)
 
