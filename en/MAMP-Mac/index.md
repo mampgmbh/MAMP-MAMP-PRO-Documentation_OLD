@@ -13,3 +13,8 @@ MAMP is a one-click-solution for setting up your personal webserver. MAMP instal
 ![MAMP](MAMP.png)
 
 
+- [Installation](Installation/)  
+- [Ports](Ports/)  
+- [Editor](Editor/)  
+
+
