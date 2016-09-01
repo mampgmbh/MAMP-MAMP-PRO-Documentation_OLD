@@ -14,8 +14,10 @@ Video documentation can be found in the [videos](Videos/) section.
 
 
 <div class="alert" role="alert"> 
-Alert: MAMP PRO 4.0 is experiencing several issues we have them listed [Here](https://appsolute.zendesk.com/home){:target="_blank"} 
+Alert: MAMP PRO 4.0 is experiencing several issues. 
 
 </div>
+
+[MAMP PRO 4.0 Current Issues](https://appsolute.zendesk.com/home){:target="_blank"} 
 
 
