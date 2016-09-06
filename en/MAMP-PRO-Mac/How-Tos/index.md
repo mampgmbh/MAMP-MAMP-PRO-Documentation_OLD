@@ -335,7 +335,7 @@ When MAMP PRO launched it's servers it (re) copied database data from the MAMP l
 1. You can revert back to MAMP PRO 3.52 by downloading it [here](https://www.mamp.info/en/downloads/older-versions/){:target="_blank"} 
 
 
-2. Install MAMP PRO 3.52 over your current installation of MAMP PRO 4.xx. Do not use the uninstaller in /Applications/MAMP PRO, this will delete your database data.
+2. Install MAMP PRO 3.52 over your current installation of MAMP PRO 4.xx. Do not use the uninstaller in `/Applications/MAMP PRO`, this will delete your database data.
 
 3. Did you make any modifications to your hosts while using the MAMP PRO 4 demo ?
 
