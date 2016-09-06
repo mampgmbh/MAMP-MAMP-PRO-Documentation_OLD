@@ -343,7 +343,7 @@ When MAMP PRO launched it's servers it (re) copied database data from the MAMP l
 
    YES - Rename your `/Library/Application Support/appsolute/MAMP PRO/db/mysql` folder.
             
-         Rename your `/Library/Application Support/appsolute/MAMP PRO/db/mysql56` folder to 
+   Rename your  `/Library/Application Support/appsolute/MAMP PRO/db/mysql56` folder to 
                      `/Library/Application Support/appsolute/MAMP PRO/db/mysql`.
 
 
