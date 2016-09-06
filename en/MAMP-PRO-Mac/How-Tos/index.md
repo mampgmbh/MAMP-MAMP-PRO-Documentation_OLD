@@ -328,6 +328,7 @@ my $link = DBI->connect(
 
 When MAMP PRO launched it's servers it (re) copied database data from the MAMP location to the MAMP PRO location because it did not detect a `/Library/application data/appsolute/MAMP PRO/db` folder. You should now be looking at your current database data.
 
+---
 
 ### How to downgrade back to MAMP PRO 3 after using MAMP PRO 4 demo
 
