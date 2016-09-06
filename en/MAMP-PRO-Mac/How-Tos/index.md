@@ -339,7 +339,7 @@ When MAMP PRO launched it's servers it (re) copied database data from the MAMP l
 
 3. Did you make any modifications to your hosts while using the MAMP PRO 4 demo ?
 
-   NO - Remove your /Library/Application Support/appsolute/MAMP PRO/db/mysql56 folder
+   NO - Remove your  `/Library/Application Support/appsolute/MAMP PRO/db/mysql56 ` folder
 
    YES - Rename your `/Library/Application Support/appsolute/MAMP PRO/db/mysql` folder.
             
