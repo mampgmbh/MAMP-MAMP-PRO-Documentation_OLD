@@ -337,7 +337,7 @@ When MAMP PRO launched it's servers it (re) copied database data from the MAMP l
 
 2. Install MAMP PRO 3.52 over your current installation of MAMP PRO 4.xx. Do not use the uninstaller in `/Applications/MAMP PRO`, this will delete your database data.
 
-3. Did you make any modifications to your hosts while using the MAMP PRO 4 demo ?
+3. Did you make any modifications to your hosts while using the MAMP PRO 4 demo that would have made changes to your database?
 
    NO - Remove your  `/Library/Application Support/appsolute/MAMP PRO/db/mysql56 ` folder
 
