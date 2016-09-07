@@ -13,7 +13,7 @@ language: en
 To use MAMP PRO, your system must meet the following requirements:
 
 - A working MAMP installation (MAMP can be downloaded directly with the MAMP PRO installation package).
-- Apple OS X, version 10.9.5 or later.
+- Apple OS X, version 10.10.0 or later.
 - A Mac with a 64-Bit-capable CPU.
 - A user account that is part of the Admin Group. Go to Preferences > Users & Groups to confirm this.
 
