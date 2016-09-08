@@ -12,4 +12,8 @@ language: en
 
 I try to open up my Wordpress site and the web browser says "Cannot connect to server" 
 
-Are you sure you are using right ports
+Are you sure you are using right ports for your Wordpress site. You need to make sure your Wordpress site it using the same ports that it was setup with.
+
+---
+
+
