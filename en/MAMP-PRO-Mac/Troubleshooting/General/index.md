@@ -20,12 +20,6 @@ Most content management systems store the host location, including the port numb
 
 ---
 
-### I setup up WordPress and it is asking for a username and password?
-
-Your default Wordpress username and password when setup through MAMP PRO are admin/admin.
-
----
-
 ### My Apache Server will not start?
 
 The most common problem with Apache Server not starting is another mysql service running on the same port. To check this
