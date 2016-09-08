@@ -13,11 +13,3 @@ MAMP PRO is a configuration application that helps you set up and run the Apache
 Video documentation can be found in the [videos](Videos/) section.
 
 
-<div class="alert" role="alert"> 
-Alert: MAMP PRO 4.0 is experiencing several issues. 
-
-</div>
-
-[MAMP PRO 4.0 Current Issues](https://appsolute.zendesk.com/home){:target="_blank"} 
-
-
