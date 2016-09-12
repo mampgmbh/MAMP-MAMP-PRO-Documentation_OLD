@@ -107,7 +107,9 @@ The following list contains all files which are created and changed by MAMP PRO 
 *  **MAMP PRO Settings and Files**  
     * /Library/Application Support/appsolute/MAMP PRO
     * ~/Library/Application Support/appsolute/MAMP PRO
-    * ~/Library/Preferences/de.appsolute.mamppro.plist  
+    * ~/Library/Preferences/de.appsolute.mamppro.plist 
+    * ~/Library/Preferences/de.living-e_to_appsolute.mampro.plist
+    * ~/Library/Preferences/de.appsolute.MAMP.plist
   
 *  **MySQL**  
     * /Library/Application Support/appsolute/MAMP PRO/db/mysql  
