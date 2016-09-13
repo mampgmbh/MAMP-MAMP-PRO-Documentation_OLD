@@ -101,7 +101,15 @@
 		{% endif %}
 	</li>
 	<li><a href="/en/MAMP-PRO-Mac/How-Tos/"{% if page_url contains "/en/MAMP-PRO-Mac/How-Tos/" %} class="active"{% endif %}>How-Tos</a></li>
-	<li><a href="/en/MAMP-PRO-Mac/FAQ/"{% if page_url contains "/en/MAMP-PRO-Mac/FAQ/" %} class="active"{% endif %}>FAQ</a></li>
+	<li>
+		<a href="/en/MAMP-PRO-Mac/FAQ/"{% if page_url contains "/en/MAMP-PRO-Mac/FAQ/" %} class="active"{% endif %}>FAQ</a>
+		{% if page_url contains "/en/MAMP-PRO-Mac/FAQ/" %}
+			<ul class="no-bullets">	
+				<li><a href="/en/MAMP-PRO-Mac/FAQ/General/"{% if page_url contains "/en/MAMP-PRO-Mac/FAQ/General/" %} class="active"{% endif %}>General</a></li>
+				<li><a href="/en/MAMP-PRO-Mac/FAQ/MySQL/"{% if page_url contains "/en/MAMP-PRO-Mac/FAQ/MySQL/" %} class="active"{% endif %}>General</a></li>
+			</ul>	
+		{% endif %}		
+	</li>
 	<li><a href="/en/MAMP-PRO-Mac/Videos/"{% if page_url contains "/en/MAMP-PRO-Mac/Videos/" %} class="active"{% endif %}>Video Documentation</a></li>
 	<li><a href="/en/MAMP-PRO-Mac/MAMP-Viewer/"{% if page_url contains "/en/MAMP-PRO-Mac/MAMP-Viewer/" %} class="active"{% endif %}>MAMP Viewer</a></li>
 </ul>
