@@ -6,7 +6,7 @@ product: MAMP PRO Mac
 language: en
 ---
 
-## FAQ
+## FAQ - MySQL
 
 ### Where is my MySQL 5.6 database data in MAMP PRO 4 ?
 
