@@ -22,6 +22,6 @@ Preview your work using the MAMP Viewer available on iOS.
 
 ### FAQ
 
-Q: My Magento Site will not show up on the MAMP Viewer?
+#### My Magento Site will not show up on the MAMP Viewer?
 A: The MAMP PRO Viewer does not support  Magento  installations.
 
