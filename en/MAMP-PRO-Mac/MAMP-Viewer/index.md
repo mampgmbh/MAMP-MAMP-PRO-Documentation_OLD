@@ -19,5 +19,8 @@ Preview your work using the MAMP Viewer available on iOS.
 ![MAMP](MAMPViewer.jpg)
 
 
+### FAQ
+
+My Magento Site will not show up on the MAMP Viewer?
 
 
