@@ -16,6 +16,8 @@ Preview your work using the MAMP Viewer available on iOS.
 
 ![MAMP](MAMPViewer.jpg)
 
+<a name="faq"></a> 
+
 ---
 
 ### FAQ
