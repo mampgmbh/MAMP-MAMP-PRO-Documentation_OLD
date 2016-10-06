@@ -46,7 +46,7 @@ Open  MAMP PRO > About MAMP PRO in the menu.
 
 ### Is it possible to add an updated version of PHP?
 
-You can add additional PHP versions through the user interface.  More information on how to do this can  be  found [here](../../../Languages/PHP){:target="_blank"}.
+You can add additional PHP versions through the user interface.  More information on how to do this can  be  found [here](../../Languages/PHP){:target="_blank"}.
 
 ---
 
