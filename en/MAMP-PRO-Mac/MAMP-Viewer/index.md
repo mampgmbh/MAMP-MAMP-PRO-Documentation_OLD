@@ -23,5 +23,11 @@ Preview your work using the MAMP Viewer available on iOS.
 ### FAQ
 
 #### My Magento Site will not show up on the MAMP Viewer?
-The MAMP PRO Viewer does not support  Magento  installations.
+At this time the MAMP Viewer does not support  Magento  installations.
+
+#### How do  I refresh  my  list of  hosts?
+Pull down on  your iOS device to refresh your hosts.
+
+#### Can I use  Wordpress Multisite?
+At this time  the MAMP Viewer does not support  Wordpress multisite.
 
