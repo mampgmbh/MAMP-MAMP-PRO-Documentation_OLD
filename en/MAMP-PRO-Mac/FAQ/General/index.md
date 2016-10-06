@@ -46,7 +46,7 @@ Open  MAMP PRO > About MAMP PRO in the menu.
 
 ### Is it possible to add an updated version of PHP?
 
-Compiled binaries of the PHP interpreter can be found at [https://www.mamp.info/en/downloads/](https://www.mamp.info/en/downloads/){:target="_blank"}. Drop this downloaded folder into your `/Applications/MAMP/bin/php` directory. Close and re-open your MAMP PRO application. Your new PHP version should now appear in the PHP drop down menu. MAMP PRO will only support PHP versions from the downloads page.
+You can add additional PHP versions through the user interface.  More information on how to do this can  be  found [here](../../../Settings/Languages/PHP){:target="_blank"}.
 
 ---
 
