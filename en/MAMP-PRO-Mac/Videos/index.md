@@ -43,31 +43,12 @@ This video provides a description of both MAMP and MAMP PRO.
  
 ---
 
-### Additional MAMP PRO Videos (MAMP PRO 3)
+### Additional MAMP PRO Videos
 
-*  **[Transferring Your Site To A Host Provider](https://www.youtube.com/watch?v=-3Fwyd5Okrg){:target="_blank"}**
+*  **[Adding Additional PHP Versions](https://www.youtube.com/watch?v=5JZ3PSGj81E){:target="_blank"}**
 
-   This video describes the steps in uploading your local work to a host provider, using a Wordpress host.
-   
-*  **[MAMP PRO and httpd.conf, php.ini, my.cnf](https://www.youtube.com/watch?v=uh6s7uMCISU){:target="_blank"}**
-
-   MAMP PRO and editing the httpd.conf, php.ini and my.cnf files.
-   
-*  **[The WebStart Button](https://www.youtube.com/watch?v=925V7Pafxzw){:target="_blank"}**
-
-   This video gives a detailed explanation of all the features on the 'Webstart' button.
-   
-*  **[Viewing MAMP On A Mobile Device](https://www.youtube.com/watch?v=sYHPYCDvU1Q){:target="_blank"}**
-
-   This video explains how to view you MAMP PRO sites on a mobile device such as your iPhone or iPad.
-   
-
-   
-
-
-
-
-
+   This video describes how to add additional PHP versions directly through the MAMP PRO interface. Additionally it describes how to download other MAMP PRO components through the MAMP PRO interface.
+  
 
 
  
