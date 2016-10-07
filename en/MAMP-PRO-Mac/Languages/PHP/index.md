@@ -29,7 +29,7 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
 
 ---
 
-    *  **Make this version available on the command line**  
+*  **Make this version available on the command line**  
    Choose this to make the current version available on the command line.
 
 ---
