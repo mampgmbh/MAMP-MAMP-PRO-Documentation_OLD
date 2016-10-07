@@ -9,10 +9,7 @@ language: en
 ## Video Documentation ![MAMP](MAMPtv.png)
 
 
-### All current video documentation are for MAMP PRO 3. Videos covering MAMP PRO 4 will be available soon.
-
-
-*  **[Introduction To MAMP And MAMP PRO](https://www.youtube.com/watch?v=bpHEutbHFPo){:target="_blank"}**
+*  **[Introduction To MAMP 3 And MAMP PRO 3](https://www.youtube.com/watch?v=bpHEutbHFPo){:target="_blank"}**
 
 This video provides a description of both MAMP and MAMP PRO.
 
@@ -20,29 +17,13 @@ This video provides a description of both MAMP and MAMP PRO.
 
 ### Installation, Upgrade And De-Installation
 
-*  **[Installing MAMP PRO](https://www.youtube.com/watch?v=4ZqfrWX82vo){:target="_blank"}**
+*  **[Upgrading From MAMP PRO 3 To MAMP PRO 4](https://www.youtube.com/watch?v=KOH8bvfE0a0){:target="_blank"}**
 
-   This video gives a description on how to install MAMP and MAMP PRO.
+   This video gives a detailed description on how to upgrade from MAMP PRO 3 to MAMP PRO 4, including making sure your database data is properly transferred and upgraded to MySQL 5.6
    
-*  **[Upgrading MAMP PRO](https://www.youtube.com/watch?v=h1Ct63XLVYU){:target="_blank"}**
-
-   This video gives a detailed description on how to upgrade your current MAMP PRO installation.
-   
-*  **[Upgrading From MAMP To MAMP PRO](https://www.youtube.com/watch?v=KOH8bvfE0a0){:target="_blank"}**
-
-   This video gives a detailed description on how to upgrade from MAMP to MAMP PRO, including making sure you database data     is properly transferred.
-   
-*  **[Upgrading To MAMP PRO - Missing Data](https://www.youtube.com/watch?v=wBnHo1o4W8Q){:target="_blank"}**
-
-   This video explains potential pitfalls when upgrading from MAMP to MAMP PRO, specifically missing database data.
-   
-*  **[Uninstalling MAMP PRO](https://www.youtube.com/watch?v=Sjpdcnp92bY){:target="_blank"}**
-
-   This video contains a brief description on how to completely uninstall MAMP PRO.
-
 ---
 
-### MAMP PRO With External Software
+### MAMP PRO With External Software (MAMP PRO 3)
 
 *  **[Connecting To Your Database With Sequel Pro](https://www.youtube.com/watch?v=MyNIr7XUpBI){:target="_blank"}** 
 
@@ -62,7 +43,7 @@ This video provides a description of both MAMP and MAMP PRO.
  
 ---
 
-### Additional MAMP PRO Videos
+### Additional MAMP PRO Videos (MAMP PRO 3)
 
 *  **[Transferring Your Site To A Host Provider](https://www.youtube.com/watch?v=-3Fwyd5Okrg){:target="_blank"}**
 
