@@ -8,7 +8,7 @@ language: en
 
 ## Servers and Services > MySQL
 
-The MySQL database server is a popular database used on production servers. An installation of MySQL is installed on your computer by MAMP PRO. Your MAMP PRO MySQL database data is located in /Library/Application Support/appsolute/MAMP PRO/db/mysql56 .
+The MySQL database server is a popular database used on production servers. An installation of MySQL is installed on your computer by MAMP PRO. Your MAMP PRO MySQL database data is located in `/Library/Application Support/appsolute/MAMP PRO/db/mysql56`.
 
 ![MAMP](MySQL.png)
 
