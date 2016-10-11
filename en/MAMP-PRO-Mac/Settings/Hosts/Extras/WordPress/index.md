@@ -54,7 +54,7 @@ Note: When some Content Management Systems such as Wordpress are setup the host 
 
 ---
 
-![MAMP](../../../../Videos/MAMPtv.png) [Installing wordPress with Extras and Manually](https://www.youtube.com/watch?v=6rMFZa2TOjg){:target="_blank"}
+![MAMP](../../../../Videos/MAMPtv.png) [Installing wordPress with Extras and Manually](https://www.youtube.com/watch?v=pZ7J4Ai-RxQ){:target="_blank"}
 
 
 
