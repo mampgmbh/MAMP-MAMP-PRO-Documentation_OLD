@@ -20,7 +20,7 @@ The MySQL database server is a popular database used on production servers. An i
 ---
 
 *  **Version**  
-   The version of MySQL that is running.
+   The current MySQL version.
 
 *  **Data directory**  
    Displays the location of your MySQL Data. This location cannot be changed.
