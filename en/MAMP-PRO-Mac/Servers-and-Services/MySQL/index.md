@@ -18,11 +18,7 @@ The MySQL database server is a popular database used on production servers. An i
 ---
 
 *  **Version**  
-   Change the version of MySQL that will be launched.
-   
-   <div class="alert" role="alert">
-   Data created using MySQL 5.6 or MySQL 5.7 it will not be accesible when launching MySQL 5.5 
-   </div>
+   The version of MySQL that is running.
 
 *  **Data directory**  
    Displays the location of your MySQL Data. This location cannot be changed.
