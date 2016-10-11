@@ -37,7 +37,7 @@ This video provides a description of both MAMP and MAMP PRO.
 
    This video is about working with MAMP PRO and Adobe Dreamweaver.
    
-*  **[Using Wordpress With MAMP PRO](https://www.youtube.com/watch?v=6rMFZa2TOjg){:target="_blank"}**
+*  **[Installing Wordpress With MAMP PRO](https://www.youtube.com/watch?v=pZ7J4Ai-RxQ){:target="_blank"}**
 
    This video explains how to install Wordpress both using the 'Extras' feature in MAMP PRO, and on your own downloading the    files from the wordpress.org website.
  
