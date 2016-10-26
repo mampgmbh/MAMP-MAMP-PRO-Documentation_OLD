@@ -31,7 +31,11 @@ To create a new host press the `Plus` button at the bottom left of the screen.
 
 *  **Create a database named**
 
+   You can optionally create a database.
+
 *  **Copy the contents of a template folder to the document root**
+
+   You can optionally add the contents of a templates folder.
 
 ---
 
