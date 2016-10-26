@@ -25,7 +25,7 @@ To create a new host press the `Plus` button at the bottom left of the screen.
 
 *  **Document root**
 
-   The location of the documents (HTML/PHP files etc.) of a virtual host is called a document root.
+   The location of the documents (HTML/PHP files etc.) of a virtual host is called a document root. The document root is also             known as the web root folder. MAMP PRO will automatically add an `index.php` file and a MAMP image to this location when your    web server is restarted if the folder is empty.
 
 ---
 
@@ -39,7 +39,7 @@ To create a new host press the `Plus` button at the bottom left of the screen.
 
 ---
 
-The document root is also known as the web root folder. MAMP PRO will automatically add an `index.php` file and a MAMP image to this location when your web server is restarted if the folder is empty.
+
 
 
 ![MAMP](General.png)
