@@ -17,12 +17,14 @@ To create a new host press the `Plus` button at the bottom left of the screen.
 ![MAMP](OpenHost.png)
 
 *  **Host name**
+
    The server name and port number in combination must be unique within MAMP PRO.
    The host name may only contain letters and/or numbers, as well as dashes ("-");
    but it may not begin or end with a "-" character.
    Names are not case-sensitive (upper and lower-case letters are not distinguished.)
 
 *  **Document root**
+
    The location of the documents (HTML/PHP files etc.) of a virtual host is called a document root.
 
 ---
