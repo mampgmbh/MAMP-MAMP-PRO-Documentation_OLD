@@ -16,6 +16,19 @@ To create a new host press the `Plus` button at the bottom left of the screen.
 
 ![MAMP](OpenHost.png)
 
+*  **Host name**
+
+*  **Document root**
+
+---
+
+*  **Create a database named**
+
+*  **Copy the contents of a template folder to the document root**
+
+---
+
+
 Click on the folder icon to choose a document root. Use the ![MAMP](../../../First-Steps/BlackArrow.png) button to open the folder in the Finder.
 
 ![MAMP](General.png)
