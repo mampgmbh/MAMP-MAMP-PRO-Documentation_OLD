@@ -24,11 +24,15 @@ Note: You cannot make changes to the Nginx settings unless the host is set to Ng
 
    Activates or deactivates "directory browsing". If there is no index.html, index.php, etc in the document root, the content of the folder is displayed when this option is enabled. Without this option, nothing will be displayed or an error message will appear.
    
+---
+   
 *  **Additional parameters for location:/**
 
    *  **try_files**
    
    *  **Custom**
+
+---
 
 *  **Access Limits**  
 
@@ -39,6 +43,8 @@ Note: You cannot make changes to the Nginx settings unless the host is set to Ng
     *  **deny**
     
          Insert access deny limits here.
+         
+---
     
 *  **Additional parameters for &lt;server&gt; directive**
 
