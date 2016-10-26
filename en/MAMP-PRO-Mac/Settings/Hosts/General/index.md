@@ -12,7 +12,9 @@ MAMP PRO uses virtual hosts to allow your web servers to serve different website
 
 The name of a host (server name) must be unique, often it's practical to use a reverse domain naming scheme to easily identify them (e.g. use de.appsolute.mamp instead of mamp.appsolute.de). The unreversed name may conflict with an outside domain name.
 
-To create a new host press the `Plus` button at the bottom left of the screen. Replace the default host name. The second required field to complete the setup of a new host is a location for its files document root.   
+To create a new host press the `Plus` button at the bottom left of the screen.
+
+![MAMP](OpenHost.png)
 
 Click on the folder icon to choose a document root. Use the ![MAMP](../../../First-Steps/BlackArrow.png) button to open the folder in the Finder.
 
