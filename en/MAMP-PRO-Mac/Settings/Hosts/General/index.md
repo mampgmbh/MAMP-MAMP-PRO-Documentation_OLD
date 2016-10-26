@@ -39,9 +39,10 @@ To create a new host press the `Plus` button at the bottom left of the screen.
 
 ---
 
-![MAMP](General.png)
+The document root is also known as the web root folder. MAMP PRO will automatically add an `index.php` file and a MAMP image to this location when your web server is restarted if the folder is empty.
 
-The document root is also known as the web root folder. MAMP PRO will automatically add an `index.php` file and a MAMP image to this location when your web server is restarted and the folder is empty.
+
+![MAMP](General.png)
 
 *  **Hosts Table**
 
