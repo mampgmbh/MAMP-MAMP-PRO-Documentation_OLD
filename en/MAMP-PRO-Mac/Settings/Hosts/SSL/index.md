@@ -8,9 +8,7 @@ language: en
 
 ## Settings > Hosts > SSL
 
-To encrypt traffic from Apache to a web browser you can use SSL.
-
-If you want to secure a productive server you should get the Certificate file and the Certificate key file from a Certified Authority (CA).
+To encrypt traffic from Apache to a web browser you can use SSL. If you would like to secure a productive server you should get the Certificate file and the Certificate key file from a Certified Authority (CA). You can use a "dummy" certificate for testing SSL functionality.
 
 ![MAMP](SSL.png)
 
