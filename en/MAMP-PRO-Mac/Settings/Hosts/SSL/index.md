@@ -29,5 +29,13 @@ If you want to secure a productive server you should get the Certificate file an
    *  **Certificate Self Signed Certificate**  
        Use this dialogue to create a dummy self signed certificate. Your browser will not recognize this certificate, and you       will have to click through any warnings when viewing your site in a browser.
 
+ ![MAMP](certificate.png)
+ 
+---
+ 
    *  **Certificate Chain File (Apache Only)**  
        Point.
+       
+---
+
+*  **Only allow connection using TLS protocols**
