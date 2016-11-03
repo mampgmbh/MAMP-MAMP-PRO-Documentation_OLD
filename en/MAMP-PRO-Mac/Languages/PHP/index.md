@@ -73,14 +73,17 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
        Activate Xdebug to allow PHP to create debugging information during script execution.
        By default, Xdebug uses localhost and port 9000 in the PHP.ini file.
 
-    *  **Imagick / ImageMagick**
-       Include Imagick and ImageMagick
+    *  **Xdebug (Debugger)**  
+       Activate Xdebug to allow PHP to create debugging information during script execution.
+       By default, Xdebug uses localhost and port 9000 in the PHP.ini file.
        
-    *  **Tidy**
-       Include Tidy
+    *  **Xdebug (Debugger)**  
+       Activate Xdebug to allow PHP to create debugging information during script execution.
+       By default, Xdebug uses localhost and port 9000 in the PHP.ini file.
        
-    *  **Oauth**
-       Include Oauth
+    *  **Xdebug (Debugger)**  
+       Activate Xdebug to allow PHP to create debugging information during script execution.
+       By default, Xdebug uses localhost and port 9000 in the PHP.ini file.
     
     *  **Open MacGDBp**  
        With Xdebug activated you can open the MacGDBp debugger to enable PHP debugging.
