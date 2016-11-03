@@ -18,16 +18,16 @@ If you want to secure a productive server you should get the Certificate file an
 
 *  **SSL**
  
-   Enable your SSL.
+   Check to enable SSL. After creating or enabling your SSL certificates your sites will now use https.
 
    *  **Certificate File**  
-       Point to your certificate file
+       Point to your certificate file.
 
    *  **Certificate Key File**  
        Point to your certificate key file.
        
    *  **Certificate Self Signed Certificate**  
-       Use this dialogue to create a dummy self signed certificate. Your browser will not recognize this certificate, and you       will have to click through any warnings when viewing your site in a browser.
+       Use this dialogue to create a dummy self signed certificate. Your browser will not recognize this certificate, and you       will have to click through warnings when viewing your site in a browser.
 
  ![MAMP](certificate.png)
  
