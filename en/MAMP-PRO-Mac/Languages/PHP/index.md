@@ -30,7 +30,7 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
 ---
 
 *  **Make this version available on the command line**  
-   Choose this to make the current version available on the command line.
+   Check this option to make the current version available on the command line.
 
 ---
 
@@ -67,12 +67,21 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
 
 ---
 
-*  **Debugger**  
+*  **Extensions**  
 
-    *  **Activate Xdebug**  
+    *  **Xdebug (Debugger)**  
        Activate Xdebug to allow PHP to create debugging information during script execution.
        By default, Xdebug uses localhost and port 9000 in the PHP.ini file.
 
+    *  **Imagick / ImageMagick**
+       Include Imagick and ImageMagick
+       
+    *  **Tidy**
+       Include Tidy
+       
+    *  **Oauth**
+       Include Oauth
+    
     *  **Open MacGDBp**  
        With Xdebug activated you can open the MacGDBp debugger to enable PHP debugging.
        By default, MacGDBp expects debugging information on port 9000 of localhost.
