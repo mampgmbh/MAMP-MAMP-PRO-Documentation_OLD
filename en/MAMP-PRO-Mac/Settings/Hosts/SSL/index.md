@@ -37,3 +37,7 @@ To encrypt traffic from Apache to a web browser you can use SSL. If you would li
 *  **Only allow connection using TLS protocols**
 
    Activating this option prevents web browsers from using old and insecure SSL protocols to connect to this host. Only  connections using TLS 1.0, 1.1 and 1.2 are accepted, SSLv2 and SSLv3 are not.
+   
+---
+
+Information on how to make a host both ssl and non-ssl can be found in the [How-To section](../../How-To#ssl_hosts) can be found in our Menu > File section.
