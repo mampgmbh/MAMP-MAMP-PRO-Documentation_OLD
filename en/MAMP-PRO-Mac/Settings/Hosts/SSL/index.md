@@ -17,10 +17,10 @@ To encrypt traffic from Apache to a web browser you can use SSL. If you would li
    Check to enable SSL. After creating or enabling your SSL certificates your sites will now use https.
 
    *  **Certificate File**  
-       Point to your certificate file.
+       Point to your certificate file. The directory dialogue will only recognize .crt files.
 
    *  **Certificate Key File**  
-       Point to your certificate key file.
+       Point to your certificate key file. The directory dialogue will only recognize .key files.
        
    *  **Certificate Self Signed Certificate**  
        Use "Create self-signed certificate..." if you want to test SSL functionality. Your browser will not recognize this certificate, and you will have to click through warnings when viewing your site in a browser.
