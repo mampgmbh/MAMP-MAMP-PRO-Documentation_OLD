@@ -353,8 +353,8 @@ The MySQL server of MAMP PRO uses the Default Storage Engine MyISAM. If you want
 
 You can get an identical http and https host by creating two hosts.
 
-1. Set up a normal http host with the name "MyHost" using document root "MyDocumentRoot".
-2. Set up a normal https host (SSL) with the name "MyHost" using document root "MyDocumentRoot".
+1. Set up a http host with the name "MyHost" using document root "MyDocumentRoot".
+2. Set up a https host (SSL) with the name "MyHost" using document root "MyDocumentRoot".
 
 You will get warning message stating you are using the same document root and name for multiple hosts. These hosts will appear in red.
 
