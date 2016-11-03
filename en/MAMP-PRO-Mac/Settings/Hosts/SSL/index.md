@@ -15,3 +15,12 @@ Use "Create self-signed certificate..." if you want to test SSL functionality.
 If you want to secure a productive server you should get the Certificate file and the Certificate key file from a Certified Authority (CA).
 
 ![MAMP](SSL.png)
+
+*  **SSL**
+  Enable your SSL.
+
+*  **Certificate File** 
+
+*  **Certificate Key File** 
+
+*  **Only allo connections using TLS protocols** 
