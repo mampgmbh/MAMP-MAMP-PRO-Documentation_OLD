@@ -18,13 +18,13 @@ If you want to secure a productive server you should get the Certificate file an
 
 *  **SSL**
  
-Enable your SSL.
+   Enable your SSL.
 
-*  **Certificate File**  
+   *  **Certificate File**  
        Point to your certificate file
 
-*  **Certificate Key File**  
+   *  **Certificate Key File**  
        Point to your certificate key file.
 
-*  **Certificate Chain File (Apache Only)**  
+   *  **Certificate Chain File (Apache Only)**  
        Point.
