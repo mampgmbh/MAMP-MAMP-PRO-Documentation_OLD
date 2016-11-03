@@ -33,7 +33,7 @@ To access the [phpInfo of each individual host](../Settings/Hosts/General/#php_i
     `/Library/Application Support/appsolute/MAMP PRO/phpMyAdmin`.
 
 *  **SQL Lite Manager**  
-    You can use this ...
+    A link to your SQL lite manager.
 
 *  **phpLiteAdmin**  
     phpLiteAdmin is a web-based SQLite database admin tool written in PHP with support for SQLite3 and SQLite2. 
