@@ -40,7 +40,7 @@ language: en
 
  *  **[MySQL Data](https://www.youtube.com/watch?v=ZRHJy2K4yzc){:target="_blank"}**
 
-   This video describes where your database data is as well as information on how to back it up.
+      This video describes where your database data is as well as information on how to back it up.
    
 ---
 
