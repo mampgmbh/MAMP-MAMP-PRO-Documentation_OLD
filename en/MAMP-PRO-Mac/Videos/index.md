@@ -32,13 +32,13 @@ language: en
    
  *  **[Wordpress Multisite](https://www.youtube.com/watch?v=7pDvR9E94Og){:target="_blank"}**
 
-   This video describes how to install Wordpress multisite.
+      This video describes how to install Wordpress multisite.
     
 ---
 
 ### MySQL
 
- *  **[MySQL Data](https://www.youtube.com/watch?v=7pDvR9E94Og){:target="_blank"}**
+ *  **[MySQL Data](https://www.youtube.com/watch?v=ZRHJy2K4yzc){:target="_blank"}**
 
    This video describes where your database data is as well as information on how to back it up.
    
