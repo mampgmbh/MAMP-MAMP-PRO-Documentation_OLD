@@ -22,7 +22,7 @@ To encrypt traffic from Apache to a web browser you can use SSL. If you would li
    *  **Certificate Key File**  
        Point to your certificate key file. The directory dialogue will only recognize .key files.
        
-   *  **Certificate Self Signed Certificate**  
+   *  **Create Certificate Self Signed Certificate**  
        Use "Create self-signed certificate..." if you want to test SSL functionality. Your browser will not recognize this certificate, and you will have to click through warnings when viewing your site in a browser.
 
  ![MAMP](certificate.png)
