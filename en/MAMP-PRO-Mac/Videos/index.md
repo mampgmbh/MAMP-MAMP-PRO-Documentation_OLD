@@ -50,6 +50,13 @@ language: en
 
    This video describes how to add additional PHP versions directly through the MAMP PRO interface. Additionally it describes how to download other MAMP PRO components through the MAMP PRO interface.
   
+*  **[Custom Configuration](https://www.youtube.com/watch?v=tYLykP2CxMM){:target="_blank"}**
+
+   This video describes how to custom configure your MAMP PRO 4 Apache, Nginx, MySQL, and PHP using their respective httpd.conf, nginx.conf, my.cnf, and php.ini template files.
+  
+*  **[Adding A Host](https://www.youtube.com/watch?v=f23yZ_EgC0I){:target="_blank"}**
+
+   This video contains details on how to add a host. A generic host is setup, a host using the template feature, and a host using a database are discussed.
   
   
 ---
