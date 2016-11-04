@@ -8,19 +8,50 @@ language: en
 
 ## Video Documentation ![MAMP](MAMPtv.png)
 
-
-*  **[Introduction To MAMP 3 And MAMP PRO 3](https://www.youtube.com/watch?v=bpHEutbHFPo){:target="_blank"}**
-
-This video provides a description of both MAMP and MAMP PRO.
-
----
-
 ### Installation, Upgrade And De-Installation
 
 *  **[Upgrading From MAMP PRO 3 To MAMP PRO 4](https://www.youtube.com/watch?v=KOH8bvfE0a0){:target="_blank"}**
 
    This video gives a detailed description on how to upgrade from MAMP PRO 3 to MAMP PRO 4, including making sure your database data is properly transferred and upgraded to MySQL 5.6
    
+*  **[Upgrading MAMP PRO 4](https://www.youtube.com/watch?v=Px-2SgIqU2Q){:target="_blank"}**
+
+   This video gives a detailed description on how to upgrade from your existing 4.xx MAMP PRO to a more updated version of MAMP PRO 4.xx.
+   
+*  **[Uninstalling MAMP PRO 4](https://www.youtube.com/watch?v=7en87JI177c){:target="_blank"}**
+
+   This video gives a description on how to uninstall MAMP PRO 4. Using the uninstaller to uninstall MAMP PRO 4 will delete your database data.
+   
+---
+
+### Wordpress
+
+*  **[Installing Wordpress](https://www.youtube.com/watch?v=pZ7J4Ai-RxQ){:target="_blank"}**
+
+   This video describes how to install Wordpress using downloaded Wordpress files and using the Extras feature in MAMP PRO 4.
+   
+ *  **[Wordpress Multisite](https://www.youtube.com/watch?v=7pDvR9E94Og){:target="_blank"}**
+
+   This video describes how to install Wordpress multisite.
+    
+---
+
+### MySQL
+
+ *  **[MySQL Data](https://www.youtube.com/watch?v=7pDvR9E94Og){:target="_blank"}**
+
+   This video describes where your database data is as well as information on how to back it up.
+   
+---
+
+### Additional MAMP PRO Videos
+
+*  **[Adding Additional PHP Versions](https://www.youtube.com/watch?v=5JZ3PSGj81E){:target="_blank"}**
+
+   This video describes how to add additional PHP versions directly through the MAMP PRO interface. Additionally it describes how to download other MAMP PRO components through the MAMP PRO interface.
+  
+  
+  
 ---
 
 ### MAMP PRO With External Software (MAMP PRO 3)
@@ -42,13 +73,6 @@ This video provides a description of both MAMP and MAMP PRO.
    This video explains how to install Wordpress both using the 'Extras' feature in MAMP PRO, and on your own downloading the    files from the wordpress.org website.
  
 ---
-
-### Additional MAMP PRO Videos
-
-*  **[Adding Additional PHP Versions](https://www.youtube.com/watch?v=5JZ3PSGj81E){:target="_blank"}**
-
-   This video describes how to add additional PHP versions directly through the MAMP PRO interface. Additionally it describes how to download other MAMP PRO components through the MAMP PRO interface.
-  
 
 
  
