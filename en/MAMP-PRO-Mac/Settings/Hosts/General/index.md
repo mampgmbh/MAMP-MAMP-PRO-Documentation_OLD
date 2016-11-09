@@ -132,7 +132,7 @@ To create a new host press the `Plus` button at the bottom left of the screen.
          if you restart your Mac. Also make sure that your Internet router is not blocking Xip.io calls by using a DNS     Rebind protection. If the router does this you can either deactivate this function, add Xip.io as an exception or not use the router as DNS server in your Macs network settings.
          </div>
       
-         ![MAMP](../../../Videos/MAMPtv.png) [Viewing On Mobile                             Device](https://www.youtube.com/watch?v=sYHPYCDvU1Q){:target="_blank"}
+         ![MAMP](../../../Videos/MAMPtv.png) [Viewing site using xip.io](https://www.youtube.com/watch?v=sYHPYCDvU1Q){:target="_blank"}
 
 *  **Document root**  
    The location of the documents (HTML/PHP files etc.) of a virtual host is called a document root.
