@@ -167,4 +167,4 @@ To create a new host press the `Plus` button at the bottom left of the screen.
    Aliases are additional names for your virtual host. The same constraints apply to these additional names as to the host itself. Add aliases with the plus-button.
    
    
-   Information on how to  create a host using the command line can be found here.
+   Information on how to  create a host using the command line can be found [here](../../../How-Tos/#php_connect_mysql) 
