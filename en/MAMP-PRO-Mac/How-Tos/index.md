@@ -370,7 +370,7 @@ You can create a host using the command by using the following steps
 2. Enter the following line into the terminal and hit enter:  
    `/Applications/MAMP\ PRO/MAMP\ PRO.app/Contents/MacOS/MAMP\ PRO cmd createHost testHost /Applications/MAMP/htdocs2`
    
-This will create a host with the name 'TestHost', with a document root of '/Applications/MAMP/htdocs2'.
+This will create a host with the name 'TestHost', with a document root of '/Applications/MAMP/htdocs2'. MAMP PRO will briefly open, and a host will be created. MAMP PRO will then quit.
 
 
 ### Create a host and database using the command line 
