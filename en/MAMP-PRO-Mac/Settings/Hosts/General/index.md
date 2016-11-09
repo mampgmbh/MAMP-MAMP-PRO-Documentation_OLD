@@ -165,3 +165,6 @@ To create a new host press the `Plus` button at the bottom left of the screen.
 
 *  **Alias Name**  
    Aliases are additional names for your virtual host. The same constraints apply to these additional names as to the host itself. Add aliases with the plus-button.
+   
+   
+   Information on how to  create a host using the command line can be found here.
