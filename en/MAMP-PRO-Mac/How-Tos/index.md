@@ -372,6 +372,7 @@ You can create a host using the command by using the following steps
    
 This will create a host with the name 'TestHost', with a document root of '/Applications/MAMP/htdocs2'. MAMP PRO will briefly open, and a host will be created. MAMP PRO will then quit. When you open MAMP PRO you will see your new host.
 
+---
 
 ### Create a host and database using the command line 
 
