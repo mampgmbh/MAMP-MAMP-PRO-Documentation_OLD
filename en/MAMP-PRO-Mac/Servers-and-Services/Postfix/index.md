@@ -14,7 +14,7 @@ Sometimes you may need to send an email using PHP, to do so you have to configur
 
 *  **Include Postfix service in GroupStart**  
 
-Check to include Postfix in the GroupStart. When activated Postfix will automatically start/stop when the Servers button is pressed.
+   Check to include Postfix in the GroupStart. When activated Postfix will automatically start/stop when the Servers button is   pressed.
 
 ---
 
