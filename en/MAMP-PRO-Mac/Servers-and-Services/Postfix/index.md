@@ -8,7 +8,7 @@ language: en
 
 ## Servers and Services > Postfix
 
-Sometimes you may need to send an email using PHP. To do so you have to configure and start Postfix. An easy way getting Postfix to run is using the configuration tool built into MAMP PRO.
+Sometimes you may need to send an email using PHP, to do so you have to configure and start Postfix. An easy way getting Postfix to run is using the configuration tool built into MAMP PRO.
 
 ![MAMP](Postfix.png)
 
@@ -21,10 +21,12 @@ Check to include Postfix in the GroupStart. When activated Postfix will automati
 *  **Set domain of outgoing e-mails to**
 
    If you want to use the PHP function `mail()` for sending emails to your own email address (like mail@johndoe.com) you
-   just need to open MAMP PRO, go to Server -> Postfix and add the value "johndoe.com" (without quotes and the according
-   domain name) into the field "Domain of outgoing mail". Only if you want to send e-mail to others you will need to fill
+   just need to add the value "johndoe.com" (without quotes and the according domain name) into this field. 
+   
+   <div class="alert" role="alert">
+   Note: Only if you want to send e-mail to others you will need to fill
    in the other fields. In this case make sure that your e-mail provider allows the use of a Smart host.
-
+   </div>
 ---
 
 *  **Use a smart host for routing**  
