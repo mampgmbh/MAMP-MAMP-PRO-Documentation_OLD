@@ -8,7 +8,7 @@ language: en
 
 ## Servers and Services > Postfix
 
-Sometimes you may need to send an email using PHP, to do so you have to configure and start Postfix. An easy way getting Postfix to run is using the configuration tool built into MAMP PRO.
+Sometimes you may need to send an email using PHP, to do so you have to configure and start Postfix. An easy way getting Postfix to run is using the configuration tool built into MAMP PRO. 
 
 ![MAMP](Postfix.png)
 
@@ -46,7 +46,10 @@ Sometimes you may need to send an email using PHP, to do so you have to configur
     *  **Password**  
        Add the password for your email user account.  
 
-   <div class="alert" role="alert">
+  
+  MAMP PRO will move you existing main.cf and master.cf files to /private/etc/postfix/MAMP_backup when you include Postfix using the Groupstart in MAMP PRO.
+  
+  <div class="alert" role="alert">
    Note: Some providers do not allow Smart-Hosts, like Google Mail.
    </div>
 
