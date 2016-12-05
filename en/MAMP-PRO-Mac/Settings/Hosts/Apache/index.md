@@ -67,7 +67,7 @@ Note: Watch out for typos, they will otherwise prevent Apache from starting up.
 
 *  **Additional Apache Server Configuration**
 
-   The configuration files in the /Applications/MAMP/conf/apache/extra/ directory can be included to add extra features or to    modify the default configuration of the server. Uncomment any of the following configuration files in your httpd.conf template file to make customizations.
+   The configuration files in the /Applications/MAMP/conf/apache/extra/ directory can be included to add extra features or to    modify the default configuration of the server. Uncomment, then edit, any of the following configuration files in your httpd.conf template file to make customizations.
 
    #Include /Applications/MAMP/conf/apache/extra/httpd-mpm.conf
    #Include /Applications/MAMP/conf/apache/extra/httpd-multilang-errordoc.conf
