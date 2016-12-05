@@ -70,7 +70,7 @@ Note: Watch out for typos, they will otherwise prevent Apache from starting up.
    The configuration files in the `/Applications/MAMP/conf/apache/extra/` directory can be included to add extra features or to modify the default configuration of the server. Uncomment, then edit, any of the following configuration files in your httpd.conf template file to make customizations.
    
       *  **Include /Applications/MAMP/conf/apache/extra/httpd-mpm.conf**  
-       Configuration information on httpd-mpm.conf can be found [here](https://www.mamp.info/en/downloads/older-versions/){:target="_blank"} 
+       Configuration information on httpd-mpm.conf can be found [here](https://www.mamp.info/en/downloads/older-versions/){:target="_blank"}. 
       *  **Include /Applications/MAMP/conf/apache/extra/httpd-multilang-errordoc.conf**  
        Allows the use or disabling of dynamic documents depending on the language.
       *  **Include /Applications/MAMP/conf/apache/extra/httpd-autoindex.conf**  
