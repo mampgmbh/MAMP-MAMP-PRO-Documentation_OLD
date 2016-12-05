@@ -72,28 +72,19 @@ Note: Watch out for typos, they will otherwise prevent Apache from starting up.
       *  **Include /Applications/MAMP/conf/apache/extra/httpd-mpm.conf**  
        Configuration information on httpd-mpm.conf can be found [here](https://www.mamp.info/en/downloads/older-versions/){:target="_blank"}. 
       *  **Include /Applications/MAMP/conf/apache/extra/httpd-multilang-errordoc.conf**  
-       Allows the use or disabling of dynamic documents depending on the language.
+       Configuration information on httpd-mpm.conf can be found [here](https://www.mamp.info/en/downloads/older-versions/){:target="_blank"}. 
       *  **Include /Applications/MAMP/conf/apache/extra/httpd-autoindex.conf**  
-       Allows the use or disabling of dynamic documents depending on the language.
+       Configuration information on httpd-mpm.conf can be found [here](https://www.mamp.info/en/downloads/older-versions/){:target="_blank"}. 
       *  **Include /Applications/MAMP/conf/apache/extra/httpd-languages.conf**  
-       Allows the use or disabling of dynamic documents depending on the language.
+       Configuration information on httpd-mpm.conf can be found [here](https://www.mamp.info/en/downloads/older-versions/){:target="_blank"}. 
       *  **Include /Applications/MAMP/conf/apache/extra/httpd-info.conf**  
-       Allows the use or disabling of dynamic documents depending on the language.
+       Configuration information on httpd-mpm.conf can be found [here](https://www.mamp.info/en/downloads/older-versions/){:target="_blank"}. 
       *  **Include /Applications/MAMP/conf/apache/extra/httpd-manual.conf**  
-       Allows the use or disabling of dynamic documents depending on the language.
+       Configuration information on httpd-mpm.conf can be found [here](https://www.mamp.info/en/downloads/older-versions/){:target="_blank"}. 
       *  **Include /Applications/MAMP/conf/apache/extra/httpd-dav.conf**  
-       Allows the use or disabling of dynamic documents depending on the language.
+       Configuration information on httpd-mpm.conf can be found [here](https://www.mamp.info/en/downloads/older-versions/){:target="_blank"}. 
       *  **Include /Applications/MAMP/conf/apache/extra/httpd-default.conf**  
-       Allows the use or disabling of dynamic documents depending on the language.
+       Configuration information on httpd-mpm.conf can be found [here](https://www.mamp.info/en/downloads/older-versions/){:target="_blank"}. 
        
-       
-      *  **#**
-            Configuration information on httpd-mpm.conf can be found [here]. {:target="_blank"}       (https://httpd.apache.org/docs/2.2/en/mpm.html)
-      *  **#**  
-      *  **#**  
-      *  **#**  
-      *  **#**  
-      *  **#**  
-      *  **#**  **  
-      *  **#**  
+      
 
