@@ -77,7 +77,16 @@ Note: Watch out for typos, they will otherwise prevent Apache from starting up.
        Allows the use or disabling of dynamic documents depending on the language.
       *  **Multiviews**  
        Allows the use or disabling of dynamic documents depending on the language.
-
+      *  **Multiviews**  
+       Allows the use or disabling of dynamic documents depending on the language.
+      *  **Multiviews**  
+       Allows the use or disabling of dynamic documents depending on the language.
+      *  **Multiviews**  
+       Allows the use or disabling of dynamic documents depending on the language.
+      *  **Multiviews**  
+       Allows the use or disabling of dynamic documents depending on the language.
+       
+       
       *  **#Include /Applications/MAMP/conf/apache/extra/httpd-mpm.conf**
             Configuration information on httpd-mpm.conf can be found [here]. {:target="_blank"}       (https://httpd.apache.org/docs/2.2/en/mpm.html)
       *  **#Include /Applications/MAMP/conf/apache/extra/httpd-multilang-errordoc.conf**  
