@@ -75,7 +75,6 @@ Note: Watch out for typos, they will otherwise prevent Apache from starting up.
       *  **Include /Applications/MAMP/conf/apache/extra/httpd-autoindex.conf**  
        Configuration information on httpd-mpm.conf can be found [here](http://httpd.apache.org/docs/2.2/en/mod/mod_autoindex.html){:target="_blank"}. 
       *  **Include /Applications/MAMP/conf/apache/extra/httpd-languages.conf**  
-       Configuration information on httpd-mpm.conf can be found [here](https://www.mamp.info/en/downloads/older-versions/){:target="_blank"}. 
       *  **Include /Applications/MAMP/conf/apache/extra/httpd-info.conf**  
       *  **Include /Applications/MAMP/conf/apache/extra/httpd-manual.conf**  
       *  **Include /Applications/MAMP/conf/apache/extra/httpd-dav.conf**  
