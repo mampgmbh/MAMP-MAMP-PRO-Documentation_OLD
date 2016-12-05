@@ -62,3 +62,19 @@ Note: Watch out for typos, they will otherwise prevent Apache from starting up.
    You cannot directly edit your httpd.conf file in MAMP PRO. You need to make custom configurations through your httpd.conf template file. More information on how to [configure your httpd template file](../../../Menu/File#edit_templates) can be found in our Menu > File section.
 
    ![MAMP](../../../Videos/MAMPtv.png) [MAMP PRO and httpd.conf, php.ini,                      my.cnf](https://www.youtube.com/watch?v=tYLykP2CxMM){:target="_blank"}
+
+---
+
+*  **Additional Configuration**
+
+The configuration files in the /Applications/MAMP/conf/apache/extra/ directory can be included to add extra features or to modify the default configuration of the server. Uncomment any of the following configuration files to make customizations.
+
+#Include /Applications/MAMP/conf/apache/extra/httpd-mpm.conf
+#Include /Applications/MAMP/conf/apache/extra/httpd-multilang-errordoc.conf
+#Include /Applications/MAMP/conf/apache/extra/httpd-autoindex.conf
+#Include /Applications/MAMP/conf/apache/extra/httpd-languages.conf
+#Include /Applications/MAMP/conf/apache/extra/httpd-info.conf
+#Include /Applications/MAMP/conf/apache/extra/httpd-manual.conf
+#Include /Applications/MAMP/conf/apache/extra/httpd-dav.conf
+#Include /Applications/MAMP/conf/apache/extra/httpd-default.conf
+
