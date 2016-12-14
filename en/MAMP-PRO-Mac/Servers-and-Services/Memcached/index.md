@@ -6,7 +6,7 @@ product: MAMP PRO Mac
 language: en
 ---
 
-## Servers and Services > Nginx
+## Servers and Services > Memcached
 
-The Nginx Web Server is a popular web server used in production environments. An instance of Nginx is installed on your Mac by MAMP PRO.  Information on how to custom configure your Nginx Server can be found [here](../../Settings/Hosts/Nginx) . 
+Memcached is an in-memory key-value store for small chunks of arbitrary data. Information on how to custom configure your Memcache caching system can be found [here](../../Settings/Hosts/Nginx) . 
 
