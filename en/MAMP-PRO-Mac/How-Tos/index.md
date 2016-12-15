@@ -290,24 +290,6 @@ When MAMP PRO launched it's servers it (re) copied database data from the MAMP l
 
 ---
 
-### How to downgrade back to MAMP PRO 3 after using MAMP PRO 4 demo
-
-1. You can revert back to MAMP PRO 3.52 by downloading it [here](https://www.mamp.info/en/downloads/older-versions/){:target="_blank"} 
-
-
-2. Install MAMP PRO 3.52 over your current installation of MAMP PRO 4.xx. Do not use the uninstaller in `/Applications/MAMP PRO`, this will delete your database data.
-
-3. Did you make any modifications to your hosts while using the MAMP PRO 4 demo that would have altered your database?
-
-   NO - Rename your  `/Library/Application Support/appsolute/MAMP PRO/db/mysql56` folder
-
-   YES - Rename your `/Library/Application Support/appsolute/MAMP PRO/db/mysql` folder.
-            
-   Rename your  `/Library/Application Support/appsolute/MAMP PRO/db/mysql56` folder to 
-                     `/Library/Application Support/appsolute/MAMP PRO/db/mysql`.
-
-
-
 ### Check the Default Storage Engine of MySQL
 
 1. Open MAMP
