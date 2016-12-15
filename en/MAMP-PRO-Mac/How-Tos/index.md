@@ -383,7 +383,6 @@ The example uses PHP 7.0.13. Please be aware if you are installing ionCube for a
 1. Download [ionCube](http://www.ioncube.com/loaders.php){:target="_blank"} to your `/downloads` folder. Please download the OS X (64 bits) tar.gz version. 
 2. Unpack ioncube_loaders_darx86-64.tar.gz . In your resulting `/downloads/ioncube` directory there will be several files. Copy only the ioncube_loader_dar_7.0.so file to `/Applications/MAMP/bin/php/php7.0.13/lib/php/extensions/no-debug-non-zts-20151012`. The ioncube_loader_dar_7.0.so is good for all PHP 7.0 versions.
 3. Add the following line to your php 7.013 template file. You can reach your template files in MAMP PRO through the menu bar, File > Edit Template > PHP > 7.0.13 . Be sure this line is above all other Zend directives.
-
 zend_extension = /Applications/MAMP/bin/php/php7.0.13/lib/php/extensions/no-debug-non-zts-20151012/ioncube_loader_dar_7.0.so
 ![MAMP](phpTemplate.png)
 4. Restart your servers in MAMP PRO.
