@@ -372,3 +372,20 @@ You can create a host and corresponding database for this host using the command
    `/Applications/MAMP\ PRO/MAMP\ PRO.app/Contents/MacOS/MAMP\ PRO cmd stopServers`
    
 This will create a host with the name 'TestHost', with a document root of '/Applications/MAMP/htdocs2', and a database named 'testDB'. MAMP PRO will briefly open both when the servers are started, stopped, as well as when the host is created. MAMP PRO will then quit again each time. When you re open MAMP PRO you will see your new host and database.
+
+
+---
+
+### Install ionCube
+
+The example is for PHP 7.0.13. Please be aware if you are installing ionCube for a different version you will need to use a different file version, and install to the corresponding version directory.
+
+1. Download ionCube from  http://www.ioncube.com/loaders.php
+	Please download the OS X (64 bits) tar.gz version. 
+2. Unpack ioncube_loaders_darx86-64.tar.gz . In the resulting /ioncube directory there will be several files. Copy the ioncube_loader_dar_7.0.so file to `/Applications/MAMP/bin/php/php7.0.13/lib/php/extensions/no-debug-non-zts-20151012`
+3. Add the following line to your php 7.013 template file. Be sure this line is above all other Zend directives.
+  zend_extension = /Applications/MAMP/bin/php/php7.0.13/lib/php/extensions/no-debug-non-zts-20151012/ioncube_loader_dar_7.0.so
+4. Restart your servers in MAMP PRO.
+5. To verify it is loaded using php.ini. You should see the following.
+
+
