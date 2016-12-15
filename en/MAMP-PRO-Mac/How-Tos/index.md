@@ -174,7 +174,7 @@ $success = mysqli_real_connect(
 
 <a name="python_connect"></a>
 
-### How To Connect To MySQL using Python 
+### How to connect to MySQL using Python 
 
 {% highlight php %}
 
@@ -281,7 +281,7 @@ my $link = DBI->connect(
 ---
 <a name="upgrade_to_mamp_pro_missing_databases"></a>
 
-### How To Transfer Your Databases From MAMP To MAMP PRO 
+### How to transfer database data from MAMP to MAMP PRO
 
 1. Stop your servers and close any instances of MAMP and MAMP PRO.
 2. Open your Mac Finder and navigate to `/Library/application data/appsolute/MAMP PRO`.
