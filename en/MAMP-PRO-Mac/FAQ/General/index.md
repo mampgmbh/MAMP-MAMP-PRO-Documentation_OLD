@@ -20,9 +20,9 @@ Yes, all updates in the current major version (4.x) are free of charge. To updat
 
 ---
 
-### Is MAMP PRO compatible with Mac OS X 10.11 (El Capitan)?
+### Is MAMP PRO compatible with Mac OS X 10.12 (Sierra)?
 
-Yes, MAMP PRO is indeed compatible with Mac OS X 10.11 (El Capitan).
+Yes, MAMP PRO is indeed compatible with Mac OS X 10.12 (Sierra).
 
 ---
 
@@ -32,33 +32,9 @@ Both applications, MAMP as well as MAMP PRO, are configuration tools for the too
 
 ---
 
-### Which PHP modules are included?
-
-To find out which PHP modules are included click on the (i) button in the host section when the servers are running. It will open a web page showing information about the selected PHP software.
-
----
-
-### Where do I find my registration number?
-
-Open  MAMP PRO > About MAMP PRO in the menu.
-
----
-
 ### Is it possible to add an updated version of PHP?
 
 You can add additional PHP versions through the user interface.  More information on how to do this can  be  found [here](../../Languages/PHP){:target="_blank"}.
-
----
-
-### Can the port assignment be the same for MAMP and MAMP PRO?
-
-You can set the same ports for MAMP and MAMP PRO but it is not recommended to run both applications at the same time.
-
----
-
-### Where should I store my HTML and PHP pages?
-
-By default, PHP and HTML Pages should be stored inside the MAMP `/Applications/MAMP/htdocs` folder. This folder is called "Document Root". The location of the document root folder can be changed in the host settings. Each additional host should have their own document root folder.
 
 ---
 
@@ -73,12 +49,6 @@ The ImageMagick PHP module is included by default, but you must enable it inside
 ### Which Apache modules are included?
 
 Apache modules are located in the `/Applications/MAMP/Library/modules` folder.
-
----
-
-### Is it possible to install MAMP PRO on an external drive?
-
-No, MAMP PRO (as well as MAMP) has to be installed on the system drive.
 
 ---
 
