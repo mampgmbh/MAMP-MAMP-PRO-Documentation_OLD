@@ -1,12 +1,12 @@
 ---
-title: MAMP PRO (Mac) Documentation
+title: MAMP PRO (Mac) Documentation > Settings > Hosts > Extras > phpBB
 description: 
 layout: default-2
 product: MAMP PRO Mac
 language: en
 ---
 
-## phpBB
+## Settings > Hosts > Extras > phpBB
 
 phpBB is an Internet forum package written in the PHP scripting language. More information about phpBB can be found [here](https://www.phpbb.com){:target="_blank"}.
 
