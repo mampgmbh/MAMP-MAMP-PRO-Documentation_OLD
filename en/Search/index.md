@@ -20,7 +20,7 @@ var tipuesearch_pages = [{% for page in site.pages %}"{{page.url}}"{% if forloop
 
 var tipuesearch = {"pages": [
 {% for page in site.pages %}
-{"title": "{{page.title}}", "text": "", "tags": "", "url": "{{page.url}}}{% if forloop.last == false %},{% endif %}
+{"title": "{{page.title}}", "text": "", "tags": "", "url": "{{page.url}}"}{% if forloop.last == false %},{% endif %}
 {% endfor %}
 ]};
 
