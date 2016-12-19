@@ -6,7 +6,7 @@ product: MAMP PRO Mac
 language: en
 ---
 
-## Wordpress
+## Settings > Hosts > Extras > Wordpress
 
 WordPress is a free and open-source content management system based on PHP and MySQL. More information about Wordpress can be found [here](https://www.wordpress.org){:target="_blank"}.
 
