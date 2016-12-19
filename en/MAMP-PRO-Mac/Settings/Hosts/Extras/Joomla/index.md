@@ -1,12 +1,12 @@
 ---
-title: MAMP PRO (Mac) Documentation
+title: MAMP PRO (Mac) Documentation > Settings > Hosts > Extras > Joomla
 description: 
 layout: default-2
 product: MAMP PRO Mac
 language: en
 ---
 
-## Joomla
+## Settings > Hosts > Extras > Joomla
 
 Joomla is a free and open-source content management system. More information about Joomla can be found [here](https://www.joomla.org){:target="_blank"}.
 
