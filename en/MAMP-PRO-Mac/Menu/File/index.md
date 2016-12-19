@@ -1,12 +1,12 @@
 ---
-title: MAMP PRO (Mac) Documentation
+title: MAMP PRO (Mac) Documentation > Menu > File
 description: 
 layout: default-2
 product: MAMP PRO Mac
 language: en
 ---
 
-##  File
+##  Menu > File
 
 ### Edit Template:<a name="edit_templates"></a>
 
