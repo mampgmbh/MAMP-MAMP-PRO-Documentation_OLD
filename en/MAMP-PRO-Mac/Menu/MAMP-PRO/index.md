@@ -1,12 +1,12 @@
 ---
-title: MAMP PRO (Mac) Documentation
+title: MAMP PRO (Mac) Documentation > Menu > MAMP PRO
 description: 
 layout: default-2
 product: MAMP PRO Mac
 language: en
 ---
 
-## MAMP PRO
+## Menu > MAMP PRO
 
 ### About MAMP PRO
 
