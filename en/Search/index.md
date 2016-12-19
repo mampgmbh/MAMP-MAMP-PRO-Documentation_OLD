@@ -7,6 +7,11 @@ language: en
 
 ## Search
 
+{% for page in site.pages %}
+  <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
+  <p>{{ page.content }}</p>
+{% endfor %}
+
 <form action="/en/Search/">
   <input type="text" name="q" id="tipue_search_input" autocomplete="off" required>
 </form>
