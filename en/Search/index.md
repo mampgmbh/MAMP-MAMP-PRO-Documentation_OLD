@@ -15,15 +15,15 @@ language: en
 <script>
 
 var tipuesearch = {"pages": [
-  {% for page in site.pages %}
-    {% if page.url contains "/en/" %} class="active"
-      {"title": "{{page.title}}", "text": "", "tags": "", "url": "{{page.url}}"},
-    {% endif %}
-  {% endfor %}
-  {"title": "", "text": "", "tags": "", "url": ""}
+{% for page in site.pages %}
+{% if page.url contains "/en/" %}
+{"title": "{{page.title}}", "text": "", "tags": "", "url": "{{page.url}}"},
+{% endif %}
+{% endfor %}
+{"title": "", "text": "", "tags": "", "url": ""}
 ]};
 
 $(document).ready(function() {
-     $('#tipue_search_input').tipuesearch();
+  $('#tipue_search_input').tipuesearch();
 });
 </script>
