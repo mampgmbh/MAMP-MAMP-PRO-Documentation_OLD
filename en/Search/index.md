@@ -7,8 +7,8 @@ language: en
 
 ## Search
 
-<form action="/en/Search/">
-  <input type="text" name="q" id="tipue_search_input" autocomplete="off" required>
+<form action="/en/Search/" method="get">
+  <p><input type="text" name="q" id="tipue_search_input" autocomplete="off" required> <input type="submit" value="Search"></p>
 </form>
 <div id="tipue_search_content"></div>
 
