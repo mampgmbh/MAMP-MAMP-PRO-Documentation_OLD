@@ -29,7 +29,8 @@ var tipuesearch = {"pages": [
 $(document).ready(function() {
   $('#tipue_search_input').tipuesearch({
     'mode': 'static',
-    'show': 100
+    'show': 100,
+    'showTitleCount': false
   });
 });
 </script>
