@@ -1,5 +1,5 @@
 ---
-title: MAMP PRO (Mac) Documentation
+title: MAMP PRO (Mac) Documentation > Upgrading From MAMP To MAMP PRO
 description: 
 layout: default-2
 product: MAMP PRO Mac
