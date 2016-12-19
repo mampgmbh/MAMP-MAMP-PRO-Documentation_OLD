@@ -1,6 +1,6 @@
 ---
-title: MAMP (Mac) Documentation
-description: Search
+title: MAMP & MAMP PRO Documentation > Search
+description: MAMP & MAMP PRO Documentation Search
 layout: default-1
 language: en
 ---
