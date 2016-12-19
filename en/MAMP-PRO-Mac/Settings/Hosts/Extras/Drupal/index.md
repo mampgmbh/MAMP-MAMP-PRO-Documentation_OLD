@@ -1,12 +1,12 @@
 ---
-title: MAMP PRO (Mac) Documentation
+title: MAMP PRO (Mac) Documentation > Settings > Hosts > Extras > Drupal
 description: 
 layout: default-2
 product: MAMP PRO Mac
 language: en
 ---
 
-## Drupal
+## Settings > Hosts > Extras > Drupal
 
 Drupal is content management software. It's used to make many of the websites and applications you use every day. More information about Drupal can be found [here](https://www.drupal.org){:target="_blank"}.
 
