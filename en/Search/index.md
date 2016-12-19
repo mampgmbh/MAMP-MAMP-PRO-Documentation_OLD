@@ -15,11 +15,13 @@ language: en
 <div id="tipue_search_content"></div>
 
 <script>
+
+var tipuesearch_pages = [{% for page in site.pages %}"{{page.url}}"{% if forloop.last == false %},{% endif %}{% endfor %}];
+
 $(document).ready(function() {
      $('#tipue_search_input').tipuesearch({
           'mode': 'live',
-          'liveContent': '#content',
-          'pages': [{% for page in site.pages %}"{{page.url}}"{% if forloop.last == false %},{% endif %}{% endfor %}]
+          'liveContent': '#content'
      });
 });
 </script>
