@@ -1,5 +1,5 @@
 ---
-title: MAMP PRO (Mac) Documentation
+title: MAMP PRO (Mac) Documentation > Settings > Hosts > Apache
 description: 
 layout: default-2
 product: MAMP PRO Mac
@@ -8,7 +8,7 @@ language: en
 
 ## Settings > Hosts > Apache
 
-Apache options can be set for the selected virtual host in the table. These options are security relevant! More information about configuring your Apache Server can be found at the [Apache website](https://httpd.apache.org/docs/2.2/){:target="_blank"} .
+Apache options can be set for the selected virtual host in the table. These options are security relevant! More information about configuring your Apache Server can be found at the [Apache website](https://httpd.apache.org/docs/2.2/){:target="_blank"}.
 
 ![MAMP](Apache.png)
 
