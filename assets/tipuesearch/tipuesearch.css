@@ -25,8 +25,8 @@ http://www.tipue.com/search
 
 #tipue_search_content
 {
-     max-width: 650px;
-	padding-top: 15px;
+     /*max-width: 650px;*/
+	/*padding-top: 15px;*/
 	margin: 0;
 }
 #tipue_search_warning
@@ -56,12 +56,12 @@ http://www.tipue.com/search
 }
 .tipue_search_content_title a
 {
-     color: #333;
+     color: #3362b3;
      text-decoration: none;
 }
 .tipue_search_content_title a:hover
 {
-     color: #555;
+     color: #3362b3;
 }
 .tipue_search_content_url
 {
@@ -71,12 +71,12 @@ http://www.tipue.com/search
 }
 .tipue_search_content_url a
 {
-     color: #396;
+     color: #3362b3;
      text-decoration: none;
 }
 .tipue_search_content_url a:hover
 {
-     color: #555;   
+     color: #3362b3;   
 }
 .tipue_search_content_text
 {
