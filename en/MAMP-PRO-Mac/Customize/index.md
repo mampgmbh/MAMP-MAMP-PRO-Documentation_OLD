@@ -1,12 +1,12 @@
 ---
-title: MAMP PRO (Mac) Documentation
+title: MAMP PRO (Mac) Documentation > Customize
 description: 
 layout: default-2
 product: MAMP PRO Mac
 language: en
 ---
 
-## 7. Customize
+## Customize
 
 Add your favorite short cuts the tool bar with the customize menu.
 
