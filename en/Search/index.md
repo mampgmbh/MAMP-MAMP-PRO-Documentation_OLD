@@ -14,12 +14,16 @@ language: en
 
 <script>
 var tipuesearch = {"pages": [
-{% for page in site.pages %}
-{% if page.url contains "/en/" %}
-{"title": "{{page.title}}", "text": "", "tags": "", "url": "{{page.url}}"},
-{% endif %}
-{% endfor %}
-{"title": "", "text": "", "tags": "", "url": ""}
+  {% for page in site.pages %}
+    {% if page.url contains "/en/" %}
+      {% if page.url contains "/en/search/" %}
+          
+        {% else %}
+          {"title": "{{page.title}}", "text": "{{page.title | strip_html}}", "tags": "", "url": "{{page.url}}"},
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  {"title": "", "text": "", "tags": "", "url": ""}
 ]};
 
 $(document).ready(function() {
