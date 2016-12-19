@@ -19,9 +19,12 @@ language: en
 var tipuesearch_pages = [{% for page in site.pages %}"{{page.url}}"{% if forloop.last == false %},{% endif %}{% endfor %}];
 
 var tipuesearch = {"pages": [
-{% for page in site.pages %}
-{"title": "{{page.title}}", "text": "", "tags": "", "url": "{{page.url}}"}{% if forloop.last == false %},{% endif %}
-{% endfor %}
+  {% for page in site.pages %}
+    {% if page.url contains "/en/" %} class="active"
+      {"title": "{{page.title}}", "text": "", "tags": "", "url": "{{page.url}}"},
+    {% endif %}
+  {% endfor %}
+  {"title": "", "text": "", "tags": "", "url": ""}
 ]};
 
 $(document).ready(function() {
