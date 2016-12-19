@@ -1,12 +1,12 @@
 ---
-title: MAMP PRO (Mac) Documentation
+title: MAMP PRO (Mac) Documentation > Menu > Window
 description: 
 layout: default-2
 product: MAMP PRO Mac
 language: en
 ---
 
-##  Window
+## Menu > Window
 
 
 <a name="overview"></a> 
