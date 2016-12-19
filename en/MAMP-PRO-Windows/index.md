@@ -1,5 +1,5 @@
 ---
-title: MAMP PRO Documentation
+title: MAMP PRO (Windows) Documentation
 description: This is the MAMP PRO Documentation
 layout: default-1
 ---
