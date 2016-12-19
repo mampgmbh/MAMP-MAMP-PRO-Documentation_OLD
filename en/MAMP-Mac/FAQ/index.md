@@ -1,5 +1,5 @@
 ---
-title: MAMP (Mac) Documentation - FAQ
+title: MAMP (Mac) Documentation > FAQ
 description: 
 layout: default-2
 product: MAMP Mac
