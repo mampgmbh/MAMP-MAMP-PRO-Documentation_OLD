@@ -6,8 +6,6 @@ Tipue Search is released under the MIT License
 http://www.tipue.com/search
 */
 
-var tipuesearch_pages = [{% for page in site.pages %}"{{page.url}}",{% endfor %}];
-
 /*
 Stop words
 Stop words list from http://www.ranks.nl/stopwords
