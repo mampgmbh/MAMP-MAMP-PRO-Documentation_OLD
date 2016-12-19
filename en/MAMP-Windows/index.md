@@ -1,5 +1,5 @@
 ---
-title: MAMP Documentation
+title: MAMP (Windows) Documentation
 description: This is the MAMP Documentation
 layout: default-1
 ---
