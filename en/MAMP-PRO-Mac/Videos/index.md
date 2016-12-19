@@ -1,5 +1,5 @@
 ---
-title: MAMP PRO (Mac) Documentation
+title: MAMP PRO (Mac) Documentation > Video Documentation
 description: Video Documentation
 layout: default-2
 product: MAMP PRO Mac
