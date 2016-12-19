@@ -24,12 +24,14 @@ http://www.tipue.com/search
 */
 }
 
-#tipue_search_content
-{
-     /*max-width: 650px;*/
-	/*padding-top: 15px;*/
+#tipue_search_content {
+/*
+	max-width: 650px;
+	padding-top: 15px;
 	margin: 0;
+*/
 }
+	
 #tipue_search_warning
 {
      font: 300 15px/1.6 'Open Sans', sans-serif;
