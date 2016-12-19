@@ -1,12 +1,12 @@
 ---
-title: MAMP PRO (Mac) Documentation
+title: MAMP PRO (Mac) Documentation > Settings > Hosts > Extras > Mediawiki
 description: 
 layout: default-2
 product: MAMP PRO Mac
 language: en
 ---
 
-## Mediawiki
+## Settings > Hosts > Extras > Mediawiki
 
 MediaWiki is a free software open source wiki package written in PHP, originally for use on Wikipedia. It is now also used by several other projects of the non-profit Wikimedia Foundation and by many other wikis. You can find more information about MediaWiki [here](https://www.mediawiki.org){:target="_blank"}.
 
