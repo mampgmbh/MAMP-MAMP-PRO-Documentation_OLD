@@ -1,12 +1,12 @@
 ---
-title: MAMP PRO (Mac) Documentation
+title: MAMP PRO (Mac) Documentation > Settings > Hosts > Extras > Magento
 description: 
 layout: default-2
 product: MAMP PRO Mac
 language: en
 ---
 
-## Magento
+## Settings > Hosts > Extras > Magento
 
 Magento Commerce is a popular php based e-commerce platform. More information about Magento can be found [here](https://www.magento.com){:target="_blank"}.
 
