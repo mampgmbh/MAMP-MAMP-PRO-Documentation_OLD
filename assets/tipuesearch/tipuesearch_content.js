@@ -15,4 +15,4 @@ var tipuesearch = {"pages": [
 ]};
 
 
-
+[{% for page in site.pages %}"{{page.url}}"{% if forloop.last == false %},{% endif %}{% endfor %}]
