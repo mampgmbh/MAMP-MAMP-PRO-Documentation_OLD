@@ -1,5 +1,5 @@
 ---
-title: MAMP PRO (Mac) Documentation
+title: MAMP PRO (Mac) Documentation > Languages > Python
 description: 
 layout: default-2
 product: MAMP PRO Mac
