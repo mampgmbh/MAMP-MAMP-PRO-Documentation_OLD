@@ -1,5 +1,5 @@
 ---
-title: MAMP PRO (Mac) Documentation
+title: MAMP PRO (Mac) Documentation > Settings > Hosts > SSL
 description: 
 layout: default-2
 product: MAMP PRO Mac
