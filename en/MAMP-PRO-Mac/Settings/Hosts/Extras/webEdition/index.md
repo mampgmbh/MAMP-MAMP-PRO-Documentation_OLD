@@ -1,12 +1,12 @@
 ---
-title: MAMP PRO (Mac) Documentation
+title: MAMP PRO (Mac) Documentation > Settings > Hosts > Extras > webEdition
 description: 
 layout: default-2
 product: MAMP PRO Mac
 language: en
 ---
 
-## webEdition
+## Settings > Hosts > Extras > webEdition
 
 webEdition is an open source web application framework and content management system. webEdition will always be installed in a folder called webEdition inside the document root folder. More information about webEdition can be found [here](https://www.webedition.org){:target="_blank"}.
 
