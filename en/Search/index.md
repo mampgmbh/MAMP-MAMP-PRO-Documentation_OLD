@@ -19,7 +19,7 @@ var tipuesearch = {"pages": [
       {% if page.url contains "/en/search/" %}
           
         {% else %}
-          {"title": "{{page.title}}", "text": "{{page.content | strip_html | strip_newlines}}", "tags": "", "url": "{{page.url}}"},
+          {"title": "{{page.title}}", "text": "{{page.content | strip_html | strip_newlines | xml_escape}}", "tags": "", "url": "{{page.url}}"},
       {% endif %}
     {% endif %}
   {% endfor %}
