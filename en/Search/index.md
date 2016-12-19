@@ -7,7 +7,7 @@ language: en
 
 ## Search
 
-{% for page in site.pages %}{{page.url}},{% endfor %}
+<!--{% for page in site.pages %}{{page.url}},{% endfor %}-->
 
 <form action="/en/Search/">
   <input type="text" name="q" id="tipue_search_input" autocomplete="off" required>
@@ -19,7 +19,7 @@ $(document).ready(function() {
      $('#tipue_search_input').tipuesearch({
           'mode': 'live',
           'liveContent': '#content',
-          'pages': [{% for page in site.pages %}"{{page.url}}",{% endfor %}]
+          'pages': [{% for page in site.pages %}"{{page.url}}"{% if forloop.last == false %},{% endif %}{% endfor %}]
      });
 });
 </script>
