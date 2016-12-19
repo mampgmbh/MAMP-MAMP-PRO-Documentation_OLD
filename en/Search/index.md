@@ -18,7 +18,8 @@ language: en
 $(document).ready(function() {
      $('#tipue_search_input').tipuesearch({
           'mode': 'live',
-          'liveContent': '#content'
+          'liveContent': '#content',
+          'pages': [{% for page in site.pages %}"{{page.url}}",{% endfor %}]
      });
 });
 </script>
