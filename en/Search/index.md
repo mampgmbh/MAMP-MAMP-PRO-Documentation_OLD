@@ -13,7 +13,6 @@ language: en
 <div id="tipue_search_content"></div>
 
 <script>
-
 var tipuesearch = {"pages": [
 {% for page in site.pages %}
 {% if page.url contains "/en/" %}
@@ -24,6 +23,9 @@ var tipuesearch = {"pages": [
 ]};
 
 $(document).ready(function() {
-  $('#tipue_search_input').tipuesearch();
+  $('#tipue_search_input').tipuesearch({
+    'mode': static,
+    'show': 100
+  });
 });
 </script>
