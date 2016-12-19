@@ -1,7 +1,7 @@
 ---
 title: MAMP (Mac) Documentation
 description: Search
-layout: default-2
+layout: default-1
 language: en
 ---
 
