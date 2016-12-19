@@ -6,7 +6,7 @@ Tipue Search is released under the MIT License
 http://www.tipue.com/search
 */
 
-var tipuesearch_pages = ["http://documentation.mamp.info/en/MAMP-Mac/"];
+var tipuesearch_pages = ["http://documentation.mamp.info/en/"];
 
 /*
 Stop words
