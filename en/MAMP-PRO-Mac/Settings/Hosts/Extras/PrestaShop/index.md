@@ -1,12 +1,12 @@
 ---
-title: MAMP PRO (Mac) Documentation
+title: MAMP PRO (Mac) Documentation > Settings > Hosts > Extras > Prestashop
 description: 
 layout: default-2
 product: MAMP PRO Mac
 language: en
 ---
 
-## Prestashop
+## Settings > Hosts > Extras > Prestashop
 
 PrestaShop is a free, open source e-commerce solution. More information about PrestaShop can be found [here](https://www.prestashop.com){:target="_blank"}.
 
