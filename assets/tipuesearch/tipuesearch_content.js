@@ -13,6 +13,3 @@ var tipuesearch = {"pages": [
      {"title": "The Tipue blog - Native HTML5 autocomplete with input list", "text": "This article shows how with the HTML5 input list attribute and datalist element you can easily set up an input box with a custom autocomplete without jQuery, JavaScript or similar.", "tags": "", "url": "http://www.tipue.com/blog/input-list"},
      {"title": "The Tipue blog - The really simple guide to z-index", "text": "The CSS z-index property often trips up new and even experienced developers. The aim of this article is to boil down a somewhat-complex specification to 3 major points, which should ease most z-index pain.", "tags": "", "url": "http://www.tipue.com/z-index"}
 ]};
-
-
-[{% for page in site.pages %}"{{page.url}}"{% if forloop.last == false %},{% endif %}{% endfor %}]
