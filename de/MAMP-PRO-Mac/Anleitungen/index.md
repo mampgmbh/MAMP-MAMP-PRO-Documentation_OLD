@@ -1,5 +1,5 @@
 ---
-title: MAMP PRO (Mac) Dokumentation
+title: MAMP PRO (Mac) Dokumentation - Anleitungen
 description: 
 layout: default-2
 product: MAMP PRO Mac
@@ -8,7 +8,7 @@ language: de
 
 ## Anleitungen
 
-### Activating Output Buffering
+### Output Buffering aktivieren
 
 Starten Sie MAMP PRO
 Wählen Sie aus dem Menü Ablage -> Vorlage Editieren den Menüpunkt PHP 5.5.x php.ini beziehungsweise PHP 5.5.x php.ini
