@@ -29,7 +29,8 @@ $(document).ready(function() {
   $('#tipue_search_input').tipuesearch({
     'mode': 'static',
     'show': 100,
-    'showTitleCount': false
+    'showTitleCount': false,
+    'minimumLength': 1
   });
 });
 </script>
