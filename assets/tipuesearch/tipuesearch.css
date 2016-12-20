@@ -32,45 +32,19 @@ http://www.tipue.com/search
 	margin-top: 1.0rem;
 }
 
-.tipue_search_content_title a {
-}
-
-.tipue_search_content_title a:hover {
-}
-
-.tipue_search_content_url
-{
-     font: 300 14px/1.9 'Open Sans', sans-serif;
+.tipue_search_content_url {
      word-wrap: break-word;
      hyphens: auto;
-}
-.tipue_search_content_url a
-{
-     color: #3362b3;
-     text-decoration: none;
-}
-.tipue_search_content_url a:hover
-{
-     color: #3362b3;   
 }
 
 .tipue_search_content_text {
-     font: 300 15px/1.6 'Open Sans', sans-serif;
-	color: #555;
-     word-wrap: break-word;
-     hyphens: auto;
-     margin-top: 3px;
 	display: none;
 }
 
-.tipue_search_content_debug
-{
-     font: 300 13px/1.6 'Open Sans', sans-serif;
-	color: #555;
-     margin: 5px 0;
+.tipue_search_content_debug {
 }
-.h01
-{
+
+.h01 {
      color: #333;
      font-weight: 400;
 }
