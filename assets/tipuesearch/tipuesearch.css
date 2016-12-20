@@ -33,8 +33,9 @@ http://www.tipue.com/search
 }
 
 .tipue_search_content_url {
-     word-wrap: break-word;
-     hyphens: auto;
+	font-size: 0.8rem;
+	word-wrap: break-word;
+	hyphens: auto;
 }
 
 .tipue_search_content_text {
