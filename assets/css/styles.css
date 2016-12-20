@@ -68,7 +68,7 @@ footer p {
 }
 
 .sidebar form {
-    margin-right: 0.8rem;
+  margin-right: 0.8rem;
 }
 
 .sidebar form input[type=text] {
@@ -76,7 +76,7 @@ footer p {
 }
 
 .sidebar form input[type=submit] {
-  /*width: 100%;*/
+  width: 100%;
 }
 
 .sidebar ul li a {
