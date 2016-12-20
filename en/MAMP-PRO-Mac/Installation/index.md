@@ -1,5 +1,5 @@
 ---
-title: MAMP PRO (Mac) Documentation -> Installing And Upgrading
+title: MAMP PRO (Mac) Documentation > Installing And Upgrading
 description: 
 layout: default-2
 product: MAMP PRO Mac
