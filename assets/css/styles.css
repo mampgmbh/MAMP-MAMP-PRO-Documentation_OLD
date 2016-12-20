@@ -76,7 +76,7 @@ footer p {
 }
 
 .sidebar form input[type=submit] {
-  width: 100%;
+  /*width: 100%;*/
 }
 
 .sidebar ul li a {
