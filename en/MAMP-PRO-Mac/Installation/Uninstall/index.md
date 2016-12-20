@@ -1,5 +1,5 @@
 ---
-title: MAMP PRO (Mac) Documentation -> Uninstalling MAMP PRO
+title: MAMP PRO (Mac) Documentation > Uninstalling MAMP PRO
 description: 
 layout: default-2
 product: MAMP PRO Mac
