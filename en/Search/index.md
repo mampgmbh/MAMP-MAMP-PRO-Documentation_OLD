@@ -1,7 +1,7 @@
 ---
 title: MAMP & MAMP PRO Documentation > Search
 description: MAMP & MAMP PRO Documentation Search
-layout: default-1
+layout: default-2
 language: en
 ---
 
