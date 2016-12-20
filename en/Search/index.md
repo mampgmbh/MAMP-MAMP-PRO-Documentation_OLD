@@ -16,7 +16,7 @@ var tipuesearch = {"pages": [
       {% if page.url contains "/en/Search/" %}
           
         {% else %}
-          {"title": "{{page.title}}", "text": "", "tags": "", "url": "{{page.url}}"},
+          {"title": "{{page.title | replace_first: ' Documentation', ''}}", "text": "", "tags": "", "url": "{{page.url}}"},
       {% endif %}
     {% endif %}
   {% endfor %}
