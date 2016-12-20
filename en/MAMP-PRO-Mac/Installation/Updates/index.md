@@ -1,5 +1,5 @@
 ---
-title: MAMP PRO (Mac) Documentation -> In-App Updates
+title: MAMP PRO (Mac) Documentation > In-App Updates
 description: 
 layout: default-2
 product: MAMP PRO Mac
