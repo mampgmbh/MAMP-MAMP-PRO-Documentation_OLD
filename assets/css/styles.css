@@ -67,6 +67,15 @@ footer p {
   font-size: 0.8rem;
 }
 
+.sidebar form {
+    padding-left: 1.5rem;
+    margin-right: 0.8rem;
+}
+
+.sidebar form input[type=submit] {
+  width: 100%;
+}
+
 .sidebar ul li a {
     display: block;
     padding: 0.4rem 0 0.4rem 0;
