@@ -10,6 +10,11 @@
 			</h1>
 		</div>
 		<div class="col-xxs-12 col-xs-12 col-s-3 col-m-3 col-l-3">
+			{% if page.language == "en" %}
+				<form action="/en/Search/" method="get">
+					<input type="text" name="q" id="tipue_search_input" autocomplete="off" placeholder="Search term" required>
+				</form>
+			{% endif %}
 		</div>
 	</div>
 </header>
