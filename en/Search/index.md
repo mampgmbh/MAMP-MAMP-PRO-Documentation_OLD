@@ -16,7 +16,7 @@ language: en
 var tipuesearch = {"pages": [
   {% for page in site.pages %}
     {% if page.url contains "/en/" %}
-      {% if page.url contains "/en/search/" %}
+      {% if page.url contains "/en/Search/" %}
           
         {% else %}
           {"title": "{{page.title}}", "text": "", "tags": "", "url": "{{page.url}}"},
