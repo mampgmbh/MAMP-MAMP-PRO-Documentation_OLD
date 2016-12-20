@@ -10,8 +10,5 @@ language: en
 
 ### What is MAMP PRO?
 
-
 - [General](General/)  
-- [MySQL](MySQL/)  
-
-
+- [MySQL](MySQL/)
