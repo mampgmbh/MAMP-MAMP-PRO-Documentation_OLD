@@ -32,21 +32,27 @@ http://www.tipue.com/search
 */
 }
 	
-#tipue_search_warning
-{
+#tipue_search_warning {
+/*
      font: 300 15px/1.6 'Open Sans', sans-serif;
 	color: #555;
 	margin: 7px 0;
+*/
 }
-#tipue_search_warning a
-{
-     color: #396;
+
+#tipue_search_warning a {
+/*
+    color: #396;
      text-decoration: none;
+*/
 }
-#tipue_search_warning a:hover
-{
-     color: #555;  
+
+#tipue_search_warning a:hover {
+/*
+	color: #555;  
+*/
 }
+
 #tipue_search_results_count
 {
      font: 300 15px/1.7 'Open Sans', sans-serif;
