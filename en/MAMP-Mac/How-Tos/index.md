@@ -8,7 +8,7 @@ language: en
 
 ## How Tos
 
-### Change the password of the MySQL root user?
+### Change the password of the MySQL root user
 
 Open the Mac OS Terminal Application located in your /Applications/Utilities directory. 
 
