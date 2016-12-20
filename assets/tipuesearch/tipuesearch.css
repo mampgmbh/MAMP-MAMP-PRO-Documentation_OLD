@@ -38,6 +38,10 @@ http://www.tipue.com/search
 	hyphens: auto;
 }
 
+.tipue_search_content_url a {
+	color: #262626;
+}
+
 .tipue_search_content_text {
 	display: none;
 }
