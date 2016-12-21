@@ -2,7 +2,18 @@
 <ul class="no-bullets">
 	<li><a href="/en/MAMP-Mac/Installation/"{% if page_url contains "/en/MAMP-Mac/Installation/" %} class="active"{% endif %}>Installation</a></li>
 	<li><a href="/en/MAMP-Mac/First-Steps/"{% if page_url contains "/en/MAMP-Mac/First-Steps/" %} class="active"{% endif %}>First-Steps</a></li>
-	<li><a href="/en/MAMP-Mac/Preferences/"{% if page_url contains "/en/MAMP-Mac/Preferences/" %} class="active"{% endif %}>Preferences</a></li>
+	<li>
+		<a href="/en/MAMP-Mac/Preferences/"{% if page_url contains "/en/MAMP-Mac/Preferences/" %} class="active"{% endif %}>Preferences</a></li>
+		{% if page_url contains "/en/MAMP-Mac/Preferences/" %}
+			<ul class="no-bullets">
+				<li><a href="/en/MAMP-Mac/Preferences/Start-Stop/"{% if page_url contains "/en/MAMP-Mac/Preferences/Start-Stop/" %} class="active"{% endif %}>Start/Stop</a></li>
+				<li><a href="/en/MAMP-Mac/Preferences/Ports/"{% if page_url contains "/en/MAMP-Mac/Preferences/Ports/" %} class="active"{% endif %}>Ports</a></li>
+				<li><a href="/en/MAMP-Mac/Preferences/PHP/"{% if page_url contains "/en/MAMP-Mac/Preferences/PHP/" %} class="active"{% endif %}>PHP/</a></li>
+				<li><a href="/en/MAMP-Mac/Preferences/Web-Server/"{% if page_url contains "/en/MAMP-Mac/Preferences/Web-Server/" %} class="active"{% endif %}>Web Server</a></li>
+				<li><a href="/en/MAMP-Mac/Preferences/MySQL/"{% if page_url contains "/en/MAMP-Mac/Preferences/MySQL/" %} class="active"{% endif %}>MySQL</a></li>
+				<li><a href="/en/MAMP-Mac/Preferences/Open-WebStart-Page/"{% if page_url contains "/en/MAMP-Mac/Preferences/Open-WebStart-Page/" %} class="active"{% endif %}>Open WebStart Page</a></li>
+			</ul>
+		{% endif %}
 	<li><a href="/en/MAMP-Mac/FAQ/"{% if page_url contains "/en/MAMP-Mac/FAQ/" %} class="active"{% endif %}>FAQ</a></li>
 	<li>
 		<a href="/en/MAMP-Mac/How-Tos/"{% if page_url contains "/en/MAMP-Mac/How-Tos/" %} class="active"{% endif %}>How-Tos</a>
