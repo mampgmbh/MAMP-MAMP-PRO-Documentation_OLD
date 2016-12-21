@@ -6,14 +6,6 @@ layout: null
   {% for page in site.pages %}
     <url>
       <loc>{{ site.url }}{{ page.url }}</loc>
-      
-          {% if page.lastmod == null %}
-    <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
-    {% else %}
-    <lastmod>{{ page.lastmod | date_to_xmlschema }}</lastmod>
-    {% endif %}
-      
-      
       <lastmod>2016-12-21</lastmod>
       <changefreq>daily</changefreq>
       <priority>1</priority>
