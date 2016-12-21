@@ -29,10 +29,4 @@ Click on Upgrade to upgrade your databases to 5.6
 
 ---
 
-![MAMP](../../Videos/MAMPtv.png) [Upgrading From MAMP PRO 3 To MAMP PRO 4](https://www.youtube.com/watch?v=OoBnH29AAi8){:target="_blank"}
-
-
-
-
-
-
+<i class="fa fa-video-camera" aria-hidden="true"></i> [Upgrading From MAMP PRO 3 To MAMP PRO 4](https://www.youtube.com/watch?v=OoBnH29AAi8){:target="_blank"}
