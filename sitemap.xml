@@ -7,7 +7,7 @@ layout: null
     {% if page.url contains "/en/" %}
       <url>
         <loc>{{ site.url }}{{ page.url }}</loc>
-        <lastmod>{{ page.time }}</lastmod>
+        <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
         <changefreq>daily</changefreq>
         <priority>1</priority>
       </url>
