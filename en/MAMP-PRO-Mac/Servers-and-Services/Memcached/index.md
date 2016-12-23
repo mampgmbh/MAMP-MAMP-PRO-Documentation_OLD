@@ -22,7 +22,7 @@ Memcached is an in-memory key-value store for small chunks of arbitrary data.
 
 ---
 
-*  **Use nettwork to talk to MemCached**
+*  **Use network to talk to MemCached**
 
 ---
 
