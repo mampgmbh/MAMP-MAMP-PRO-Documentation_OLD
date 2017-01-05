@@ -34,3 +34,5 @@ Memcached is an in-memory key-value store for small chunks of arbitrary data.
 
 *  **Path to MemCached log file**
 
+    Errors occurring during execution of the Memcached server will be saved in this log file.
+
