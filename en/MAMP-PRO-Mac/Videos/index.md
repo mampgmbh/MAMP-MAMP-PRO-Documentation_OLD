@@ -6,7 +6,7 @@ product: MAMP PRO Mac
 language: en
 ---
 
-## Video Documentation ![MAMP](MAMPtv.png)
+## Video Documentation <i class="fa fa-play-circle-o fa-lg" aria-hidden="true"></i> 
 
 ### Installation, Upgrade And De-Installation
 
