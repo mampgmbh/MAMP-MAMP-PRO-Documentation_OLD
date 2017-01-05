@@ -42,7 +42,7 @@ More information on how to [copy your databases from MAMP to MAMP PRO](../../How
 
 ---
 
-![MAMP](../../Videos/MAMPtv.png) [Upgrading To MAMP PRO - Missing Data](https://www.youtube.com/watch?v=wBnHo1o4W8Q){:target="_blank"}
+<i class="fa fa-play-circle-o fa-lg" aria-hidden="true"></i> [Upgrading To MAMP PRO - Missing Data](https://www.youtube.com/watch?v=wBnHo1o4W8Q){:target="_blank"}
 
 
 
