@@ -168,3 +168,7 @@ To create a new host press the `Plus` button at the bottom left of the screen.
    
    
    Information on how to  create a host using the command line can be found [here](../../../How-Tos/#command_line_host) 
+   
+   ---
+   
+   To create a new host press the `Minus` button at the bottom left of the screen.
