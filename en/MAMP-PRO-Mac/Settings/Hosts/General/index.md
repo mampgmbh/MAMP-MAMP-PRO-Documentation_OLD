@@ -171,4 +171,4 @@ To create a new host press the `Plus` button at the bottom left of the screen.
    
    ---
    
-   To create a new host press the `Minus` button at the bottom left of the screen.
+   To remove a new host press the `Minus` button at the bottom left of the screen.
