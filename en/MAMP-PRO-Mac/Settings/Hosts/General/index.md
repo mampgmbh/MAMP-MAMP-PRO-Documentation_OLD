@@ -177,6 +177,12 @@ To create a new host press the `Plus` button at the bottom left of the screen.
    
    *  **Delete document root folder**
    
+      MAMP PRO will delete your document root folder and all of its contents.
+   
    *  **Remove Extra database**
    
+      If your host is an Extra, MAMP PRO will delete the database installed Extra database.
+      
    *  **Remove manually created database**
+   
+      Remove the database you installed when creating this host.
