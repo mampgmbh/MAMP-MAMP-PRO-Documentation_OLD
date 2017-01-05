@@ -16,9 +16,13 @@ Memcached is an in-memory key-value store for small chunks of arbitrary data.
 
     Check to include the Memcached Server in GroupStart. When activated Memcached will automatically start/stop when the  Servers button is pressed.
 
-*  **Flush cache**  
+*  **Flush cache**
+
+    Flush your cache.
 
 *  **Stats**
+
+    View your cache statistics.
 
 ---
 
