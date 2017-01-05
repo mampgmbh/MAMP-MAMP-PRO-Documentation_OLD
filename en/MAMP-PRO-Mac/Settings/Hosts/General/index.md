@@ -94,7 +94,7 @@ To create a new host press the `Plus` button at the bottom left of the screen.
    If you set the PHP version in the PHP section to `5.4.25`, MAMP PRO will adapt the PHP version of oneHost
    to this version (it is set to always use the standard version). The other 2 hosts will not be changed.
   
-     ![MAMP](../../../Videos/MAMPtv.png) [Setting Your PHP Version in MAMP              PRO](https://www.youtube.com/watch?v=fsOWq9k_OAc){:target="_blank"}.
+     <i class="fa fa-play-circle-o fa-lg" aria-hidden="true"></i>[Setting Your PHP Version in MAMP              PRO](https://www.youtube.com/watch?v=fsOWq9k_OAc){:target="_blank"}.
      
      <a name="php_info_access_button"></a> 
 
@@ -132,7 +132,7 @@ To create a new host press the `Plus` button at the bottom left of the screen.
          if you restart your Mac. Also make sure that your Internet router is not blocking Xip.io calls by using a DNS     Rebind protection. If the router does this you can either deactivate this function, add Xip.io as an exception or not use the router as DNS server in your Macs network settings.
          </div>
       
-         ![MAMP](../../../Videos/MAMPtv.png) [Viewing site using xip.io](https://www.youtube.com/watch?v=sYHPYCDvU1Q){:target="_blank"}
+         <i class="fa fa-play-circle-o fa-lg" aria-hidden="true"></i> [Viewing site using xip.io](https://www.youtube.com/watch?v=sYHPYCDvU1Q){:target="_blank"}
 
 *  **Document root**  
    The location of the documents (HTML/PHP files etc.) of a virtual host is called a document root.
