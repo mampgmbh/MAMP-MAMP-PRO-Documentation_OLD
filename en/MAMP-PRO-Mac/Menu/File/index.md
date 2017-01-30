@@ -46,7 +46,7 @@ Note: Edition errors in the templates of the configuration files can cause the s
  
 
 
-![MAMP](../../Videos/MAMPtv.png) [MAMP PRO and httpd.conf,nginx.conf php.ini, my.cnf](https://www.youtube.com/watch?v=tYLykP2CxMM){:target="_blank"}
+<i class="fa fa-play-circle-o fa-lg" aria-hidden="true"></i>  [MAMP PRO and httpd.conf,nginx.conf php.ini, my.cnf](https://www.youtube.com/watch?v=tYLykP2CxMM){:target="_blank"}
 
 ---
 
