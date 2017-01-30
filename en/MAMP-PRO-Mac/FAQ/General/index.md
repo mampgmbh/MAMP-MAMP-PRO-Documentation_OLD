@@ -40,9 +40,8 @@ You can add additional PHP versions through the user interface.  More informatio
 
 ### Is the ImageMagick PHP module included?
 
-The ImageMagick PHP module is included by default, but you must enable it inside the php.ini template file. Remove the `;` from the following line. You can reach your template file via File > Edit Template.
+The ImageMagick PHP module is included by default, but you must enable it using the [PHP tab](../../Languages/PHP){:target="_blank"} in MAMP PRO. 
 
-`;extension=imagick.so`
 
 ---
 
