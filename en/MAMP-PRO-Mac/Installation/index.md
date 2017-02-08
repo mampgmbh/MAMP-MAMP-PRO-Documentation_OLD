@@ -24,6 +24,6 @@ Note: When upgrading to MAMP PRO 4 from MAMP PRO 3 you will be asked to upgrade 
 - [New Installation](New-Install/)  
 - [Upgrading From MAMP PRO 3.xx to MAMP PRO 4.xx](MAMP-PRO-3xx-4xx-Upgrade/)  
 - [Upgrading From MAMP PRO 4.xx to MAMP PRO 4.xx](MAMP-PRO-4xx-4xx-Upgrade/)  
-- [Uprading From MAMP To MAMP PRO](MAMP-MAMP-PRO-Upgrade/)
+- [Upgrading From MAMP To MAMP PRO](MAMP-MAMP-PRO-Upgrade/)
 - [Uninstalling MAMP PRO](Uninstall/)
 - [Updating MAMP PRO](Updates/)
