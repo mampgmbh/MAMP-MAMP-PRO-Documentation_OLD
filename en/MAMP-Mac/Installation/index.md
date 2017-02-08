@@ -12,7 +12,7 @@ language: en
 
 To use the MAMP, your system must meet the following requirements:
 
-- Operating system: Apple OS X 10.10.0 or later
+- Operating system: Apple OS X 10.10.5 or later
 - Mac with 64-Bit CPU from Intel (x84)
 - User account that allows to administer the computer (Administrator)
 
