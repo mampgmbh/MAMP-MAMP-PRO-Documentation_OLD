@@ -1,9 +1,8 @@
 ---
-title: MAMP (Mac) Dokumentation - Installation
-description: Installation
+title: MAMP (Mac) Documentation > Installation
+description: 
 layout: default-2
 product: MAMP Mac
 language: de
 ---
 
-## Installation
