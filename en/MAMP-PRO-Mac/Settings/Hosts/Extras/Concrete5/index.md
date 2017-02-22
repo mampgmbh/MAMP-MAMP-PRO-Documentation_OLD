@@ -1,4 +1,3 @@
-
 ---
 title: MAMP PRO (Mac) Documentation > Settings > Hosts > Extras > Drupal
 description: 
