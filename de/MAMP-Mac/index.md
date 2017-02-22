@@ -14,7 +14,7 @@ MAMP is a one-click-solution for setting up your personal webserver. MAMP instal
 
 
 - [Installation](Installation/)  
-- [First Steps](First-Steps/)  
-- [Preferences](Preferences/)
-- [How Tos](How-Tos/)  
+- [First Steps](Erste Schritte/)  
+- [Preferences](Einstellungen/)
+- [How Tos](Anleitungen/)  
 - [FAQ](FAQ/)  
