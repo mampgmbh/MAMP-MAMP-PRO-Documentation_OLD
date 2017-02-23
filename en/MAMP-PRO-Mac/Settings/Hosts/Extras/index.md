@@ -21,7 +21,10 @@ The Extras panel shows the name of the extra, how many installations are possibl
 - [Magento](Magento/)
 - [Mediawiki](Mediawiki/) 
 - [phpBB](phpBB/) 
-- [PrestaShop](PrestaShop/) 
+- [PrestaShop](PrestaShop/)
+- [Concrete5](Concrete5/) 
+- [Grav](Grav/) 
+- [ForkCMS](ForkCMS/) 
 
 ---
 
