@@ -23,7 +23,7 @@ Concrete5 is an open source content management system. More information about co
    </div>
 
 *  **Directory:**  
-   The installation directory. If it is left blank the Druconcrete5al files will be copied directly to the document root folder.  
+   The installation directory. If it is left blank the concrete5 files will be copied directly to the document root folder.  
   
    <div class="alert" role="alert"> 
    Note: Do not install over a previous installation of concrete5! Files will be overwritten without warning. 
@@ -31,7 +31,7 @@ Concrete5 is an open source content management system. More information about co
 
 *  **Database name:**  
    Set the name of your database schema which will be added to your local database.  
-   After installation you can view this database for this instance of WordPress using phpMyAdmin, Sequel Pro, or           MySQLWorkbench. 
+   After installation you can view this database for this instance of concrete5 using phpMyAdmin, Sequel Pro, or           MySQLWorkbench. 
  
 *  **Username:**  
    The concrete5 admin.
