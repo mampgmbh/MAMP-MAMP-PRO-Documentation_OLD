@@ -1,14 +1,14 @@
 ---
-title: MAMP PRO (Mac) Documentation > Settings > Hosts > Extras > Drupal
+title: MAMP PRO (Mac) Documentation > Settings > Hosts > Extras > ForkCMS
 description: 
 layout: default-2
 product: MAMP PRO Mac
 language: en
 ---
 
-## Settings > Hosts > Extras > Drupal
+## Settings > Hosts > Extras > ForkCMS
 
-Drupal is content management software. It's used to make many of the websites and applications you use every day. More information about Drupal can be found [here](https://www.drupal.org){:target="_blank"}.
+Fork is content management software. It's used to make many of the websites and applications you use every day. More information about Drupal can be found [here](https://www.fork-cms.com){:target="_blank"}.
 
 ![MAMP](forkExtra.png)
 
