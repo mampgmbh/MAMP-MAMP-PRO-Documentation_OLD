@@ -10,7 +10,7 @@ language: en
 
 Drupal is content management software. It's used to make many of the websites and applications you use every day. More information about Drupal can be found [here](https://www.drupal.org){:target="_blank"}.
 
-![MAMP](Drupal.png)
+![MAMP](concrete5Extra.png)
 
 *  **Name of the site:**  
    Name your site.
