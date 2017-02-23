@@ -26,7 +26,7 @@ Fork is an open source content management system. More information about Fork ca
    </div>
    
 *  **Password:**  
-   Youre Fork admins default password.  
+   Your Fork admins default password.  
    <div class="alert" role="alert">   
    Note: You will need this password to login into your new Fork site, please write this down.
    </div>
