@@ -6,7 +6,7 @@ product: MAMP PRO Mac
 language: en
 ---
 
-## Settings > Hosts > Extras > Drupal
+## Settings > Hosts > Extras > Grav
 
 Grav is a modern open source flat-file CMS. An installation of Grav does not require a MySQL database. You can find more information about Grav [here](https://www.getgrav.org){:target="_blank"}.
 
