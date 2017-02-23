@@ -1,12 +1,12 @@
 ---
-title: MAMP PRO (Mac) Documentation > Settings > Hosts > Extras > Drupal
+title: MAMP PRO (Mac) Documentation > Settings > Hosts > Extras > Concrete5
 description: 
 layout: default-2
 product: MAMP PRO Mac
 language: en
 ---
 
-## Settings > Hosts > Extras > Drupal
+## Settings > Hosts > Extras > Concrete5
 
 Drupal is content management software. It's used to make many of the websites and applications you use every day. More information about Drupal can be found [here](https://www.drupal.org){:target="_blank"}.
 
