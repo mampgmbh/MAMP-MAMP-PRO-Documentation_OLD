@@ -8,7 +8,7 @@ language: en
 
 ## Settings > Hosts > Extras > Concrete5
 
-Drupal is content management software. It's used to make many of the websites and applications you use every day. More information about Drupal can be found [here](https://www.drupal.org){:target="_blank"}.
+Concrete5 is an open source content management system. More information about concrete5 can be found [here](https://www.concrete5.org){:target="_blank"}.
 
 ![MAMP](concrete5Extra.png)
 
@@ -19,31 +19,28 @@ Drupal is content management software. It's used to make many of the websites an
    Your email address.  
    
    <div class="alert" role="alert"> 
-   Note: You must enter a valid email address to setup a Drupal installation.
+   Note: You must enter a valid email address to setup a concrete5 installation.
    </div>
 
 *  **Directory:**  
-   The installation directory. If it is left blank the Drupal files will be copied directly to the document root folder.  
+   The installation directory. If it is left blank the Druconcrete5al files will be copied directly to the document root folder.  
   
    <div class="alert" role="alert"> 
-   Note: Do not install over a previous installation of Drupal! Files will be overwritten without warning. 
+   Note: Do not install over a previous installation of concrete5! Files will be overwritten without warning. 
    </div>
-
-*  **Table Prefix:**  
-   The table prefix for your site.
 
 *  **Database name:**  
    Set the name of your database schema which will be added to your local database.  
    After installation you can view this database for this instance of WordPress using phpMyAdmin, Sequel Pro, or           MySQLWorkbench. 
  
 *  **Username:**  
-   The Drupal admin.
+   The concrete5 admin.
    <div class="alert" role="alert">
-   Note: You will need this username to login into your new of Drupal site, please write this down. 
+   Note: You will need this username to login into your new of concrete5 site, please write this down. 
    </div>
 
 *  **Password:**  
-   The Drupal admins default password.  
+   The concrete5 admins default password.  
    <div class="alert" role="alert">   
-   Note: You will need this password to login into your new Drupal site, please write this down.
+   Note: You will need this password to login into your new concrete5 site, please write this down.
    </div>
