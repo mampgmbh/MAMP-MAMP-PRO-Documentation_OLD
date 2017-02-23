@@ -10,7 +10,7 @@ language: en
 
 Concrete5 is an open source content management system. More information about concrete5 can be found [here](https://www.concrete5.org){:target="_blank"}.
 
-![MAMP](concrete5Extra.png)
+![MAMP](concreteExtra.png)
 
 *  **Name of the site:**  
    Name your site.
