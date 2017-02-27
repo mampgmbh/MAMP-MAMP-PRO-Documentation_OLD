@@ -25,7 +25,7 @@ To create a new host press the `Plus` button at the bottom left of the screen.
 
 *  **Document root**
 
-   The location of the documents (HTML/PHP files etc.) of a virtual host is called a document root. The document root is also known as the web root folder. MAMP PRO will automatically add an `index.php` file and a MAMP image to this location when your web server is restarted if the folder is empty. If the folder you wish to use as a document root is greyed out, you may have a problem with permissions. This can be solved by changing your server launch [users](../../../Troubleshooting). 
+   The location of the documents (HTML/PHP files etc.) of a virtual host is called a document root. The document root is also known as the web root folder. MAMP PRO will automatically add an `index.php` file and a MAMP image to this location when your web server is restarted if the folder is empty. If the folder you wish to use as a document root is greyed out, you may have a problem with permissions. This can be solved by changing your server launch [users](../../../Troubleshooting/General/#host_permissions). 
 
 ---
 
@@ -167,7 +167,7 @@ To create a new host press the `Plus` button at the bottom left of the screen.
    Aliases are additional names for your virtual host. The same constraints apply to these additional names as to the host itself. Add aliases with the plus-button.
    
    
-   Information on how to  create a host using the command line can be found [here](../../../How-Tos/#command_line_host) 
+   Information on how to  create a host using the command line can be found [here](../../../How-Tosç) 
    
    ---
    
