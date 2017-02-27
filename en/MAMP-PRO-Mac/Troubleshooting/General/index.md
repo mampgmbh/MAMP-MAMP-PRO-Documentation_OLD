@@ -14,12 +14,6 @@ This could be due to several reasons. Please check your Internet connection. If 
 
 ---
 
-### My Content Management System stopped working without any indication of what is wrong?
-
-Most content management systems store the host location, including the port number, in their database. If an CMS is setup with an Apache port of 8888, then this port must be used every time the CMS is used. Changing the port may result in a blank screen in your browser, and a vague error message.
-
----
-
 ### My Apache Server will not start?
 
 The most common problem with Apache Server not starting is another mysql service running on the same port. To check this
