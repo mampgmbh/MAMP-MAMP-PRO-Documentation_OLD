@@ -31,11 +31,11 @@ To create a new host press the `Plus` button at the bottom left of the screen.
 
 *  **Create a database named**
 
-   You can optionally create a database.
+   You can optionally create a MySQL database. Most content management systems require a database, and you can conveniently add one here.
 
 *  **Copy the contents of a template folder to the document root**
 
-   You can optionally add the contents of a templates folder.
+   You can optionally add the contents of a templates folder. You may use the same template, js, and css files/folders in every site you develop. Use this option to copy the contents of your temlate folder to your new document root folder.
 
 ---
 
