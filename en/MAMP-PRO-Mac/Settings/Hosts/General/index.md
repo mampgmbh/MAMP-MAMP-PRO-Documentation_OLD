@@ -35,7 +35,7 @@ To create a new host press the `Plus` button at the bottom left of the screen.
 
 *  **Copy the contents of a template folder to the document root**
 
-   You can optionally add the contents of a templates folder. You may use the same template, js, and css files/folders in every site you develop. Use this option to copy the contents of your temlate folder to your new document root folder.
+   You can optionally add the contents of a templates folder. You may use the same template, js, and css files/folders in every site you develop. Use this option to copy the contents of your template folder to your new document root folder.
 
 ---
 
