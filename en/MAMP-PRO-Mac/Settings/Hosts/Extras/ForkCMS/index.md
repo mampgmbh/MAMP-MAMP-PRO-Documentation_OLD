@@ -8,7 +8,7 @@ language: en
 
 ## Settings > Hosts > Extras > ForkCMS
 
-Fork is an open source content management system. More information about Fork can be found [here](https://www.fork-cms.com){:target="_blank"}.
+Fork is an open source content management system. More information about Fork can be found [here](http://www.fork-cms.com){:target="_blank"}.
 
 ![MAMP](forkExtra.png)
 
