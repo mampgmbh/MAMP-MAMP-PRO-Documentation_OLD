@@ -51,7 +51,7 @@ You must edit the httpd.conf, nginx.conf, php.ini and my.cnf files through the [
 
 ---
 
-#host_permissions
+<a name="host_permissions"></a> 
 
 ### MAMP PRO is not allowing me to set sub-directories of my home(~) directory as a document root?
 
