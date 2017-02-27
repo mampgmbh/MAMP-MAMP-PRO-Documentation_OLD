@@ -64,7 +64,7 @@ To create a new host press the `Plus` button at the bottom left of the screen.
    The server name and port number in combination must be unique within MAMP PRO.
    The host name may only contain letters and/or numbers, as well as dashes ("-");
    but it may not begin or end with a "-" character.
-   Names are not case-sensitive (upper and lower-case letters are not distinguished.)
+   Names are not case-sensitive.
 
    If the servers are running you can use the ![MAMP](../../../First-Steps/BlackArrow.png) button to open a host in your web browser.
 
