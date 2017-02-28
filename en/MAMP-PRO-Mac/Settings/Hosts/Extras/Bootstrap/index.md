@@ -14,6 +14,9 @@ Bootstrap is a popular HTML, CSS, and JS framework. Use the Bootstrap Extra to q
 
 *  **Name of the site:**  
    The name of your site.
+   
+*  **Directory:**  
+   The installation directory. If it is left blank the Bootstrap files will be copied directly to the document root folder. 
 
 
 
