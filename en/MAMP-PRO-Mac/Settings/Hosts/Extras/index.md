@@ -24,7 +24,8 @@ The Extras panel shows the name of the extra, how many installations are possibl
 - [PrestaShop](PrestaShop/)
 - [Concrete5](Concrete5/) 
 - [Grav](Grav/) 
-- [ForkCMS](ForkCMS/) 
+- [ForkCMS](ForkCMS/)
+- [Bootstrap](Bootstrap/) 
 
 ---
 
