@@ -8,7 +8,7 @@ language: en
 
 ## Settings > Hosts > Extras > Bootstrap
 
-Bootstrap is a popular HTML, CSS, and JS framework. Use the Bootstrap Extra to quickly set up a document root. More information about Bootstrap can be found [here](https://www.getbootstrap.com){:target="_blank"}.
+Bootstrap is a popular HTML, CSS, and JS framework. Use the Bootstrap Extra to quickly set up a document root. The basic template from Bootstrap is provided, along with the js, css, and fonts directories from Bootstrap. More information about Bootstrap can be found [here](https://www.getbootstrap.com){:target="_blank"}.
 
 ![MAMP](BootStrap.png)
 
