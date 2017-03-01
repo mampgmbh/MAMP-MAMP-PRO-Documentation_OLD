@@ -114,6 +114,8 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
 *  **Log Errors**  
    Determine if errors should be recorded in a log file and/or displayed in a web browser window.
 
+---
+
 More information on how to [connect to MySQL using PHP (PHP <= 5.5.x)](../../How-Tos/MySQL/#php_connect_mysql) can be found in our How To section.
 
 
