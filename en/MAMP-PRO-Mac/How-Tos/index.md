@@ -8,3 +8,6 @@ language: en
 
 ## How Tos
 
+- [General](General/)  
+- [MySQL](MySQL/)  
+
