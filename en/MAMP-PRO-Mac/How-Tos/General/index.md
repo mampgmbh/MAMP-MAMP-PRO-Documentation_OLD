@@ -96,9 +96,18 @@ You will get warning message stating you are using the same document root and na
 
 ### Redirect http traffic to https site using MAMP PRO interface
 
+1. Go to your Settings > Hosts > Apache tab in MAMP PRO.
+2. Add the following lines to your Additional Parameters for <Virtual Host> directive:
+
+
+
+
 ---
 
 ### Redirecting http traffic to https site using .htaccess file
+
+1. Create a .htaccess file using the MAMP PRO Editor and save this file in your document root.
+2. Add the following lines to your .htaccess file.
 
 
 ---
