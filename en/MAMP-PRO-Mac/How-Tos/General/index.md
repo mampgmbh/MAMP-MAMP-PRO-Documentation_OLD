@@ -93,6 +93,15 @@ Note: When using MAMP PRO 4.06 or later you need to press ALT and '+' when creat
 You will get warning message stating you are using the same document root and name for multiple hosts. These hosts will appear in red.
 
 ---
+
+### Redirect http traffic to https site using MAMP PRO interface
+
+---
+
+### Redirecting http traffic to https site using .htaccess file
+
+
+---
 <a name="command_line_host"></a>
 
 ### Create a host using the command line
