@@ -110,9 +110,13 @@ You will get warning message stating you are using the same document root and na
 2. Add the following lines to your .htaccess file.
 
   `<ifmodule mod_rewrite.c="">`
+  
   `RewriteEngine On`
+  
   `RewriteCond %{HTTPS} off`
+  
   `RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]`
+  
   `</ifmodule>`
 
 ---
