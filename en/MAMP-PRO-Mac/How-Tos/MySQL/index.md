@@ -6,6 +6,8 @@ product: MAMP PRO Mac
 language: en
 ---
 
+## How Tos > General
+
 <a name="php_connect_mysql"></a> 
 
 ### Connect to MySQL from PHP (PHP <= 5.5.x)
