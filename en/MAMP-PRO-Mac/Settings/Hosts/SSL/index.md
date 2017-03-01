@@ -40,4 +40,4 @@ To encrypt traffic from Apache to a web browser you can use SSL. If you would li
    
 ---
 
-Information on how to make a host both ssl and non-ssl can be found in the [How-To section](../../../How-Tos#ssl_host) can be found in our Menu > File section.
+Information on how to make a host both ssl and non-ssl can be found in the [How-To section](../../../How-Tos/General/#ssl_host).
