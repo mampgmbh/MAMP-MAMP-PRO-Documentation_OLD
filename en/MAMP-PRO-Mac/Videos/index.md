@@ -24,7 +24,7 @@ language: en
    
 ---
 
-### Wordpress
+### Content Management Systems and Extras
 
 *  **[Installing Wordpress](https://www.youtube.com/watch?v=pZ7J4Ai-RxQ){:target="_blank"}**
 
@@ -33,6 +33,14 @@ language: en
  *  **[Wordpress Multisite](https://www.youtube.com/watch?v=7pDvR9E94Og){:target="_blank"}**
 
       This video describes how to install Wordpress multisite.
+      
+ *  **[Installing Drupal](https://www.youtube.com/watch?v=sGnGFWP5OBE){:target="_blank"}**
+
+      This video describes how to install Drupal using downloaded Drupal files and using the Extras feature in MAMP PRO.
+      
+ *  **[Installing Bootstrap](https://www.youtube.com/watch?v=rygYIaKPRFw){:target="_blank"}**
+
+      This video describes how to install Bootstrap using the Extras feature in MAMP PRO. 
     
 ---
 
