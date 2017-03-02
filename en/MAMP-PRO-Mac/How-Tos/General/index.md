@@ -119,6 +119,8 @@ RewriteRule (.*) https://%{SERVER_NAME}/$1 [R,L]
 1. Create a .htaccess file using the MAMP PRO Editor and save this file in your document root.
 2. Add the following lines to your .htaccess file.
 
+![MAMP](httpsRedirect.png)
+
 {% highlight php %}
 
 <ifmodule mod_rewrite.c="">  
