@@ -22,9 +22,17 @@ You can adjust the setting for your editor [here](../Settings/Editor).
 
 ### Live View
 
+The Live View displays a live view of your website next to your server side code.
+
+![MAMP](liveView.jpg)
+
 ---
 
 ### Real View
+
+The Real View displays a client side view of your code next to your server side source code.
+
+![MAMP](realView.jpg)
 
 ---
 
