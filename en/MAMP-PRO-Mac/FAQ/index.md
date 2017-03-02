@@ -8,7 +8,5 @@ language: en
 
 ## FAQ
 
-### What is MAMP PRO?
-
 - [General](General/)  
 - [MySQL](MySQL/)
