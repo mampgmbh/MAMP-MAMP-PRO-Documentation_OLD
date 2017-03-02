@@ -47,4 +47,9 @@ Drupal is content management software. It's used to make many of the websites an
    <div class="alert" role="alert">   
    Note: You will need this password to login into your new Drupal site, please write this down.
    </div>
+   
+ ---
+
+<i class="fa fa-play-circle-o fa-lg" aria-hidden="true"></i>  [Installing Drupal with Extras and Manually](https://www.youtube.com/watch?v=sGnGFWP5OBE){:target="_blank"}
+
 
