@@ -99,7 +99,7 @@ You will get warning message stating you are using the same document root and na
 1. Go to your Settings > Hosts > Apache tab in MAMP PRO.
 2. Add the following lines to your Additional Parameters for <Virtual Host> directive:
 
-![MAMP](httpsRedirect.png)
+![MAMP](httpsRedirectInMAMP.png)
 
 
 
