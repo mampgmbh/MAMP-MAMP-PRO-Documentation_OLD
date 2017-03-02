@@ -30,7 +30,7 @@ The Live View displays a live view of your website next to your server side code
 
 ### Real View
 
-The Real View displays a client side view of your code next to your server side source code.
+The Real View displays the resulting client side view of your code next to your server side source code.
 
 ![MAMP](realView.png)
 
