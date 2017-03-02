@@ -42,6 +42,6 @@ To encrypt traffic from Apache to a web browser you can use SSL. If you would li
 
 Information on how to make a host both ssl and non-ssl can be found in the [How-To section](../../../How-Tos/General/#ssl_host).
 
-Information on how to redirect a http host to https using the MAMP PRO interface can be found in the [How-To section](../../../How-Tos/General/#ssl_host).
+Information on how to redirect a http host to https using the MAMP PRO interface can be found in the [How-To section](../../../How-Tos/General/#https_redirect_mamp).
 
-Information on how to redirect a http host to https using a .htaccess file can be found in the [How-To section](../../../How-Tos/General/#ssl_host).
+Information on how to redirect a http host to https using a .htaccess file can be found in the [How-To section](../../../How-Tos/General/#https_redirect_htaccess).
