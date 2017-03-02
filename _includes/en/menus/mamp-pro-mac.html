@@ -105,7 +105,14 @@
 		</ul>	
 		{% endif %}
 	</li>
-	<li><a href="/en/MAMP-PRO-Mac/How-Tos/"{% if page_url contains "/en/MAMP-PRO-Mac/How-Tos/" %} class="active"{% endif %}>How-Tos</a></li>
+	<li>
+		<a href="/en/MAMP-PRO-Mac/How-Tos/"{% if page_url contains "/en/MAMP-PRO-Mac/How-Tos/" %} class="active"{% endif %}>How-Tos</a></li>
+		{% if page_url contains "/en/MAMP-PRO-Mac/How-Tos/" %}
+		<ul class="no-bullets">
+			<li><a href="/en/MAMP-PRO-Mac/How-Tos/General/"{% if page_url contains "/en/MAMP-PRO-Mac/How-Tos/General/" %} class="active"{% endif %}>General</a></li>
+			<li><a href="/en/MAMP-PRO-Mac/How-Tos/MySQL/"{% if page_url contains "/en/MAMP-PRO-Mac/How-Tos/MySQL/" %} class="active"{% endif %}>MySQL</a></li>
+		</ul>	
+		{% endif %}
 	<li>
 		<a href="/en/MAMP-PRO-Mac/FAQ/"{% if page_url contains "/en/MAMP-PRO-Mac/FAQ/" %} class="active"{% endif %}>FAQ</a>
 		{% if page_url contains "/en/MAMP-PRO-Mac/FAQ/" %}
