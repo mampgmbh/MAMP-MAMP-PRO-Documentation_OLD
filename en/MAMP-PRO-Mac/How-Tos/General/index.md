@@ -76,7 +76,6 @@ Note: If you want to open the Postfix log file with a text editor, you have to m
 
 ---
 
-
 <a name="ssl_host"></a>
 
 ### Set up a host to be both http and https
@@ -94,6 +93,8 @@ You will get warning message stating you are using the same document root and na
 
 ---
 
+<a name="https_redirect_mamp"></a>
+
 ### Redirect http traffic to https site using MAMP PRO interface
 
 1. Go to your Settings > Hosts > Apache tab in MAMP PRO.
@@ -101,9 +102,17 @@ You will get warning message stating you are using the same document root and na
 
 ![MAMP](httpsRedirectInMAMP.png)
 
+{% highlight php %}
 
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{SERVER_NAME}/$1 [R,L]
+
+{% endhighlight %}
 
 ---
+
+<a name="https_redirect_htaccess"></a>
 
 ### Redirecting http traffic to https site using .htaccess file
 
