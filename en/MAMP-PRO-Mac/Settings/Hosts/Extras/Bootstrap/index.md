@@ -18,5 +18,7 @@ Bootstrap is a popular HTML, CSS, and JS framework. Use the Bootstrap Extra to q
 *  **Directory:**  
    The installation directory. If it is left blank the Bootstrap files will be copied directly to the document root folder. 
 
+ ---
 
+<i class="fa fa-play-circle-o fa-lg" aria-hidden="true"></i>  [Installing Bootstrap with Extras](https://www.youtube.com/watch?v=rygYIaKPRFw){:target="_blank"}
 
