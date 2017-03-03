@@ -46,7 +46,7 @@ language: en
 
 ### MAMP PRO Editor
 
- *  **[MAMP PRO Editor Basic Features](https://www.youtube.com/watch?v=sGnGFWP5OBE){:target="_blank"}**
+ *  **[MAMP PRO Editor Basic Features](https://www.youtube.com/watch?v=b9bbIWRMsHI&feature=youtu.be){:target="_blank"}**
 
       This video shows some of the basic features in the MAMP PRO Editor.
       
