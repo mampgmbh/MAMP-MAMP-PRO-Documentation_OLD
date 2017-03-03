@@ -10,6 +10,8 @@ language: en
 
 Utilize the MAMP PRO Editor to edit your scripts directly in MAMP PRO. You can see your changes instantaneously in the live view, and your client side code in the real view.
 
+<i class="fa fa-play-circle-o fa-lg" aria-hidden="true"></i> [MAMP PRO Editor Basic Features](https://www.youtube.com/watch?v=5JZ3PSGj81E){:target="_blank"}
+
 ---
 
 You can adjust the setting for your editor [here](../Settings/Editor).
@@ -32,7 +34,9 @@ Press the ![MAMP](BlackArrow.png)  button to display the live view. Right click 
 
 ### Real View
 
-The real view displays the resulting client side view of your code next to your server side source code. 
+The real view displays the resulting client side view of your code next to your server side source code.
+
+<i class="fa fa-play-circle-o fa-lg" aria-hidden="true"></i> [MAMP PRO Real View](https://www.youtube.com/watch?v=5JZ3PSGj81E){:target="_blank"}
 
 ![MAMP](realView.png)
 
