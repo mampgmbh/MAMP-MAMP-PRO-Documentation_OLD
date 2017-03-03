@@ -22,17 +22,21 @@ You can adjust the setting for your editor [here](../Settings/Editor).
 
 ### Live View
 
-The Live View displays a live view of your website next to your server side code. Press the ![MAMP](BlackArrow.png)  key to display the Live View.
+The Live View displays a live view of your website next to your server side code. 
 
 ![MAMP](liveView.png)
+
+Press the ![MAMP](BlackArrow.png)  button to display the Live View. Right click on the Arrow button to display your site in a web browser.
 
 ---
 
 ### Real View
 
-The Real View displays the resulting client side view of your code next to your server side source code. Press the ![MAMP](lines.png)  key to display the Live View.
+The Real View displays the resulting client side view of your code next to your server side source code. 
 
 ![MAMP](realView.png)
+
+Press the ![MAMP](lines.png)  button to display the Live View.
 
 ---
 
