@@ -22,7 +22,7 @@ You can adjust the setting for your editor [here](../Settings/Editor).
 
 ### Live View
 
-The Live View displays a live view of your website next to your server side code.
+The Live View displays a live view of your website next to your server side code. Press the ![MAMP](BlackArrow.png)  key to display the Live View.
 
 ![MAMP](liveView.png)
 
