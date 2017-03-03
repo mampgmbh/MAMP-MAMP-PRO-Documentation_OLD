@@ -44,6 +44,18 @@ language: en
     
 ---
 
+### MAMP PRO Editor
+
+ *  **[MAMP PRO Editor Basic Features](https://www.youtube.com/watch?v=sGnGFWP5OBE){:target="_blank"}**
+
+      This video shows some of the basic features in the MAMP PRO Editor.
+      
+ *  **[MAMP PRO Real View](https://www.youtube.com/watch?v=rygYIaKPRFw){:target="_blank"}**
+
+      This video describes how to use the real view in the MAMP PRO Editor. 
+
+---
+
 ### MySQL
 
  *  **[MySQL Data](https://www.youtube.com/watch?v=ZRHJy2K4yzc){:target="_blank"}**
