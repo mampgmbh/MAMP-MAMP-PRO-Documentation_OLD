@@ -34,14 +34,13 @@ Both applications, MAMP as well as MAMP PRO, are configuration tools for the too
 
 ### Is it possible to add an updated version of PHP?
 
-You can add additional PHP versions through the user interface.  More information on how to do this can  be  found [here](../../Languages/PHP){:target="_blank"}.
+You can add additional PHP versions through the user interface.  More information on how to do this can  be  found [here](../../Languages/PHP).
 
 ---
 
 ### Is the ImageMagick PHP module included?
 
-The ImageMagick PHP module is included by default, but you must enable it using the [PHP tab](../../Languages/PHP){:target="_blank"} in MAMP PRO. 
-
+The ImageMagick PHP module is included by default, but you must enable it using the [PHP tab](../../Languages/PHP) in MAMP PRO. 
 
 ---
 
