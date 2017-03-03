@@ -44,4 +44,13 @@ Press the ![MAMP](eye.png)  button to switch back to the real view.
 
 ### Assets
 
+Open the assets window through Window > Assets in the menu. Use the assets window to keep often used icons, videos, files. Add items from the assets window by dragging them to the document root window.
+
+Press the ![MAMP](Assets.png)
+
+
+
+
+![MAMP](Assets.png)
+
 
