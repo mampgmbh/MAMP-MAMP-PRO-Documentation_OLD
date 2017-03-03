@@ -36,7 +36,7 @@ Press the ![MAMP](BlackArrow.png)  button to display the live view. Right click 
 
 The real view displays the resulting client side view of your code next to your server side source code.
 
-<i class="fa fa-play-circle-o fa-lg" aria-hidden="true"></i> [MAMP PRO Real View](https://www.youtube.com/watch?v=5JZ3PSGj81E){:target="_blank"}
+<i class="fa fa-play-circle-o fa-lg" aria-hidden="true"></i> [MAMP PRO Editor Real View](https://www.youtube.com/watch?v=5JZ3PSGj81E){:target="_blank"}
 
 ![MAMP](realView.png)
 
