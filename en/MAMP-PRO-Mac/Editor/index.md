@@ -14,7 +14,7 @@ Utilize the MAMP PRO Editor to edit your scripts directly in MAMP PRO. You can s
 
 ---
 
-Documentation on how to adjust the settings for your editor [here](../Settings/Editor).
+Documentation on how to adjust the settings for your editor can be found [here](../Settings/Editor).
 
 ---
 
