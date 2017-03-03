@@ -50,7 +50,7 @@ language: en
 
       This video shows some of the basic features in the MAMP PRO Editor.
       
- *  **[MAMP PRO Real View](https://www.youtube.com/watch?v=rygYIaKPRFw){:target="_blank"}**
+ *  **[MAMP PRO Real View](https://www.youtube.com/watch?v=HJx7_hwpcaY&feature=youtu.be){:target="_blank"}**
 
       This video describes how to use the real view in the MAMP PRO Editor. 
 
