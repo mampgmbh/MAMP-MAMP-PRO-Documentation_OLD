@@ -10,7 +10,7 @@ language: en
 
 Utilize the MAMP PRO Editor to edit your scripts directly in MAMP PRO. You can see your changes instantaneously in the live view, and your client side code in the real view.
 
-<i class="fa fa-play-circle-o fa-lg" aria-hidden="true"></i> [MAMP PRO Editor Basic Features](https://www.youtube.com/watch?v=5JZ3PSGj81E){:target="_blank"}
+<i class="fa fa-play-circle-o fa-lg" aria-hidden="true"></i> [MAMP PRO Editor Basic Features](https://www.youtube.com/watch?v=b9bbIWRMsHI&feature=youtu.be){:target="_blank"}
 
 ---
 
