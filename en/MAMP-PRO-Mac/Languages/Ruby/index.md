@@ -15,7 +15,21 @@ Ruby is a dynamic, reflective, object-oriented, general-purpose programming lang
 ---
 
 *  **Make Ruby directly available on the command line**  
-   If you check this option, you can use this version of Ruby on the command line by just typing `ruby`.
+      Check this option to make the current Ruby version available on the command line. MAMP PRO uses aliases to provide this functionality. When this option is checked the following is added to your `~/.profile` file.
+   
+   
+{% highlight php %}
+
+alias erb='/Applications/MAMP/Library/bin/erb'
+alias gem='/Applications/MAMP/Library/bin/gem'
+alias irb='/Applications/MAMP/Library/bin/irb'
+alias rake='/Applications/MAMP/Library/bin/rake'
+alias rdoc='/Applications/MAMP/Library/bin/rdoc'
+alias ri='/Applications/MAMP/Library/bin/ri'
+alias ruby='/Applications/MAMP/Library/bin/ruby'
+alias rails='/Applications/MAMP/Library/bin/rails'
+
+{% endhighlight %} 
 
 
 
