@@ -15,7 +15,15 @@ Python is a widely used high-level, general-purpose, interpreted, dynamic progra
 ---
 
 *  **Make Python available on the command line**  
-   If you check this option, you can use this version of Python on the command line by just typing `python`.
+      Check this option to make the current Python version available on the command line. MAMP PRO uses an alias to provide this functionality. When this option is checked the following is added to your `~/.profile` file.
+   
+   
+{% highlight php %}
+
+alias python='/Applications/MAMP/Library/bin/python'
+
+{% endhighlight %} 
+ 
 
 ---
 
