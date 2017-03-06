@@ -30,7 +30,7 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
 ---
 
 *  **Make this version available on the command line**  
-   Check this option to make the current version available on the command line. MAMP PRO uses aliases to provide this functionality. When this option is checked the following is added to your `~/.profile` file (PHP 7.1).
+   Check this option to make the current version available on the command line. MAMP PRO uses aliases to provide this functionality. When this option is checked the following is added to your `~/.profile` file (PHP 7.1.1).
    
 {% highlight php %}
 
