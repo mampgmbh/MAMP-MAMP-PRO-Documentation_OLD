@@ -13,7 +13,15 @@ Perl is a high-level, general-purpose, interpreted, dynamic programming language
 ![MAMP](Perl.png)
 
 *  **Make Perl directly available on the command line**  
-   If you check this option, you can use this version of Perl on the command line by just typing `perl`.
+   Check this option to make the current Perl version available on the command line. MAMP PRO uses aliases to provide this functionality. When this option is checked the following is added to your `~/.profile` file.
+   
+   
+{% highlight php %}
+
+alias perl='/Applications/MAMP/Library/bin/perl'
+alias cpan='/Applications/MAMP/Library/bin/cpan'
+
+{% endhighlight %} 
    
 ---
 
