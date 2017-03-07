@@ -48,7 +48,7 @@ Press the ![MAMP](eye.png)  button to switch back to the real view.
 
 ### Assets
 
-Open the assets window through Window > Assets in the MAMP PRO menu. Use the assets window to keep often used icons, videos, files. Add items from the assets window by dragging them to the document root window. Your assets folder is located in `~/Documents/MAMP PRO/assets`.
+Open the assets window through Window > Assets in the MAMP PRO menu. Use the assets window to keep often used icons, videos or files. Add items from the assets window by dragging them to the document root window. Your assets folder is located in `~/Documents/MAMP PRO/assets`.
 
 
 ![MAMP](Assets.png)
