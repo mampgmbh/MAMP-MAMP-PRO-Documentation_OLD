@@ -56,8 +56,17 @@ Open the assets window through Window > Assets in the MAMP PRO menu. Use the ass
 
 ### Text Editing Options
 
-## Help
+#### Help
 
-## Language
+A link to a help page associated with the current language.
+
+![MAMP](help.png)
+
+#### Language
+
+Choose what language syntax to be highlighted.
+
+![MAMP](syntax.png)
+
 
 
