@@ -8,7 +8,7 @@ language: en
 
 ## Editor
 
-Utilize the MAMP PRO Editor to edit your scripts directly in MAMP PRO. You can see your changes instantaneously in the live view, and your client side code in the real view.
+Utilize the MAMP PRO Editor to edit your scripts directly. You can see your changes instantaneously in the live view, and your client side code in the real view.
 
 <i class="fa fa-play-circle-o fa-lg" aria-hidden="true"></i> [MAMP PRO Editor Basic Features](https://www.youtube.com/watch?v=b9bbIWRMsHI&feature=youtu.be){:target="_blank"}
 
@@ -52,5 +52,12 @@ Open the assets window through Window > Assets in the MAMP PRO menu. Use the ass
 
 
 ![MAMP](Assets.png)
+
+
+### Text Editing Options
+
+## Help
+
+## Language
 
 
