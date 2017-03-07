@@ -58,7 +58,7 @@ Open the assets window through Window > Assets in the MAMP PRO menu. Use the ass
 
 #### Help
 
-A link to a help page associated with the current language.
+A link to a help page associated with the current language. A link to a syntax validator is provided for some languages.
 
 ![MAMP](help.png)
 
