@@ -193,14 +193,14 @@ alias pear='/Applications/MAMP/bin/php/php7.1.1/bin/pear'
 
 ### Install stats extension using PECL
 
-Use the following guideline to add your own extensions. This example is uses the stats extension and PHP 5.6.30.
+Use the following guideline to add your own extensions. This example is uses the mongodb extension and PHP 5.6.30.
 
 1. Check the "Make this version available on the command line" check box on your Languages > PHP tab.
 2. Restart your servers. A pecl alias now exists in your `~/.profile` file.
 3. Open Terminal.app ( /Applications/Utilities ) and enter the following line into the terminal and hit enter:  
-   `pecl install stats`
-4. A stats.so extension should now be in your  `/Applications/MAMP/bin/php/php5.6.30/lib/php/extension/no-debug-non-zts` folder.
-5. Go to File > Edit Templates > PHP > PHP5.6.30 and add "extension=stats.so" to your php.ini template file.
+   `pecl install mongodb`
+4. A mongodb.so extension should now be in your  `/Applications/MAMP/bin/php/php5.6.30/lib/php/extension/no-debug-non-zts` folder.
+5. Go to File > Edit Templates > PHP > PHP5.6.30 and add "extension=mongodb.so" to your php.ini template file.
 6. Restart your servers and verify the extension has been loaded by checking phpInfo.
 
 
