@@ -197,11 +197,9 @@ Use the following guideline to add your own extension.
 
 1. Check the "Make this version available on the command line" check box on your Languages > PHP tab.
 2. Restart your servers. An alias now exists in your `~/.profile` file.
-
 {% highlight php %}
 alias pecl='/Applications/MAMP/bin/php/php5.6.30/bin/pecl'
 {% endhighlight %}
-
 3. Open Terminal.app ( /Applications/Utilities ) and enter the following line into the terminal and hit enter:  
    `pecl install stats`
 4. A stats.so extension should now be in your'/Applications/MAMP/bin/php/php5.6.30/lib/php/extension/no-debug-non-zts/stats.so' folder.
