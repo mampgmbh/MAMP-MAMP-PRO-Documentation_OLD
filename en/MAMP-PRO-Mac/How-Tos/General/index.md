@@ -183,9 +183,7 @@ zend_extension = /Applications/MAMP/bin/php/php7.0.13/lib/php/extensions/no-debu
 ### Install Pear
 
 1. Check the "Make this version available on the command line" check box on your Languages > PHP tab.
-2. Restart your servers.
-
-An alias now exists in your `~/.profile` file.
+2. Restart your servers. An alias now exists in your `~/.profile` file.
 
 {% highlight php %}
 alias pear='/Applications/MAMP/bin/php/php7.1.1/bin/pear'
