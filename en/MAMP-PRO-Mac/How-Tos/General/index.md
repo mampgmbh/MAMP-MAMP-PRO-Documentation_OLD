@@ -191,7 +191,7 @@ alias pear='/Applications/MAMP/bin/php/php7.1.1/bin/pear'
 
 ---
 
-### Install stats extension using PECL
+### Install mongodb extension using PECL
 
 Use the following guideline to add your own extensions. This example is uses the mongodb extension and PHP 5.6.30.
 
