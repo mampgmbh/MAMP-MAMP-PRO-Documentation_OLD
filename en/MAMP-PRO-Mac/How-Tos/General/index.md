@@ -193,7 +193,7 @@ alias pear='/Applications/MAMP/bin/php/php7.1.1/bin/pear'
 
 ### Install stats extension using PECL
 
-Use the following guideline to add your own extensions.
+Use the following guideline to add your own extensions. This example is uses the stats extension and PHP 5.6.30.
 
 1. Check the "Make this version available on the command line" check box on your Languages > PHP tab.
 2. Restart your servers. A pecl alias now exists in your `~/.profile` file.
