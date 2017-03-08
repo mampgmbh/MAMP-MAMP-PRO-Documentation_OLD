@@ -204,11 +204,8 @@ alias pecl='/Applications/MAMP/bin/php/php5.6.30/bin/pecl'
 
 3. Open Terminal.app ( /Applications/Utilities ) and enter the following line into the terminal and hit enter:  
    `pecl install stats`
-
 4. A stats.so extension should now be in your'/Applications/MAMP/bin/php/php5.6.30/lib/php/extension/no-debug-non-zts/stats.so' folder.
-
 5. Go to File > Edit Templates > PHP > PHP5.6.30 and add "extension=stats.so" to your php.ini template file.
-
 6. Restart your servers and verify the extension has been loaded by checking phpInfo.
 
 
