@@ -187,5 +187,7 @@ zend_extension = /Applications/MAMP/bin/php/php7.0.13/lib/php/extensions/no-debu
 
 An alias now exists in your `~/.profile` file.
 
-
+{% highlight php %}
+alias pear='/Applications/MAMP/bin/php/php7.1.1/bin/pear'
+{% endhighlight %}  
 
