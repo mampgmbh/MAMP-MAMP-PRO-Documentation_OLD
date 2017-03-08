@@ -140,7 +140,7 @@ You can create a host using the command by using the following steps
 
 1. Quit MAMP PRO.
 2. Open Terminal.app ( /Applications/Utilities ).
-2. Enter the following line into the terminal and hit enter:  
+3. Enter the following line into the terminal and hit enter:  
    `/Applications/MAMP\ PRO/MAMP\ PRO.app/Contents/MacOS/MAMP\ PRO cmd createHost testHost /Applications/MAMP/htdocs2`
    
 This will create a host with the name 'TestHost', with a document root of '/Applications/MAMP/htdocs2'. MAMP PRO will briefly open, and a host will be created. MAMP PRO will then quit. When you open MAMP PRO you will see your new host.
@@ -191,13 +191,24 @@ alias pear='/Applications/MAMP/bin/php/php7.1.1/bin/pear'
 
 ---
 
-### Install PECL
+### Install stats extension using PECL
+
+Use the following guideline to add your own extension.
 
 1. Check the "Make this version available on the command line" check box on your Languages > PHP tab.
 2. Restart your servers. An alias now exists in your `~/.profile` file.
 
 {% highlight php %}
-alias pear='/Applications/MAMP/bin/php/php7.1.1/bin/pear'
+alias pecl='/Applications/MAMP/bin/php/php5.6.30/bin/pecl'
 {% endhighlight %}
+
+3. Open Terminal.app ( /Applications/Utilities ) and enter the following line into the terminal and hit enter:  
+   `pecl install stats`
+
+4. A stats.so extension should now be in your'/Applications/MAMP/bin/php/php5.6.30/lib/php/extension/no-debug-non-zts/stats.so' folder.
+
+5. Go to File > Edit Templates > PHP > PHP5.6.30 and add "extension=stats.so" to your php.ini template file.
+
+6. Restart your servers and verify the extension has been loaded by checking phpInfo.
 
 
