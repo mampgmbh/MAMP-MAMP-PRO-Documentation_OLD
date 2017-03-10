@@ -77,9 +77,17 @@ Choose what language syntax to be highlighted.
 
 #### Cancel
 
-#### All
+Cancel the save action.
+
+#### Discard All
+
+Discard all changes to currently unsaved documents.
 
 #### Save Later
 
+Your Real view and Live View will not reflect changes to your documents. Your changes will remain unsaved and unchanged when you reopen the Editor.
+
 #### Save All
+
+Save all currently unsaved documents
 
