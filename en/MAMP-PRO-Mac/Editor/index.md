@@ -71,5 +71,5 @@ Choose what language syntax to be highlighted.
 
 ### Save
 
-
+![MAMP](SaveEditor.png)
 
