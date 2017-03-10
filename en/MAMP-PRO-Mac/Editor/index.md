@@ -53,6 +53,7 @@ Open the assets window through Window > Assets in the MAMP PRO menu. Use the ass
 
 ![MAMP](Assets.png)
 
+---
 
 ### Text Editing Options
 
@@ -68,8 +69,17 @@ Choose what language syntax to be highlighted.
 
 ![MAMP](syntax.png)
 
+---
 
 ### Save
 
 ![MAMP](SaveEditor.png)
+
+#### Cancel
+
+#### All
+
+#### Save Later
+
+#### Save All
 
