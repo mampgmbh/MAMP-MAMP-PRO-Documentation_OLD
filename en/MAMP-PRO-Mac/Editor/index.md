@@ -58,13 +58,11 @@ Open the assets window through Window > Assets in the MAMP PRO menu. Use the ass
 ### Text Editing Options
 
 #### Help
-
 A link to a help page associated with the current language. A link to a syntax validator is provided for some languages.
 
 ![MAMP](help.png)
 
 #### Language
-
 Choose what language syntax to be highlighted.
 
 ![MAMP](syntax.png)
@@ -76,18 +74,14 @@ Choose what language syntax to be highlighted.
 ![MAMP](SaveEditor.png)
 
 #### Cancel
-
 Cancel the save action.
 
 #### Discard All
-
 Discard all changes to currently unsaved documents.
 
 #### Save Later
-
 Your Real view and Live View will not reflect changes to your documents. Your changes will remain unsaved and unchanged when you reopen the Editor.
 
 #### Save All
-
 Save all currently unsaved documents
 
