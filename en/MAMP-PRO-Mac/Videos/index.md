@@ -8,7 +8,7 @@ language: en
 
 ## Video Documentation <i class="fa fa-play-circle-o fa-lg" aria-hidden="true"></i> 
 
-### Installation, Upgrade And De-Installation
+### Installation, Upgrade And De Installation
 
 *  **[Upgrading From MAMP PRO 3 To MAMP PRO 4](https://www.youtube.com/watch?v=KOH8bvfE0a0){:target="_blank"}**
 
