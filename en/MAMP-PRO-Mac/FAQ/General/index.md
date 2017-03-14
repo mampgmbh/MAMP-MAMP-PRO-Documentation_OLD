@@ -95,6 +95,27 @@ The following list contains all files which are created and changed by MAMP PRO 
 
 ---
 
+### What are the locations of the configuration files.
+
+The changes you make in the MAMP PRO interface and template files help create real configuration files. The configuration files are created when you start your servers.
+
+PHP
+/Library/Application Support/appsolute/MAMP PRO/conf/php.ini
+
+MySQL
+/Applications/MAMP/tmp/mysql/my.cnf
+
+Apache
+/Library/Application Support/appsolute/MAMP PRO/conf/httpd.conf
+
+Apache-SSL
+/Library/Application Support/appsolute/MAMP PRO/conf/httpd-ssl.conf
+
+Nginx
+/Library/Application Support/appsolute/MAMP PRO/conf/nginx.conf
+
+---
+
 ### Where can I find more information on the various servers, interpreters, debuggers and other tools that MAMP PRO uses?
 
 Click on the following links for further information on
