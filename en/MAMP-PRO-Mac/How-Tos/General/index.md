@@ -211,5 +211,3 @@ Use the following guideline to add your own extensions. This example is uses the
 6. Restart your servers and verify the extension has been loaded by checking phpInfo.
 
    ![MAMP](phpIniResult.png)
-
-
