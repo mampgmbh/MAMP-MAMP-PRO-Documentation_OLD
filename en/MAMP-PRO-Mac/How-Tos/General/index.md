@@ -190,7 +190,7 @@ Use the following guideline to compile your own extensions. This example uses th
 Your extension should now build and you should see the following result. 
 ![MAMP](buildResult.png) 
 4. A mongodb.so extension should now be in your  `/Applications/MAMP/bin/php/php7.0.15/lib/php/extension/no-debug-non-zts` folder.
-5. Go to File > Edit Templates > PHP > PHP7.0.15 and add "extension=mongodb.so" to your php.ini template file.
+5. Go to File > Edit Templates > PHP > PHP7.0.15 and add extension=mongodb.so.
 ![MAMP](addToTemplate.png)
 6. Restart your servers and verify the extension has been loaded by checking phpInfo.
 ![MAMP](phpIniResult.png)
