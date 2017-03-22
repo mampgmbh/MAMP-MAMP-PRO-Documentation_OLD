@@ -152,7 +152,7 @@ This will create a host with the name 'TestHost', with a document root of '/Appl
 You can create a host and corresponding database for this host using the command line. Use the following steps.
 
 1. Quit MAMP PRO.
-2. Open Terminal.app ( /Applications/Utilities ).
+2. Open Terminal.app (/Applications/Utilities).
 3. Enter the following command and hit enter:
    `/Applications/MAMP\ PRO/MAMP\ PRO.app/Contents/MacOS/MAMP\ PRO cmd startServers`
 4. Enter the following line into the terminal and hit enter:  
@@ -185,11 +185,11 @@ Use the following guideline to compile your own extensions. This example uses th
 
 1. Check the "Make this version available on the command line" check box on your Languages > PHP tab.
 2. Restart your servers. A PECL alias now exists in your `~/.profile` file.
-3. Open Terminal.app ( /Applications/Utilities ) and enter the following line into the terminal and hit enter:  
+3. Open Terminal.app (/Applications/Utilities) and enter the following line into the terminal and hit enter:  
    `pecl install mongodb`
 Your extension should now build and you should see the following result. 
 ![MAMP](buildResult.png) 
-4. A mongodb.so extension should now be in your  `/Applications/MAMP/bin/php/php7.0.15/lib/php/extension/no-debug-non-zts` folder.
+4. A mongodb.so extension should now be in your `/Applications/MAMP/bin/php/php7.0.15/lib/php/extension/no-debug-non-zts` folder.
 5. Go to File > Edit Templates > PHP > PHP7.0.15 and add extension=mongodb.so.
 ![MAMP](addToTemplate.png)
 6. Restart your servers and verify the extension has been loaded by checking phpInfo.
