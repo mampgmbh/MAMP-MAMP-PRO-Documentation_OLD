@@ -194,4 +194,3 @@ Your extension should now build and you should see the following result.
 ![MAMP](addToTemplate.png)
 6. Restart your servers and verify the extension has been loaded by checking phpInfo.
 ![MAMP](phpIniResult.png)
-
