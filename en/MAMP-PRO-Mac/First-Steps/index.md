@@ -18,6 +18,10 @@ Your default host for MAMP PRO is `localhost`. The files for localhost are initi
 
 ![MAMP](OpenLocalHost.png)
 
+<div class="alert" role="alert">
+Note: Although the default localhost document root is located in `/Applications/MAMP/htdocs`, it is best to keep it's document root, and the document root of additional hosts out of the `/Applications/MAMP folder`. A better directory structure for your host document root folders would be `~/sites/localhost`, `~/sites/site1`, `~/sites/site2`, etc ... .
+</div>
+
 
 
 ---
