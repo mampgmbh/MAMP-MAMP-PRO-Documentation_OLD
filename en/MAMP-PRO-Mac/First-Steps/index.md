@@ -28,6 +28,7 @@ Note: Although the default localhost document root is located in `/Applications/
 
 To add an additional host press the '+' button at the bottom left corner of the Hosts table. You will then be asked to select a document root folder and optionally a database. See the [Hosts](../Settings/Hosts/General) section for more information on what a host is and how to create additional hosts.
 
+---
 
 ### Main GUI Elements
 
