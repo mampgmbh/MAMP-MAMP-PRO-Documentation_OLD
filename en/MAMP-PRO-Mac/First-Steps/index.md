@@ -52,7 +52,7 @@ To add an additional host press the '+' button at the bottom left corner of the 
    Save your changed settings.
 *  **Server & Services**  
    'On' indicates a server or service is on, '-' indicates the service is off. A check box indicates this service is part of
-   Groupstart'.
+   'Groupstart'.
    
    ![MAMP](ServerServices.png)
 
