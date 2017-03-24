@@ -39,7 +39,8 @@ To add an additional host press the '+' button at the bottom left corner of the 
 *  **MAMP PRO**  
    Open the  [https://mamp.info](https://www.mamp.info){:target="_blank"} web page.
 *  **Editor**  
-   Open the MAMP PRO Editor. Additional information about the MAMP PRO Editor can be found in the [Editor](../Editor/)     section.
+   Open the MAMP PRO Editor. Additional information about the MAMP PRO Editor can be found in the [Editor](../Editor/)
+   section.
 *  **WebStart**  
    Open the MAMP PRO start page of your local web server.
    Additional information about the MAMP PRO start page is in the [Webstart](../WebStart) section.
@@ -52,6 +53,7 @@ To add an additional host press the '+' button at the bottom left corner of the 
 *  **Server & Services**  
    'On' indicates a server or service is on, '-' indicates the service is off. A check box indicates this service is part of
    Groupstart'.
+   
    ![MAMP](ServerServices.png)
 
 ---
