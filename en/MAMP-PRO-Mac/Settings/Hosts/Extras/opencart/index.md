@@ -22,13 +22,13 @@ Note: The opencart Extra will install files in a /Document Root/upload folder.
 *  **Email address:**  
    Your email address.  
    <div class="alert" role="alert"> 
-   Note: You must enter a valid email address to setup a WordPress installation.
+   Note: You must enter a valid email address to setup a opencart installation.
    </div>
 
 *  **Directory:**  
    The installation directory.Your open cart files are automatically installed in /Document Root/upload .  
    <div class="alert" role="alert">    
-   Note: Do not install over a previous installation of Wordpress! Files will be overwritten without warning.  
+   Note: Do not install over a previous installation of opencart! Files will be overwritten without warning.  
    </div>
 
 *  **Table prefix:**  
