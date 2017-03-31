@@ -16,7 +16,7 @@ Note: The opencart Extra will install files in a /Document Root/upload folder.
 </div>
 
 
-![MAMP](WordPress.png)
+![MAMP](opencart.png)
 
 
 *  **Email address:**  
