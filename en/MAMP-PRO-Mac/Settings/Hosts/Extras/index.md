@@ -25,7 +25,8 @@ The Extras panel shows the name of the extra, how many installations are possibl
 - [Concrete5](Concrete5/) 
 - [Grav](Grav/) 
 - [ForkCMS](ForkCMS/)
-- [Bootstrap](Bootstrap/) 
+- [Bootstrap](Bootstrap/)
+- [opencart](opencart/) 
 
 ---
 
