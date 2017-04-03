@@ -1,1 +1,31 @@
 
+---
+title: MAMP PRO (Mac) Documentation > Settings > Hosts > Extras > SilverStripe
+description: 
+layout: default-2
+product: MAMP PRO Mac
+language: en
+---
+
+## Settings > Hosts > Extras > SilverStripe
+
+Fork is an open source content management system. More information about Fork can be found [here](https://www.silverstripe.org){:target="_blank"}.
+
+![MAMP](silverstripe.png)
+
+
+*  **Database name:**  
+   The name of your database schema which will be added to your local database. After installation you can view this database for this instance of SilverStripe using phpMyAdmin, Sequel Pro, or MySQLWorkbench. 
+
+*  **Email address:**  
+   Your email address. SilverStripe will use this email address as the admin username.
+   
+   <div class="alert" role="alert"> 
+   Note: You must enter a valid email address to setup a SilverStripe installation.
+   </div>
+   
+*  **Password:**  
+   Your SilverStripe admins default password.  
+   <div class="alert" role="alert">   
+   Note: You will need this password to login into your new SilverStripe site, please write this down.
+   </div>
