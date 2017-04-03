@@ -8,7 +8,7 @@ language: en
 
 ## Settings > Hosts > Extras > SilverStripe
 
-Fork is an open source content management system. More information about Fork can be found [here](https://www.silverstripe.org){:target="_blank"}.
+SilverStripe is an open source content management system. More information about Fork can be found [here](https://www.silverstripe.org){:target="_blank"}.
 
 ![MAMP](silverstripe.png)
 
@@ -34,3 +34,11 @@ Fork is an open source content management system. More information about Fork ca
    <div class="alert" role="alert">   
    Note: You will need this password to login into your new SilverStripe site, please write this down.
    </div>
+   
+   ---
+   
+   SilverStripe documentation can be found [here](https://docs.silverstripe.org/en/3/){:target="_blank"}.
+   
+   Server requirements and configuration recommendations for SilverStripe can be found [here](https://docs.silverstripe.org/en/3/getting_started/server_requirements/){:target="_blank"}.
+   
+   
