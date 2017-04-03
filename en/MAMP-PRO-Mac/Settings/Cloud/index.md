@@ -10,5 +10,7 @@ language: en
 
 Sync your host and database data through a cloud provider.
 
+![MAMP](cloud.png)
+
 
 
