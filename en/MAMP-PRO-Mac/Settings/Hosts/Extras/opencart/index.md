@@ -25,12 +25,6 @@ Note: The opencart Extra will install files in a /Document Root/upload folder.
    Note: You must enter a valid email address to setup a opencart installation.
    </div>
 
-*  **Directory:**  
-   The installation directory.Your open cart files are automatically installed in /Document Root/upload .  
-   <div class="alert" role="alert">    
-   Note: Do not install over a previous installation of opencart! Files will be overwritten without warning.  
-   </div>
-
 *  **Table prefix:**  
    Set the name of your database schema prefix. Opencart offers the ability to manage multiple websites using a single database schema.
 
@@ -48,6 +42,12 @@ Note: The opencart Extra will install files in a /Document Root/upload folder.
    The opencart admins default password.  
    <div class="alert" role="alert"> 
    Note: You will need this password to login into your new opencart shop, please write this down.
+   </div>
+   
+*  **Directory:**  
+   The installation directory.Your open cart files are automatically installed in /Document Root/upload .  
+   <div class="alert" role="alert">    
+   Note: Do not install over a previous installation of opencart! Files will be overwritten without warning.  
    </div>
 
 ---
