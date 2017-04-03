@@ -1,4 +1,3 @@
-
 ---
 title: MAMP PRO (Mac) Documentation > Settings > Hosts > Extras > SilverStripe
 description: 
@@ -13,7 +12,13 @@ Fork is an open source content management system. More information about Fork ca
 
 ![MAMP](silverstripe.png)
 
-
+*  **Directory:**  
+   The installation directory. If it is left blank the Drupal files will be copied directly to the document root folder.  
+  
+   <div class="alert" role="alert"> 
+   Note: Do not install over a previous installation of Drupal! Files will be overwritten without warning. 
+   </div>
+   
 *  **Database name:**  
    The name of your database schema which will be added to your local database. After installation you can view this database for this instance of SilverStripe using phpMyAdmin, Sequel Pro, or MySQLWorkbench. 
 
