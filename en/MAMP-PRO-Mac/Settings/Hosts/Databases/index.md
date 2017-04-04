@@ -8,25 +8,17 @@ language: en
 
 ## Settings > Hosts > Databases
 
-The Database tab shows which databases are associated with your host.
+The Database tab shows which databases are associated with your host. You can associate individual tables with a host.
+
 ![MAMP](databases.png)
 
-The Extras panel shows the name of the extra, how many installations are possible per document root, and the php language version and MySQL compatibility.
+---
 
-- [WordPress](WordPress/)  
-- [Joomla](Joomla/)  
-- [Drupal](Drupal/) 
-- [webEdition](webEdition/)
-- [Magento](Magento/)
-- [Mediawiki](Mediawiki/) 
-- [phpBB](phpBB/) 
-- [PrestaShop](PrestaShop/)
-- [Concrete5](Concrete5/) 
-- [Grav](Grav/) 
-- [ForkCMS](ForkCMS/)
-- [Bootstrap](Bootstrap/)
-- [opencart](opencart/) 
-- [SilverStripe](SilverStripe/) 
+### New Database
+
+Presss the '+' button to add a new database
+
+![MAMP](NewDatabase.png)
 
 ---
 
