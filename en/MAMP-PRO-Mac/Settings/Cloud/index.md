@@ -46,7 +46,7 @@ Use Dropbox to move your files to the cloud.
 
 *  **Save**
 
-  When saving to the cloud, MAMP PRO archives the data from the hosts document root folder and data from the MySQl databases and tables mapped to the host into a single zip file and optionally encrypts it with your encryption key. The archive will afterwoods be transferred to the cloud.
+    When saving to the cloud, MAMP PRO archives the data from the hosts document root folder and data from the MySQl databases    and tables mapped to the host into a single zip file and optionally encrypts it with your encryption key. The archive will  afterwoods be transferred to the cloud.
 
 *  **Load**
 
