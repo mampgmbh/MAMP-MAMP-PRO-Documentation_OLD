@@ -9,7 +9,7 @@ language: en
 ## Settings > Hosts > Databases
 
 The Database tab shows which databases are associated with your host.
-![MAMP](Databases.png)
+![MAMP](databases.png)
 
 The Extras panel shows the name of the extra, how many installations are possible per document root, and the php language version and MySQL compatibility.
 
