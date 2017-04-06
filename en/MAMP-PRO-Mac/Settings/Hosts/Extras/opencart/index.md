@@ -10,14 +10,7 @@ language: en
 
 Opencart is a free and open-source eCommerce platform. More information about opencart can be found [here](https://www.opencart.com){:target="_blank"}.
 
-
-<div class="alert" role="alert">
-Note: The opencart Extra will install files in a /Document Root/upload folder.
-</div>
-
-
 ![MAMP](opencart.png)
-
 
 *  **Email address:**  
    Your email address.  
@@ -26,11 +19,10 @@ Note: The opencart Extra will install files in a /Document Root/upload folder.
    </div>
 
 *  **Table prefix:**  
-   Set the name of your database schema prefix. Opencart offers the ability to manage multiple websites using a single database schema.
+   Set the name of your database schema prefix. 
 
 *  **Database name:**  
-   Set the name of your database schema which will be added to your local database.  
-   After installation you can view this database for this instance of opencart using phpMyAdmin, Sequel Pro, or           MySQLWorkbench. 
+   Set the name of your database schema which will be added to your local database. After installation you can view this database for this instance of opencart using phpMyAdmin, Sequel Pro, or MySQLWorkbench. 
  
 *  **Username:**  
    The opencart admin.
