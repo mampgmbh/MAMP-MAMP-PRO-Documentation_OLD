@@ -15,7 +15,7 @@ Opencart is a free and open-source eCommerce platform. More information about op
 *  **Email address:**  
    Your email address.  
    <div class="alert" role="alert"> 
-   Note: You must enter a valid email address to setup a opencart installation.
+   Note: You must enter a valid email address to setup an opencart installation.
    </div>
 
 *  **Table prefix:**  
@@ -40,9 +40,6 @@ Opencart is a free and open-source eCommerce platform. More information about op
 
 In your browser navigate to  to http://HostName:8888/upload to navigate to your new opencart shop. Click on the ![MAMP](../BlackArrow.png)to open the home page of your installed opencart extra through the MAMP PRO interface. Click on ![MAMP](../gear.png) to open the administrator page of your opencart extra.
   
- <div class="alert" role="alert">    
-   Note: Do not install over a previous installation of opencart! Files will be overwritten without warning.  
- </div>
    
  Opencart installation documentation can be found [here](http://docs.opencart.com/installation/){:target="_blank"}.
 
