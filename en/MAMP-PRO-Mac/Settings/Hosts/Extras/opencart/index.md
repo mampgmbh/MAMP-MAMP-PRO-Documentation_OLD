@@ -6,7 +6,7 @@ product: MAMP PRO Mac
 language: en
 ---
 
-## Settings > Hosts > Extras > Wordpress
+## Settings > Hosts > Extras > Opencart
 
 Opencart is a free and open-source eCommerce platform. More information about opencart can be found [here](https://www.opencart.com){:target="_blank"}.
 
