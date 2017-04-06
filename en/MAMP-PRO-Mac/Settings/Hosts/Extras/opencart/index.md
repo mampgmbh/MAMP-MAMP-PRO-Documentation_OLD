@@ -44,9 +44,11 @@ Note: The opencart Extra will install files in a /Document Root/upload folder.
    Note: You will need this password to login into your new opencart shop, please write this down.
    </div>
    
-*  **Directory:**  
-   The installation directory.Your open cart files are automatically installed in /Document Root/upload .  
-   <div class="alert" role="alert">    
+---
+
+In your browser navigate to  to http://HostName:8888/upload to navigate to your new opencart shop. Click on the ![MAMP](../BlackArrow.png)to open the home page of your installed opencart extra through the MAMP PRO interface. Click on the other symbol to open your administrator page of your opencart extra.
+  
+  <div class="alert" role="alert">    
    Note: Do not install over a previous installation of opencart! Files will be overwritten without warning.  
    </div>
 
