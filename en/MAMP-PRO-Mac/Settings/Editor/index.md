@@ -12,7 +12,7 @@ language: en
 
 Adjust your document editing settings here.
 
-![MAMP](Editing.png)
+![MAMP](/en/MAMP-PRO-Mac/Settings/Editor/Editing.png)
 
 *  **Auto-Save:**  
     *  **Save automatically when closing a modified document**
@@ -58,7 +58,7 @@ Adjust your document editing settings here.
 
 Adjust your document color settings here.
 
-![MAMP](Colors.png)
+![MAMP](/en/MAMP-PRO-Mac/Settings/Editor/Colors.png)
 
 ---
 
@@ -66,4 +66,4 @@ Adjust your document color settings here.
 
 Adjust your default application settings here.
 
-![MAMP](DefaultApps.png)
+![MAMP](/en/MAMP-PRO-Mac/Settings/Editor/DefaultApps.png)
