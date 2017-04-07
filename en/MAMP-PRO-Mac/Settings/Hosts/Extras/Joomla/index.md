@@ -15,7 +15,7 @@ Joomla installations can share a single MySQL database if you provide a unique t
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Joomla/Joomla.png)
 
 *  **Name of the site:**  
-   Name your site.
+   The name of your site.
 
 *  **Email address:**  
    Your email address.  
@@ -36,9 +36,10 @@ Joomla installations can share a single MySQL database if you provide a unique t
 
 *  **Database name:**  
    Set the name of your database schema which will be added to your local database.
-   After installation you can view this database for this instance of Joomla using phpMyAdmin, Sequel Pro, or MySQLWorkbench. 
+   After installation you can view this database for this instance of Joomla using phpMyAdmin, Sequel Pro, or MySQLWorkbench.
+   
 *  **Username:**  
-   The Joomla admin.
+   The Joomla admin's name.
    <div class="alert" role="alert">
    Note: You will need this username to login into your new of Joomla site, please write this down. 
    </div>
