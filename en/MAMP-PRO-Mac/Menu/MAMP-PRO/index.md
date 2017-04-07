@@ -26,7 +26,7 @@ Register your MAMP PRO.
 
 Check for Updates checks for updated versions of the MAMP PRO application and individual components.
 
-![MAMP](Updates.png)
+![MAMP](/en/MAMP-PRO-Mac/Menu/MAMP-PRO/Updates.png)
 
 *  **MAMP PRO**  
    Upgrade your entire MAMP PRO installation. A MAMP_MAMP_PRO.pkg file will be downloaded to your Dowloads folder.
@@ -43,7 +43,7 @@ Check for Updates checks for updated versions of the MAMP PRO application and in
 
 ### Preferences…
 
-![MAMP](Preferences.png)
+![MAMP](/en/MAMP-PRO-Mac/Menu/MAMP-PRO/Preferences.png)
 
 *  **Open WebStart when starting MAMP PRO:**
      Your default browser will bring up the web start page when MAMP PRO is launched.
