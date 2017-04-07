@@ -40,13 +40,13 @@ Note: When Wordpress is installed the host name and Apache port number are store
    After installation you can view this database for this instance of WordPress using phpMyAdmin, Sequel Pro, or           MySQLWorkbench. 
  
 *  **Username:**  
-   The WordPress admins username.
+   The WordPress admin's username.
    <div class="alert" role="alert"> 
    Note: You will need this username to login into your new of WordPress blog, please write this down.
    </div>
 
 *  **Password:**  
-   The WordPress admins default password.  
+   The WordPress admin's default password.  
    <div class="alert" role="alert"> 
    Note: You will need this password to login into your new WordPress blog, please write this down.
    </div>
