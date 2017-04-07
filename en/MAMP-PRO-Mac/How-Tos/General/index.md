@@ -100,7 +100,7 @@ You will get warning message stating you are using the same document root and na
 1. Go to your Settings > Hosts > Apache tab in MAMP PRO.
 2. Add the following lines to your Additional Parameters for <Virtual Host> directive:
 
-![MAMP](httpsRedirectInMAMP.png)
+![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/httpsRedirectInMAMP.png)
 
 {% highlight php %}
 
@@ -119,7 +119,7 @@ RewriteRule (.*) https://%{SERVER_NAME}/$1 [R,L]
 1. Create a .htaccess file using the MAMP PRO Editor and save this file in your document root.
 2. Add the following lines to your .htaccess file.
 
-![MAMP](httpsRedirect.png)
+![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/httpsRedirect.png)
 
 {% highlight php %}
 
@@ -173,10 +173,10 @@ This example uses PHP 7.0.13. Please be aware if you are installing ionCube for 
 2. Unpack ioncube_loaders_darx86-64.tar.gz . In your resulting `ioncube` directory there will be several files. Copy only the ioncube_loader_dar_7.0.so file to `/Applications/MAMP/bin/php/php7.0.13/lib/php/extensions/no-debug-non-zts-20151012`. The ioncube_loader_dar_7.0.so is good for all PHP 7.0.x versions.
 3. Add the following line to your php 7.013 template file. You can reach your template files in MAMP PRO through the menu bar, File > Edit Template > PHP > 7.0.13 . Be sure this line is above all other Zend directives.
 zend_extension = /Applications/MAMP/bin/php/php7.0.13/lib/php/extensions/no-debug-non-zts-20151012/ioncube_loader_dar_7.0.so
-![MAMP](phpTemplate.png)
+![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/phpTemplate.png)
 4. Restart your servers in MAMP PRO.
 5. To verify ionCube is loaded use your php.ini file. You should see the following in your php.ini file.
-![MAMP](ionCubephpini.png)
+![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/ionCubephpini.png)
 
 
 ### Install mongodb extension using PECL
@@ -188,10 +188,10 @@ Use the following guideline to compile your own extensions. This example uses th
 3. Open Terminal.app (/Applications/Utilities) and enter the following line into the terminal and hit enter:  
    `pecl install mongodb`
 Your extension should now build and you should see the following result. 
-![MAMP](buildResult.png) 
+![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/buildResult.png) 
 4. A mongodb.so extension should now be in your `/Applications/MAMP/bin/php/php7.0.15/lib/php/extension/no-debug-non-zts` folder.
 5. Go to File > Edit Templates > PHP > PHP7.0.15 and add extension=mongodb.so.
 ![MAMP](addToTemplate.png)
 6. Restart your servers and verify the extension has been loaded by checking phpInfo.
-![MAMP](phpIniResult.png)
+![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/phpIniResult.png)
 
