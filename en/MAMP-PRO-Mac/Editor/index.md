@@ -18,13 +18,13 @@ Documentation on how to adjust the settings for your editor can be found [here](
 
 ---
 
-![MAMP](Editor.jpg)
+![MAMP](/en/MAMP-PRO-Mac/Editor/Editor.jpg)
 
 ### Live View
 
 The live view displays a live view of your website next to your server side code. 
 
-![MAMP](liveView.png)
+![MAMP](/en/MAMP-PRO-Mac/Editor/liveView.png)
 
 Press the ![MAMP](BlackArrow.png)  button to display the live view. Right click on the Arrow button to display your site in a web browser.
 
@@ -36,11 +36,11 @@ The real view displays the resulting client side view of your code next to your 
 
 <i class="fa fa-play-circle-o fa-lg" aria-hidden="true"></i> [MAMP PRO Editor Real View](https://www.youtube.com/watch?v=HJx7_hwpcaY&feature=youtu.be){:target="_blank"}
 
-![MAMP](realView.png)
+![MAMP](/en/MAMP-PRO-Mac/Editor/realView.png)
 
-Press the ![MAMP](lines.png)  button to display the live view.
+Press the ![MAMP](/en/MAMP-PRO-Mac/Editor/lines.png)  button to display the live view.
 
-Press the ![MAMP](eye.png)  button to switch back to the real view.
+Press the ![MAMP](/en/MAMP-PRO-Mac/Editor/eye.png)  button to switch back to the real view.
 
 ---
 
@@ -48,7 +48,7 @@ Press the ![MAMP](eye.png)  button to switch back to the real view.
 
 Open the assets window through Window > Assets in the MAMP PRO menu. Use the assets window to keep often used icons, videos or files. Add items from the assets window by dragging them to the document root window. Your assets folder is located in `~/Documents/MAMP PRO/assets`.
 
-![MAMP](Assets.png)
+![MAMP](/en/MAMP-PRO-Mac/Editor/Assets.png)
 
 ---
 
@@ -57,17 +57,17 @@ Open the assets window through Window > Assets in the MAMP PRO menu. Use the ass
 #### Help
 A link to a help page associated with the current language. A link to a syntax validator is provided for some languages.
 
-![MAMP](help.png)
+![MAMP](/en/MAMP-PRO-Mac/Editor/help.png)
 
 #### Language
 Choose what language syntax to be highlighted.
 
-![MAMP](syntax.png)
+![MAMP](/en/MAMP-PRO-Mac/Editor/syntax.png)
 
 
 ### Save
 
-![MAMP](SaveEditor.png)
+![MAMP](/en/MAMP-PRO-Mac/Editor/SaveEditor.png)
 
 *  **Cancel**  
 Cancel the save action.
