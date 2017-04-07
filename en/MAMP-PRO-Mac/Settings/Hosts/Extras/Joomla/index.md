@@ -12,7 +12,7 @@ Joomla is a free and open-source content management system. More information abo
 
 Joomla installations can share a single MySQL database if you provide a unique table prefix during installation. To use an existing database enter the name of the database and a unique table prefix. To create a new database use a unique database name. The table prefix must not be empty.
 
-![MAMP](Joomla.png)
+![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Joomla/Joomla.png)
 
 *  **Name of the site:**  
    Name your site.
