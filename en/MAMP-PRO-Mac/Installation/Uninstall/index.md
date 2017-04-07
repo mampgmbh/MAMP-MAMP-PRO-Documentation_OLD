@@ -14,6 +14,6 @@ Use the MAMP PRO Uninstaller located in `/Applications/MAMP PRO` to remove MAMP 
 Note: Using the uninstaller in /Applications/MAMP PRO will remove your databases located in /Library/application support/appsolute/MAMP PRO/db
 </div>
 
-![MAMP](Uninstaller.png)
+![MAMP](/en/MAMP-PRO-Mac/Installation/Uninstall/Uninstaller.png)
 
 Drag the `/Applications/MAMP` folder to the `Trash` to complete uninstallation.
