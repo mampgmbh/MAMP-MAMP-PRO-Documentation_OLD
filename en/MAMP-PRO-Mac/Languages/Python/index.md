@@ -10,7 +10,7 @@ language: en
 
 Python is a widely used high-level, general-purpose, interpreted, dynamic programming language. 
 
-![MAMP](Python.png)
+![MAMP](/en/MAMP-PRO-Mac/Languages/Python/Python.png)
 
 ---
 
