@@ -12,7 +12,7 @@ The MySQL database server is a popular database used on production servers. An i
 
 <i class="fa fa-play-circle-o fa-lg" aria-hidden="true"></i>  [MAMP PRO MySQL Data](https://www.youtube.com/watch?v=ZRHJy2K4yzc){:target="_blank"}
 
-![MAMP](MySQL.png)
+![MAMP](/en/MAMP-PRO-Mac/Servers-and-Services/MySQL/MySQL.png)
 
 *  **Include MySQL server in GroupStart**  
    Check to include the MySQL Server in the GroupStart. When activated MySQL server will automatically start/stop when the Servers button is pressed.
