@@ -10,7 +10,7 @@ language: en
 
 Grav is a modern open source flat-file CMS. An installation of Grav does not require a MySQL database. You can find more information about Grav [here](https://www.getgrav.org){:target="_blank"}.
 
-![MAMP](gravExtra.png)
+![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Grav/gravExtra.png)
 
 *  **Name:**  
    This is your name in the admin area of your Grav installation.
