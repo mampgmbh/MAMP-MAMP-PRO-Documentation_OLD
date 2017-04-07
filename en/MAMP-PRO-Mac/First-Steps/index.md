@@ -8,7 +8,7 @@ language: en
 
 ## First Steps
 
-![MAMP](FirstSteps.png)
+![MAMP](/en/MAMP-PRO-Mac/First-Steps/FirstSteps.png)
 
 When the MAMP PRO application is launched for the first time its helper tools will be installed. You will be prompted to enter your admin password.
 
@@ -16,7 +16,7 @@ Click on the Servers button in the title bar to launch Apache and MySQL, they ar
 
 Your default host for MAMP PRO is `localhost`. The files for localhost are initially located in the `/Applications/MAMP/htdocs` folder. Press ![MAMP](BlackArrow.png) located to the right of the Name text box to open up the localhost in a web browser.
 
-![MAMP](OpenLocalHost.png)
+![MAMP](/en/MAMP-PRO-Mac/First-Steps/OpenLocalHost.png)
 
 <div class="alert" role="alert">
 Note: Although the default localhost document root is located in `/Applications/MAMP/htdocs`, it is best to keep it's document root, and the document root of additional hosts out of the `/Applications/MAMP folder`. A better directory structure for your host document root folders would be `~/sites/localhost`, `~/sites/site1`, `~/sites/site2`, etc ... .
@@ -60,16 +60,16 @@ To add an additional host press the '+' button at the bottom left corner of the 
 
 ### Meaning of Icons
 
-![MAMP](Docs.png) Change a file location, including the location of the document root, or a log file. 
+![MAMP](/en/MAMP-PRO-Mac/First-Steps/Docs.png) Change a file location, including the location of the document root, or a log file. 
 
-![MAMP](Mail.png) Prepare an e-mail with the Xip.io URL of a host.
+![MAMP](/en/MAMP-PRO-Mac/First-Steps/Mail.png) Prepare an e-mail with the Xip.io URL of a host.
 
-![MAMP](Rights.png) Modify the access rights of a document root folder.
+![MAMP](/en/MAMP-PRO-Mac/First-Steps/Rights.png) Modify the access rights of a document root folder.
 
-![MAMP](BlackArrow.png) Open a disk location in the Finder, or a host in the web browser.
+![MAMP](/en/MAMP-PRO-Mac/First-Steps/BlackArrow.png) Open a disk location in the Finder, or a host in the web browser.
 
-![MAMP](info.png) Provide more information, including phpInfo().
+![MAMP](/en/MAMP-PRO-Mac/First-Steps/info.png) Provide more information, including phpInfo().
 
-![MAMP](RedArrow.png) Indicates that information is missing.
+![MAMP](/en/MAMP-PRO-Mac/First-Steps/RedArrow.png) Indicates that information is missing.
 
-![MAMP](Plus.png) Add a new PHP version.
+![MAMP](/en/MAMP-PRO-Mac/First-Steps/Plus.png) Add a new PHP version.
