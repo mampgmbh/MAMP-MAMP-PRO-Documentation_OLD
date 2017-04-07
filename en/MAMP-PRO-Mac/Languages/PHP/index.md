@@ -10,14 +10,14 @@ language: en
 
 PHP is a popular web scripting programming language. MAMP PRO installs several versions of the PHP script interpreter.
 
-![MAMP](php.png)
+![MAMP](/en/MAMP-PRO-Mac/Languages/PHP/php.png)
 
 ---
 
 *  **Default version**  
    Select which PHP version will be the default version. To view the [php template file](../../Menu/File) press the ![MAMP](../../First-Steps/BlackArrow.png) button. Additional versions of php can be downloaded by pressing the ![MAMP](../../First-Steps/Plus.png) button.
 
-   ![MAMP](phpUpdates.png)
+   ![MAMP](/en/MAMP-PRO-Mac/Languages/PHP/phpUpdates.png)
    
    <div class="alert" role="alert">
       Note: To remove unneeded PHP versions simply stop your servers, quit MAMP PRO, and remove your /Applications/MAMP/bin/php/phpX.XX directory, where X.XX is the version of PHP you want removed.
@@ -72,9 +72,9 @@ alias pecl='/Applications/MAMP/bin/php/php7.1.1/bin/pecl'
    *  **OPCache**  
          OPcache improves PHP performance by storing precompiled script bytecode in shared memory, thereby removing the need for PHP to load and parse scripts on each request. You can learn more about OPcache  [here](http://php.net/manual/en/book.opcache.php){:target="_blank"}.
    
-   ![MAMP](cache.png) 
+   ![MAMP](/en/MAMP-PRO-Mac/Languages/PHP/cache.png) 
    
-   Several caches provide a user interface to help analyze and profile your code. Press the ![MAMP](../../First-Steps/BlackArrow.png) button to the right of the cache name to view this interface. An interface is not available if the Arrow button is not enabled.
+   Several caches provide a user interface to help analyze and profile your code. Press the ![MAMP](/en/MAMP-PRO-Mac/First-Steps/BlackArrow.png) button to the right of the cache name to view this interface. An interface is not available if the Arrow button is not enabled.
 
 ---
 
