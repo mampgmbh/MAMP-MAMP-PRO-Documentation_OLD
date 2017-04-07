@@ -10,16 +10,17 @@ language: en
 
 WordPress is a free and open-source content management system based on PHP and MySQL. More information about Wordpress can be found [here](https://www.wordpress.org){:target="_blank"}.
 
+You can find more information about your Wordpress installation in the Wordpress [documentation](https://codex.wordpress.org/Main_Page){:target="_blank"}.
 
 <div class="alert" role="alert">
-Note: When some Content Management Systems such as Wordpress are setup the host name and Apache port number are stored in their database. Going forward the Apache port in MAMP PRO cannot be changed. A change in the Apache port will result in breaking the CMS, returning only a vague error message. Content Management Systems usually provide a mechanism for changing the host and port names. If changes are made in the CMS, then they must also be made in MAMP PRO.
+Note: When Wordpress is installed the host name and Apache port number are stored in its corresponding database. Changing the Apache port after installation will result in breaking your Wordpress installation. Port migration tools are available for Wordpress. It is generally advised to create Wordpress hosts using Apache port 80.
 </div>
 
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/WordPress/WordPress.png)
 
 *  **Name of the blog:**  
-   Name your blog.
+   The name of your blog.
 
 *  **Email address:**  
    Your email address.  
@@ -41,7 +42,7 @@ Note: When some Content Management Systems such as Wordpress are setup the host 
    After installation you can view this database for this instance of WordPress using phpMyAdmin, Sequel Pro, or           MySQLWorkbench. 
  
 *  **Username:**  
-   The WordPress admin.
+   The WordPress admins username.
    <div class="alert" role="alert"> 
    Note: You will need this username to login into your new of WordPress blog, please write this down.
    </div>
