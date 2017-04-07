@@ -14,7 +14,7 @@ The name of a host (server name) must be unique, often it's practical to use a r
 
 To create a new host press the `Plus` button at the bottom left of the screen.
 
-![MAMP](OpenHost.png)
+![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/General/OpenHost.png)
 
 *  **Host name**
 
@@ -42,7 +42,7 @@ To create a new host press the `Plus` button at the bottom left of the screen.
 
 
 
-![MAMP](General.png)
+![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/General/General.png)
 
 *  **Hosts Table**
 
@@ -54,7 +54,7 @@ To create a new host press the `Plus` button at the bottom left of the screen.
 
    When your host page is functioning or at any other time you can save your host settings so you can go back to them at a later date. This serves as a backup in the case you make some server changes and discover your site is no longer accessible.
 
-   ![MAMP](HostSaveSettings.png)
+   ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/General/HostSaveSettings.png)
 
 ---
 
@@ -68,7 +68,7 @@ To create a new host press the `Plus` button at the bottom left of the screen.
 
    If the servers are running you can use the ![MAMP](../../../First-Steps/BlackArrow.png) button to open a host in your web browser.
 
-  ![MAMP](Browsers.png)
+  ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/General/Browsers.png)
 
 *  **IP address**  
    If this field is left empty or contains an `*` the web server will use one of the computer's IP addresses to access this host.
@@ -87,7 +87,7 @@ To create a new host press the `Plus` button at the bottom left of the screen.
    If you select the Standard PHP version MAMP PRO will automatically adapt this setting if you choose
    a new standard version in the PHP tab. Use a fixed setting to tell MAMP PRO not to alter the PHP version.
    
-      ![MAMP](PHP.png)
+      ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/General/PHP.png)
 
    Sounds complicated? Let's take a look at an example: The default version is set to 5.5.9. You have oneHost
    set to PHP version `Default (5.5.9)`, anotherHost set to `5.5.9` and yetAnotherHost set to `5.3.28`.
@@ -100,7 +100,7 @@ To create a new host press the `Plus` button at the bottom left of the screen.
 
       *  **PHPInfo**
       
-         ![MAMP](phpInfo.png)
+         ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/General/phpInfo.png)
       
          View your php configuration by pressing the 'i' button to the right of the version name.
       
@@ -174,7 +174,7 @@ To create a new host press the `Plus` button at the bottom left of the screen.
    
    To remove a new host press the `Minus` button at the bottom left of the screen.
    
-   ![MAMP](removeHost.png)
+   ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/General/removeHost.png)
    
    *  **Delete document root folder**
    
