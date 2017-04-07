@@ -16,7 +16,7 @@ The default MAMP PRO WebStart page provides links to access utilities such as ph
 
 PHPInfo provides general information about your php interpreter. Information including which extensions are included can be found using phpInfo.
 
-![MAMP](php.ini.png)
+![MAMP](/en/MAMP-PRO-Mac/WebStart/php.ini.png)
 
 Your php.ini file directory location can be found through phpInfo. The php.ini file cannot be modified directly. Changes to the php.ini file must be made through the [template file](../Menu/File).
 
