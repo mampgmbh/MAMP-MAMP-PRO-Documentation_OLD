@@ -8,9 +8,7 @@ language: en
 
 ## Settings > Hosts > Extras > Wordpress
 
-WordPress is a free and open-source content management system based on PHP and MySQL. More information about Wordpress can be found [here](https://www.wordpress.org){:target="_blank"}.
-
-You can find more information about your Wordpress installation in the Wordpress [documentation](https://codex.wordpress.org/Main_Page){:target="_blank"}.
+WordPress is a free and open-source content management system based on PHP and MySQL. More information about Wordpress can be found [here](https://www.wordpress.org){:target="_blank"}. You can find more information about your Wordpress installation in the Wordpress [documentation](https://codex.wordpress.org/Main_Page){:target="_blank"}.
 
 <div class="alert" role="alert">
 Note: When Wordpress is installed the host name and Apache port number are stored in its corresponding database. Changing the Apache port after installation will result in breaking your Wordpress installation. Port migration tools are available for Wordpress. It is generally advised to create Wordpress hosts using Apache port 80.
