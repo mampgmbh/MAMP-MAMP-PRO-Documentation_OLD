@@ -16,7 +16,7 @@ Note: When some Content Management Systems such as Wordpress are setup the host 
 </div>
 
 
-![MAMP](WordPress.png)
+![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/WordPress/WordPress.png)
 
 *  **Name of the blog:**  
    Name your blog.
