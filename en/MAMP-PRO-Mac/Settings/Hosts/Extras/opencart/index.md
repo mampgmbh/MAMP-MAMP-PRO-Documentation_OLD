@@ -10,7 +10,7 @@ language: en
 
 Opencart is a free and open-source eCommerce platform. More information about opencart can be found [here](https://www.opencart.com){:target="_blank"}.
 
-![MAMP](opencart.png)
+![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/opencart/opencart.png)
 
 *  **Email address:**  
    Your email address.  
