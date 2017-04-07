@@ -196,7 +196,7 @@ my $link = DBI->connect(
 
 2. To connect to your databases you have to fill in several required fields. Navigate to the ‘Socket’ tab.
 
-   ![MAMP](SequelProInterface.png)
+   ![MAMP](/en/MAMP-PRO-Mac/How-Tos/MySQL/SequelProInterface.png)
 
 
    *  **Name:** This is the host name. The default host is ‘localhost’.
@@ -209,7 +209,7 @@ my $link = DBI->connect(
 
 4. You can access your individual databases by clicking on the ‘Choose Database…’ Drop down menu.
 
-   ![MAMP](SequelProDatabaseList.png)
+   ![MAMP](/en/MAMP-PRO-Mac/How-Tos/MySQL/SequelProDatabaseList.png)
 
 ---
 <a name="upgrade_to_mamp_pro_missing_databases"></a>
