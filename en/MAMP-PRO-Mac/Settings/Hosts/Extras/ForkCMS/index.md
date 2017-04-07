@@ -10,7 +10,7 @@ language: en
 
 Fork is an open source content management system. More information about Fork can be found [here](http://www.fork-cms.com){:target="_blank"}.
 
-![MAMP](forkExtra.png)
+![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/ForkCMS/forkExtra.png)
 
 *  **Name of the site:**  
    The name of your site.
