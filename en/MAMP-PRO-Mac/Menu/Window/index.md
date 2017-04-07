@@ -15,7 +15,7 @@ language: en
 
 Overview allows quick access to preview websites. Overview can be added to the toolbar.
 
-![MAMP](Overview.jpg)
+![MAMP](/en/MAMP-PRO-Mac/Menu/Window/Overview.jpg)
 
 ---
 
@@ -23,7 +23,7 @@ Overview allows quick access to preview websites. Overview can be added to the t
 
 Track your assets using the Asset Manager. The Asset Manager can be added to the toolbar.
   
-![MAMP](Assets.png)
+![MAMP](/en/MAMP-PRO-Mac/Menu/Window/Assets.png)
 
 ---
 
@@ -31,7 +31,7 @@ Track your assets using the Asset Manager. The Asset Manager can be added to the
 
 Use your scrap pad to paste notes or code for later use. The Scrap Pad can be added to the toolbar.
 
-![MAMP](ScrapPad.png)
+![MAMP](/en/MAMP-PRO-Mac/Menu/Window/ScrapPad.png)
 
 ---
 
