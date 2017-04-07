@@ -56,7 +56,7 @@ Joomla installations can share a single MySQL database if you provide a unique t
  
 After your Joomla extra is installed you will see two links to your site. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/BlackArrow.png) button will open your Extra's homepage. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/gear.png) button will open the admin page of your Joomla site.
 
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Drupal/joomlaInstall.png)
+![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Joomla/joomlaInstall.png)
 
 
 
