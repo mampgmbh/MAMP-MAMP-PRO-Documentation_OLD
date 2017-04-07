@@ -14,7 +14,7 @@ language: en
 4. Your existing `htdocs` folder will be moved to your new `/Applications/MAMP` folder.
 5. If there has been a change to the configuration of Apache, PHP, or MySQL (A directive was modified or a new one added)    between versions of MAMP PRO and you have already made changes to your current configuration (resulting in the creation of a template file in ~/Library/application support/appsolute/MAMP PRO/templates ), MAMP PRO will ask you to save off your old templates when you upgrade.
 
-    ![MAMP](Templates.png)
+    ![MAMP](/en/MAMP-PRO-Mac/Installation/MAMP-PRO-4xx-4xx-Upgrade/Templates.png)
   
     Save your template files. You can use these saved template files as a guide of your previous modifications. New         (re) modifications need to be made through the MAMP PRO interface (File > Edit Templates), just as you had done previously in MAMP PRO.
 
