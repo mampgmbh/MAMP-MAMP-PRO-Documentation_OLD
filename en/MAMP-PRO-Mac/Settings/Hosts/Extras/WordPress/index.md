@@ -52,6 +52,14 @@ Note: When Wordpress is installed the host name and Apache port number are store
    </div>
 
 ---
+ 
+### Installation
+ 
+After your Drupal extra is installed you will see two links to your site. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/BlackArrow.png) button will open your Extra's homepage. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/gear.png) button will open the admin page of your WordPress site.
+
+![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Wordpress/wordPressInstall.png)
+
+---
 
 <i class="fa fa-play-circle-o fa-lg" aria-hidden="true"></i>  [Installing wordPress with Extras and Manually](https://www.youtube.com/watch?v=pZ7J4Ai-RxQ){:target="_blank"}
 
