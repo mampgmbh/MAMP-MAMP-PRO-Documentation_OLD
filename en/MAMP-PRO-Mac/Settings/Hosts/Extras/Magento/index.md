@@ -10,7 +10,7 @@ language: en
 
 Magento Commerce is a popular php based e-commerce platform. More information about Magento can be found [here](https://www.magento.com){:target="_blank"}.
 
-![MAMP](Magento.png)
+![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Magento/Magento.png)
 
 *  **Email address:**  
    Your email address. Your Magento installation will send error messages to this email address.
