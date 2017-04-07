@@ -10,7 +10,7 @@ language: en
 
 SilverStripe is an open source content management system. More information about Fork can be found [here](https://www.silverstripe.org){:target="_blank"}.
 
-![MAMP](silverstripe.png)
+![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/SilverStripe/silverStripe.png)
 
 *  **Directory:**  
    The installation directory. If it is left blank the Drupal files will be copied directly to the document root folder.  
