@@ -34,7 +34,7 @@ Note: Edition errors in the templates of the configuration files can cause the s
      
      Open and edit your php.ini template file here. There are likely several versions of php available, each of them with  their own template file. Changes made to your template file will be reflected your real php.ini file. The php.ini file created from the template file and is located in `/Library/appsolute/MAMP PRO/conf`.
      
-     ![MAMP](PHPini.png)
+     ![MAMP](/en/MAMP-PRO-Mac/Menu/File/PHPini.png)
 
 *  **MySQL(my.cnf)**        
      
@@ -82,13 +82,13 @@ Importing templates made in a different version of MAMP PRO may cause some confi
 
 Make a backup of all your host settings, host and database files.
 
-![MAMP](Backup.png)
+![MAMP](/en/MAMP-PRO-Mac/Menu/File/Backup.png)
      
 ### Restore From Backup:
 
 Restore files from a previous backup.
 
-![MAMP](Restore.png)
+![MAMP](/en/MAMP-PRO-Mac/Menu/File/Restore.png)
 
 <div class="alert" role="alert">
 Note: Restoring your backed up files can potentially overwrite your current host and database files. Back up your current host and database files before restoring from a backup. 
