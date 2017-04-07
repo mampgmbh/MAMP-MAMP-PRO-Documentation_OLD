@@ -10,7 +10,7 @@ language: en
 
 phpBB is an Internet forum package written in the PHP scripting language. More information about phpBB can be found [here](https://www.phpbb.com){:target="_blank"}.
 
-![MAMP](phpBB.png)
+![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/phpBB/phpBB.png)
 
 *  **Email address:**  
    Your email address. You phpBB installation will send error messages to this e-mail address.
