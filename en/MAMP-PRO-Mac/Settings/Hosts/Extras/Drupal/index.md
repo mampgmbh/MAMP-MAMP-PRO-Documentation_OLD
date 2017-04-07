@@ -49,6 +49,12 @@ Drupal is content management software. It's used to make many of the websites an
    </div>
    
  ---
+ 
+ ### Installation
+ 
+After you drupal extra is installed you will see two links to your site. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/BlackArrow.png) will open your Extra's homepage. The The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/gear.png) will open the admin page of your Extra.
+
+
 
 <i class="fa fa-play-circle-o fa-lg" aria-hidden="true"></i>  [Installing Drupal with Extras and Manually](https://www.youtube.com/watch?v=sGnGFWP5OBE){:target="_blank"}
 
