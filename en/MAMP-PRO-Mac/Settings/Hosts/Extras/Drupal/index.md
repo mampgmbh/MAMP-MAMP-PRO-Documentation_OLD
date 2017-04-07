@@ -34,7 +34,7 @@ Drupal is content management software. It's used to make many of the websites an
 
 *  **Database name:**  
    Set the name of your database schema which will be added to your local database.  
-   After installation you can view this database for this instance of WordPress using phpMyAdmin, Sequel Pro, or           MySQLWorkbench. 
+   After installation you can view this database for this instance of Drupal using phpMyAdmin, Sequel Pro, or           MySQLWorkbench. 
  
 *  **Username:**  
    The Drupal admin's username.
@@ -52,9 +52,9 @@ Drupal is content management software. It's used to make many of the websites an
  
  ### Installation
  
-After you drupal extra is installed you will see two links to your site. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/BlackArrow.png) will open your Extra's homepage. The The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/gear.png) will open the admin page of your Extra.
+After your Drupal extra is installed you will see two links to your site. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/BlackArrow.png) will open your Extra's homepage. The The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/gear.png) will open the admin page of your Extra.
 
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Drupal/drupalInstall.png)
+![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Drupal/drupInstall.png)
 
 ---
 
