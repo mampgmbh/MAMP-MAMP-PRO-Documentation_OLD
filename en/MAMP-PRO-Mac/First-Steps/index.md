@@ -54,7 +54,7 @@ To add an additional host press the '+' button at the bottom left corner of the 
    'On' indicates a server or service is on, '-' indicates the service is off. A checkmark indicates this service is part of
    'Groupstart'.
    
-   ![MAMP](ServerServices.png)
+   ![MAMP](/en/MAMP-PRO-Mac/First-Steps/ServerServices.png)
 
 ---
 
