@@ -13,7 +13,7 @@ Drupal is content management software. It's used to make many of the websites an
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Drupal/Drupal.png)
 
 *  **Name of the site:**  
-   Name your site.
+   The name your site.
 
 *  **Email address:**  
    Your email address.  
@@ -37,13 +37,13 @@ Drupal is content management software. It's used to make many of the websites an
    After installation you can view this database for this instance of WordPress using phpMyAdmin, Sequel Pro, or           MySQLWorkbench. 
  
 *  **Username:**  
-   The Drupal admin.
+   The Drupal admin's username.
    <div class="alert" role="alert">
    Note: You will need this username to login into your new of Drupal site, please write this down. 
    </div>
 
 *  **Password:**  
-   The Drupal admins default password.  
+   The Drupal admin's default password.  
    <div class="alert" role="alert">   
    Note: You will need this password to login into your new Drupal site, please write this down.
    </div>
