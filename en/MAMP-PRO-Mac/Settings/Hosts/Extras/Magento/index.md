@@ -46,4 +46,10 @@ Magento Commerce is a popular php based e-commerce platform. More information ab
 *  **Encryption Key:**  
    This key is used for encrypting your sensitive data. You will need it if you move your data to a different Magento installation. Some payment and shipment processors require it. The key is located in <document root>/app/etc/env.php .
 
+---
 
+### Installation
+ 
+After your Magento extra is installed you will see two links to your site. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/BlackArrow.png) button will open your Extra's homepage. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/gear.png) button will open the admin page of your Magento site.
+
+![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/WordPress/installMagento.png)
