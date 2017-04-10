@@ -52,4 +52,4 @@ Magento Commerce is a popular php based e-commerce platform. More information ab
  
 After your Magento extra is installed you will see two links to your site. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/BlackArrow.png) button will open your Extra's homepage. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/gear.png) button will open the admin page of your Magento site.
 
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/WordPress/installMagento.png)
+![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Magento/installMagento.png)
