@@ -44,3 +44,12 @@ Concrete5 is an open source content management system. More information about co
    <div class="alert" role="alert">   
    Note: You will need this password to login into your new concrete5 site, please write this down.
    </div>
+   
+   ---
+
+### Installation
+ 
+After your Concrete5 extra is installed you will see two links to your site. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/BlackArrow.png) button will open your Extra's homepage. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/gear.png) button will open the admin page of your Concrete5 site.
+
+![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Concrete5/installConcrete5.png)
+
