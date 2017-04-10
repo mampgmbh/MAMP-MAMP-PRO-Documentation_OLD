@@ -36,3 +36,12 @@ Grav is a modern open source flat-file CMS. An installation of Grav does not req
    <div class="alert" role="alert">   
    Note: You will need this password to login into your new Grav site, please write this down.
    </div>
+   
+---
+
+### Installation
+ 
+After your Grav extra is installed you will see two links to your site. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/BlackArrow.png) button will open your Extra's homepage. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/gear.png) button will open the admin page of your Grav site.
+
+![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Grav/installGrav.png)
+
