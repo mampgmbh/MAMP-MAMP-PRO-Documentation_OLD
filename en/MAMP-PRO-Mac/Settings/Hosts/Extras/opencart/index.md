@@ -38,9 +38,14 @@ Opencart is a free and open-source eCommerce platform. More information about op
    
 ---
 
-In your browser navigate to  to http://HostName:8888/upload to navigate to your new opencart shop. Click on the ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/BlackArrow.png)to open the home page of your installed opencart extra through the MAMP PRO interface. Click on ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/gear.png) to open the administrator page of your opencart extra.
-  
-   
- Opencart installation documentation can be found [here](http://docs.opencart.com/installation/){:target="_blank"}.
+### Installation
+ 
+After your opencart extra is installed you will see two links to your site. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/BlackArrow.png) button will open your Extra's homepage. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/gear.png) button will open the admin page of your opencart site.
+
+![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/opencart/installOpenCart.png)
 
 ---
+   
+Opencart installation documentation can be found [here](http://docs.opencart.com/installation/){:target="_blank"}.
+
+
