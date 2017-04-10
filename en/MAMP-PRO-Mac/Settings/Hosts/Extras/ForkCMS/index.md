@@ -30,3 +30,12 @@ Fork is an open source content management system. More information about Fork ca
    <div class="alert" role="alert">   
    Note: You will need this password to login into your new Fork site, please write this down.
    </div>
+   
+   ---
+
+### Installation
+ 
+After your Fork extra is installed you will see two links to your site. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/BlackArrow.png) button will open your Extra's homepage. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/gear.png) button will open the admin page of your Fork site.
+
+![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/ForkCMS/installFork.png)
+
