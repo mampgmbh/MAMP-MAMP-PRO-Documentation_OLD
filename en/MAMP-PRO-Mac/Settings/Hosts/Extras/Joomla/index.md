@@ -54,7 +54,7 @@ Joomla installations can share a single MySQL database if you provide a unique t
  
 ### Installation
  
-After your Joomla extra is installed you will see two links to your site. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/BlackArrow.png) button will open your Extra's homepage. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/gear.png) button will open the admin page of your Joomla site. Your admin page is in the `/administrator` subdirectory of your document root.
+After your Joomla extra is installed you will see two links to your site. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/BlackArrow.png) button will open your Extra's homepage. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/gear.png) button will open the admin page of your Joomla site. Your admin page is in the `/administrator` subdirectory of your document root. Your database name is indicated to the right of the  ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/mysql.png) icon, your database table prefix is in parenthesis.
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Joomla/joomlaInstall.png)
 
