@@ -47,7 +47,7 @@ PrestaShop is a free, open source e-commerce solution. More information about Pr
 
 ### Installation
  
-After your Presta Shop extra is installed you will see two links to your site. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/BlackArrow.png) button will open your Extra's homepage. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/gear.png) button will open the admin page of your Presta Shop site.
+After your Presta Shop extra is installed you will see two links to your site. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/BlackArrow.png) button will open your Extra's homepage. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/gear.png) button will open the admin page of your Presta Shop site. Your database name is indicated to the right of the  ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/mysql.png) icon, your database table prefix is in parenthesis.
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/PrestaShop/installPresta.png)
 
