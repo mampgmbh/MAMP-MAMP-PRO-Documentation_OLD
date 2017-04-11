@@ -55,7 +55,7 @@ Note: When Wordpress is installed the host name and Apache port number are store
  
 ### Installation
  
-After your WordPress extra is installed you will see two links to your site. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/BlackArrow.png) button will open your Extra's homepage. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/gear.png) button will open the admin page of your WordPress site. Your admin page is in `/wp-login.php` in your document root. Your database name is to indicated next to the ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/mysql.png) icon.
+After your WordPress extra is installed you will see two links to your site. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/BlackArrow.png) button will open your Extra's homepage. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/gear.png) button will open the admin page of your WordPress site. Your admin page is in `/wp-login.php` in your document root. Your database name is to indicated next to the right of the  ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/mysql.png) icon.
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/WordPress/wpInstall.png)
 
