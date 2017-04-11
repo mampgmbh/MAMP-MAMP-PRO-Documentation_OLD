@@ -52,7 +52,7 @@ Drupal is content management software. It's used to make many of the websites an
  
 ### Installation
  
-After your Drupal extra is installed you will see two links to your site. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/BlackArrow.png) button will open your Extra's homepage. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/gear.png) button will open the admin page of your Drupal site.
+After your Drupal extra is installed you will see two links to your site. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/BlackArrow.png) button will open your Extra's homepage. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/gear.png) button will open the admin page of your Drupal site. Your admin page is in your `/user/login` subdirectory of your document root.
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Drupal/drupInstall.png)
 
