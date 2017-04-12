@@ -49,7 +49,7 @@ Concrete5 is an open source content management system. More information about co
 
 ### Installation
  
-After your Concrete5 extra is installed you will see two links to your site. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/BlackArrow.png) button will open your Extra's homepage. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/gear.png) button will open the admin page of your Concrete5 site.
+After your Concrete5 extra is installed you will see two links to your site. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/BlackArrow.png) button will open your Extra's homepage. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/gear.png) button will open the admin page of your Concrete5 site. Your admin page is in the `/login` subdirectory of your document root.
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Concrete5/installConcrete.png)
 
