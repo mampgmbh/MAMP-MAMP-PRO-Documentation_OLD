@@ -22,7 +22,7 @@ Bootstrap is a popular HTML, CSS, and JS framework. Use the Bootstrap Extra to q
 
 ### Installation
  
-After your Bootstrap extra is installed you will see two links to your site. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/BlackArrow.png) button will open your Extra's homepage. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/gear.png) button will open the admin page of your Bootstrap site.
+After your Bootstrap extra is installed you will see two links to your site. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/BlackArrow.png) button will open your Extra's homepage. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/gear.png) button will open your home page as well. Bootstrap does not use a MySQL database.
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Bootstrap/installBootstrap.png)
 
