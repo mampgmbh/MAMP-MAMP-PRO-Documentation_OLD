@@ -53,11 +53,11 @@ Confirm that all data has been transferred correctly before starting MAMP. Your 
 
 When you first start your servers in MAMP you will be asked to upgrade your database data.
 
-![MAMP](UpgradeMessage.png)
+![MAMP](/en/MAMP-Mac/Installation/UpgradeMessage.png)
 
 Press Upgrade to upgrade your database data.
 
-![MAMP](UpgradeComplete.png)
+![MAMP](/en/MAMP-Mac/Installation/UpgradeComplete.png)
 
 ---
 
