@@ -8,7 +8,7 @@ language: en
 
 ## Preferences > PHP
 
-![MAMP](PHP.png)
+![MAMP](/en/MAMP-Mac/Preferences/PHP/PHP.png)
 
 *   **Standard Version**  
    Choose whether PHP 5.6.26 or PHP 7.0.10 is used. The available PHP versions depend on the installed version of MAMP.
