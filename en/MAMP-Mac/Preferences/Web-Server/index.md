@@ -8,7 +8,7 @@ language: en
 
 ## Preferences > Web Server
 
-![MAMP](WebServer.png)
+![MAMP](/en/MAMP-Mac/Preferences/Web-Server/WebServer.png)
 
 *   **Web Server**
    Choose either the Apache or Nginx web server.
