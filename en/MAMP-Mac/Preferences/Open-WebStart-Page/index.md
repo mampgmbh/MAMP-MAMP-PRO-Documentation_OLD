@@ -8,7 +8,7 @@ language: en
 
 ## Preferences > Open WebStart Page
 
-![MAMP](WebStart.png)
+![MAMP](/en/MAMP-Mac/Preferences/Open-WebStart-Page/WebStart.png)
 
 The default MAMP start page provides links to access utilities such as phpMyAdmin, phpInfo, SQLite Manager, phpLiteAdmin, FAQ, MyFavoriteLink and the MAMP Website.
 
