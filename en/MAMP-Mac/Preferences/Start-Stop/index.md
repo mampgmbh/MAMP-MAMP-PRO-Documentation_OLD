@@ -8,7 +8,7 @@ language: en
 
 ## Preferences > Start/Stop
 
-![MAMP](StartStop.png)
+![MAMP](/en/MAMP-Mac/Preferences/Ports/StartStop.png)
 
 *   **Start Servers**  
    The Apache/Nginx and MySQL services will start automatically when you launch MAMP.
