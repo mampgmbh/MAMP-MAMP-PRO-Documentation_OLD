@@ -44,13 +44,14 @@ MediaWiki is a free software open source wiki package written in PHP, originally
    <div class="alert" role="alert">   
    Note: You will need this password to login into your new Mediawiki blog, please write this down.
    </div>
+   
+---
 
-When you are done filling out all the required fields Mediawiki will be downloaded into your host directory. A database will be created using the database name you entered.
+### Installation
+ 
+After your MediaWiki extra is installed you will see two links to your site. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/BlackArrow.png) button will open your Extra's homepage. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/gear.png) button will open the admin page of your MediaWiki site. Your admin page is in your `/user/login` subdirectory of your document root. Your database name is indicated to the right of the  ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/mysql.png) icon, your database table prefix is in parenthesis.
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Mediawiki/installMediaWiki.png)
-
-The <document root> indicates you installed Mediawiki directly in the document root and not a subfolder. mediawiki_1 indicates the database name and (wiki_) indicates the table prefix name. You can go directly to your host site by pressing the 'manage...' button
-
 
 
 
