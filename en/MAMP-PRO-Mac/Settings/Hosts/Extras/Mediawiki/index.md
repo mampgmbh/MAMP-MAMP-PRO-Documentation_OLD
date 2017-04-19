@@ -47,7 +47,7 @@ MediaWiki is a free software open source wiki package written in PHP, originally
 
 When you are done filling out all the required fields Mediawiki will be downloaded into your host directory. A database will be created using the database name you entered.
 
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Mediawiki/MediaWikiInstalled.png)
+![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Mediawiki/installMediaWiki.png)
 
 The <document root> indicates you installed Mediawiki directly in the document root and not a subfolder. mediawiki_1 indicates the database name and (wiki_) indicates the table prefix name. You can go directly to your host site by pressing the 'manage...' button
 
