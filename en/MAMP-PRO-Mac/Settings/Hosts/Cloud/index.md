@@ -10,4 +10,4 @@ language: en
 
 Hosts can be synched via the cloud.
 
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/cloud/cloud.png)
+![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/cloud.png)
