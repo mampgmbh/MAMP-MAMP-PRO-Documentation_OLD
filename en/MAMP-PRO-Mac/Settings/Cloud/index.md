@@ -12,7 +12,7 @@ language: en
 
 Sync your host and database data through a cloud provider. Currently, only Dropbox is available for cloud syncing. When you check this option you will be asked to log into your Dropbox account. When you have completed the login process your Dropbox will be linked to MAMP PRO.
 
-![MAMP](/en/MAMP-PRO-Mac/Settings/Cloud/dropBox.png)
+![MAMP](/en/MAMP-PRO-Mac/Settings/Cloud/dropbox.png)
 
 ---
 
