@@ -8,8 +8,6 @@ language: en
 
 ## Settings > Cloud
 
-### Use cloud service with provider
-
 Sync your host and database data through a cloud provider. 
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Cloud/cloud.png)
