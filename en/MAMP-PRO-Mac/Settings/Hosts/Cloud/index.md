@@ -24,33 +24,18 @@ This Represents the size of the data stored in the cloud.
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/cloudOptions.png)
 
-*  **Save**
+*  **Save to cloud**
 
-    When saving to the cloud, MAMP PRO archives the data from the hosts document root folder and data from the MySQL databases    and tables mapped to the host into a single zip file and optionally encrypts it with your encryption key. The archive will  afterwoods be transferred to the cloud.
+    When saving to the cloud, MAMP PRO archives the data from the hosts document root folder and data from the MySQL databases and tables mapped to the host into a single zip file and optionally encrypts it with your encryption key. The archive will afterwords be transferred to the cloud.
 
-*  **Load**
+*  **Load to cloud**
 
     Loading data from the cloud is the reverse process: After having loaded the archive, it will be decrypted if necessary, decompressed and the data will be copied to the hosts document root folder and imported back into MySQL. 
 
-*  **Delete**
+*  **Delete from cloud**
 
-    If you want to delete a host from the cloud its data can be retrieved using the Dropbox versioning functions.
-  
-*  **Desktop Folder Icon**
+    Delete cloud data for a host.  
 
-    Show the desktop in Finder.
+*  **Link to cloud**
 
-*  **Link**
-  
-    
-
-*  **Save**
-
-  If you want to peek into the data that's currently stored in the cloud for the selected host, use this function. The decrypted and uncompressed archive will be saced to the desktop.
-
-*  **Load**
-
-    If you want to know what gets transferred into the cloud, try this function. It also helps you determine how much free space you need in the cloud. The archive will be saved to the desktop.
-
-
-
+    Connect to an existing host already in the cloud. To link to a cloud you must use the same host name as the host in the cloud. If you cannot remember the name of the host you want to link, then check your Dropbox. The name of the host is exactly the name of the zip file in your '~/Dropbox/Apps/MAMP PRO' folder.
