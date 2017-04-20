@@ -22,7 +22,7 @@ This Represents the size of the data stored in the cloud.
 
 ---
 
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/cloudInfo.png)
+![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/cloudOptions.png)
 
 *  **Save**
 
