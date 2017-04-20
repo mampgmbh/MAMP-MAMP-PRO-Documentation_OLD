@@ -22,21 +22,21 @@ Currently, only Dropbox is available for cloud syncing. When you check this opti
 
 ---
 
-*  **Before transferring data to the cloud : Always encrypt the data**
+### Before transferring data to the cloud : Always encrypt the data
   
   Use this feature to encrypt data ...
   
-*  **When authorizing MAMP PRO with Dropbox : Use in-app webview**
+### When authorizing MAMP PRO with Dropbox : Use in-app webview
   
   View the Dropbox login page directly through the MAMP PRO app
   
-*  **Unattended transfers : Prevent sleeping during cloud activity**
+### Unattended transfers : Prevent sleeping during cloud activity
   
   Prevent sleeping ...
   
- ---
+---
  
- ### Path to log file
+### Path to log file
  
  
 
