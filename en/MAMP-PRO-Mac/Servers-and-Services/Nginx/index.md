@@ -20,7 +20,7 @@ The Nginx Web Server is a popular web server used in production environments. An
 
 *  **Use Nginx as a Reverse Proxy for Apache**  
 
-    Check to use Nginx as a reverse proxy for Apache. When this option is checked the following will be added to your  `/Library/Application Support/appsolute/MAMP PRO/conf/nginx.conf` file.
+    Check to use Nginx as a reverse proxy for Apache. When this option is checked the following will be added to your  `/Library/Application Support/appsolute/MAMP PRO/conf/nginx.conf` file. Your requests will now be forwarded to your Apache server localhost.
     
     {% highlight php %}
         # proxy the PHP scripts to Apache
@@ -31,10 +31,6 @@ The Nginx Web Server is a popular web server used in production environments. An
         }    
     {% endhighlight %}
     
-    
-    
-    Your requests will now be forwarded to your Apache server localhost.
-   
 ---
 
 *  **Nginx Modules**
