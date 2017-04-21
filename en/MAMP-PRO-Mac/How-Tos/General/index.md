@@ -191,7 +191,7 @@ Your extension should now build and you should see the following result.
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/buildResult.png) 
 4. A mongodb.so extension should now be in your `/Applications/MAMP/bin/php/php7.0.15/lib/php/extension/no-debug-non-zts` folder.
 5. Go to File > Edit Templates > PHP > PHP7.0.15 and add extension=mongodb.so.
-![MAMP](addToTemplate.png)
+![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/addToTemplate.png)
 6. Restart your servers and verify the extension has been loaded by checking phpInfo.
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/phpIniResult.png)
 
