@@ -179,7 +179,7 @@ zend_extension = /Applications/MAMP/bin/php/php7.0.13/lib/php/extensions/no-debu
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/ionCubephpini.png)
 
 
-### Install mongodb extension using PECL
+### Install a PHP extension using PECL
 
 Use the following guideline to compile your own extensions. This example uses the mongodb extension and PHP 7.0.15.
 
