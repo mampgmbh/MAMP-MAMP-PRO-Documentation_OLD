@@ -32,10 +32,9 @@ The Nginx Web Server is a popular web server used in production environments. An
         }
         
     {% endhighlight %}
+    
+    Your requests will now be forwarded to your Apache server localhost.
 
-or using an UNIX Socket:
-
-{% highlight php %}
 
     
 ---
