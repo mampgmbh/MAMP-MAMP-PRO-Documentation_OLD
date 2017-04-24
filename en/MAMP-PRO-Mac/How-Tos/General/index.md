@@ -195,3 +195,7 @@ Your extension should now build and you should see the following result.
 6. Restart your servers and verify the extension has been loaded by checking phpInfo.
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/phpIniResult.png)
 
+### Use Nginx as reverse proxy for Apache and not redirect to localhost
+
+
+
