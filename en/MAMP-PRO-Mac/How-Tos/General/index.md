@@ -196,6 +196,10 @@ Your extension should now build and you should see the following result.
 6. Restart your servers and verify the extension has been loaded by checking phpInfo.
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/phpIniResult.png)
 
+---
+
+<a name="nginx_reverse_proxy"></a>
+
 ### Use Nginx as reverse proxy for Apache while redirecting to a host other than localhost
 
 When you check the "Use Nginx as a Reverse Proxy for Apache" check box in Settings > Hosts > Nginx, by default your Nginx php scripts will be redirected to localhost. You can direct your php scripts to a host other than localhost by making two small changes in your Nginx template file and MAMP PRO interface.
