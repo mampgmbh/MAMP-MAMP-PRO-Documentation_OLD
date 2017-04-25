@@ -178,6 +178,7 @@ zend_extension = /Applications/MAMP/bin/php/php7.0.13/lib/php/extensions/no-debu
 5. To verify ionCube is loaded use your php.ini file. You should see the following in your php.ini file.
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/ionCubephpini.png)
 
+---
 
 ### Install a PHP extension using PECL
 
@@ -195,7 +196,7 @@ Your extension should now build and you should see the following result.
 6. Restart your servers and verify the extension has been loaded by checking phpInfo.
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/phpIniResult.png)
 
-### Use Nginx as reverse proxy for Apache and not redirect to localhost
+### Use Nginx as reverse proxy for Apache and redirect to a host other than localhost
 
 When you check the "Use Nginx as a Reverse Proxy for Apache" check box in Settings > Hosts > Nginx, by default your Nginx php scripts will be redirected to localhost. You can direct your php scripts to a host other than localhost by making two small changes in your Nginx template file and MAMP PRO interface.
 
