@@ -31,7 +31,7 @@ The Nginx Web Server is a popular web server used in production environments. An
         }    
     {% endhighlight %}
 
-It is possible to set your reverse proxy to forward php scripts to a host other than [localhost](../../How-Tos/General#nginx_reverse_proxy).
+It is possible to set your reverse proxy to forward php scripts to a [host other than localhost](../../How-Tos/General#nginx_reverse_proxy).
 
 ---
 
