@@ -1,9 +1,7 @@
 ---
-title: MAMP (Mac) Documentation > Installation
-description: 
-layout: default-2
-product: MAMP Mac
-language: en
+title: MAMP (Windows) Installation
+description: This is the MAMP Documentation
+layout: default-1
 ---
 
 ## Installation
