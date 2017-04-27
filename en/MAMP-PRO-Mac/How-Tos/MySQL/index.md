@@ -10,48 +10,15 @@ language: en
 
 <a name="php_connect_mysql"></a> 
 
-- [Connect to MySQL from PHP (PHP <= 5.5.x)](connectMySQLphpLess5_5/)  
+- [Connect to MySQL from PHP (PHP <= 5.5.x)](connectMySQLphpLess5_5/)
+- [Connect to MySQL from PHP (PHP >= 5.6.x)](connectMySQLphpLess5_5/)  
+- [How to connect to MySQL using Python ](connectMySQLphpLess5_5/)  
+- [Connect To MySQL using Perl ](connectMySQLphpLess5_5/)  
+- [Connect to MySQL using Sequel Pro](connectMySQLphpLess5_5/)  
+- [How to transfer database data from MAMP to MAMP PRO](connectMySQLphpLess5_5/)  
+- [Check the Default Storage Engine of MySQL](connectMySQLphpLess5_5/)  
+- [Set the MySQL Default Storage Engine](connectMySQLphpLess5_5/)  
 
-{% highlight php %}
-
-$user = 'root';
-$password = 'root';
-$db = 'inventory';
-$host = 'localhost';
-$port = 8889;
-
-$link = mysql_connect(
-   "$host:$port", 
-   $user, 
-   $password
-);
-$db_selected = mysql_select_db(
-   $db, 
-   $link
-);
-
-{% endhighlight %}
-
-or using an UNIX Socket:
-
-{% highlight php %}
-
-$user = 'root';
-$password = 'root';
-$db = 'inventory';
-$socket = 'localhost:/Applications/MAMP/tmp/mysql/mysql.sock';
-
-$link = mysql_connect(
-   $socket, 
-   $user, 
-   $password
-);
-$db_selected = mysql_select_db(
-   $db, 
-   $link
-);
-
-{% endhighlight %}
 
 ---
 
