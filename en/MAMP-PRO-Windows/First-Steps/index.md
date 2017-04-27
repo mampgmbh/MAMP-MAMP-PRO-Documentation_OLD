@@ -10,16 +10,16 @@ language: en
 
 ![MAMP](/en/MAMP-PRO-Mac/First-Steps/FirstSteps.png)
 
-When the MAMP PRO application is launched for the first time its helper tools will be installed. You will be prompted to enter your admin password.
+When the MAMP PRO application is launched for the first time its helper tools will be installed. 
 
 Click on the Servers button in the title bar to launch Apache and MySQL, they are your default GroupStart web and database servers. The launch status of the server is displayed in the Servers & Services section. A check mark next to the server/service indicates that this server/service will start/stop when the Servers button is pressed.  The Apache web server (default web server) uses port 8888 by default. This port must be specified when calling the local web page in the browser, e.g.: http://localhost:8888
 
-Your default host for MAMP PRO is `localhost`. The files for localhost are initially located in the `/Applications/MAMP/htdocs` folder. Press ![MAMP](BlackArrow.png) located to the right of the Name text box to open up the localhost in a web browser.
+Your default host for MAMP PRO is `localhost`. The files for localhost are initially located in the `c:\MAMP\htdocs` folder. Press ![MAMP](BlackArrow.png) located to the right of the Name text box to open up the localhost in a web browser.
 
 ![MAMP](/en/MAMP-PRO-Mac/First-Steps/OpenLocalHost.png)
 
 <div class="alert" role="alert">
-Note: Although the default localhost document root is located in `/Applications/MAMP/htdocs`, it is best to keep it's document root, and the document root of additional hosts out of the `/Applications/MAMP folder`. A better directory structure for your host document root folders would be `~/sites/localhost`, `~/sites/site1`, `~/sites/site2`, etc ... .
+Note: Although the default localhost document root is located in `c:\MAMP\htdocs`, it is best to keep it's document root, and the document root of additional hosts out of the `c:\MAMP` folder. A better directory structure for your host document root folders would be `~\sites\localhost`, `~\sites\site1`, `~\sites\site2`, etc ... .
 </div>
 
 ---
@@ -31,8 +31,6 @@ To add an additional host press the '+' button at the bottom left corner of the 
 ---
 
 ### Main GUI Elements
-
-
 
 *  **Customize**  
    Customize your toolbar. Additional information about the toolbar can be found in the [Customize](../Customize/) section.
