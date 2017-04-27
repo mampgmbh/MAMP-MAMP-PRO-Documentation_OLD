@@ -17,8 +17,8 @@ language: en
 
 - [Connect to MySQL from PHP (PHP <= 5.5.x)](connectMySQLphpLess5_5/)
 - [Connect to MySQL from PHP (PHP >= 5.6.x)](connectMySQLphpLess5_5/)  
-- [How to connect to MySQL using Python ](connectMySQLphpLess5_5/)  
-- [Connect To MySQL using Perl ](connectMySQLphpLess5_5/)  
+- [How to connect to MySQL using Python ](ConnectMySQLPython/)  
+- [Connect To MySQL using Perl ](ConnectMySQLPerl/)  
 - [Connect to MySQL using Sequel Pro](connectMySQLphpLess5_5/)  
 - [How to transfer database data from MAMP to MAMP PRO](connectMySQLphpLess5_5/)  
 - [Check the Default Storage Engine of MySQL](connectMySQLphpLess5_5/)  
