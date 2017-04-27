@@ -8,15 +8,9 @@ language: en
 
 ## FAQ
 
-### Is it possible to install MAMP on an external drive?
+#### Is MAMP compatible with Windows 10?
 
-No, MAMP has to be installed on the system drive.
-
----
-
-#### Is MAMP compatible with Mac OS X 10.11 (El Capitan)?
-
-Yes, MAMP is indeed compatible with Mac OS X 10.11 (El Capitan).
+Yes, MAMP is compatible with Windows 10.
 
 ---
 
@@ -32,15 +26,15 @@ Get the latest version of MAMP from our website [https://www.mamp.info/en/downlo
 
 ---
 
-### Where can I find the log files?
+### Where can I find error log files?
 
-All log files are stored in: `/Applications/MAMP/logs/`.
+All log files are stored in: `c:\MAMP\logs`.
 
 ---
 
 ### Which Apache modules are included?
 
-Apache modules are located in the `/Applications/MAMP/Library/modules` folder.
+Apache modules are located in the `c:\MAMP\Library\modules` folder.
 
 ---
 
