@@ -11,6 +11,7 @@ language: en
 <a name="php_connect_mysql"></a> 
 
 ### Connect to MySQL from PHP (PHP <= 5.5.x)
+- [Connect to MySQL from PHP (PHP <= 5.5.x)](New-Install/)  
 
 {% highlight php %}
 
