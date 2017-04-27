@@ -10,7 +10,7 @@ language: en
 
 Ruby is a dynamic, reflective, object-oriented, general-purpose programming language. 
 
-![MAMP](/en/MAMP-PRO-Mac/Languages/Ruby/Ruby.png)
+![MAMP](/en/MAMP-PRO-Windows/Languages/Ruby/Ruby.png)
 
 ---
 
