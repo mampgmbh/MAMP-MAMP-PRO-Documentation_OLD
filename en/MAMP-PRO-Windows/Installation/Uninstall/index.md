@@ -1,19 +1,15 @@
 ---
-title: MAMP PRO (Mac) Documentation > Uninstalling MAMP PRO
+title: MAMP PRO (Windows) Documentation > Uninstalling MAMP PRO
 description: 
 layout: default-2
-product: MAMP PRO Mac
+product: MAMP PRO Windows
 language: en
 ---
 
 ## Uninstalling MAMP PRO
 
-Use the MAMP PRO Uninstaller located in `/Applications/MAMP PRO` to remove MAMP PRO.
+Use the Windows Uninstaller Utilities to uninstall MAMP PRO.
 
 <div class="alert" role="alert">
-Note: Using the uninstaller in /Applications/MAMP PRO will remove your databases located in /Library/application support/appsolute/MAMP PRO/db
+Note: Do not manually remove the c:\MAMP or c:\MAMPPRO folders. This may break the MAMP/MAMP PRO Uninstaller.
 </div>
-
-![MAMP](/en/MAMP-PRO-Mac/Installation/Uninstall/Uninstaller.png)
-
-Drag the `/Applications/MAMP` folder to the `Trash` to complete uninstallation.
