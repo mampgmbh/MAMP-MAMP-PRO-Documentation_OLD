@@ -8,7 +8,7 @@ language: en
 
 ## Upgrading From MAMP To MAMP PRO
 
-The MAMP installer package has already installed both a version of MAMP and MAMP PRO. The MAMP App is located in `/Applications/MAMP`. MAMP PRO is located in `/Applications/MAMP PRO`.
+The MAMP installer has already installed both a version of MAMP and MAMP PRO. The MAMP App is located in `c:\MAMP`. MAMP PRO is located in `c:\MAMP PRO`.
 
 MAMP and MAMP PRO share many of the same installations of servers, tools and interpreters. MAMP PRO will take over where you left off in MAMP sort of speak. If you upgraded to MySQL 5.6 in MAMP, MAMP PRO will automatically launch with MySQL 5.6 .
 
@@ -20,7 +20,7 @@ Note: MAMP PRO stores database data in a different location than the MAMP applic
 
 *  **Open MAMP PRO**  
 
-Click on the MAMPPRO.app icon in `/Applications/MAMP PRO folder`.
+Click on the MAMPPRO.app icon in `c:\MAMP PRO`.
 
 *  **Confirm Servers Are Running**
 
@@ -30,20 +30,13 @@ Your database data is copied from your MAMP database data folder to your MAMP PR
 
 Your MAMP database data are located in 
 
-`/Applications/MAMP/db`
+`c:\MAMP\db`
 
 Your MAMP PRO database data are located in 
 
-`/Library/application data/appsolute/MAMP PRO/db`
+`c:\Library\application data\appsolute\MAMP PRO\db`
 
 Problems can occur if you had previously demoed MAMP PRO and launched your servers. Your data was copied over then. You will be looking at an old copy of your database data if you have now decided to upgrade to MAMP PRO. 
-
-More information on how to [copy your databases from MAMP to MAMP PRO](../../How-Tos/#upgrade_to_mamp_pro_missing_databases) can be found in our How To section.
-
----
-
-<i class="fa fa-play-circle-o fa-lg" aria-hidden="true"></i> [Upgrading To MAMP PRO - Missing Data](https://www.youtube.com/watch?v=wBnHo1o4W8Q){:target="_blank"}
-
 
 
 
