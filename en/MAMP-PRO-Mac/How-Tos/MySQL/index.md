@@ -22,5 +22,5 @@ language: en
 - [Connect to MySQL using Sequel Pro](ConnectMySQLSequelPro/)  
 - [How to transfer database data from MAMP to MAMP PRO](connectMySQLphpLess5_5/)  
 - [Check the Default Storage Engine of MySQL](connectMySQLphpLess5_5/)  
-- [Set the MySQL Default Storage Engine](connectMySQLphpLess5_5/)  
+- [Set the MySQL Default Storage Engine](SetDefaultStorageEngine/)  
 
