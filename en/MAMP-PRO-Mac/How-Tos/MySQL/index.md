@@ -8,7 +8,11 @@ language: en
 
 ## How Tos > General
 
-<a name="php_connect_mysql"></a> 
+<a name="php_connect_mysql"></a>
+<a name="php_connect_mysqli"></a>
+<a name="python_connect"></a>
+<a name="perl_connect"></a> 
+<a name="connect_using_sequel_pro"></a>
 
 - [Connect to MySQL from PHP (PHP <= 5.5.x)](connectMySQLphpLess5_5/)
 - [Connect to MySQL from PHP (PHP >= 5.6.x)](connectMySQLphpLess5_5/)  
@@ -19,10 +23,6 @@ language: en
 - [Check the Default Storage Engine of MySQL](connectMySQLphpLess5_5/)  
 - [Set the MySQL Default Storage Engine](connectMySQLphpLess5_5/)  
 
-
----
-
-<a name="php_connect_mysqli"></a> 
 
 ### Connect to MySQL from PHP (PHP >= 5.6.x)
 
@@ -72,7 +72,7 @@ $success = mysqli_real_connect(
 
 ---
 
-<a name="python_connect"></a>
+
 
 ### How to connect to MySQL using Python 
 
@@ -113,7 +113,7 @@ link = mysql.connector.connect(**config)
 
 ---
 
-<a name="perl_connect"></a> 
+
 
 ### Connect To MySQL using Perl 
 
@@ -153,9 +153,7 @@ my $link = DBI->connect(
 
 {% endhighlight %}
 
-<a name="connect_using_sequel_pro"></a>
 
----
 
 ### Connect to MySQL using Sequel Pro
 
