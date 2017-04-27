@@ -15,4 +15,4 @@ language: en
 
 *   **Document Root** 
    Click on to select where your html/PHP files and images are stored. This directory is called the document root.
-   The default document root in MAMP is: `/Applications/MAMP/htdocs`.
+   The default document root in MAMP is: `c:\MAMP\htdocs`.
