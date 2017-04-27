@@ -10,7 +10,7 @@ language: en
 
 Perl is a high-level, general-purpose, interpreted, dynamic programming language. A version 5 of Perl is included with MAMP PRO.
 
-![MAMP](/en/MAMP-PRO-Mac/Languages/Perl/Perl.png)
+![MAMP](/en/MAMP-PRO-Windows/Languages/Perl/Perl.png)
 
 *  **Make Perl directly available on the command line**  
    Check this option to make the current Perl version available on the command line. MAMP PRO uses aliases to provide this functionality. When this option is checked the following is added to your `~/.profile` file.
