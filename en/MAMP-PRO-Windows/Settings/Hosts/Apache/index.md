@@ -10,7 +10,7 @@ language: en
 
 Apache options can be set for the selected virtual host in the table. These options are security relevant! More information about configuring your Apache Server can be found at the [Apache website](https://httpd.apache.org/docs/2.2/){:target="_blank"}.
 
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Apache/Apache.png)
+![MAMP](/en/MAMP-PRO-Windows/Settings/Hosts/Apache/Apache.png)
 
 *  **Options for &lt;Directory&gt; directive**  
 
