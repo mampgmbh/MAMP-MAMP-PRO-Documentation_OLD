@@ -14,7 +14,7 @@ Nginx options can be set for the selected virtual host in the table. These optio
 Note: You cannot make changes to the Nginx settings unless the host is set to Nginx on the Settings > Hosts > General tab.
 </div>
 
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Nginx/Nginx.png)
+![MAMP](/en/MAMP-PRO-Windows/Settings/Hosts/Nginx/Nginx.png)
 
 *  **Directory index**  
 
