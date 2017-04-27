@@ -14,4 +14,4 @@ The default MAMP start page provides links to access utilities such as phpMyAdmi
 
 When the My Favorite Link text box is filled in, a link will appear at the top of the MAMP start page with the title 'My Favorite Link'. The My Favorite Link page can be changed using Preferences…. When using the default setting (`/MAMP/`), you will be directed to the MAMP utilities start page using the Alias definition `/MAMP/`.
 
-If this field is left blank, you will be taken to your default document root (http://localhost:8888 in the `/Applications/MAMP/htdocs`). If you enter /subDirectory in this field, you will be taken to the `/Applications/MAMP/htdocs/subDirectory` folder via your default web browser (http://localhost:8888/subDirectory).
+If this field is left blank, you will be taken to your default document root (http://localhost:8888 in the `c:\MAMP\htdocs`). If you enter \subDirectory in this field, you will be taken to the `c:\MAMP\htdocs\subDirectory` folder via your default web browser (http://localhost:8888/subDirectory).
