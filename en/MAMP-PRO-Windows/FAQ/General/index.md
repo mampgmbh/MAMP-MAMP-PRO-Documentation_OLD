@@ -45,14 +45,6 @@ Apache modules are located in the `C:\MAMP\Library\modules` folder.
 
 ---
 
-### Will MAMP work if the MAMP folder is not located in the Applications directory?
-
-No. In order to work properly the MAMP folder has to be located in the Applications folder.
-
----
-
-
----
 
 ### Where can I find the log files?
 
@@ -65,46 +57,32 @@ Your log files are located in `C:\MAMP\logs`. You can access the various logs th
 The following list contains all files which are created and changed by MAMP PRO and are not located within the MAMP PRO folder.
 
 *  **MAMP PRO Settings and Files**  
-    * /Library/Application Support/appsolute/MAMP PRO
-    * ~/Library/Application Support/appsolute/MAMP PRO
-    * ~/Library/Preferences/de.appsolute.mamppro.plist 
-    * ~/Library/Preferences/de.living-e_to_appsolute.mampro.plist
-    * ~/Library/Preferences/de.appsolute.MAMP.plist
-  
-*  **MySQL**  
-    * /Library/Application Support/appsolute/MAMP PRO/db/mysql  
-  
-*  **Dynamic DNS**  
-    * /Library/LaunchDaemons/de.appsolute.mamp_dyndns.plist
-    * ~/Library/LaunchAgents/de.appsolute.mamp_dyndns.plist  
-  
-*  **Autostart at system start**  
-    * /Library/StartupItems/MAMP/MAMP
-    * /Library/StartupItems/MAMP/StartupParameters.plist  
-  
-*  **Postfix**  
-    * An existing postfix configuration will be backed up to `/etc/postfix/MAMP_backup` before writing a new config file.  
+   `C:\Users\Public\Documents\Appsolute\MAMPPRO\`
+   `C:\Users\Public\Documents\Appsolute\MAMPPRO\conf\`
+   `C:\Users\[MyUserName]\AppData\Roaming\Appsolute\MAMPPRO\userdb\`
+
+   Please just change [MyUserName] to your username.
 
 ---
 
-### What are the locations of the configuration files.
+### Where are the configuration files located.
 
-The changes you make in the MAMP PRO interface and template files help create real configuration files. The configuration files are created when you start your servers.
+The changes you make in the MAMP PRO interface and template files help create real configuration files. The configuration files are recreated every time you start your servers. You cannot edit these files directly, however you can view them to verify your changes in the interface or template files are correctly being reflected.
 
 *  **PHP**  
-/Library/Application Support/appsolute/MAMP PRO/conf/php.ini
+C:\Users\Public\Public Documents\Appsolute\MAMPPRO\conf\php.ini
 
 *  **MySQL**  
-/Applications/MAMP/tmp/mysql/my.cnf
+C:\Users\Public\Public Documents\Appsolute\MAMPPRO\conf\my.ini
 
 *  **Apache**  
-/Library/Application Support/appsolute/MAMP PRO/conf/httpd.conf
+C:\Users\Public\Public Documents\Appsolute\MAMPPRO\conf\httpd.conf
 
 *  **Apache-SSL**  
-/Library/Application Support/appsolute/MAMP PRO/conf/httpd-ssl.conf
+C:\Users\Public\Public Documents\Appsolute\MAMPPRO\conf\httpd-ssl.conf
 
 *  **Nginx**  
-/Library/Application Support/appsolute/MAMP PRO/conf/nginx.conf
+C:\Users\Public\Public Documents\Appsolute\MAMPPRO\conf\nginx.conf
 
 ---
 
