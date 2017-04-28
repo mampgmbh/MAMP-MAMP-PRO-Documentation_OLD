@@ -8,11 +8,6 @@ language: en
 
 ## FAQ - General
 
-### What is MAMP PRO?
-
-MAMP PRO is the commercial, professional grade version of the classic local server environment for Mac OS X: MAMP. Designed for professional web developers and programmers, MAMP PRO allows easy installation and administration of their development environment under Mac OS X.
-
----
 
 ### Are updates free of charge?
 
@@ -20,9 +15,9 @@ Yes, all updates in the current major version (4.x) are free of charge. To updat
 
 ---
 
-### Is MAMP PRO compatible with Mac OS X 10.12 (Sierra)?
+### Is MAMP PRO compatible with Windows 10?
 
-Yes, MAMP PRO is indeed compatible with Mac OS X 10.12 (Sierra).
+Yes, MAMP PRO is compatible with Windows 10.
 
 ---
 
@@ -46,7 +41,7 @@ The ImageMagick PHP module is included by default, but you must enable it using 
 
 ### Which Apache modules are included?
 
-Apache modules are located in the `/Applications/MAMP/Library/modules` folder.
+Apache modules are located in the `C:\MAMP\Library\modules` folder.
 
 ---
 
@@ -56,15 +51,12 @@ No. In order to work properly the MAMP folder has to be located in the Applicati
 
 ---
 
-### Are the amount of virtual hosts aliases limited?
-
-No, with MAMP PRO you can use as many hosts and aliases as you like.
 
 ---
 
 ### Where can I find the log files?
 
-Your log files are located in `/Applications/MAMP/logs`. You can access the various logs through the MAMP PRO interface.
+Your log files are located in `C:\MAMP\logs`. You can access the various logs through the MAMP PRO interface.
 
 ---
 
