@@ -20,14 +20,9 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
    ![MAMP](/en/MAMP-PRO-Mac/Languages/PHP/phpUpdates.png)
    
    <div class="alert" role="alert">
-      Note: To remove unneeded PHP versions simply stop your servers, quit MAMP PRO, and remove your /Applications/MAMP/bin/php/phpX.XX directory, where X.XX is the version of PHP you want removed.
+      Note: To remove unneeded PHP versions simply stop your servers, quit MAMP PRO, and remove your C:\MAMP\bin\php/phpX.XX directory, where X.XX is the version of PHP you want removed.
    </div>
    
----
-
-<i class="fa fa-play-circle-o fa-lg" aria-hidden="true"></i> [Adding Additional PHP Versions](https://www.youtube.com/watch?v=5JZ3PSGj81E){:target="_blank"}
-
----
 
 *  **Make this version available on the command line**  
    Check this option to make the current PHP version available on the command line. MAMP PRO uses aliases to provide this functionality. When this option is checked the following is added to your `~/.profile` file (PHP 7.1.1).
