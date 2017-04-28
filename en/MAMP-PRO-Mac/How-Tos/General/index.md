@@ -6,7 +6,7 @@ product: MAMP PRO Mac
 language: en
 ---
 
-- [Activating Output Buffering](connectMySQLphpLess5_5/)
+- [Activating Output Buffering](ActivatingOutputBuffering/)
 - [Increase the PHP memory limit](connectMySQLphpLess5_5/)
 - [Show the Postfix log file with Console.app (recommended)](connectMySQLphpLess5_5/)
 - [Show Postfix log file using command line](connectMySQLphpLess5_5/)
