@@ -25,7 +25,11 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
    
 
 *  **PHP in system path**  
-   Check this option to add the current PHP version to the system path. You verify this by checking your System PATH in Advanced System Settings > Environment Variables
+   Check this option to add the current PHP version to the system path. You verify this by checking your System PATH in Advanced System Settings > Environment Variables > System Variables.
+   
+    ![MAMP](/en/MAMP-PRO-Mac/Languages/PHP/environmentVariables.png)
+    
+    ![MAMP](/en/MAMP-PRO-Mac/Languages/PHP/path.png)
  
 ---
 
