@@ -11,7 +11,7 @@ language: en
 - [Show the Postfix log file with Console.app (recommended)](connectMySQLphpLess5_5/)
 - [Show Postfix log file using command line](connectMySQLphpLess5_5/)
 - [Show the Postfix log file using text editor](connectMySQLphpLess5_5/)
-- [Set up a host to be both http and https](connectMySQLphpLess5_5/)
+- [Set up a host to be both http and https](SetUpHostHttpHttps/)
 - [Redirect http traffic to https site using MAMP PRO interface](RedirectToHttpsMAMPPRO/)
 - [Redirecting http traffic to https site using .htaccess file](RedirectToHttpsHTaccess/)
 - [Create a host using the command line](CreateHostCommandLine/)
