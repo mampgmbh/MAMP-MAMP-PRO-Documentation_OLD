@@ -10,6 +10,7 @@ language: en
 - [Increase the PHP memory limit](connectMySQLphpLess5_5/)
 - [Show the Postfix log file with Console.app (recommended)](connectMySQLphpLess5_5/)
 - [Show Postfix log file using command line](connectMySQLphpLess5_5/)
+- [Show the Postfix log file using text editor](connectMySQLphpLess5_5/)
 - [Set up a host to be both http and https](connectMySQLphpLess5_5/)
 - [Redirect http traffic to https site using MAMP PRO interface](connectMySQLphpLess5_5/)
 - [Redirecting http traffic to https site using .htaccess file](connectMySQLphpLess5_5/)
