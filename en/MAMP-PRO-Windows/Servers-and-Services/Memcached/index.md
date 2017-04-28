@@ -10,7 +10,7 @@ language: en
 
 Memcached is an in-memory key-value store for small chunks of arbitrary data.
 
-![MAMP](/en/MAMP-PRO-Mac/Servers-and-Services/Memcached/memCached.png)
+![MAMP](/en/MAMP-PRO-Windows/Servers-and-Services/Memcached/memCached.png)
 
 *  **Include Memcached server in GroupStart**  
 
