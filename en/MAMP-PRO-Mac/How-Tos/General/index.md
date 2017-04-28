@@ -15,7 +15,7 @@ language: en
 - [Redirect http traffic to https site using MAMP PRO interface](connectMySQLphpLess5_5/)
 - [Redirecting http traffic to https site using .htaccess file](connectMySQLphpLess5_5/)
 - [Create a host using the command line](CreateHostCommandLine/)
-- [Create a host and database using the command line](connectMySQLphpLess5_5/)
+- [Create a host and database using the command line](CreateHostDatabaseCommandLine/)
 - [Install ionCube](connectMySQLphpLess5_5/)
 - [Install a PHP extension using PECL](connectMySQLphpLess5_5/)
 - [Use Nginx as reverse proxy for Apache while redirecting to a host other than localhost](connectMySQLphpLess5_5/)
