@@ -10,7 +10,7 @@ language: en
 
 The Nginx Web Server is a popular web server used in production environments. An instance of Nginx is installed on your Mac by MAMP PRO.  Information on how to custom configure your Nginx Server can be found [here](../../Settings/Hosts/Nginx) . 
 
-![MAMP](/en/MAMP-PRO-Mac/Servers-and-Services/Nginx/Nginx.png)
+![MAMP](/en/MAMP-PRO-Windows/Servers-and-Services/Nginx/Nginx.png)
 
 *  **Include Nginx server in GroupStart**  
 
