@@ -24,20 +24,9 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
    </div>
    
 
-*  **Make this version available on the command line**  
-   Check this option to make the current PHP version available on the command line. MAMP PRO uses aliases to provide this functionality. When this option is checked the following is added to your `~/.profile` file (PHP 7.1.1).
-   
-{% highlight php %}
-
-alias php='/Applications/MAMP/bin/php/php7.1.1/bin/php -c "/Library/Application Support/appsolute/MAMP PRO/conf/php7.1.1.ini"'
-alias pear='/Applications/MAMP/bin/php/php7.1.1/bin/pear'
-alias pecl='/Applications/MAMP/bin/php/php7.1.1/bin/pecl'
-
-{% endhighlight %}   
-
-   
-   
-
+*  **PHP in system path**  
+   Check this option to add the current PHP version to the system path. You verify this by checking your System PATH in Advanced System Settings > Environment Variables
+ 
 ---
 
 *  **Mode**  
