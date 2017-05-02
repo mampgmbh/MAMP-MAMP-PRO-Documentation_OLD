@@ -1,4 +1,3 @@
-
 ---
 title: MAMP PRO (Mac) Documentation > FAQ > General
 description: 
