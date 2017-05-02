@@ -8,7 +8,6 @@ language: en
 
 ## FAQ - General
 
-
 - [What is MAMP PRO?](faq1/)
 - [Are updates free of charge?](faq2/)
 - [Is MAMP PRO compatible with Mac OS X 10.12 (Sierra)?](faq3/)
