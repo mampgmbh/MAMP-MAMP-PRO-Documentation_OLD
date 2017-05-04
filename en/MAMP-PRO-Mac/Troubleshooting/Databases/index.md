@@ -31,4 +31,6 @@ This may occur when your Mac goes to sleep.
 1. Quit MAMP PRO.
 2. Go to your `/Library/application support/appsolute/MAMP PRO/db/mysql56` directory.
 3. Rename both ib_logfile0 and ib_logfile1.
+4. Restart MAMP PRO.
+5. Both ib_logfile0 and ib_logfile1 should be rebuilt.
 
