@@ -23,6 +23,8 @@ The most common problem with MySQL Server not starting is another mysql service 
 
 ### My MySQL Server will not start and I am getting the following error in my mysql error log located in /Applications/MAMP/logs .
 
+This may occur when your Mac goes to sleep.
+
 10:12:32 1753 [Note] InnoDB: The log sequence numbers 609248312 and 609248312 in ibdata files do not match the log sequence number 609248322 in the ib_logfiles!
 
 
