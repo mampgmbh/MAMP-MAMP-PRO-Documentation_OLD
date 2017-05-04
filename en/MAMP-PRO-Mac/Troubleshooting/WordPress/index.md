@@ -20,7 +20,7 @@ Nginx does not use a .htaccess file. If your Wordpress site is using a .htaccess
 
 ---
 
-### I am receiving a "Error establishing database connection" error.
+### I am receiving an "Error establishing database connection" error.
 
 Confirm your DB_NAME variable in your wp-config.php file corresponds to the database name in your MySQL database. Your wp-config.php file is located in your document root.
 
