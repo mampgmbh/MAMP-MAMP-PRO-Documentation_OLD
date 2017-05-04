@@ -66,7 +66,7 @@ To create a new host press the `Plus` button at the bottom left of the screen.
    but it may not begin or end with a "-" character.
    Names are not case-sensitive.
 
-   If the servers are running you can use the ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/General/First-Steps/BlackArrow.png) button to open a host in your web browser.
+   If the servers are running you can use the ![MAMP](/en/MAMP-PRO-Mac/First-Steps/BlackArrow.png) button to open a host in your web browser.
 
   ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/General/Browsers.png)
 
