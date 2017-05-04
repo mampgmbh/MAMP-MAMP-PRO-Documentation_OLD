@@ -10,7 +10,7 @@ language: en
 
 ### My MySQL Server will not start?
 
-The most common problem with MySQL Server not starting is another mysql service running on the same port. To check this 
+The most common problem with MySQL Server not starting is another mysql service running on the same port. I may also be a mysql process started by MAMP PRO previously did not shut down properly when you quit MAMP PRO. To check this do the following. 
 
 1. Quit MAMP PRO.
 2. Open the Activity Monitor located in your /Applications/Utilities folder.
@@ -18,4 +18,11 @@ The most common problem with MySQL Server not starting is another mysql service 
 4. Quit every process you find after your search.
 5. Restart MAMP PRO.
 6. If MySQL still refuses to start check the log file for error messages.
+
+
+### My MySQL Server will not start and I am getting the following error in my mysql error log located in /Applications/MAMP/logs . 
+
+1. Quit MAMP PRO.
+2. Go to your /Library/application support/appsolute/MAMP PRO/db/mysql56 directory.
+3. Rename both 
 
