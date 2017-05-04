@@ -19,7 +19,10 @@ The most common problem with MySQL Server not starting is another mysql service 
 5. Restart MAMP PRO.
 6. If MySQL still refuses to start check the log file for error messages.
 
-### My MySQL Server will not start and I am getting the following error in my mysql error log located in /Applications/MAMP/logs . 
+### My MySQL Server will not start and I am getting the following error in my mysql error log located in /Applications/MAMP/logs .
+
+10:12:32 1753 [Note] InnoDB: The log sequence numbers 609248312 and 609248312 in ibdata files do not match the log sequence number 609248322 in the ib_logfiles!
+
 
 1. Quit MAMP PRO.
 2. Go to your `/Library/application support/appsolute/MAMP PRO/db/mysql56` directory.
