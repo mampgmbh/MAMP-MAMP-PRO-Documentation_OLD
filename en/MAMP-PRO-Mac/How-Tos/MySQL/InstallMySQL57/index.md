@@ -39,7 +39,7 @@ Make sure they run on different ports
 
 Create an empty database in MySQL, this example uses the default name "wordpress". Confirm you are using port 3306 to connect to MySQL.
 
-![MAMP](/en/MAMP-PRO-Mac/How-Tos/MySQL/InstallMySQL57/wordpressinstallation.png)
+![MAMP](/en/MAMP-PRO-Mac/How-Tos/MySQL/InstallMySQL57/wordpressInstallation.png)
 
 
 
