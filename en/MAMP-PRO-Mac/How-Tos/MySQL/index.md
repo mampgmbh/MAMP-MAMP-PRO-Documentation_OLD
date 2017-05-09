@@ -23,5 +23,5 @@ language: en
 - [How to transfer database data from MAMP to MAMP PRO](TransferDataToMAMPPRO/)  
 - [Check the Default Storage Engine of MySQL](CheckDefaultStorageEngine/)  
 - [Set the MySQL Default Storage Engine](SetDefaultStorageEngine/)
-- [Install your own instance of MySQL 5.7](MySQL57/)  
+- [Install your own instance of MySQL 5.7](InstallMySQL57/)  
 
