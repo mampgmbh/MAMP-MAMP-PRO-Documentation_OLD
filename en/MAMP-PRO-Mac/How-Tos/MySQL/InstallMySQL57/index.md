@@ -21,25 +21,22 @@ You cannot upgrade the MAMP PRO instance of MySQL. However you can install a sep
 
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/MySQL/InstallMySQL57/MySQLRunning.png)
 
-
-
-Once you have successfully installed MAMP PRO you can run both instances of MySQL, or just your new MySQL 5.7. 
+Once you have successfully installed MAMP PRO you can run both instances of MySQL, or just your new MySQL 5.7. You must run your MySQL installations on different ports if you run both simultaneously.
 
 #### MySQL 5.7 data default location
 
 The default location for your database data is `/usr/local/mysql/data`.
 
 
-
-Only use Groupstart for Apache Serrver if you don't want your built in MySQL to run.
-
-Make sure they run on different ports
-
 #### Install Wordpress with MySQL 5.7
 
 Create an empty database in MySQL, this example uses the default name "wordpress". Confirm you are using port 3306 to connect to MySQL.
 
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/MySQL/InstallMySQL57/wordpressInstallation.png)
+
+#### Connect to MySQL using PHP
+
+
 
 
 
