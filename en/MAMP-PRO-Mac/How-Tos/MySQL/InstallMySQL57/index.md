@@ -48,7 +48,7 @@ Create an empty database in MySQL, this example uses the default name "wordpress
 
 $user = 'root';
 $password = 'root';
-$db = 't1';
+$db = 'inventory';
 $host = '127.0.0.1';
 $port = 3306;
 
