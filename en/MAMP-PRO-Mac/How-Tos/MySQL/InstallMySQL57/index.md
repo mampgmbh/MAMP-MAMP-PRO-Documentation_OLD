@@ -39,6 +39,28 @@ Create an empty database in MySQL, this example uses the default name "wordpress
 
 #### Connect to MySQL using PHP
 
+{% highlight php %}
+
+$user = 'root';
+$password = 'root';
+$db = 't1';
+$host = '127.0.0.1';
+$port = 3306;
+
+$link = mysqli_init();
+$success = mysqli_real_connect(
+   $link, 
+   $host, 
+   $user, 
+   $password, 
+   $db,
+   $port
+);
+
+
+{% endhighlight %}
+
+
 
 
 
