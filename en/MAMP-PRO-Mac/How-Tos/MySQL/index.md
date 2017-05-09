@@ -22,5 +22,6 @@ language: en
 - [Connect to MySQL using Sequel Pro](ConnectMySQLSequelPro/)  
 - [How to transfer database data from MAMP to MAMP PRO](TransferDataToMAMPPRO/)  
 - [Check the Default Storage Engine of MySQL](CheckDefaultStorageEngine/)  
-- [Set the MySQL Default Storage Engine](SetDefaultStorageEngine/)  
+- [Set the MySQL Default Storage Engine](SetDefaultStorageEngine/)
+- [Install your own instance of MySQL 5.7](MySQL57/)  
 
