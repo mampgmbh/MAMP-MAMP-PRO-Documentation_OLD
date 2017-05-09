@@ -10,10 +10,13 @@ language: en
 
 You cannot upgrade the MAMP PRO instance of MySQL. However you can install a separate instance of MySQL 5.7 on your Mac. 
 
+<div class="alert" role="alert">
+Note: We cannot provide support for installing or maintaining your MySQL 5.7 installation.
+</div>
 
 
 
-1. Download the [MySQL 5.7 Mac OS X 10.12 (x86, 64-bit), DMG Archive](https://dev.mysql.com/downloads/mysql/5.7.html). 
+1. Download the [MySQL 5.7 Mac OS X 10.12 (x86, 64-bit), DMG Archive](https://dev.mysql.com/downloads/mysql/5.7.html), or latest MySQL 5.7 release. 
 
 2. Complete the installation of MySQL 5.7.
 
@@ -35,6 +38,8 @@ Create an empty database in MySQL, this example uses the default name "wordpress
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/MySQL/InstallMySQL57/wordpressInstallation.png)
 
 #### Connect to MySQL using PHP
+
+
 
 
 
