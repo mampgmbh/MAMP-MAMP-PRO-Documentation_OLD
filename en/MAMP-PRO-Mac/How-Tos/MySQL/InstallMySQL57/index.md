@@ -42,7 +42,7 @@ Create an empty database in MySQL, this example uses the default name "wordpress
 
 ---
 
-#### Connect to MySQL using PHP
+#### Connect to MySQL 5.7 using PHP
 
 {% highlight php %}
 
