@@ -20,8 +20,10 @@ Note: We cannot provide support for installing or maintaining MongoDB.
 
 2. Download the [MongoDB Community Edition](https://www.mongodb.com/download-center#community){:target="_blank"}. 
 
-3. Install MongoDB. 
+3. Install MongoDB. You can find installation instructions [here](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/){:target="_blank"}.
 
-4. Download Composer.
+4. Download and install Composer. You can information [here](https://getcomposer.org/doc/00-intro.md){:target="_blank"} and [here](https://getcomposer.org/download/){:target="_blank"}.
 
-5. 
+5. Once you have installed this, you can use the following code to insert into your database [here] (http://php.net/manual/de/mongodb.tutorial.library.php){:target="_blank"}.
+
+
