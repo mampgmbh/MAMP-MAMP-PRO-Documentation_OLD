@@ -9,5 +9,5 @@ language: en
 ## How Tos
 
 - [General](General/)  
-- [MySQL](MySQL/)  
+- [MySQL and Databases](MySQL/)  
 
