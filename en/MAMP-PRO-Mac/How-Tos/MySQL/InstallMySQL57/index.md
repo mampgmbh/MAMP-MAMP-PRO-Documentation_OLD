@@ -16,7 +16,7 @@ Note: We cannot provide support for installing or maintaining your MySQL 5.7 ins
 
 ---
 
-1. Download the [MySQL 5.7 Mac OS X 10.12 (x86, 64-bit), DMG Archive](https://dev.mysql.com/downloads/mysql/5.7.html), or latest MySQL 5.7 release. 
+1. Download the [MySQL 5.7 Mac OS X 10.12 (x86, 64-bit), DMG Archive](https://dev.mysql.com/downloads/mysql/5.7.html){:target="_blank"}, or latest MySQL 5.7 release. 
 
 2. Complete the installation of MySQL 5.7.
 
