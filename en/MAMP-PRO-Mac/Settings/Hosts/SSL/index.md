@@ -30,7 +30,9 @@ To encrypt traffic from Apache to a web browser you can use SSL. If you would li
 ---
  
    *  **Certificate Chain File (Apache Only)**  
-       Point to your chain file. The directory dialogue will only recognize .key files, if your file has a different extension  you will have to rename the extension to .key.
+       Point to your chain file or Alias.
+       
+       ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/SSL/resolveLinks.png)
        
 ---
 
