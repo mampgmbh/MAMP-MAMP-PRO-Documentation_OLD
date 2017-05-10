@@ -24,6 +24,7 @@ Note: We cannot provide support for installing or maintaining MongoDB.
 
 4. Download and install Composer. You can information [here](https://getcomposer.org/doc/00-intro.md){:target="_blank"} and [here](https://getcomposer.org/download/){:target="_blank"}.
 
-5. Once you have installed this, you can use the following code to insert into your database [here] (http://php.net/manual/de/mongodb.tutorial.library.php){:target="_blank"}.
+5. Once you have installed this, you can use the following code to insert into your database 
+[here](http://php.net/manual/de/mongodb.tutorial.library.php){:target="_blank"}.
 
 
