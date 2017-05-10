@@ -16,6 +16,12 @@ Note: We cannot provide support for installing or maintaining MongoDB.
 
 ---
 
-1. First compile a mongoDB extension using PECL. We have a How-To guide on how to compile your own [mongoDB extension](http://documentation.mamp.info/en/MAMP-PRO-Mac/How-Tos/General/PECL/).
+1. First compile a mongoDB extension using PECL. We have a How-To guide on how to compile your own [mongoDB extension](http://documentation.mamp.info/en/MAMP-PRO-Mac/How-Tos/General/PECL/){:target="_blank"}.
 
-1. Download the [MySQL 5.7 Mac OS X 10.12 (x86, 64-bit), DMG Archive](https://dev.mysql.com/downloads/mysql/5.7.html), or latest MongoDB release. 
+2. Download the [MongoDB Community Edition](https://www.mongodb.com/download-center#community){:target="_blank"}. 
+
+3. Install MongoDB. 
+
+4. Download Composer.
+
+5. 
