@@ -32,7 +32,7 @@ To encrypt traffic from Apache to a web browser you can use SSL. If you would li
    *  **Certificate Chain File (Apache Only)**  
        Point to your chain file or Alias.
        
-       ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/SSL/resolveLinks.png)
+       ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/SSL/resolveAliases.png)
        
 ---
 
