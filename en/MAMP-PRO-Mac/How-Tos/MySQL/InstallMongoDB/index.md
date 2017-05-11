@@ -40,7 +40,7 @@ Install MongoDB. You can find installation instructions [here](https://docs.mong
 
 Download and install Composer. Information on downloading composer can be found [here](https://getcomposer.org/doc/00-intro.md){:target="_blank"}.
 
-Download the "Installer" file from the above link. Next create a host. In a new terminal navigate to the document root of   your new host. Move the Install file which you downloaded from the Composer website to your document root. Run the following commands in your terminal found in the Composer documentation [here](https://getcomposer.org/download/){:target="_blank"}.
+Download the "Installer" file from the above link. Next create a host. In a new terminal navigate to the document root of   your new host. Move the Install file which you downloaded from the Composer website to your document root. Run the following commands in your terminal found in the Composer documentation as explained [here](https://getcomposer.org/download/){:target="_blank"}.
  
  {% highlight php %}
   php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
