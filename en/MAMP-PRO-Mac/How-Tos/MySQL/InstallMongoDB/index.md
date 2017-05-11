@@ -48,6 +48,11 @@ Note: We cannot provide support for installing or maintaining MongoDB.
     {% highlight php %}
     php composer.phar require mongodb/mongodb
     {% endhighlight %}
+    
+    
+    Your document root should now look like the following.
+    
+    ![MAMP](/en/MAMP-PRO-Mac/How-Tos/MySQL/InstallMongoDB/documentRoot.png)
 
 5. Once you have installed this, you can use the following code to insert into your database 
 [here](http://php.net/manual/de/mongodb.tutorial.library.php){:target="_blank"}.
