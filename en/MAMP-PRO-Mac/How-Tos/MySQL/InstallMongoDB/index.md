@@ -47,7 +47,7 @@ Download the "Installer" file from the above link. Next create a host. In a new 
   php -r "unlink('composer-setup.php');"
  {% endhighlight %}
   
- In your terminal type the following in your terminal.
+ Type the following in your terminal and press return.
     
  {% highlight php %}
    php composer.phar require mongodb/mongodb
