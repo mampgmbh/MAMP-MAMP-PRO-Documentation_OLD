@@ -28,11 +28,13 @@ Note: We cannot provide support for installing or maintaining MongoDB.
 
   Open your terminal and navigate to `/usr/local/mongodb-osx-ssl-xxxx/bin` directory. Run mongod and set your data directory to `~/data`.
   
+  {% highlight php %}
   ./mongod --dbpath ~/data
-
+  {% endhighlight %}
+  
 4. Download and install Composer. Information on downloading composer can be found [here](https://getcomposer.org/doc/00-intro.md){:target="_blank"}.
 
- Download the "Installer" file from the above link. Next create a host. In a new terminal navigate to the document root of your new host. Move the Install file which you downloaded from the Composer website to your document root. Run the following commands in your terminal.
+  Download the "Installer" file from the above link. Next create a host. In a new terminal navigate to the document root of   your new host. Move the Install file which you downloaded from the Composer website to your document root. Run the following commands in your terminal found in the Composer documentation [here](https://getcomposer.org/download/){:target="_blank"}.
  
  {% highlight php %}
   php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
@@ -40,12 +42,12 @@ Note: We cannot provide support for installing or maintaining MongoDB.
   php composer-setup.php
   php -r "unlink('composer-setup.php');"
   {% endhighlight %}
-
-[here](https://getcomposer.org/download/){:target="_blank"}.
-
   
-
-
+    In your terminal type the following in your terminal.
+    
+    {% highlight php %}
+    php composer.phar require mongodb/mongodb
+    {% endhighlight %}
 
 5. Once you have installed this, you can use the following code to insert into your database 
 [here](http://php.net/manual/de/mongodb.tutorial.library.php){:target="_blank"}.
