@@ -66,7 +66,7 @@ Download the "Installer" file from the above link. Next create a host. In a new 
 Once you have installed this, you can use the following [code example](http://php.net/manual/de/mongodb.tutorial.library.php){:target="_blank"} to insert into your new MongoDB database.
 
 {% highlight php %}
-<?php
+
 require 'vendor/autoload.php'; // include Composer's autoloader
 
 $client = new MongoDB\Client("mongodb://localhost:27017");
@@ -77,7 +77,7 @@ $result = $collection->find( [ 'name' => 'Hinterland', 'brewery' => 'BrewDog' ] 
 foreach ($result as $entry) {
     echo $entry['_id'], ': ', $entry['name'], "\n";
 }
-?>
+
 {% endhighlight %}
 
 
