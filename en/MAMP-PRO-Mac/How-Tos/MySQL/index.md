@@ -6,7 +6,7 @@ product: MAMP PRO Mac
 language: en
 ---
 
-## How Tos > MySQL
+## How Tos > MySQL and Databases
 
 <a name="php_connect_mysql"></a>
 <a name="php_connect_mysqli"></a>
