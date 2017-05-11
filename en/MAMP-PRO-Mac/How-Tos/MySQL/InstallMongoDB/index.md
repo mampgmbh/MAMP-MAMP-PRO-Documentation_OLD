@@ -22,7 +22,7 @@ Note: We cannot provide support for installing or maintaining MongoDB.
 
 
 
-The resulting mongodb-osx-ssl-xxxx directory will be moved to /usr/local, resulting in a /usr/local/mongodb-osx-ssl-xxxx directory,  for this How-To. A ~/mongoData will be created for this How-To.
+The resulting mongodb-osx-ssl-xxxx directory will be moved to `/usr/local`, resulting in a `/usr/local/mongodb-osx-ssl-xxxx directory`,  for this How-To. A `~/mongoData` will be created for this How-To.
 
 3. Install MongoDB. You can find installation instructions [here](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/){:target="_blank"}.
 
