@@ -20,13 +20,33 @@ Note: We cannot provide support for installing or maintaining MongoDB.
 
 2. Download the [MongoDB Community Edition](https://www.mongodb.com/download-center#community){:target="_blank"}. After downloading you should find a mongodb-osx-xxxx.tgz file. Uncompress this file and you should have the following directory structure. 
 
- ![MAMP](/en/MAMP-PRO-Mac/How-Tos/MySQL/InstallMongoDB/mongoDBStructure.png)
+  ![MAMP](/en/MAMP-PRO-Mac/How-Tos/MySQL/InstallMongoDB/mongoDBStructure.png)
 
-The resulting mongodb-osx-ssl-xxxx directory will be moved to `/usr/local`, resulting in a `/usr/local/mongodb-osx-ssl-xxxx directory`,  for this How-To. A `~/mongoData` will be created for this How-To.
+  The resulting mongodb-osx-ssl-xxxx directory will be moved to `/usr/local`, resulting in a `/usr/local/mongodb-osx-ssl-xxxx    directory` for this How-To. A `~/mongoData` will be created to hold MongoDB data for this How-To.
 
 3. Install MongoDB. You can find installation instructions [here](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/){:target="_blank"}.
 
-4. Download and install Composer. You can information [here](https://getcomposer.org/doc/00-intro.md){:target="_blank"} and [here](https://getcomposer.org/download/){:target="_blank"}.
+  Open your terminal and navigate to `/usr/local/mongodb-osx-ssl-xxxx/bin` directory. Run mongod and set your data directory to `~/data`.
+  
+  ./mongod --dbpath ~/data
+
+4. Download and install Composer. Information on downloading composer can be found [here](https://getcomposer.org/doc/00-intro.md){:target="_blank"}.
+
+ Download the "Installer" file from the above link. Next create a host. In a new terminal navigate to the document root of your new host. Move the Install file which you downloaded from the Composer website to your document root. Run the following commands in your terminal.
+ 
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('SHA384', 'composer-setup.php') === '669656bab3166a7aff8a7506b8cb2d1c292f042046c5a994c43155c0be6190fa0355160742ab2e1c88d40d5be660b410') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+
+
+
+
+[here](https://getcomposer.org/download/){:target="_blank"}.
+
+  
+
+
 
 5. Once you have installed this, you can use the following code to insert into your database 
 [here](http://php.net/manual/de/mongodb.tutorial.library.php){:target="_blank"}.
