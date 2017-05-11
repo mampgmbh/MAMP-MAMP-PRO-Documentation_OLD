@@ -8,7 +8,7 @@ language: en
 
 ### Install and run MongoDB
 
-Install MongoDB and use MAMP PRO PHP to access it. Installing and running MongoDB takes several steps.
+It is possible to install and use MongoDB along with MAMP PRO PHP. Installing and running MongoDB takes several steps.
 
 <div class="alert" role="alert">
 Note: We cannot provide support for installing or maintaining MongoDB.
