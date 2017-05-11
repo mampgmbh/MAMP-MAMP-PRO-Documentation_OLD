@@ -20,7 +20,7 @@ Note: We cannot provide support for installing or maintaining MongoDB.
 
 2. Download the [MongoDB Community Edition](https://www.mongodb.com/download-center#community){:target="_blank"}. After downloading you should find a mongodb-osx-xxxx.tgz file. Uncompress this file and you should have the following directory structure. 
 
- ![MAMP](/en/MAMP-PRO-Mac/How-Tos/MySQL/InstallMongoDB/MongoDBStructure.png)
+ ![MAMP](/en/MAMP-PRO-Mac/How-Tos/MySQL/InstallMongoDB/mongoDBStructure.png)
 
 The resulting mongodb-osx-ssl-xxxx directory will be moved to `/usr/local`, resulting in a `/usr/local/mongodb-osx-ssl-xxxx directory`,  for this How-To. A `~/mongoData` will be created for this How-To.
 
