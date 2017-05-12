@@ -25,6 +25,6 @@ The most common problem with Apache Server not starting is another mysql service
 
 #### Skype is running
 
-Skpe listens on port 80 and 443. You cannot run your MAMP PRO instance of Apache on port 80 while using Skype.
+Skype listens on port 80 and 443. You cannot run your MAMP PRO instance of Apache on port 80 while using Skype.
 
 
