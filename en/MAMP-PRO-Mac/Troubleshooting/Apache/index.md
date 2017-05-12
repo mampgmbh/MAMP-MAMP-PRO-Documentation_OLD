@@ -10,8 +10,6 @@ language: en
 
 ### My Apache Server will not start?
 
----
-
 #### Another mysql service running
 
 The most common problem with Apache Server not starting is another mysql service running on the same port. To check this
