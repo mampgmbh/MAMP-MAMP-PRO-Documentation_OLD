@@ -10,7 +10,7 @@ language: en
 
 Add your favorite short cuts the tool bar with the customize menu.
 
-![MAMP](/en/MAMP-PRO-Mac/Customize.png)
+![MAMP](/en/MAMP-PRO-Mac/Customize/Customize.png)
 
 *  **Space**  
 
