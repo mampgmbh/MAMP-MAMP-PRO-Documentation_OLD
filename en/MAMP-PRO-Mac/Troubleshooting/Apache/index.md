@@ -10,6 +10,8 @@ language: en
 
 ### My Apache Server will not start?
 
+---
+
 #### Another mysql service running
 
 The most common problem with Apache Server not starting is another mysql service running on the same port. To check this
@@ -20,6 +22,8 @@ The most common problem with Apache Server not starting is another mysql service
 4. Quit every process you find after your search.
 5. Restart MAMP PRO.
 6. If Apache still refuses to start check the log file for error messages.
+
+---
 
 #### Skype is running
 
