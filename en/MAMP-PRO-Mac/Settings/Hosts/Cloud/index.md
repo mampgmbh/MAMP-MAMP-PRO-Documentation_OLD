@@ -6,7 +6,7 @@ product: MAMP PRO Mac
 language: en
 ---
 
-## Settings > Hosts > Cloud
+## Settings > Hosts > Cloud (Available in MAMP PRO 4.2 or later) 
 
 Hosts can be synched via the cloud.
 
