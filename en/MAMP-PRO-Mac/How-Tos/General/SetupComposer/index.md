@@ -8,3 +8,5 @@ language: en
 
 ### Set up Composer for a Host
 
+You can setup a host to use composer in a few steps.
+
