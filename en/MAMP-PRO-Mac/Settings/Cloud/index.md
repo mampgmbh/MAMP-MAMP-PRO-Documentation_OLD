@@ -6,7 +6,7 @@ product: MAMP PRO Mac
 language: en
 ---
 
-## Settings > Cloud
+## Settings > Cloud (Available in MAMP PRO 4.2 or later)
 
 Sync your host and database data through a cloud provider. 
 
