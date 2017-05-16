@@ -31,7 +31,7 @@ Next create a host. In a new terminal navigate to the document root of   your ne
  Your document root should now look like the following.
     
     
-![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/InstallComposer/documentRoot.png)
+![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/SetupComposer/documentRoot.png)
     
 ---
 
