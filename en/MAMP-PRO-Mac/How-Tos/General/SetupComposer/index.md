@@ -19,7 +19,7 @@ Next create a host. In a new terminal navigate to the document root of   your ne
   php -r "unlink('composer-setup.php');"
  {% endhighlight %}
  
- You can find packages[here](https://packagist.org){:target="_blank"}.
+ You can find packages [here](https://packagist.org){:target="_blank"}.
   
  To install the psr/log, common interface for logging libraries, type the following in your terminal and press return.
     
