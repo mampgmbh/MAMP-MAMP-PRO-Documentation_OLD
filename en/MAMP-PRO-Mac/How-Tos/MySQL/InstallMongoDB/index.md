@@ -36,9 +36,9 @@ Open a terminal window to run MongoDB. Navigate to `/usr/local/mongodb-osx-ssl-x
   
 ---
 
-In addition to the MongoDB extension you will need the MongoDB library. Use Composer to install the MongoDB library. Information on downloading composer can be found [here](https://getcomposer.org/doc/00-intro.md){:target="_blank"}.
+In addition to the MongoDB extension you will need the MongoDB library. Use Composer to install the MongoDB library. Information on downloading composer can be found [here](https://getcomposer.org/doc/00-intro.md){:target="_blank"}. Scroll down and click on  "download this file" for OS X. This should download an "Installer" file to your downloads folder. 
 
-Download the "Installer" file from the above link. Next create a host. In a new terminal navigate to the document root of   your new host. Move the Install file which you downloaded from the Composer website to your document root. Run the following commands in your terminal found in the Composer documentation as explained [here](https://getcomposer.org/download/){:target="_blank"}.
+Next create a host. In a new terminal navigate to the document root of   your new host. Move the Install file which you downloaded from the Composer website to your document root. Run the following commands in your terminal found in the Composer documentation as explained [here](https://getcomposer.org/download/){:target="_blank"}.
  
  {% highlight php %}
   php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
