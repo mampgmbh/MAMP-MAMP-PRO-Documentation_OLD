@@ -6,7 +6,7 @@ product: MAMP PRO Mac
 language: en
 ---
 
-### Set up Composer for a Individual Host
+### Install Composer for a Individual Host
 
 You can setup a host to use Composer in a few steps. Information on downloading Composer can be found [here](https://getcomposer.org/doc/00-intro.md){:target="_blank"}. Scroll down and click on  "download this file" for OS X. This should download an "Installer" file to your downloads folder. 
 
