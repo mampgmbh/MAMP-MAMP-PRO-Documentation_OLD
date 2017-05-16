@@ -24,14 +24,14 @@ Next create a host. In a new terminal navigate to the document root of   your ne
  To install the psr/log, common interface for logging libraries, type the following in your terminal and press return.
     
  {% highlight php %}
-   php composer require psr/log
+   php composer.phar require psr/log
  {% endhighlight %}
     
     
  Your document root should now look like the following.
     
     
-![MAMP](/en/MAMP-PRO-Mac/How-Tos/MySQL/InstallMongoDB/documentRoot.png)
+![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/InstallComposer/documentRoot.png)
     
 ---
 
