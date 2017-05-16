@@ -21,15 +21,13 @@ Next create a host. In a new terminal navigate to the document root of   your ne
  
  You can find packages [here](https://packagist.org){:target="_blank"}.
   
- To install the psr/log, common interface for logging libraries, type the following in your terminal and press return.
+ To install the psr/log, a common interface for logging libraries, type the following in your terminal and press return.
     
  {% highlight php %}
    php composer.phar require psr/log
  {% endhighlight %}
     
-    
- Your document root should now look like the following.
-    
+ Your document root should now look like the this.
     
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/SetupComposer/documentRoot.png)
     
