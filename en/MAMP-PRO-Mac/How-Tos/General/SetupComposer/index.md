@@ -18,11 +18,13 @@ Next create a host. In a new terminal navigate to the document root of   your ne
   php composer-setup.php
   php -r "unlink('composer-setup.php');"
  {% endhighlight %}
+ 
+ You can find packages[here](https://packagist.org){:target="_blank"}.
   
- Type the following in your terminal and press return.
+ To install the psr/log, common interface for logging libraries, type the following in your terminal and press return.
     
  {% highlight php %}
-   php composer.phar require mongodb/mongodb
+   php composer require psr/log
  {% endhighlight %}
     
     
