@@ -8,7 +8,7 @@ language: en
 
 - [Activating Output Buffering](ActivatingOutputBuffering/)
 - [Increase the PHP memory limit](IncreasePHPmemoryLimit/)
-- [Show the Postfix log file with Console.app (recommended)](ShowPostfixConsole/)
+- [Show the Postfix log file with Console.app](ShowPostfixConsole/)
 - [Show Postfix log file using command line](ShowPostfixCommandLine/)
 - [Show the Postfix log file using text editor](ShowPostfixTextEditor/)
 - [Set up a host to be both http and https](SetUpHostHttpHttps/)
