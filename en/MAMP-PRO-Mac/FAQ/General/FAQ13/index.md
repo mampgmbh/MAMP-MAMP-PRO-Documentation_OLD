@@ -10,6 +10,6 @@ language: en
 
 Yes, these are backup directories. Once you have successfully upgraded your MAMP PRO, you can delete this directory.
 
-![MAMP](/en/MAMP-PRO-Mac/How-Tos/MySQL/InstallMySQL57/backups.png)
+![MAMP](/en/MAMP-PRO-Mac/FAQ/General/FAQ13/backups.png)
 
 
