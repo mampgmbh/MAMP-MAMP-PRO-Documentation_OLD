@@ -6,15 +6,14 @@ product: MAMP PRO Mac
 language: en
 ---
 
-### Install Wordpress host with Nginx
+### Change permalink settings with Wordpress host and Nginx
 
+Changing the permalink settings in Wordpress when using Nginx will result in a 404 error when viewing your site. Add the following line to your "try files:" text box in Settings > Hosts > Nginx settings to fix this issue. 
 
-You can setup a Wordpress host to use Nginx in a few steps. More nformation information about using Wordpress with Nginx can be found [here](https://www.nginx.com/resources/wiki/start/topics/recipes/wordpress/){:target="_blank"}. 
-
-
- 
  {% highlight php %}
-  
+  $uri $uri/ /index.php?$args;
  {% endhighlight %}
+ 
+ More information about using Wordpress with Nginx can be found [here](https://www.nginx.com/resources/wiki/start/topics/recipes/wordpress/){:target="_blank"}. 
 
 
