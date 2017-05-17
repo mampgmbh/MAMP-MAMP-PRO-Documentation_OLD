@@ -20,6 +20,6 @@ language: en
 - [Where exactly are the MAMP PRO files created or changed?](FAQ10/)
 - [What are the locations of the configuration files?](FAQ11/)
 - [Where can I find more information on the various servers, interpreters, debuggers and other tools that MAMP PRO uses?](FAQ12/)
-- [Can I delete my /MAMP_xxxx directory after an upgrade?](FAQ13/)
+- [Can I delete my MAMP_xxxx directory after an upgrade?](FAQ13/)
 
 
