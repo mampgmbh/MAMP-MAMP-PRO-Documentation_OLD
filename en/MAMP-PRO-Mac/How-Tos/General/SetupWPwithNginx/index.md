@@ -14,6 +14,8 @@ Changing the permalink settings in Wordpress when using Nginx will result in a 4
   $uri $uri/ /index.php?$args;
  {% endhighlight %}
  
+ ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/SetupWPwithNginx/permalinks.png)
+ 
  More information about using Wordpress with Nginx can be found [here](https://www.nginx.com/resources/wiki/start/topics/recipes/wordpress/){:target="_blank"}. 
 
 
