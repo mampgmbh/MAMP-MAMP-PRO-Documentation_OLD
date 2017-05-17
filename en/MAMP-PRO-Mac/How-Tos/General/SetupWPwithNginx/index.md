@@ -8,7 +8,7 @@ language: en
 
 ### Change permalink settings with Wordpress host and Nginx
 
-Changing the permalink settings in Wordpress when using Nginx will result in a 404 error when viewing your site. Add the following line to your "try files:" text box in Settings > Hosts > Nginx settings to fix this issue. 
+Changing the permalink settings in Wordpress when using Nginx will result in a 404 error when viewing your site. Add the following line to your "try files:" text box in Settings > Hosts > Nginx to fix this issue. 
 
  {% highlight php %}
   $uri $uri/ /index.php?$args;
