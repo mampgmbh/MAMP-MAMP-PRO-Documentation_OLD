@@ -20,6 +20,6 @@ language: en
 - [Install Composer for an individual host](SetupComposer/)
 - [Install a PHP extension using PECL](PECL/)
 - [Use Nginx as reverse proxy for Apache while redirecting to a host other than localhost](NginxReverseProxy/)
-
+- [Change permalink settings with Wordpress host and Nginx](SetupWPwithNginx/)
 
 
