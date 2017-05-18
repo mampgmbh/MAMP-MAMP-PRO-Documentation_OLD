@@ -9,3 +9,49 @@ language: en
 ### Setup Multisite with a Wordpress host and Nginx
 
 Setting up a Wordpress multisite is possible in MAMP PRO. Because Nginx does not use a .htaccess file, several additions to the location directive in Nginx will have to be made.
+
+Set your Nginx port to port 80. Make a new  host and set this host to Nginx. Manually install Wordpress or use the Extras feature in MAMP PRO. Enable "Multisite" in Wordpress by adding the following directly under WP_DEBUG to your wp-config file.
+ 
+ {% highlight php %}
+  define('WP_ALLOW_MULTISITE', true);
+ {% endhighlight %}
+ 
+Go to you Nginx tab add the following to your "try files:" location parameter.
+
+ {% highlight php %}
+  $uri $uri/ /index.php?$args;
+ {% endhighlight %}
+ 
+Add the following to your location parameter.
+
+{% highlight php %}
+  location ~ ^/files/(.*)$ {
+                try_files /wp-content/blogs.dir/$blogid/$uri /wp-includes/ms-files.php?file=$1 ;
+                access_log off; log_not_found off;      expires max;
+        }
+
+    #WPMU x-sendfile to avoid php readfile()
+ location ^~ /blogs.dir {
+        internal;
+        alias /var/www/example.com/htdocs/wp-content/blogs.dir;
+        access_log off;     log_not_found off;      expires max;
+    }
+{% endhighlight %}
+
+Add the following to your Nginx template file directly above the "server" directive.
+
+{% highlight php %}
+  map $http_host $blogid {
+   default       -999;
+
+   #Ref: http://wordpress.org/extend/plugins/nginx-helper/
+   #include /var/www/wordpress/wp-content/plugins/nginx-helper/map.conf ;
+	}
+{% endhighlight %}
+ 
+ Restart your servers, close and reopen your browser. You will now see your individual posts instead of a 404 error when  navigating through your Wordpress site.
+ 
+ ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/SetupWPwithNginx/permalinks.png)
+ 
+
+
