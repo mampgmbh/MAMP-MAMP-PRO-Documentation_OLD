@@ -10,7 +10,7 @@ language: en
 
 Setting up a Wordpress multisite is possible in MAMP PRO. Because Nginx does not use a .htaccess file, several additions to the location directive in Nginx will have to be made.
 
-Set your Nginx port to port 80. Make a new  host and set this host to Nginx. Manually install Wordpress or use the Extras feature in MAMP PRO. Enable "Multisite" in Wordpress by adding the following directly under WP_DEBUG to your wp-config file.
+Set your Nginx port to port 80. Make a new  host and set this host to Nginx. Manually install Wordpress or use the Extras feature in MAMP PRO. Enable "Multisite" in Wordpress by adding the following directly under WP_DEBUG to your wp-config.php file. Your wp-config.php file is in your document root folder.
  
  {% highlight php %}
   define('WP_ALLOW_MULTISITE', true);
