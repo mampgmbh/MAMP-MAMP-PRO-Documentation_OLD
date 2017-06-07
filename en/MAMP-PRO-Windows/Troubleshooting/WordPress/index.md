@@ -10,7 +10,7 @@ language: en
 
 - [I try to open up my Wordpress site and the web browser says "Cannot connect to server"?](WordPress1/)
 - [My Wordpress site does not work with Nginx?](WordPress2/)
-- [My Apache Server will not start?](WordPress3/)
+- [I am receiving an "Error establishing database connection" error.](WordPress3/)
 
 
 
