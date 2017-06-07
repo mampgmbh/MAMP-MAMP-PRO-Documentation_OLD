@@ -12,4 +12,4 @@ language: en
 - [My Apache Server will not start?](General2/)
 - [When I type http://localhost in my browser it brings me to Google search?](General3/)
 - [Changes to my php.ini file and/or my httpd.conf file are not showing up when I restart MAMP PRO.](General4/)
-- [Show the Postfix log file using text editor](General5/)
+- [My PHP scripts are timing out](General5/)
