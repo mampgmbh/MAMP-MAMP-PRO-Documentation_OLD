@@ -6,7 +6,7 @@ product: MAMP PRO Mac
 language: en
 ---
 
-### Create a Hello World Python Host
+### Create a "Hello World" Python Host
 
 1. Confirm the wsgi module is checked on your Apache Server. 
 2. Create a standard host, name it "MyPythonHost".
