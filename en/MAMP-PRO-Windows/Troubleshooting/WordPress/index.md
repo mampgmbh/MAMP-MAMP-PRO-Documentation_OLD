@@ -8,8 +8,7 @@ language: en
 
 ## WordPress Troubleshooting
 
-
-- [The last time I opened Extras there was a Content Management System that is now not available?](WordPress1/)
+- [I try to open up my Wordpress site and the web browser says "Cannot connect to server"?](WordPress1/)
 - [My Apache Server will not start?](WordPress2/)
 - [My Apache Server will not start?](WordPress3/)
 
