@@ -9,17 +9,7 @@ language: en
 ## General Troubleshooting
 
 
-### When I type http://localhost in my browser it brings me to Google search?
 
-You must include the port number when you type a your localhost url into the browser.
-
-e.g. http://localhost:8888
-
-What appears in your browser window thereafter may be shortened to localhost depending on the browser settings.
-
-You can open up your localhost or additional hosts through the MAMP PRO interface. With your host highlighted, press the ![MAMP](../../First-Steps/BlackArrow.png) button button on the [Hosts > General](../../Settings/Hosts/General#open_host) tab.
-
----
 
 ### Changes to my php.ini file and/or my httpd.conf file are not showing up when I restart MAMP PRO.
 
