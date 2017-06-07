@@ -1,5 +1,5 @@
 ---
-title: MAMP PRO (Mac) Documentation > How Tos > General
+title: MAMP PRO (Windows) Documentation > How Tos > General
 description: 
 layout: default-2
 product: MAMP PRO Mac
@@ -20,6 +20,7 @@ language: en
 - [Install Composer for an individual host](SetupComposer/)
 - [Install a PHP extension using PECL](PECL/)
 - [Use Nginx as reverse proxy for Apache while redirecting to a host other than localhost](NginxReverseProxy/)
+- [Make a Host](NginxReverseProxy/)
 
 
 
