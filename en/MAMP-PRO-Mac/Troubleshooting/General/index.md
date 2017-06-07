@@ -8,33 +8,9 @@ language: en
 
 ## General Troubleshooting
 
-### The last time I opened Extras there was a Content Management System that is now not available?
+- [The last time I opened Extras there was a Content Management System that is now not available?](General1/)
+- [When I type http://localhost in my browser it brings me to Google search?](General2/)
+- [Changes to my php.ini file and/or my httpd.conf file are not showing up when I restart MAMP PRO.](General3/)
+- [MAMP PRO is not allowing me to set sub-directories of my home(~) directory as a document root?](General4/)
 
-This could be due to several reasons. Please check your Internet connection. If it is not working MAMP PRO will use only show Extras that you have previously installed. An Extra will be missing if the PHP version a host uses does not meet the requirements of an Extra. Do you have enough free disk space available? Some Extras can only be installed once per host. e.g. webEdition.
-
----
-
-### When I type http://localhost in my browser it brings me to Google search?
-
-You must include the port number when you type a your localhost url into the browser.
-
-e.g. http://localhost:8888
-
-What appears in your browser window thereafter may be shortened to localhost depending on the browser settings.
-
-You can open up your localhost or additional hosts through the MAMP PRO interface. With your host highlighted, press the ![MAMP](/en/MAMP-PRO-Mac/First-Steps/BlackArrow.png) button button on the [Hosts > General](../../Settings/Hosts/General#open_host) tab.
-
----
-
-### Changes to my php.ini file and/or my httpd.conf file are not showing up when I restart MAMP PRO.
-
-You must edit the httpd.conf, nginx.conf, php.ini and my.cnf files through the [Template Editor](../../Menu/File) provided by MAMP PRO. Go to File -> Edit Template to edit template files.
-
----
-
-<a name="host_permissions"></a> 
-
-### MAMP PRO is not allowing me to set sub-directories of my home(~) directory as a document root?
-
-In most cases, changing your server launch users to "Unix Users" will make your permissions less restrictive and allow you to use a wider range of directories as your document root. To change your server launch users go to your [Settings > Ports](../../Settings/Ports) tab and change the "Run Servers As:" option to "User".  
-
+ 
