@@ -15,4 +15,3 @@ language: en
 
 http://MyPythonHost:8888/cgi-bin/test.cgi
 
-You should see your hello world. This will help you get started. You can also run your scripts from the command line, and Mac also comes with a Python interpreter, or our MAMP installed one.
