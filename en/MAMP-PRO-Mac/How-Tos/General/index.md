@@ -21,5 +21,8 @@ language: en
 - [Install a PHP extension using PECL](PECL/)
 - [Use Nginx as reverse proxy for Apache while redirecting to a host other than localhost](NginxReverseProxy/)
 - [Change permalink settings with Wordpress host and Nginx](SetupWPwithNginx/)
+- [Create a "Hello World" Python Host](HelloWorldPython/)
+
+
 
 
