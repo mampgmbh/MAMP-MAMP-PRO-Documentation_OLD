@@ -6,6 +6,8 @@ product: MAMP PRO Mac
 language: en
 ---
 
+## General 
+
 - [Activating Output Buffering](ActivatingOutputBuffering/)
 - [Increase the PHP memory limit](IncreasePHPmemoryLimit/)
 - [Show the Postfix log file with Console.app](ShowPostfixConsole/)
