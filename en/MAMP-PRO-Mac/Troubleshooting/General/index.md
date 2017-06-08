@@ -13,4 +13,6 @@ language: en
 - [Changes to my php.ini file and/or my httpd.conf file are not showing up when I restart MAMP PRO.](General3/)
 - [MAMP PRO is not allowing me to set sub-directories of my home(~) directory as a document root?](General4/)
 - [I am getting the following error in my PHP error log, "FastCGI: incomplete headers (0 bytes) received from server"](General5/)
- 
+ - [My "Webstart" page is displaying search engine results, or other incorrect information.](General6/)
+
+
