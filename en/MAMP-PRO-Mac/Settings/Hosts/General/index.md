@@ -39,10 +39,9 @@ To create a new host press the `Plus` button at the bottom left of the screen.
 
 ---
 
-
-
-
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/General/General.png)
+
+<a name="host_table"></a>
 
 *  **Hosts Table**
 
