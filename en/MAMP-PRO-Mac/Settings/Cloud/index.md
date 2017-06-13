@@ -8,7 +8,7 @@ language: en
 
 ## Settings > Cloud (Available in MAMP PRO 4.2 or later)
 
-Store and Load your host and database data using a cloud provider. Currently Dropbox is available for this option. It is not necessary to install Dropbox software to use this feature, you only need a Dropbox account.
+Store and Load your host and database data using a cloud provider. Currently Dropbox is available for this option. It is not necessary to install Dropbox software to use this feature, you only need a Dropbox account. 
 
 <div class="alert" role="alert">
 Note: Your files will not be synced automatically, you must manually load, store and link your hosts using the load, store, and link commands from the menu.
@@ -20,7 +20,7 @@ Note: Your files will not be synced automatically, you must manually load, store
 
 ### Use Cloud Service
 
-When you check this option you will be asked to log into your Dropbox account. When you have completed the login process your Dropbox will be linked to MAMP PRO. Your files will be stored in `~/Dropbox/Apps/MAMP PRO` when in the cloud. You need to individually link each host to Dropbox. 
+When you check this option you will be asked to log into your Dropbox account. When you have completed the login process your Dropbox will be linked to MAMP PRO. When saving to cloud it's either a zip archive (.zip) OR an encrypted zip archive (.encryptedzip), depening on the encryption settings. You need to individually link each host to Dropbox. 
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Cloud/dropbox.png)
 
@@ -48,6 +48,8 @@ When you check this option you will be asked to log into your Dropbox account. W
  
 ### Cloud Activity
 
+When saving to cloud it's either a zip archive (.zip) OR an encrypted zip archive (.encryptedzip), depending on the encryption settings. This file will be transferred directly to Dropbox. If you have the Dropbox software installed and the MAMP PRO folder is not in the exception list, the Dropbox software will download the folder content to `~/Dropbox/Apps/MAMP PRO` after MAMP PRO has uploaded data. When MAMP PRO turns off the Cloud activity signals the data has been completely transferred to Dropbox. At that point, the Dropbox software might not even have started to re-transfer the data back to the originating computer. Ergo: The Dropbox is NOT an indicator if MAMP PRO has finished its cloud work.
+
 You can spot cloud related activity when you see the following:
 
 The elephant logos in the toolbar and menubar are green. 
@@ -62,7 +64,7 @@ The "Cloud" entry in the sidebar.
 
 ---
 
-More information on how to enable cloud activity can be found [here](../Hosts/Cloud). 
+More information on your host cloud settings can be found [here](../Hosts/Cloud). 
 
 
 
