@@ -62,4 +62,18 @@ Represents the size of your data stored in the cloud.
     
 *  **Resolve name change**
 
-      Resolve name changes of your hosts. 
+    You may change the name of host that is linked to the cloud. When you change the name of your linked host, the new host name must be resolved on all other linked machines.
+    
+    For instance, when you change a host name from "MyHost2" to "MyHost3", your Dropbox will modify it's stored zip file name from "MyHost2.zip" to "MyHost3.zip". You will then receive the following warning on your other linked computers indicating your data is out of date.
+    
+    ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/oldData.png)
+    
+    You can now resolve the name difference.
+    
+    ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/resolveName.png)
+    
+    ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/resolveWarning.png)
+    
+    
+    
+    
