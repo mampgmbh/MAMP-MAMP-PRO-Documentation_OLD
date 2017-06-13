@@ -21,13 +21,13 @@ To expand and view your host settings press the "Arrow" button. To view your clo
 
 ### Info
 
-Information about the current download status of your host. The up arrow represents the latest upload date, and the down arrow represents the latest download date.
+Information about the current download status of your host. The up arrow represents the latest "Save To" date, and the down arrow represents the latest "Load From" date.
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/info.png)
 
 ### Size
   
-This Represents the size of the data stored in the cloud.
+Represents the size of your data stored in the cloud.
 
 ---
 
@@ -51,4 +51,4 @@ This Represents the size of the data stored in the cloud.
     
 *  **Resolve name change**
 
-  Resolve name changes that you may have made on another machine.
+    Resolve name changes of your hosts. 
