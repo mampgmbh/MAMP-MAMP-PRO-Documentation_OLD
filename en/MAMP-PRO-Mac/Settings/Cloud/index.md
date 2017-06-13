@@ -8,7 +8,7 @@ language: en
 
 ## Settings > Cloud (Available in MAMP PRO 4.2 or later)
 
-Store and Load your host and database data using a cloud provider. Currently, only Dropbox is available for this option.
+Store and Load your host and database data using a cloud provider. Currently, Dropbox is available for this option.
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Cloud/cloud.png)
 
