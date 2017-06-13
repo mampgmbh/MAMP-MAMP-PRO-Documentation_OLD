@@ -8,7 +8,7 @@ language: en
 
 ## Settings > Cloud (Available in MAMP PRO 4.2 or later)
 
-Store and Load your host and database data using a cloud provider. Currently Dropbox is available for this option.
+Store and Load your host and database data using a cloud provider. Currently Dropbox is available for this option. It is not necessary to install Dropbox software to use this feature, you only need a Dropbox account.
 
 <div class="alert" role="alert">
 Note: Your files will not be synced, you must explicitly load, store and link your hosts through a cloud provider.
