@@ -20,7 +20,7 @@ Note: Your files will not be synced automatically, you must manually load, store
 
 ### Use Cloud Service
 
-When you check this option you will be asked to log into your Dropbox account. When you have completed the login process your Dropbox will be linked to MAMP PRO. When saving to cloud it's either a zip archive (.zip) OR an encrypted zip archive (.encryptedzip), depening on the encryption settings. You need to individually link each host to Dropbox. 
+When you check this option you will be asked to log into your Dropbox account. When you have completed the login process your Dropbox will be linked to MAMP PRO. When saving to cloud it will be saved as either a zip archive (.zip) or an encrypted zip archive (.encryptedzip), depending on the encryption settings. You need to individually link each host to Dropbox. 
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Cloud/dropbox.png)
 
@@ -48,7 +48,7 @@ When you check this option you will be asked to log into your Dropbox account. W
  
 ### Cloud Activity
 
-When saving to cloud it's either a zip archive (.zip) OR an encrypted zip archive (.encryptedzip), depending on the encryption settings. This file will be transferred directly to Dropbox. If you have the Dropbox software installed and the MAMP PRO folder is not in the exception list, the Dropbox software will download the folder content to `~/Dropbox/Apps/MAMP PRO` after MAMP PRO has uploaded data. When MAMP PRO turns off the Cloud activity signals the data has been completely transferred to Dropbox. At that point, the Dropbox software might not even have started to re-transfer the data back to the originating computer. Ergo: The Dropbox is NOT an indicator if MAMP PRO has finished its cloud work.
+When saving to cloud it will be saved as either a zip archive (.zip) or an encrypted zip archive (.encryptedzip), depending on the encryption settings. This file will be transferred directly to Dropbox. If you have the Dropbox software installed and the MAMP PRO folder is not in the exception list, the Dropbox software will download the folder content to `~/Dropbox/Apps/MAMP PRO` after MAMP PRO has uploaded data. When MAMP PRO turns off the Cloud activity signals the data has been completely transferred to Dropbox. At that point, the Dropbox software might not even have started to re-transfer the data back to the originating computer. The Dropbox is not an indicator that MAMP PRO has finished its cloud work.
 
 You can spot cloud related activity when you see the following:
 
