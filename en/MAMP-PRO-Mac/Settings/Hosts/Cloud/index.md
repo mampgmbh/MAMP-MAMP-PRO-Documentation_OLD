@@ -19,6 +19,12 @@ To expand and view your host settings press the "Arrow" button. To view your clo
 
 ---
 
+### Old Data
+
+You will see the following icon when your local data is older than the date stored on the cloud.
+
+
+
 ### Info
 
 Information about the current download status of your host. The up arrow represents the latest "Save To" date, and the down arrow represents the latest "Load From" date.
