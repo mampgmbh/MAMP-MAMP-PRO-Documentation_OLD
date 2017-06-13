@@ -12,11 +12,14 @@ Store and Load your host and database data using a cloud provider. Currently Dro
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Cloud/cloud.png)
 
+
+Your files are not synced, you must explicitly load, store and link your hosts.
+
 ---
 
 ### Use Cloud with service provider
 
-When you check this option you will be asked to log into your Dropbox account. When you have completed the login process your Dropbox will be linked to MAMP PRO. Your files will be stored in `~/Dropbox/Apps/MAMP PRO` when in the cloud. You need to individually link each host to Dropbox. Your files are not synced, you must explicitly load, store and link your hosts.
+When you check this option you will be asked to log into your Dropbox account. When you have completed the login process your Dropbox will be linked to MAMP PRO. Your files will be stored in `~/Dropbox/Apps/MAMP PRO` when in the cloud. You need to individually link each host to Dropbox. 
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Cloud/dropbox.png)
 
