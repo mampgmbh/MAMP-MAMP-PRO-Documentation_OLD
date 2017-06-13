@@ -21,7 +21,9 @@ To expand and view your host settings press the "Arrow" button. To view your clo
 
 ### Info
 
-Information about the current download status if this host is being synced.
+Information about the current download status of your host. The up arrow represents the latest upload date, and the down arrow represents the latest download date.
+
+![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/info.png)
 
 ### Size
   
