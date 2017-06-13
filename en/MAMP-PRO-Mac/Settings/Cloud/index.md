@@ -18,7 +18,7 @@ Note: Your files will not be synced, you must explicitly load, store and link yo
 
 ---
 
-### Use Cloud with service provider
+### Use Cloud Service
 
 When you check this option you will be asked to log into your Dropbox account. When you have completed the login process your Dropbox will be linked to MAMP PRO. Your files will be stored in `~/Dropbox/Apps/MAMP PRO` when in the cloud. You need to individually link each host to Dropbox. 
 
