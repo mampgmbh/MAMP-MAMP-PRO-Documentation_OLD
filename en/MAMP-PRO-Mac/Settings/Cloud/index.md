@@ -8,15 +8,29 @@ language: en
 
 ## Settings > Cloud (Available in MAMP PRO 4.2 or later)
 
-Sync your host and database data through a cloud provider. 
+Sync your host and database data through a cloud provider. Currently, only Dropbox is available for cloud syncing.
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Cloud/cloud.png)
 
 ---
 
+You can spot cloud related activity when you see the following:
+
+The elephant logos in the toolbar and menubar are green. 
+
+![MAMP](/en/MAMP-PRO-Mac/Settings/Cloud/menuBar.png)
+
+![MAMP](/en/MAMP-PRO-Mac/Settings/Cloud/toolBar.png)
+
+The "Cloud" entry in the sidebar ends in the 
+
+![MAMP](/en/MAMP-PRO-Mac/Settings/Cloud/sideBar.png)
+
+---
+
 ### Use Cloud with service provider
 
-Currently, only Dropbox is available for cloud syncing. When you check this option you will be asked to log into your Dropbox account. When you have completed the login process your Dropbox will be linked to MAMP PRO. Your files will be stored in `~/Dropbox/Apps/MAMP PRO` when synced with Dropbox. You need to individually link each host to Dropbox.
+When you check this option you will be asked to log into your Dropbox account. When you have completed the login process your Dropbox will be linked to MAMP PRO. Your files will be stored in `~/Dropbox/Apps/MAMP PRO` when synced with Dropbox. You need to individually link each host to Dropbox.
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Cloud/dropbox.png)
 
