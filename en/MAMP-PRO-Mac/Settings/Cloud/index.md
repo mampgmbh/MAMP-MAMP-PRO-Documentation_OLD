@@ -58,10 +58,11 @@ The elephant logos in the toolbar and menubar are green.
 
 The "Cloud" entry in the sidebar.
 
+![MAMP](/en/MAMP-PRO-Mac/Settings/Cloud/sideBar.png)
+
+---
 
 More information on how to enable cloud activity can be found [here](../Hosts/Cloud). 
-
-![MAMP](/en/MAMP-PRO-Mac/Settings/Cloud/sideBar.png)
 
 
 
