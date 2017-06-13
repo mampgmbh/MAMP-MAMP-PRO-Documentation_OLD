@@ -51,4 +51,4 @@ Represents the size of your data stored in the cloud.
     
 *  **Resolve name change**
 
-    Resolve name changes of your hosts. 
+      Resolve name changes of your hosts. 
