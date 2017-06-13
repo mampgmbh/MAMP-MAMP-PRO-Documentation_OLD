@@ -43,7 +43,7 @@ When you check this option you will be asked to log into your Dropbox account. W
  
  ---
  
- ### CLoud Activity
+ ### Cloud Activity
 
 You can spot cloud related activity when you see the following:
 
