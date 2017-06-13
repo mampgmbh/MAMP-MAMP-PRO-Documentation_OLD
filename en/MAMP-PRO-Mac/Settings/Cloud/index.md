@@ -10,12 +10,11 @@ language: en
 
 Store and Load your host and database data using a cloud provider. Currently Dropbox is available for this option.
 
-![MAMP](/en/MAMP-PRO-Mac/Settings/Cloud/cloud.png)
-
 <div class="alert" role="alert">
 Note: Your files will not be synced, you must explicitly load, store and link your hosts through a cloud provider.
 </div>
 
+![MAMP](/en/MAMP-PRO-Mac/Settings/Cloud/cloud.png)
 
 ---
 
