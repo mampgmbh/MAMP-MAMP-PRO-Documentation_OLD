@@ -21,8 +21,13 @@ To expand and view your host settings press the "Arrow" button. To view your clo
 
 ### Old data
 
-You will see the following icon when your local data is older than the date stored on the cloud.
+You will receive a warning when your local data is older than your cloud data.
 
+![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/oldDataWarning.png)
+
+The "pencil" icon in your hosts table indicates old local data.
+
+![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/oldData.png)
 
 
 ### Info
