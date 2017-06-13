@@ -16,7 +16,7 @@ The Database tab indicates which databases are associated with each host. You ca
 
 ### New Database
 
-Press the '+' button to add a new database
+Press the '+' button to add a new database. It is only possible to add databases, and not individual tables.
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Databases/newDatabase.png)
 
