@@ -41,6 +41,7 @@ Represents the size of your data stored in the cloud.
 
 ---
 
+
 ### Cloud Options
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/cloudOptions.png)
@@ -75,5 +76,15 @@ Represents the size of your data stored in the cloud.
     
     ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/resolveWarning.png)
     
-  ### Desktop Options  
-    
+  ---
+  
+  
+  ### Desktop Options
+  
+  *  **Save To Desktop**
+  
+      This function will save an archive to your desktop. This can help you view what will get transferred, before sending data to the cloud, or determine how much free space you will need in the cloud.
+  
+  *  **Load To Desktop**
+  
+      This function will save a decrypted and uncompressed archive to the desktop. This can be useful if you want to peek into the data that is currently stored in the clould for the selected host. 
