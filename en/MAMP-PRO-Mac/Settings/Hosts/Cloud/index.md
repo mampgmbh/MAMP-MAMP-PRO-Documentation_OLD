@@ -12,6 +12,13 @@ Hosts can be stored into and loaded from the cloud. MAMP PRO will save both your
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/cloud.png)
 
+
+To expand and view your host settings press the "Arrow" button. To view your cloud options press the "Cloud" button.
+
+![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/openCloudHostOptions.png)
+
+---
+
 ### Info
 
 Information about the current download status if this host is being synced.
