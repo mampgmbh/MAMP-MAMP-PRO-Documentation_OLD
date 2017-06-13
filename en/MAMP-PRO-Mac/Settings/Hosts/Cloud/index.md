@@ -18,7 +18,7 @@ Information about the current download status if this host is being synced.
 
 ### Size
   
-This Represents the size of the data stored in the cloud.
+This Represents the size of the data stor ed in the cloud.
 
 ---
 
