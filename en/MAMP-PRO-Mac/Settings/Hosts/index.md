@@ -13,7 +13,8 @@ language: en
 - [Nginx](Nginx/)  
 - [SSL](SSL/)
 - [Extras](Extras/)
-- [Databases](Extras/)  
+- [Databases](Databases/)  
+
 
 - [Hosts Table](General/)  
 - [Cloud](Cloud/)  
