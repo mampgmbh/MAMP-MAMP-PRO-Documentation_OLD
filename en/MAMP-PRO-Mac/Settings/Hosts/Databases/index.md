@@ -8,7 +8,7 @@ language: en
 
 ## Settings > Hosts > Databases
 
-The Database tab shows which databases are associated with your host. You can associate individual tables with a host.
+The Database tab indicates which databases are associated with each host. You can associate individual databases or tables with a host. Disabled checkmarks flag databases and tables that are mapped to a host via an Extra.
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Databases/Databases.png)
 
@@ -16,16 +16,9 @@ The Database tab shows which databases are associated with your host. You can as
 
 ### New Database
 
-Presss the '+' button to add a new database
+Press the '+' button to add a new database
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Databases/newDatabase.png)
-
----
-
-<div class="alert" role="alert">
-Note: The availability of an Extra will be affected by your hosts PHP version, internet connection, cached Extras and available disk space. To add an Extra, press the plus button on the lower left side of the Extras panel. The plus button has a red circle around it if you have no Extras installed.
-</div>
-
 
 
 
