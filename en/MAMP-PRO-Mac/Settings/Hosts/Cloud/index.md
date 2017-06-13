@@ -8,7 +8,7 @@ language: en
 
 ## Settings > Hosts > Cloud (Available in MAMP PRO 4.2 or later) 
 
-Hosts can be saved to and loaded from the cloud. MAMP PRO will save both your document root folder and database data. Your data for each individual host is saved in a single zip file in `~/Dropbox/Apps/MAMP PRO`.
+Hosts can be saved to and loaded from the cloud. MAMP PRO will save both your document root folder and database data. Your data for each individual host will be saved in a single zip file in `~/Dropbox/Apps/MAMP PRO`.
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/cloud.png)
 
