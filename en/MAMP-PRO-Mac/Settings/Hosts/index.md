@@ -14,6 +14,6 @@ language: en
 - [SSL](SSL/)
 - [Extras](Extras/)
 - [Databases](Databases/)  
-- [Hosts Table](General/#hosts_table)  
+- [Hosts Table](General/#host_table)  
 - [Cloud](Cloud/)  
 
