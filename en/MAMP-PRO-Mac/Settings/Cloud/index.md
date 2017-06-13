@@ -44,10 +44,9 @@ When you check this option you will be asked to log into your Dropbox account. W
  
  The path to your cloud log file. Your cloud activity log is located in `Applications/MAMP PRO/logs`
  
+---
  
- ---
- 
- ### Cloud Activity
+### Cloud Activity
 
 You can spot cloud related activity when you see the following:
 
