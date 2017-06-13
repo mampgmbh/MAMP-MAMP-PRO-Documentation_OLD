@@ -79,7 +79,7 @@ Represents the size of your data stored in the cloud.
   ---
   
   
-  ### Desktop Options
+  ### Cloud Options
   
   
   *  **Save To Desktop**
