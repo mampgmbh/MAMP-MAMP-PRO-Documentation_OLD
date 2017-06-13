@@ -77,6 +77,7 @@ Represents the size of your data stored in the cloud.
     ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/resolveWarning.png)
     
  ---
+ 
   
  ### Desktop Options
   
