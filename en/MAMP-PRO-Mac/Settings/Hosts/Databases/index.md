@@ -10,7 +10,7 @@ language: en
 
 The Database tab shows which databases are associated with your host. You can associate individual tables with a host.
 
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Databases/databases.png)
+![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Databases/Databases.png)
 
 ---
 
@@ -18,7 +18,7 @@ The Database tab shows which databases are associated with your host. You can as
 
 Presss the '+' button to add a new database
 
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Databases/NewDatabase.png)
+![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Databases/newDatabase.png)
 
 ---
 
