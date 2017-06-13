@@ -12,13 +12,15 @@ Hosts can be saved to and loaded from the cloud. MAMP PRO will save both your do
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/cloud.png)
 
-To expand and view your cloud host settings press the "Arrow" button on the bottom right of the hosts table. To view your cloud options press the "Cloud" button.
+To expand and view your cloud host settings press the "Arrow" button on the bottom right of the hosts table. To view your cloud functions press the ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/cloud-download.png) button.
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/openCloudHostOptions.png)
 
 ---
 
-### Old data
+### Hosts Table Cloud View
+
+#### Old data
 
 You will receive a warning when your local data is older than your cloud data.
 
@@ -29,19 +31,19 @@ The "pencil" icon in your hosts table indicates old local data.
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/oldData.png)
 
 
-### Info
+#### Info
 
 Displays information about the current download status of your host. The up arrow represents the latest "Save To" date, and the down arrow represents the latest "Load From" date.
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/info.png)
 
-### Size
+#### Size
   
 Represents the size of your data stored in the cloud.
 
 ---
 
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/cloud-download.png)
+### Cloud Functions
 
 *  **Save to cloud**
 
