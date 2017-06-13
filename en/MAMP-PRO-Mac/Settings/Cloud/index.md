@@ -16,7 +16,7 @@ Sync your host and database data through a cloud provider.
 
 ### Use Cloud with service provider
 
-Currently, only Dropbox is available for cloud syncing. When you check this option you will be asked to log into your Dropbox account. When you have completed the login process your Dropbox will be linked to MAMP PRO. Your files will be stored in `~/Dropbox/Apps/MAMP PRO` when synced with Dropbox.
+Currently, only Dropbox is available for cloud syncing. When you check this option you will be asked to log into your Dropbox account. When you have completed the login process your Dropbox will be linked to MAMP PRO. Your files will be stored in `~/Dropbox/Apps/MAMP PRO` when synced with Dropbox. You need to individually link each host to Dropbox.
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Cloud/dropbox.png)
 
@@ -24,19 +24,21 @@ Currently, only Dropbox is available for cloud syncing. When you check this opti
 
 ### Before transferring data to the cloud : Always encrypt the data
   
-  Use this feature to encrypt data ...
+  Use this feature to encrypt your data before moving it to Dropbox.
   
 ### When authorizing MAMP PRO with Dropbox : Use in-app webview
   
-  View the Dropbox login page directly through the MAMP PRO app
+  View the Dropbox login page directly through the MAMP PRO app.
   
 ### Unattended transfers : Prevent sleeping during cloud activity
   
-  Prevent sleeping ...
+  Prevent sleeping when transferring data to and from the cloud.
   
 ---
  
 ### Path to log file
+ 
+ The path to your cloud log file
  
  
 
