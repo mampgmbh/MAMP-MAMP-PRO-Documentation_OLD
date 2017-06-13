@@ -8,7 +8,7 @@ language: en
 
 ## Settings > Hosts > Cloud (Available in MAMP PRO 4.2 or later) 
 
-Hosts can be synched via the cloud.
+Hosts can be stored into and loaded from the cloud. MAMP PRO will save both your document root folder and database data. Your data for each individual host is saved in a single zip file in `~/Dropbox/Apps/MAMP PRO`.
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/cloud.png)
 
@@ -18,7 +18,7 @@ Information about the current download status if this host is being synced.
 
 ### Size
   
-This Represents the size of the data stor ed in the cloud.
+This Represents the size of the data stored in the cloud.
 
 ---
 
