@@ -19,7 +19,7 @@ To expand and view your host settings press the "Arrow" button. To view your clo
 
 ---
 
-### Old Data
+### Old data
 
 You will see the following icon when your local data is older than the date stored on the cloud.
 
