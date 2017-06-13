@@ -52,7 +52,7 @@ When you check this option you will be asked to log into your Dropbox account. W
  
 ### Path to log file
  
- The path to your cloud log file
+ The path to your cloud log file.
  
  
 
