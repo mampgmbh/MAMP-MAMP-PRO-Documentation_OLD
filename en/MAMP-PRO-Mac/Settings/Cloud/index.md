@@ -22,7 +22,7 @@ The elephant logos in the toolbar and menubar are green.
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Cloud/toolBar.png)
 
-The "Cloud" entry in the sidebar ends in the 
+The "Cloud" entry in the sidebar.
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Cloud/sideBar.png)
 
