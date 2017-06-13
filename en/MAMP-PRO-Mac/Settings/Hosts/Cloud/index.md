@@ -76,6 +76,8 @@ Represents the size of your data stored in the cloud.
      
    ---
    
+   ### Desktop Functions
+   
   *  **Save To Desktop**
   
       This function will save an archive to your desktop. This can help you view what will get transferred, before sending data to the cloud, or determine how much free space you will need in the cloud.
