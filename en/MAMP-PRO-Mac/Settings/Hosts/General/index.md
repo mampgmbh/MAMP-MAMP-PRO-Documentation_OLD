@@ -50,6 +50,8 @@ To create a new host press the `Plus` button at the bottom left of the screen.
    The third column indicates whether the host is active. If left unchecked, the host will not be active and cannot be viewed in a web browser.
 
    The fourth column contains the php version that is used with host. The fifth column will display an icon of the Extra installed if an Extra is installed.
+   
+      At the bottom of the hosts table there are several functions. The ![MAMP](/en/MAMP-PRO-Mac/Settings/)
 
    When your host page is functioning or at any other time you can save your host settings so you can go back to them at a later date. This serves as a backup in the case you make some server changes and discover your site is no longer accessible.
 
