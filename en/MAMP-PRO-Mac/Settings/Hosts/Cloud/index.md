@@ -20,8 +20,8 @@ To expand and view your cloud host settings press the "Arrow" button on the bott
 
 ### Hosts Table Cloud View
 
-*  **Old data**
-        
+*  **Old Data**
+
         You will receive a warning when your local data is older than your cloud data.
 
         ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/oldDataWarning.png)
