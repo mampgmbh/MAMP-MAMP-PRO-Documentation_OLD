@@ -8,7 +8,7 @@ language: en
 
 ## Settings > Cloud (Available in MAMP PRO 4.2 or later)
 
-Store and Load your host and database data using a cloud provider. Currently Dropbox is available for this option. It is not necessary to install Dropbox software to use this feature, you only need a Dropbox account. 
+Store and load your host and database data using a cloud provider. Currently Dropbox is available for this option. It is not necessary to install Dropbox software to use this feature, you only need a Dropbox account. 
 
 <div class="alert" role="alert">
 Note: Your files will not be synced automatically, you must manually load, store and link your hosts using the load, store, and link commands from the menu.
@@ -28,15 +28,15 @@ When you check this option you will be asked to log into your Dropbox account. W
 
 ### Before transferring data to the cloud : Always encrypt the data
   
-  Use this feature to encrypt your data before moving it to Dropbox.
+  Use this feature to encrypt your data before moving it to Dropbox. You can encrypt all data before transferring it to the cloud, using the Advanced Encryption Standard (AES) and an encryption key you provide. The key will be stored in the systems keychain. You cannot set the encryption key if ther is cloud activity.
   
 ### When authorizing MAMP PRO with Dropbox : Use in-app webview
   
-  View the Dropbox login page directly through the MAMP PRO app.
+  If your default web browser is not set to Safari you may experience trouble authorizing MAMP PRO with Dropbox or  switching accounts. Temporarily switching to Safari as your default browser or temporarily activating this option remedies these problems. 
   
 ### Unattended transfers : Prevent sleeping during cloud activity
   
-  Prevent sleeping when transferring data to and from the cloud.
+  If there is cloud activity MAMP PRO can prevent your computer from going into sleep mode. After all cloud activity has been finished MAMP PRO no longer prevents sleep mode.
   
 ---
  
