@@ -21,6 +21,7 @@ To expand and view your cloud host settings press the "Arrow" button on the bott
 ### Hosts Table Cloud View
 
 *  **Old data**
+        
         You will receive a warning when your local data is older than your cloud data.
 
         ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/oldDataWarning.png)
@@ -30,11 +31,13 @@ To expand and view your cloud host settings press the "Arrow" button on the bott
         ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/oldData.png)
 
 *  **Info**
+        
         Displays information about the current download status of your host. The up arrow represents the latest "Save To" date, and the down arrow represents the latest "Load From" date.
 
         ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/info.png)
 
 *  **Size**
+        
         Represents the size of your data stored in the cloud.
 
 ---
