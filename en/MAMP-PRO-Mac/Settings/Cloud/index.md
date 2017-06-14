@@ -28,7 +28,7 @@ When you check this option you will be asked to log into your Dropbox account. W
 
 ### Before transferring data to the cloud : Always encrypt the data
   
-  Use this feature to encrypt your data before moving it to Dropbox. You can encrypt all data before transferring it to the cloud, using the Advanced Encryption Standard (AES) and an encryption key you provide. The key will be stored in the systems keychain. You cannot set the encryption key if ther is cloud activity.
+  Use this feature to encrypt your data before moving it to Dropbox. You can encrypt all data before transferring it to the cloud, using the Advanced Encryption Standard (AES) and an encryption key you provide. The key will be stored in the systems keychain. You cannot set the encryption key if there is cloud activity.
   
 ### When authorizing MAMP PRO with Dropbox : Use in-app webview
   
