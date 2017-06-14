@@ -45,7 +45,7 @@ To create a new host press the `Plus` button at the bottom left of the screen.
 
 *  **Hosts Table**
 
-   The hosts table contains five columns. The first column contains your host name. The second column indicates which web server will host the file. 
+   The hosts table contains several columns. You can drag the columns to change their default order. In the default order, the first column contains your host name. The second column indicates which web server will host the file. 
 
    The third column indicates whether the host is active. If left unchecked, the host will not be active and cannot be viewed in a web browser.
 
@@ -53,7 +53,7 @@ To create a new host press the `Plus` button at the bottom left of the screen.
 
    When your host page is functioning or at any other time you can save your host settings so you can go back to them at a later date. This serves as a backup in the case you make some server changes and discover your site is no longer accessible.
 
-   ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/General/HostSaveSettings.png)
+   ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/General/hostTableFunctions.png)
 
 ---
 
