@@ -42,13 +42,15 @@ When you check this option you will be asked to log into your Dropbox account. W
  
 ### Path to log file
  
- The path to your cloud log file. Your cloud activity log is located in `Applications/MAMP PRO/logs`
+ The path to your cloud log file. Your cloud activity log is located in `/Applications/MAMP PRO/logs`
  
 ---
  
 ### Cloud Activity
 
-When saving to cloud it will be saved as either a zip archive (.zip) or an encrypted zip archive (.encryptedzip), depending on the encryption settings. This file will be transferred directly to Dropbox. If you have the Dropbox software installed and the MAMP PRO folder is not in the exception list, the Dropbox software will download the folder content to `~/Dropbox/Apps/MAMP PRO` after MAMP PRO has uploaded data. When MAMP PRO turns off the Cloud activity signals the data has been completely transferred to Dropbox. At that point, the Dropbox software might not even have started to re-transfer the data back to the originating computer. The Dropbox is not an indicator that MAMP PRO has finished its cloud work.
+When saving to cloud it will be saved as either a zip archive (.zip) or an encrypted zip archive (.encryptedzip), depending on the encryption settings. This file will be transferred directly to Dropbox. If you have the Dropbox software installed and the MAMP PRO folder is not in the exception list, the Dropbox software will download the folder content to `~/Dropbox/Apps/MAMP PRO` after MAMP PRO has uploaded data. 
+
+When MAMP PRO turns off the Cloud activity signals the data has been completely transferred to Dropbox. At that point, the Dropbox software might not even have started to re-transfer the data back to the originating computer. The Dropbox is not an indicator that MAMP PRO has finished its cloud work.
 
 You can spot cloud related activity when you see the following:
 
@@ -58,13 +60,13 @@ The elephant logos in the toolbar and menubar are green.
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Cloud/toolBar.png)
 
-The "Cloud" entry in the sidebar.
+The "transmission" entry next to the cloud icon on the sidebar.
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Cloud/sideBar.png)
 
 ---
 
-More information on your host cloud settings can be found [here](../Hosts/Cloud). 
+More information on your host cloud functions can be found [here](../Hosts/Cloud). 
 
 
 
