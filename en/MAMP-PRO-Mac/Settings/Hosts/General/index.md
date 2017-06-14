@@ -54,6 +54,8 @@ To create a new host press the `Plus` button at the bottom left of the screen.
       At the bottom of the hosts table there are several functions. Clicking on the ![MAMP](/en/MAMP-PRO-Mac/First-Steps/gear.png) icon will highlight several functions that will allow you to save your host settings enabling you to re- introduce them at a later date. This serves as a backup in case you make server changes and later discover your site is no longer accessible.
 
    ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/General/hostTableFunctions.png)
+   
+      The hosts table also contains cloud information and functionality. A description of these can be found [here](../Cloud).
 
 ---
 
