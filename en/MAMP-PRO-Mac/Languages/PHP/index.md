@@ -38,10 +38,14 @@ alias php='/Applications/MAMP/bin/php/php7.1.1/bin/php -c "/Library/Application 
 alias pear='/Applications/MAMP/bin/php/php7.1.1/bin/pear'
 alias pecl='/Applications/MAMP/bin/php/php7.1.1/bin/pecl'
 
-{% endhighlight %}   
+{% endhighlight %} 
 
-   
-   
+
+Confirm your php is enabled by typing "php -v" in your terminal.
+
+![MAMP](/en/MAMP-PRO-Mac/Languages/PHP/terminalType.png)
+
+![MAMP](/en/MAMP-PRO-Mac/Languages/PHP/terminalVersion.png)
 
 ---
 
