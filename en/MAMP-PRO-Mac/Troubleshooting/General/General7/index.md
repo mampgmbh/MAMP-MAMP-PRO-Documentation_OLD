@@ -6,7 +6,9 @@ product: MAMP PRO Mac
 language: en
 ---
 
-### bhal
+### Command line PHP extensions are not showing up when I run PHP from the command line.
+
+
 
 
 
