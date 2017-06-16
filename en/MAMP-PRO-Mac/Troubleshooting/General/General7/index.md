@@ -14,9 +14,9 @@ When using command line PHP, to include extensions that you wish to use, add the
 
 To see where your command line php.ini file is located, type the following in the terminal. 
 
-![MAMP](/en/MAMP-PRO-Mac/Troubleshooting/General/General7/phpVersion.jpg)
+![MAMP](/en/MAMP-PRO-Mac/Troubleshooting/General/General7/phpVersion.png)
 
-![MAMP](/en/MAMP-PRO-Mac/Troubleshooting/General/General7/phpVersionResult.jpg)
+![MAMP](/en/MAMP-PRO-Mac/Troubleshooting/General/General7/phpVersionResult.png)
 
 
 
