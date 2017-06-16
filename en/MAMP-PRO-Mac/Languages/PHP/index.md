@@ -51,7 +51,7 @@ Confirm your php is enabled by typing "php -v" in your terminal.
       Note: Your version of PHP on the command line is not configured by your PHP templates, or the MAMP PRO interface. 
 </div>
 
-More information on configuring your command line PHP can be found here.
+More information on configuring your command line PHP can be found [here](../../Troubleshooting/General/General7).
 
 ---
 
