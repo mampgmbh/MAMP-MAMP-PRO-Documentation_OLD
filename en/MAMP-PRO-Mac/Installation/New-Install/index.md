@@ -10,10 +10,7 @@ language: en
 
 1. Download MAMP PRO from [www.mamp.info](https://www.mamp.info){:target="_blank"} .
 2. Double click on the MAMP_MAMP_PRO_4.0.pkg file in your Downloads folder.
-3. The System Installer will guide you through the installation process.
-
-
-Additionally a Helper Tool will be installed.
+3. The System Installer will guide you through the installation process. Additionally a Helper Tool will be installed.
 
 ![MAMP](/en/MAMP-PRO-Mac/Installation/New-Install/helperTool.png)
 
