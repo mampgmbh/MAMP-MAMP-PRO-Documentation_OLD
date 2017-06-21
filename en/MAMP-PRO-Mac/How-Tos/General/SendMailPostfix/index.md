@@ -120,7 +120,7 @@ Copy and paste the following. This will be your "script.php" file.
 
 ---
 
-More detailed information about postfix can be found [here]{}.
+More detailed information about postfix can be found [here](http://www.postfix.org/BASIC_CONFIGURATION_README.html){:target="_blank"}. 
 
 
 
