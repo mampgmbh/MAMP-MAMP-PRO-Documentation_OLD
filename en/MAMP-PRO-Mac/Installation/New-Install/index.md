@@ -13,9 +13,9 @@ language: en
 3. The System Installer will guide you through the installation process.
 
 
-Additionally a Helper Tool will be installed
+Additionally a Helper Tool will be installed.
 
-
+![MAMP](/en/MAMP-PRO-Mac/Installation/New-Install/helperTool.png)
 
 <div class="alert" role="alert">
 Note: You need administrator permissions to install MAMP PRO!
