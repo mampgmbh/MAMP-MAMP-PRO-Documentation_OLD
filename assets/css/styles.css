@@ -95,3 +95,15 @@ footer p {
 .sidebar ul li a.active {
   font-weight: 500;
 }
+
+ul#tipue_search_foot_boxes {
+  list-style: none;
+  border: thin solid #dfdfdf;
+  padding: 0.8rem;
+  margin: 0;
+}
+
+ul#tipue_search_foot_boxes li {
+  display: inline;
+  margin-right: 0.8rem;
+}
