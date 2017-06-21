@@ -81,7 +81,7 @@ Copy and paste the following. This will be your "InvatationEmail.php" file.
 
 ---
 
-Copy and paste the following. This will be your "script.php" file.
+Copy and paste the following. This will be your "script.php" file. Add the correct email address. 
 
 {% highlight php %}
 
