@@ -16,7 +16,7 @@ var tipuesearch = {"pages": [
       {% if page.url contains "/en/Search/" %}
           
         {% else %}
-          {"title": "{{page.title | replace_first: ' Documentation', ''}}", "text": "{{page.content | markdownify | strip_html | strip_newlines | xml_escape}}", "tags": "", "url": "{{page.url}}"},
+          {"title": "{{page.title | replace_first: ' Documentation', ''}}", "text": "{{page.content | markdownify | strip_html | strip_newlines | xml_escape | replace: '\', '\\'}}", "tags": "", "url": "{{page.url}}"},
       {% endif %}
     {% endif %}
   {% endfor %}
@@ -26,7 +26,6 @@ var tipuesearch = {"pages": [
 var tipuesearch_string_5 = 'Results';
 
 $(document).ready(function() {
-  console.log(1);
   $('#tipue_search_input').tipuesearch({
     'mode': 'static',
     'show': 100,
