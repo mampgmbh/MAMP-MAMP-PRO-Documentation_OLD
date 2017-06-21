@@ -118,6 +118,10 @@ Copy and paste the following. This will be your "script.php" file.
   
 {% endhighlight %}
 
+---
+
+More detailed information about postfix can be found [here]{}.
+
 
 
 
