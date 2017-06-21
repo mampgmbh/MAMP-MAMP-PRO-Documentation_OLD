@@ -15,8 +15,12 @@ var tipuesearch = {"pages": [
     {% if page.url contains "/en/" %}
       {% if page.url contains "/en/Search/" %}
           
+      {% else %}
+        {% if page.url contains "windows" %}
+          
         {% else %}
           {"title": "{{page.title | replace_first: ' Documentation', ''}}", "text": "{{page.content | remove: '\' | markdownify | strip_html | strip_newlines | xml_escape}}", "tags": "", "url": "{{page.url}}"},
+        {% endif %}
       {% endif %}
     {% endif %}
   {% endfor %}
