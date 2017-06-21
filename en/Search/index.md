@@ -26,6 +26,7 @@ var tipuesearch = {"pages": [
 var tipuesearch_string_5 = 'Results';
 
 $(document).ready(function() {
+  console.log(1);
   $('#tipue_search_input').tipuesearch({
     'mode': 'static',
     'show': 100,
