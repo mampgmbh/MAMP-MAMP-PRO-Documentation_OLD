@@ -99,8 +99,8 @@ footer p {
 ul#tipue_search_foot_boxes {
   list-style: none;
   border: thin solid #dfdfdf;
-  padding: 0.8rem;
-  margin: 0;
+  padding: 0.4rem 0.8rem 0.4rem 0.8rem;
+  margin: 0.8rem 0 0 0;
 }
 
 ul#tipue_search_foot_boxes li {
