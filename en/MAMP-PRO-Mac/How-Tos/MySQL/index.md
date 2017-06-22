@@ -16,7 +16,7 @@ language: en
 <a name="upgrade_to_mamp_pro_missing_databases"></a>
 
 - [Connect to MySQL from PHP (PHP <= 5.5.x)](connectMySQLphpLess5_5/)
-- [Connect to MySQL from PHP (PHP >= 5.6.x)]connectMySQLphpGreater5_6/)  
+- [Connect to MySQL from PHP (PHP >= 5.6.x)](connectMySQLphpGreater5_6/)  
 - [How to connect to MySQL using Python ](ConnectMySQLPython/)  
 - [Connect To MySQL using Perl ](ConnectMySQLPerl/)  
 - [Connect to MySQL using Sequel Pro](ConnectMySQLSequelPro/)  
