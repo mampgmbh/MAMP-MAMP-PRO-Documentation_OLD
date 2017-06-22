@@ -8,7 +8,7 @@ language: en
 
 ### My xip.io link does not work on other devices on my LAN?
 
-To verify you xip.io is working cut and paste your xip.io address from MAMP PRO and type [nslookup xip.io host name ] on the command line
+To verify your xip.io is working cut and paste your xip.io address from MAMP PRO and type [nslookup xip.io host name ] on the command line
 
 nslookup myhostName.xip.io
 
