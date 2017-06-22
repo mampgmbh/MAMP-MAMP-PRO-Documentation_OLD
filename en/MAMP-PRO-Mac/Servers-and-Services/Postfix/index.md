@@ -25,12 +25,17 @@ Sometimes you may need to send an email using PHP, to do so you have to configur
    
    When you set this, and start your servers, you will see your changes reflected in  `/private/etc/postfix/main.cf`. This field will set the "myorigin" variable.
    
+   {% highlight php %}
+
    ### MAMP Postfix Configuration - Start ###
 
-myorigin = johndoe.com
-myhostname = mailer.$myorigin
-smtpd_sender_restrictions = permit_inet_interfaces
+   myorigin = johndoe.com
+   myhostname = mailer.$myorigin
+   smtpd_sender_restrictions = permit_inet_interfaces
    
+   {% endhighlight %}
+
+  
    
    
    <div class="alert" role="alert">
