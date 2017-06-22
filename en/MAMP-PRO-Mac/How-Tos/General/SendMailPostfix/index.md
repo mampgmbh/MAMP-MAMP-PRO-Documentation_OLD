@@ -89,8 +89,8 @@ Copy and paste the following. This will be your "script.php" file. Add the corre
 
 /*__________________INPUT_DATA______________________*/
 
-    $to_email = "MyName@MyMailProvider.com"; // change the email recipient
-    $your_name = "MyName";
+    $to_email = "john@gmaill.com"; // you are sending email to .. change the email recipient
+    $your_name = "john";
 
 /*____________________SCRIPT________________________*/
     
