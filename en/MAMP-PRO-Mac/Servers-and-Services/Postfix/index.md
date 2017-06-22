@@ -14,7 +14,7 @@ Sometimes you may need to send an email using PHP, to do so you have to configur
 
 *  **Include Postfix service in GroupStart**  
 
-   Check to include Postfix in the GroupStart. When activated Postfix will automatically start/stop when the Servers button is   pressed.
+   Check to include Postfix in the GroupStart. When activated Postfix will automatically start/stop when the Servers button is pressed.
 
 ---
 
@@ -23,7 +23,15 @@ Sometimes you may need to send an email using PHP, to do so you have to configur
    If you want to use the PHP function `mail()` for sending emails to your own email address (like mail@johndoe.com) you
    just need to add the value "johndoe.com" (without quotes and the according domain name) into this field.
    
-   When you set this, and start your servers, you will see your changes reflected in the 
+   When you set this, and start your servers, you will see your changes reflected in  `/private/etc/postfix/main.cf`. This field will set the "myorigin" variable.
+   
+   ### MAMP Postfix Configuration - Start ###
+
+myorigin = johndoe.com
+myhostname = mailer.$myorigin
+smtpd_sender_restrictions = permit_inet_interfaces
+   
+   
    
    <div class="alert" role="alert">
    Note: Only if you want to send e-mail to others you will need to fill
