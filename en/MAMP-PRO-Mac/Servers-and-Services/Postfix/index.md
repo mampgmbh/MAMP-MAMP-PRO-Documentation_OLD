@@ -21,7 +21,9 @@ Sometimes you may need to send an email using PHP, to do so you have to configur
 *  **Set domain of outgoing e-mails to**
 
    If you want to use the PHP function `mail()` for sending emails to your own email address (like mail@johndoe.com) you
-   just need to add the value "johndoe.com" (without quotes and the according domain name) into this field. 
+   just need to add the value "johndoe.com" (without quotes and the according domain name) into this field.
+   
+   When you set this, and start your servers, you will see your changes reflected in the 
    
    <div class="alert" role="alert">
    Note: Only if you want to send e-mail to others you will need to fill
@@ -56,5 +58,9 @@ Sometimes you may need to send an email using PHP, to do so you have to configur
 ---
 
 *  **Path to Postfix log file**  
+
+   The path to your postfix log.
+   
+---
 
    More information on how to [send email with Postfix](../../How-Tos/General/SendMailPostfix) can be found in our How-To section.
