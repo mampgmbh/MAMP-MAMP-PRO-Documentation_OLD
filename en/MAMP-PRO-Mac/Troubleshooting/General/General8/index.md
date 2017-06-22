@@ -16,6 +16,8 @@ Your ip address should be returned. This means your xip.io is working properly.
 
 You may also be having problems with your router settings. Make sure they are set properly to allow xip.io to function properly. The following are instructions for some router settings in Germany, your router may have similar settings that have to be changed.
 
+---
+
 AVM's FritzBox has a security feature that prevents DNS Servers to resolve anything in the FritzBox local IP range (Default 192.168.178.0/24)
 
 try
