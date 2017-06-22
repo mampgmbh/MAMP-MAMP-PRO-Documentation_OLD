@@ -8,7 +8,7 @@ language: en
 
 ## Servers and Services > Postfix
 
-Sometimes you may need to send an email using PHP, to do so you have to configure and start Postfix. An easy way getting Postfix to run is using the configuration tool built into MAMP PRO. 
+You may need to send an email using PHP, to do so you have to configure and start Postfix. An easy way getting Postfix to run is using the configuration tool built into MAMP PRO. 
 
 ![MAMP](/en/MAMP-PRO-Mac/Servers-and-Services/Postfix/Postfix.png)
 
@@ -20,10 +20,7 @@ Sometimes you may need to send an email using PHP, to do so you have to configur
 
 *  **Set domain of outgoing e-mails to**
 
-   If you want to use the PHP function `mail()` for sending emails to your own email address (like mail@johndoe.com) you
-   just need to add the value "johndoe.com" (without quotes and the according domain name) into this field.
-   
-   When you set this, and start your servers, you will see your changes reflected in  `/private/etc/postfix/main.cf`. This field will set the "myorigin" variable.
+   Use the PHP function `mail()` for sending emails to your own email address (like mail@johndoe.com). This field to set the outgoing email domain. After starting your servers with this set, you will see your changes reflected in  `/private/etc/postfix/main.cf`.
    
    {% highlight php %}
 
@@ -35,13 +32,8 @@ Sometimes you may need to send an email using PHP, to do so you have to configur
    
    {% endhighlight %}
 
-  
+   A how-to with example code on sending email with Postfix can be found [here](../../How-Tos/General/SendMailPostfix).
    
-   
-   <div class="alert" role="alert">
-   Note: Only if you want to send e-mail to others you will need to fill
-   in the other fields. In this case make sure that your e-mail provider allows the use of a Smart host.
-   </div>
 ---
 
 *  **Use a smart host for routing**  
@@ -76,4 +68,4 @@ Sometimes you may need to send an email using PHP, to do so you have to configur
    
 ---
 
-   More information on how to [send email with Postfix](../../How-Tos/General/SendMailPostfix) can be found in our How-To section.
+   
