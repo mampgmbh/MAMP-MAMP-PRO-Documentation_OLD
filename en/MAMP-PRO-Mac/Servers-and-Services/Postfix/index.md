@@ -8,7 +8,7 @@ language: en
 
 ## Servers and Services > Postfix
 
-You may need to send an email using PHP. To do so you have to configure and start Postfix. An easy way getting Postfix to run is using the configuration tool built into MAMP PRO. 
+You may need to send an email using PHP. To do so you have to configure and start Postfix. An easy way getting Postfix to run is using the configuration tool built into MAMP PRO. A How-To with example code on sending email with Postfix can be found [here](../../How-Tos/General/SendMailPostfix).
 
 ![MAMP](/en/MAMP-PRO-Mac/Servers-and-Services/Postfix/Postfix.png)
 
@@ -32,8 +32,6 @@ You may need to send an email using PHP. To do so you have to configure and star
    
    {% endhighlight %}
 
-   A how-to with example code on sending email with Postfix can be found [here](../../How-Tos/General/SendMailPostfix).
-   
 ---
 
 *  **Use a smart host for routing**  
