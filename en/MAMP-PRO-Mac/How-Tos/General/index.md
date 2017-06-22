@@ -13,6 +13,7 @@ language: en
 - [Show the Postfix log file with Console.app](ShowPostfixConsole/)
 - [Show Postfix log file using command line](ShowPostfixCommandLine/)
 - [Show the Postfix log file using text editor](ShowPostfixTextEditor/)
+- [Send mail using Postfix](SendMailPostfix/)
 - [Set up a host to be both http and https](SetUpHostHttpHttps/)
 - [Redirect http traffic to https site using MAMP PRO interface](RedirectToHttpsMAMPPRO/)
 - [Redirecting http traffic to https site using .htaccess file](RedirectToHttpsHTaccess/)
