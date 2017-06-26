@@ -31,6 +31,10 @@ When you check this option you will be asked to log into your Dropbox account. W
   
   Use this feature to encrypt your data before moving it to Dropbox. You can encrypt all data before transferring it to the cloud, using the Advanced Encryption Standard (AES) and an encryption key you provide. The key will be stored in the systems keychain. You cannot set the encryption key if there is cloud activity.
   
+  <div class="alert" role="alert">
+  When you set encryption your files will be stored on Dropbox with a .encryptedzip extension. Previously stored hosts will keep their .zip, unencrypted extension, until the are reloaded to the cloud.
+  </div>
+  
 ### When authorizing MAMP PRO with Dropbox : Use in-app webview
   
   If your default web browser is not set to Safari you may experience trouble authorizing MAMP PRO with Dropbox or  switching accounts. Temporarily switching to Safari as your default browser or temporarily activating this option remedies these problems. 
