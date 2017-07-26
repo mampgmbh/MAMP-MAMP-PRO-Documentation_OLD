@@ -32,7 +32,7 @@ To add an additional host press the '+' button at the bottom left corner of the 
 
 ### Link To Cloud
 
-You can link your new host to the cloud using a cloud provider.
+You can link your new host to the cloud using a cloud provider. The following additional steps will link your host to the cloud.
 
 1. In the sidebar switch to the "Cloud" section and activate "Use Cloud service". You will be transferred to the Dropbox site to provide your account credentials. Allow "MAMP PRO" to access its folders on Dropbox and switch back to the software.
 2. Switch back to the "Hosts" section using the sidebar.
