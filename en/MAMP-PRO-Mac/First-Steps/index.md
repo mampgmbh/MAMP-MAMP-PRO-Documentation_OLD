@@ -39,7 +39,7 @@ You can link your new host to the cloud using a cloud provider.
 3. Enlarge the hosts table by clicking on the right-arrow on the lower-right corner of the table. You are now able to see the status messages.
 4. Choose "Save to Cloud" from the contextual menu (right-click or ctrl-click) of the host you created in step 4. A zip archive will be transferred to Dropbox which can be downloaded on the same or a second machine by using "Load from Cloud" from the contextual menu. On the second machine the host must have the same name and you must "Link to Cloud" first.
 
-See the [Dropbox](../Settings/Hosts/Dropbox) section for more information on storing your hosts in the cloud.
+See the [Dropbox](../Settings/Hosts/Cloud) section for more information on storing your hosts in the cloud.
 
 ---
 
