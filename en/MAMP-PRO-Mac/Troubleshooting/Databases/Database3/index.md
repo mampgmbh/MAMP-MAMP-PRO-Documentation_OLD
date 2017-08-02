@@ -11,4 +11,7 @@ language: en
 Add the following to your my.cnf file. This will create a log file named dfa in you fdas directory.
 
 
+{% highlight php %} $uri $uri/ /index.php?$args; {% endhighlight %}
+
+
 
