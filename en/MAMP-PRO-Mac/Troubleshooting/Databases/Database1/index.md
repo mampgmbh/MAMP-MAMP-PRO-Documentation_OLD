@@ -7,8 +7,6 @@ product: MAMP PRO Mac
 language: en
 ---
 
-## MySQL and Database Troubleshooting
-
 ### My MySQL Server will not start?
 
 The most common problem with MySQL Server not starting is another mysql service running on the same port. I may also be a mysql process started by MAMP PRO previously did not shut down properly when you quit MAMP PRO. To check this do the following. 
