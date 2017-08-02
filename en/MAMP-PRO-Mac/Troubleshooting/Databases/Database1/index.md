@@ -1,4 +1,3 @@
-
 ---
 title: MAMP PRO (Mac) Documentation > MySQL and Database Troubleshooting
 description: 
