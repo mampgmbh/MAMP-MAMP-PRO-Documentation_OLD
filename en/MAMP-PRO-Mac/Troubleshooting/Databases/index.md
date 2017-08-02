@@ -11,4 +11,4 @@ language: en
 
 - [MySQL will not start](Database1/)  
 - [MySQL will not start and I am receiving a log sequence number error](Database2/)  
-- [My MySQL is slow](Datbase3/)
+- [My MySQL is slow](Database3/)
