@@ -16,6 +16,7 @@ The button `Set ports to 80, 443 & 3306` will set the ports to the value commonl
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Ports/Ports.png)
 
+
 *  **Run servers as:**  
    Production servers typically use www/msql to run Apache, Nginx and MySQL. These users may not have the right to access your files, therefore it’s generally a good idea to run them under your own username.  
    
@@ -23,16 +24,18 @@ The button `Set ports to 80, 443 & 3306` will set the ports to the value commonl
    Note: You should only start the servers with your own user name when the machine is adequately protected against
    malicious attacks from the internet. Malicious scripts on your server may enable unlimited access to your personal data.
    </div>
+   
+---
 
-*  **Start servers at system start**  
+*  **Launch Groupstart servers on system startup**  
    Apache, Nginx and MySQL are started during startup of the OS, this means that the services are available before a user
    has logged into the system.
 
-*  **Start servers at startup of MAMP PRO**  
+*  **Launch Groupstart servers when starting MAMP PRO**  
    The services will start automatically at startup of MAMP PRO.
 
-*  **Stop servers at shutdown of MAMP PRO**  
+*  **Stop servers when quitting MAMP PRO**  
    The services will be stopped automatically when MAMP PRO shuts down.
 
-*  **Delete log files at server startup**  
+*  **Delete log files at server start**  
    The log files will be emptied before startup of the services. That way only current entries will be in the log files.
