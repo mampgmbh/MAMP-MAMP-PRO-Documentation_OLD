@@ -27,4 +27,4 @@ alias python='/Applications/MAMP/Library/bin/python'
 
 ---
 
-More information on how to [connect to MySQL using Python](../../How-Tos/MySQL/#python_connect) can be found in our How To     section.
+More information on how to [connect to MySQL using Python](../../How-Tos/MySQL/ConnectMySQLPython/) can be found in our How To     section.
