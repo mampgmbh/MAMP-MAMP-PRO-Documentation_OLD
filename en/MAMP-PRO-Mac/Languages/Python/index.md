@@ -8,7 +8,7 @@ language: en
 
 ## Languages > Python
 
-Python is a widely used high-level, general-purpose, interpreted, dynamic programming language. 
+Python is a widely used high-level, general-purpose, interpreted, dynamic programming language. MAMP PRO installs Python in your  `/Applications/MAMP/Library/bin/python` directory. MAMP PRO will not make any changes to the pre installed Python that is pre installed on your Mac. Apple-provided build of Python is installed in `/usr/bin/python`.
 
 ![MAMP](/en/MAMP-PRO-Mac/Languages/Python/Python.png)
 
