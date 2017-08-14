@@ -8,7 +8,7 @@ language: en
 
 ### Use MacGDBp Debugger
 
-In order to use the MacGDBp Debugger you first must enable the Xbedug extension on the PHP tab. Restart your servers in MAMP PRO. Open the MacGDBp Debugger application. You may see a warning message relating to incoming network connections, press 'Allow to proceed.
+In order to use the MacGDBp Debugger you first must enable the Xbedug extension on the PHP tab. Restart your servers in MAMP PRO. Open the MacGDBp Debugger application. You may see a warning message relating to incoming network connections, press 'Allow' to proceed.
 
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/UseXdebug/Allow.png) 
 
