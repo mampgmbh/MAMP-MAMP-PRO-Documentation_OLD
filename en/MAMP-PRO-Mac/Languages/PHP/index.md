@@ -92,7 +92,7 @@ More information on configuring your command line PHP can be found [here](../../
 
     *  **Xdebug (Debugger)**  
        Activate Xdebug to allow PHP to create debugging information during script execution.
-       By default, Xdebug uses localhost and port 9000 in the PHP.ini file.
+       By default, Xdebug uses localhost and port 9000 in the PHP.ini file. More informationon using Xdebug can be founder [here](../../How-Tos/General/UsingXdebug) 
 
     *  **Imagick / ImageMagick**  
        Activate Imagick / ImageMagick.
