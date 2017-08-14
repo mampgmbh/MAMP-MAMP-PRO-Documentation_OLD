@@ -25,6 +25,7 @@ language: en
 - [Use Nginx as reverse proxy for Apache while redirecting to a host other than localhost](NginxReverseProxy/)
 - [Change permalink settings with Wordpress host and Nginx](SetupWPwithNginx/)
 - [Create a simple Python CGI script](HelloWorldPython/)
+- [Using the MacGDBp Debugger](UsingXdebug/)
 
 
 
