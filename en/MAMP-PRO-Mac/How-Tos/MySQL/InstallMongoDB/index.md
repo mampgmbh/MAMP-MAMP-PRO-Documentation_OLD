@@ -28,7 +28,7 @@ Move your mongodb-osx-ssl-xxxx directory to `/usr/local`, resulting in `/usr/loc
 
 ---
 
-Open a terminal window to run MongoDB. Navigate to `/usr/local/mongodb-osx-ssl-xxxx/bin` directory and type the following.
+Open a terminal window to run MongoDB. Navigate to `/usr/local/mongodb-osx-ssl-xxxx/bin` directory and type the following to start your MongoDB server.
   
   {% highlight php %}
   ./mongod 
@@ -50,10 +50,9 @@ Next create a host. In a new terminal navigate to the document root of   your ne
  Type the following in your terminal and press return.
     
  {% highlight php %}
-   php composer.phar require mongodb/mongodb
+  php composer.phar require mongodb/mongodb
  {% endhighlight %}
-    
-    
+     
  Your document root should now look like the following.
     
     
