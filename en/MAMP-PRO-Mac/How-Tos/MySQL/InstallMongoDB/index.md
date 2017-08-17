@@ -24,7 +24,7 @@ Download the [MongoDB Community Edition](https://www.mongodb.com/download-center
 
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/MySQL/InstallMongoDB/mongoDBStructure.png)
 
-Move your mongodb-osx-ssl-xxxx directory to `/usr/local`, resulting in `/usr/local/mongodb-osx-ssl-xxxx`. Create a  `/data/db` to hold your MongoDB data. This is the default location for MongoDB data. Additional installation instructions can be found [here](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/){:target="_blank"}.
+Move your mongodb-osx-ssl-xxxx directory to `/usr/local`, resulting in `/usr/local/mongodb-osx-ssl-xxxx`. Create a  `/data/db` directory to hold your MongoDB data. This is the default location for MongoDB data. Additional installation instructions can be found [here](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/){:target="_blank"}.
 
 ---
 
