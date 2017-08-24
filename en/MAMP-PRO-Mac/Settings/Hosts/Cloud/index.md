@@ -61,6 +61,10 @@ Represents the size of your data stored in the cloud.
 
     Connect to an existing host already in the cloud. To link to the cloud you must use the same host name as the host in the cloud. If you cannot remember the name of the host you want to link, then check your Dropbox. The name of the host is exactly the name of the zip file in your `~/Dropbox/Apps/MAMP PRO` folder.
     
+*  **Unlink from cloud**
+
+    If your host is currently linked to the clould you will see this option to unlink your host. 
+    
 *  **Resolve name change**
 
     You may change the name of your host that is linked to the cloud. When you change the name of your linked host, the new host name must be resolved on all other linked machines.
