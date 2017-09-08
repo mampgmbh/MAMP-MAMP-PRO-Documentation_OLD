@@ -10,7 +10,7 @@ language: en
 
 MAMP PRO uses virtual hosts to allow your web servers to serve different websites. The virtual host `localhost` is created by default and cannot be deleted. You can add an unlimited number of hosts allowing you to create one host per project. Every host can have it's own directory to store html, php files, and images. This directory is called Document Root.
 
-The name of a host (server name) must be unique, often it's practical to use a reverse domain naming scheme to easily identify them (e.g. use de.appsolute.mamp instead of mamp.appsolute.de). The unreversed name may conflict with an outside domain name.
+The name of a host (server name) must be unique, often it's practical to use a reverse domain naming scheme to easily identify them (e.g. use de.appsolute.mamp instead of mamp.appsolute.de). The unreversed name may conflict with an outside domain name. To make a host both ssl and non-ssl you must create the host with the same name [twice](../../../How-Tos/General/SetUpHostHttpHttps).
 
 To create a new host press the `Plus` button at the bottom left of the screen.
 
