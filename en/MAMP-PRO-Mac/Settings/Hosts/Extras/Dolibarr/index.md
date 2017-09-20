@@ -10,7 +10,7 @@ language: en
 
 Dolibarr ERP & CRM is a modern and easy to use software package to manage your business. More information about Dolibarr can be found [here](https://www.dolibarr.org){:target="_blank"}.
 
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Dolibarr/DolibarrExtra.png)
+![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Dolibarr/dolibarrExtra.png)
 
 *  **Name of the company:**  
    Name your company.
