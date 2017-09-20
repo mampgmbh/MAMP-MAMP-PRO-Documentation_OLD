@@ -27,7 +27,8 @@ The Extras panel shows the name of the extra, how many installations are possibl
 - [ForkCMS](ForkCMS/)
 - [Bootstrap](Bootstrap/)
 - [opencart](opencart/) 
-- [SilverStripe](SilverStripe/) 
+- [SilverStripe](SilverStripe/)
+- [Dolibarr](Dolibarr/)
 
 ---
 
