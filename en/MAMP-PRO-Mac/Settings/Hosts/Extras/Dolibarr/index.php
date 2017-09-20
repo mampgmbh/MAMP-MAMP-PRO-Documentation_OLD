@@ -23,7 +23,10 @@ Dolibarr ERP & CRM is a modern and easy to use software package to manage your b
 
 *  **Database name:**  
    Set the name of your database schema which will be added to your local database.  
-   After installation you can view this database for this instance of dolibarr using phpMyAdmin, Sequel Pro, or           MySQLWorkbench. 
+   After installation you can view this database for this instance of dolibarr using phpMyAdmin, Sequel Pro, or MySQLWorkbench. 
+ 
+*  **Database prefix:**  
+   Set the name of your database prefix which will be added to your local database name.  
  
 *  **Username:**  
    Set the dolibarr superUser name.
@@ -38,4 +41,5 @@ Dolibarr ERP & CRM is a modern and easy to use software package to manage your b
    </div>
    
    ---
+
 
