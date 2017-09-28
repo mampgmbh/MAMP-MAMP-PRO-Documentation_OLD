@@ -59,4 +59,8 @@ After your Joomla extra is installed you will see two links to your site. The ![
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Joomla/joomlaInstall.png)
 
 
+---
+ 
+### Configuration
 
+Your Joomla installation is configured in the configuration.php file located in the document root of your new Extra.
