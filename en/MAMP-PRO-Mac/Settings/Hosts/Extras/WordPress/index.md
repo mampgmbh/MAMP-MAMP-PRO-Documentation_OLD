@@ -72,5 +72,5 @@ After your WordPress extra is installed you will see two links to your site. The
 
 ### Configuration
 
-Your Wordpress Extra is configured in the wp-config.php file in your document root folder. 
+Your Wordpress Extra is configured in the wp-config.php file in the document root folder. 
 
