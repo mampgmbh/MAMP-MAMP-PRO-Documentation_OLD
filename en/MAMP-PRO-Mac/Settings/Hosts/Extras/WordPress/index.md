@@ -68,5 +68,9 @@ After your WordPress extra is installed you will see two links to your site. The
 <i class="fa fa-play-circle-o fa-lg" aria-hidden="true"></i>  [Wordpress Multisite](https://www.youtube.com/watch?v=7pDvR9E94Og){:target="_blank"}
 
 
+---
 
+### Configuration
+
+Your Wordpress Extra is configured in the wp-config.php file in your document root folder. 
 
