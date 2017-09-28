@@ -63,4 +63,4 @@ After your Joomla extra is installed you will see two links to your site. The ![
  
 ### Configuration
 
-Your Joomla installation is configured in the configuration.php file located in the document root of your new Extra.
+Your Joomla Extra is configured in the configuration.php file in the document root folder. 
