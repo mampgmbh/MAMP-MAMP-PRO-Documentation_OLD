@@ -8,7 +8,7 @@ language: en
 
 ## Languages > Ruby
 
-Ruby is a dynamic, reflective, object-oriented, general-purpose programming language. 
+Ruby is a dynamic, reflective, object-oriented, general-purpose programming language. MAMP PRO installs Ruby in your `C:\MAMP\bin\ruby\bin` .
 
 ![MAMP](/en/MAMP-PRO-Windows/Languages/Ruby/Ruby.png)
 
