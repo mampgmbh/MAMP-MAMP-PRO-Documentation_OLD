@@ -1,14 +1,14 @@
 ---
-title: MAMP PRO (Mac) Documentation > Languages > Python
+title: MAMP PRO (Windows) Documentation > Languages > Python
 description: 
 layout: default-2
-product: MAMP PRO Mac
+product: MAMP PRO Windows
 language: en
 ---
 
 ## Languages > Python
 
-Python is a widely used high-level, general-purpose, interpreted, dynamic programming language. 
+Python is a widely used high-level, general-purpose, interpreted, dynamic programming language. MAMP PRO installs Python in your C:\MAMP\bin\python\bin .
 
 ![MAMP](/en/MAMP-PRO-Windows/Languages/Python/Python.png)
 
