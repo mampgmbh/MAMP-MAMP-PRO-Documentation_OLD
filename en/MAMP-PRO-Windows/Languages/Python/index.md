@@ -15,7 +15,7 @@ Python is a widely used high-level, general-purpose, interpreted, dynamic progra
 ---
 
 *  **Make Python available on the command line**  
-      Check this option to make the current Python version available on the command line. MAMP PRO uses an alias to provide this functionality. When this option is checked the following is added to your `~/.profile` file.
+      Check this option to make the current Python version available on the command line. When this checkbox is checked Python will be added to your system path. You can verify this by checking your System PATH in Advanced System Settings > Environment Variables > System Variables.
    
    
 {% highlight php %}
