@@ -20,7 +20,7 @@ Ruby is a dynamic, reflective, object-oriented, general-purpose programming lang
    
 {% highlight php %}
 
-
+ 'Path = C:\MAMP\bin\ruby\bin;'
 {% endhighlight %} 
 
 
