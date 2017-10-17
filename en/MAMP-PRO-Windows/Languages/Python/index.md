@@ -20,7 +20,7 @@ Python is a widely used high-level, general-purpose, interpreted, dynamic progra
    
 {% highlight php %}
 
-alias python='/Applications/MAMP/Library/bin/python'
+ 'Path = C:\MAMP\bin\python\bin'
 
 {% endhighlight %} 
  
