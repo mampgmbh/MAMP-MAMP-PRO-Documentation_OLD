@@ -17,7 +17,7 @@ To use MAMP PRO, your system must meet the following requirements:
 - .NET Framework 4.0
 
 <div class="alert" role="alert"> 
-Note: You can only upgrade from MAMP PRO 3.1 or later.
+Note: You can only upgrade from MAMP PRO 3.3.0 or later to MAMP PRO 4.
 </div>
 
 - [New Installation](New-Install/)  
