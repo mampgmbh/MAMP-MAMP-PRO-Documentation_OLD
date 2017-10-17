@@ -20,7 +20,7 @@ Python is a widely used high-level, general-purpose, interpreted, dynamic progra
    
 {% highlight php %}
 
- 'Path = C:\MAMP\bin\python\bin'
+ 'Path = C:\MAMP\bin\python\bin;'
 
 {% endhighlight %} 
  
