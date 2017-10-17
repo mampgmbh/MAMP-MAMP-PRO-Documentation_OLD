@@ -24,4 +24,4 @@ Note: You can only upgrade from MAMP PRO 3.1 or later.
 - [Upgrading From MAMP PRO 3.xx to MAMP PRO 4.xx](MAMP-PRO-3xx-4xx-Upgrade/)   
 - [Upgrading From MAMP To MAMP PRO](MAMP-MAMP-PRO-Upgrade/)
 - [Uninstalling MAMP PRO](Uninstall/)
-- [Updating MAMP PRO](Updates/)
+
