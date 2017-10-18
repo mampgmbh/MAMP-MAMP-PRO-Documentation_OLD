@@ -8,7 +8,7 @@ language: en
 
 ## Servers and Services > MySQL
 
-The MySQL database server is a popular database used on production servers. An installation of MySQL is installed on your computer by MAMP PRO. Your MAMP PRO MySQL database data is located in `/Library/Application Support/appsolute/MAMP PRO/db/mysql56`.
+The MySQL database server is a popular database used on production servers. An installation of MySQL is installed on your computer by MAMP PRO. Your MAMP PRO MySQL database data is located in `C:\Users\Public\Documents\Appsolute\MAMPPRO\db\`.
 
 <i class="fa fa-play-circle-o fa-lg" aria-hidden="true"></i>  [MAMP PRO MySQL Data](https://www.youtube.com/watch?v=ZRHJy2K4yzc){:target="_blank"}
 
@@ -61,15 +61,6 @@ The MySQL database server is a popular database used on production servers. An i
 
     *  **phpMyAdmin** is a web-based administrational tool. It allows you to change data and perform administrative duties
        like creating new databases.
-
-    *  **Sequel Pro** is a native Mac application. It allows you to create and visualise database schemas in addition
-       to administrative duties. More information on how to [connect to MySQL using Sequel Pro](../../How-Tos#connect_using_sequel_pro) can be found in our How To section.
-       
-       ![MAMP](../../Videos/MAMPtv.png) [Using Sequel Pro With MAMP PRO](https://www.youtube.com/watch?v=MyNIr7XUpBI){:target="_blank"}
-
-    *  **MySQLWorkbench** is also a native Mac application from the makers of MySQL. It allows you to visually create                 database schemas in addition to administrative duties.
-    
-    
 
 ---
 
