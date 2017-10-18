@@ -41,19 +41,10 @@ To add an additional host press the '+' button at the bottom left corner of the 
 *  **Start/Stop**  
    Starts the current GroupStart services of MAMP PRO. Stops all services if any GroupStart services are already running. 
    
-   ![MAMP](/en/MAMP-PRO-Mac/First-Steps/ServerServices.png)
-
 ---
 
 ### Meaning of Icons
 
-![MAMP](/en/MAMP-PRO-Mac/First-Steps/Docs.png) Change a file location, including the location of the document root, or a log file. 
-
-![MAMP](/en/MAMP-PRO-Mac/First-Steps/Mail.png) Prepare an e-mail with the Xip.io URL of a host.
-
-![MAMP](/en/MAMP-PRO-Mac/First-Steps/Rights.png) Modify the access rights of a document root folder.
-
-![MAMP](/en/MAMP-PRO-Mac/First-Steps/BlackArrow.png) Open a disk location in the Finder, or a host in the web browser.
 
 ![MAMP](/en/MAMP-PRO-Mac/First-Steps/info.png) Provide more information, including phpInfo().
 
