@@ -33,10 +33,6 @@ The MySQL database server is a popular database used on production servers. An i
 *  **Change password of user "root"**  
    The Head Database Administrator is called root. This user has unlimited access to all databases.
    Therefore you should set the password to one only you know.  
-   
-   <div class="alert" role="alert"> 
-   Note: The default password of root is "root". To make things even more confusing there is also a user root inside Mac        OS X. Don't confuse them. You can also use one of the MySQL administration tools to create other MySQL users if you do not    want to use almighty root.*
-   </div>
 
 ---
 
