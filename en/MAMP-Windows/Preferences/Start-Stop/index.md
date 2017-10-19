@@ -1,6 +1,6 @@
 ---
-title: MAMP (Mac) Documentation > Preferences > Start/Stop
-description: MAMP (Mac) Documentation > Preferences > Start/Stop
+title: MAMP (Windows) Documentation > Preferences > Start/Stop
+description: MAMP (Windows) Documentation > Preferences > Start/Stop
 layout: default-2
 product: MAMP Mac
 language: en
