@@ -1,8 +1,8 @@
 ---
-title: MAMP (Mac) Documentation > FAQ
+title: MAMP (Windows) Documentation > FAQ
 description: 
 layout: default-2
-product: MAMP Mac
+product: MAMP Windows
 language: en
 ---
 
@@ -28,13 +28,13 @@ Get the latest version of MAMP from our website [https://www.mamp.info/en/downlo
 
 ### Where can I find error log files?
 
-All log files are stored in: `c:\MAMP\logs`.
+All log files are stored in: `C:\MAMP\logs`.
 
 ---
 
 ### Which Apache modules are included?
 
-Apache modules are located in the `c:\MAMP\Library\modules` folder.
+Apache modules are located in the `C:\MAMP\Library\modules` folder.
 
 ---
 
