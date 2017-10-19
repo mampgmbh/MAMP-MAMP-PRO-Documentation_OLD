@@ -2,7 +2,7 @@
 title: MAMP (Windows) Documentation > Preferences > Start/Stop
 description: MAMP (Windows) Documentation > Preferences > Start/Stop
 layout: default-2
-product: MAMP Mac
+product: MAMP Windows
 language: en
 ---
 
