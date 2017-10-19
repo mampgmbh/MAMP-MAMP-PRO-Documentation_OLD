@@ -1,8 +1,8 @@
 ---
-title: MAMP (Mac) Documentation > Preferences > PHP
-description: MAMP (Mac) Documentation > Preferences > PHP
+title: MAMP (Windows) Documentation > Preferences > PHP
+description: MAMP (Windows) Documentation > Preferences > PHP
 layout: default-2
-product: MAMP Mac
+product: MAMP Windows
 language: en
 ---
 
