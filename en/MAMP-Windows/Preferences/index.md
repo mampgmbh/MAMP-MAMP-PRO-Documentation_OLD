@@ -1,8 +1,8 @@
 ---
-title: MAMP (Mac) Documentation > Preferences
+title: MAMP (Windows) Documentation > Preferences
 description: 
 layout: default-2
-product: MAMP Mac
+product: MAMP Windows
 language: en
 ---
 
