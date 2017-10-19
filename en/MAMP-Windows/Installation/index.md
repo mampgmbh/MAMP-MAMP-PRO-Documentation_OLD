@@ -18,16 +18,16 @@ To use the MAMP, your system must meet the following requirements:
 ### New Installation
 
 1. Download MAMP PRO from [www.mamp.info](https://www.mamp.info){:target="_blank"} .
-2. Double click on the file `setup_MAMP_MAMP_PRO_4.0.exe` in your Downloads folder.
+2. Double click on the file `setup_MAMP_MAMP_PRO_4.x.exe` in your Downloads folder.
 3. The Windows Installer will guide you through the installation process.
 
-When installing MAMP, both a  `c:\Applications\MAMP PRO` and  `c:\Applications\MAMP` folder will be installed. You can ignore the `c:\Applications\MAMP` folder if you choose not use MAMP PRO.
+When installing MAMP, both a  `C:\MAMP PRO` and  `C:\MAMP` folder will be installed. You can ignore the `C:\MAMP` folder if you choose not use MAMP PRO.
 
 ---
 
 ### Upgrade From MAMP 3
 
-You should backup your database data before upgrading from MAMP 3 to MAMP 4. Your database data is located in  `/Applications/MAMP/db`
+You should backup your database data before upgrading from MAMP 3 to MAMP 4. Your database data is located in  `C:\MAMP\db`
 
 1. Download MAMP PRO from [www.mamp.info](https://www.mamp.info){:target="_blank"} .
 2. Double click on the file `setup_MAMP_MAMP_PRO_4.0.exe` in your Downloads folder.
@@ -35,7 +35,7 @@ You should backup your database data before upgrading from MAMP 3 to MAMP 4. You
 
 ### Upgrading MySQL Data
 
-MAMP 4 uses MySQL 5.6 and MySQL 5.6 formatted data. You must have at least installed MAMP 3.3 in order to install MAMP 4.0. 
+MAMP 4 uses MySQL 5.6. You must first install MAMP 3.3 or greater in order to install MAMP 4. 
 
 ---
 
