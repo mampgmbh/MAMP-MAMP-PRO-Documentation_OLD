@@ -1,6 +1,6 @@
 ---
-title: MAMP (Mac) Documentation > Preferences > Ports
-description: MAMP (Mac) Documentation > Preferences > Ports
+title: MAMP (Windows) Documentation > Preferences > Ports
+description: MAMP (Windows) Documentation > Preferences > Ports
 layout: default-2
 product: MAMP Mac
 language: en
