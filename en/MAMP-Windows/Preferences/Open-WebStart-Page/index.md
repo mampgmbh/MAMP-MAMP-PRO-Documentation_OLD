@@ -1,8 +1,8 @@
 ---
-title: MAMP (Mac) Documentation > Preferences > Open WebStart Page
+title: MAMP (Windows) Documentation > Preferences > Open WebStart Page
 description: The default MAMP start page provides links to access utilities such as phpMyAdmin, phpInfo, SQLite Manager, phpLiteAdmin, FAQ, MyFavoriteLink and the MAMP Website.
 layout: default-2
-product: MAMP Mac
+product: MAMP Windows
 language: en
 ---
 
