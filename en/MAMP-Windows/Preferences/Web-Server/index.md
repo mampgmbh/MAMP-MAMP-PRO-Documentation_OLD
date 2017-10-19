@@ -1,8 +1,8 @@
 ---
-title: MAMP (Mac) Documentation > Preferences > Web Server
-description: MAMP (Mac) Documentation > Preferences > Web Server
+title: MAMP (Windows) Documentation > Preferences > Web Server
+description: MAMP (Windows) Documentation > Preferences > Web Server
 layout: default-2
-product: MAMP Mac
+product: MAMP Windows
 language: en
 ---
 
@@ -15,4 +15,4 @@ language: en
 
 *   **Document Root** 
    Click on to select where your html/PHP files and images are stored. This directory is called the document root.
-   The default document root in MAMP is: `c:\MAMP\htdocs`.
+   The default document root in MAMP is: `C:\MAMP\htdocs`.
