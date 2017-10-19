@@ -1,8 +1,8 @@
 ---
-title: MAMP (Mac) Documentation > Preferences > MySQL
+title: MAMP (Windows) Documentation > Preferences > MySQL
 description: The MySQL database server is a popular database used on production servers. MAMP comes installed with MySQL.
 layout: default-2
-product: MAMP Mac
+product: MAMP Windows
 language: en
 ---
 
