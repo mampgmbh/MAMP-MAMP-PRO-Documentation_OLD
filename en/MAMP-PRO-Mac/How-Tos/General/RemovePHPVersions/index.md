@@ -11,9 +11,11 @@ language: en
 You may want to remove some versions of PHP that you do not need.
 
 1. Stop your servers and quit MAMP PRO.
-2. Delete your `/Applications/MAMP/bin/php/php5.45` (to remove PHP 5.45).
+2. Delete your `/Applications/MAMP/bin/php/php5.45` (to remove PHP 5.45) directory.
 3. Start MAMP PRO, start your servers.
 
 You should now (not) see your PHP version you removed.
+
+
 
 
