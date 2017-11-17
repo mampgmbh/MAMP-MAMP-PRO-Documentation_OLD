@@ -16,7 +16,7 @@ You may want to remove some versions of PHP that you do not need.
 
 You should now (not) see your PHP version you removed.
 
-![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/RemovePHP.png) 
+![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/RemovePHPVersions/RemovePHP.png) 
 
 
 
