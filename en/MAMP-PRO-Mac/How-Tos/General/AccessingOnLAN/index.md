@@ -10,7 +10,7 @@ language: en
 
 You can access your MAMP PRO hosts on a LAN using mobile devices or other Macs.
 
-## Only Local Host
+#### Only Local Host
 
 If you only have a localhost, and no additional hosts, then accessing your host from a different Mac or mobile device can be done by entering the internal ip of your Mac. 
 
@@ -28,9 +28,9 @@ To find your local ip go to System Preferences > Network. You local ip address i
 
 ---
 
-## Multiple Hosts
+#### Multiple Hosts
 
-## MAMP Viewer
+#### MAMP Viewer
 
-## Using Ports
+#### Using Ports
 
