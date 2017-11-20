@@ -20,7 +20,7 @@ Type in the local ip of Mac with your MAMP PRO installed and running to access y
 
 Note: You need to include the port Apache is running on. If you run Apache on the default port 80, then you do not need to type in a port number.
 
-![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/AccessingOnLAN/index.png)
+![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/AccessingOnLAN/host.png)
 
 To find your local ip go to System Preferences > Network. You local ip address is shown under "Status". 
 
