@@ -30,15 +30,17 @@ Note: Depending on your router settings, your local ip address may change period
 
 ---
 
-#### Multiple Hosts and localhost
+#### Multiple Hosts
 
-When adding multiple hosts you need to comment out the following two lines in your Apache template file, in order to access your localhost, and other hosts from other Macs and mobile devices.
+When adding multiple hosts you need to comment out the following two lines in your Apache template file, in order to access your localhost and other hosts, from other Macs and mobile devices. 
 
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/AccessingOnLAN/template.png)
 
-
+You can reach your Apache template file via the MAMP PRO menu, File > Edit Template > Apache > httpd.conf
 
 #### MAMP Viewer
+
+
 
 #### Using Ports
 
