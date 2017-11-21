@@ -10,6 +10,10 @@ language: en
 
 You can access your MAMP PRO hosts on a LAN using mobile devices or other Macs.
 
+<div class="alert" role="alert">
+Note: You may have to additionally configure your router and Mac Preferences in order to access hosts across your network. We do not provide support for this.
+</div>
+
 ---
 
 #### Only localhost
