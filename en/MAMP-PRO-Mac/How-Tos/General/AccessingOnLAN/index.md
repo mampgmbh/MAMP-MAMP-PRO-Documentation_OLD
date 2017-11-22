@@ -1,17 +1,17 @@
 ---
-title: MAMP PRO (Mac) Documentation > How Tos > General > Accessing sites on a LAN
+title: MAMP PRO (Mac) Documentation > How Tos > General > Accessing localhost on a LAN
 description: 
 layout: default-2
 product: MAMP PRO Mac
 language: en
 ---
 
-### Accessing your MAMP PRO Hosts On A LAN
+### Accessing your MAMP PRO localhost On A LAN
 
-You can access your MAMP PRO hosts on a LAN using mobile devices or other Macs.
+You can access your MAMP PRO localhost on a LAN using mobile devices or other Macs.
 
 <div class="alert" role="alert">
-Note: You may have to additionally configure your router and Mac Preferences in order to access hosts across your network. We do not provide support for this.
+Note: You may have to additionally configure your router and Mac Preferences in order to access your localhost across your network. We do not provide support for this.
 </div>
 
 ---
@@ -30,7 +30,7 @@ Note: You need to include the port Apache is running on. If you run Apache on th
 
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/AccessingOnLAN/host.png)
 
-To find your local ip go to System Preferences > Network. You local ip address is shown under "Status". 
+To find your local ip go to System Preferences > Network. Your local ip address is shown under "Status". 
 
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/AccessingOnLAN/ip.png)
 
@@ -42,7 +42,7 @@ Note: Depending on your router settings, your local ip address may change period
 
 #### Multiple Hosts
 
-When adding multiple hosts you need to comment out the following two lines in your Apache template file, in order to access your localhost and other hosts, from other Macs and mobile devices. 
+When adding multiple hosts you need to comment out the following two lines in your Apache template file, in order to access your localhost, from other Macs and mobile devices. 
 
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/AccessingOnLAN/template.png)
 
@@ -52,7 +52,7 @@ You can reach your Apache template file via the MAMP PRO menu, File > Edit Templ
 
 #### From A Mobile Device
 
-You can reach hosts via a local ip using your mobile browser.
+You can reach your localhost via a local ip using your mobile browser.
 
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/AccessingOnLAN/mobile.png)
 
