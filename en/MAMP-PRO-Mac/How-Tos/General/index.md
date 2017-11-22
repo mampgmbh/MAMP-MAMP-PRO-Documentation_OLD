@@ -24,7 +24,7 @@ language: en
 - [Change permalink settings with Wordpress host and Nginx](SetupWPwithNginx/)
 - [Create a simple Python CGI script](HelloWorldPython/)
 - [Using the MacGDBp Debugger](UseXdebug/)
-- [Accessing Hosts over A LAN](AccessingOnLAN/)
+- [Accessing your localhost over A LAN](AccessingOnLAN/)
 
 
 
