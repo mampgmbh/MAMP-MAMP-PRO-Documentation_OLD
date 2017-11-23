@@ -10,4 +10,5 @@ language: en
 
 - [General](General/)  
 - [MySQL and Databases](MySQL/)  
+- [Wordpress](Wordpress/)  
 
