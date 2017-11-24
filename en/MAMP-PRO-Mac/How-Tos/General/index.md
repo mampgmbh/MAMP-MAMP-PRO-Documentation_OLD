@@ -25,6 +25,7 @@ language: en
 - [Create a simple Python CGI script](HelloWorldPython/)
 - [Using the MacGDBp Debugger](UseXdebug/)
 - [Accessing your localhost over A LAN](AccessingOnLAN/)
+- [Accessing other Hosts over A LAN](AccessingOnLANOtherHostsPorts/)
 
 
 
