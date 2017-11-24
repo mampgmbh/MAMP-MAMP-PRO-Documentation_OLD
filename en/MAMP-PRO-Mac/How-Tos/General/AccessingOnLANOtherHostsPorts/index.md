@@ -16,7 +16,7 @@ Note: You may have to additionally configure your router and Mac Preferences in 
 
 ---
 
-You need to first set up your host that will be accessed from another mobile device or Mac on your LAN. This host must have the ip address set, and port set to a port other than the default Apache port you are using. In the following example, the port used for 'MySecondHost' is 8000. The Apache port used is 8000.
+You first need to set up your host that will be accessed from another mobile device or Mac on your LAN. This host must have the ip address and port set to a port other than the default Apache port you are using in MAMP PRO. In the following example, the port used for 'MySecondHost' is 8000. The Apache port used is 8888.
 
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/AccessingOnLANOtherHostsPorts/MySecondHost.png)
 
