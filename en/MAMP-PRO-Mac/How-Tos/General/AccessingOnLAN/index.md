@@ -65,5 +65,11 @@ You can reach your localhost via a local ip using your mobile browser.
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/AccessingOnLAN/mobile.png)
 
 
+---
 
+#### Accessing localhost using a Local Hostname
+
+To access your localhost on another Mac on your LAN, you need to type in it's Local Hostname. To find out the Local Hostname of this Mac, go to System Preferences > Sharing > Edit .
+
+![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/AccessingOnLAN/LocalHostName.png)
 
