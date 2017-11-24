@@ -34,6 +34,10 @@ To find your local ip go to System Preferences > Network. Your local ip address 
 
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/AccessingOnLAN/ip.png)
 
+<div class="alert" role="alert">
+Note: Your local ip address may change periodically, depending on your router settings. 
+</div>
+
 ---
 
 #### Multiple Hosts
