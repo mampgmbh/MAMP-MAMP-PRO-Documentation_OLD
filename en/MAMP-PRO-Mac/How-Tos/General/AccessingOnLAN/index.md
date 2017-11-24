@@ -60,11 +60,11 @@ You can reach your localhost via a local ip using your mobile browser.
 
 ### Accessing localhost using a Local Hostname
 
-To access your localhost on another Mac on your LAN, you need to type in it's Local Hostname. To find out the Local Hostname of this Mac, go to System Preferences > Sharing > Edit .
+You can use a Mac's Local Hostname to access your localhost on another Mac on your LAN,  To find out the Local Hostname of this Mac, go to System Preferences > Sharing > Edit.
 
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/AccessingOnLAN/LocalHostName.png)
 
-To access your localhost from a different Mac on your LAN. Input :8888 as a suffix in your url bar.
+To access your localhost from a different Mac on your LAN. Input :8888 (assuming your are using Apache port 8888) as a suffix in your url bar.
 
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/AccessingOnLAN/LocalHostPage.png)
 
