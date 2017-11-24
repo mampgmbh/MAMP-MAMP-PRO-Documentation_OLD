@@ -73,3 +73,7 @@ To access your localhost on another Mac on your LAN, you need to type in it's Lo
 
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/AccessingOnLAN/LocalHostName.png)
 
+To access your localhost from a different Mac on your LAN. Input :8888 as a suffix in your url bar.
+
+![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/AccessingOnLAN/LocalHostPage.png)
+
