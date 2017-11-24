@@ -6,7 +6,7 @@ product: MAMP PRO Mac
 language: en
 ---
 
-## Accessing your MAMP PRO localhost on a LAN - local ip address or Local Hostname
+### Accessing your MAMP PRO localhost on a LAN - local ip address or Local Hostname
 
 You can access your MAMP PRO localhost on a LAN using mobile devices or other Macs.
 
@@ -16,7 +16,7 @@ Note: You may have to additionally configure your router and Mac Preferences in 
 
 ---
 
-### local ip with only localhost
+### Local ip with only localhost
 
 If you only have a localhost, and no additional hosts, then accessing your host from a different Mac or mobile device can be done by entering the internal ip of your Mac. 
 
@@ -36,18 +36,6 @@ To find your local ip go to System Preferences > Network. Your local ip address 
 
 ---
 
-#### Local Hostname
-
-You can access your localhost from a different Mac or mobile device on your LAN using a Local Hostname.
-
-
-
-<div class="alert" role="alert">
-Note: Depending on your router settings, your local ip address may change periodically.
-</div>
-
----
-
 #### Multiple Hosts
 
 When adding multiple hosts you need to comment out the following two lines in your Apache template file, in order to access your localhost, from other Macs and mobile devices. 
@@ -63,7 +51,6 @@ You can reach your Apache template file via the MAMP PRO menu, File > Edit Templ
 You can reach your localhost via a local ip using your mobile browser.
 
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/AccessingOnLAN/mobile.png)
-
 
 ---
 
