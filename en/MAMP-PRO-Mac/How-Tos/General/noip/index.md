@@ -24,7 +24,7 @@ Note: We cannot provide support for setting up your dynamic dns with MAMP PRO.
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/noip/hostName.png)
 
 4. Set up port forwarding. If the server is connected to the Internet via a router, then a so-called port 
-forwarding (http://en.wikipedia.org/wiki/Port_forwarding) must be set on this router. Other terms may be used for this such as "port sharing".
+forwarding [http://en.wikipedia.org/wiki/Port_forwarding](http://en.wikipedia.org/wiki/Port_forwarding){:target="_blank"} must be set on this router. Other terms may be used for this such as "port sharing".
 
 Unfortunately, there is no universal protocol or method to set port forwarding. Terminology and methods differ from router to router. The following sets the forwarded port to 8888 on a speedport router.
 
