@@ -20,7 +20,7 @@ In the web browser, the host must appear.
 2. Create an account on noip.com here https://www.noip.com.
 3. Create a hostname in the noip.com. In this example the a host called 'testhostforclients.ddns.net' has been created.
 
-![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/hostName.png)
+![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/noip/hostName.png)
 
 4. Setup port forwarding. If the server is connected to the Internet via a router, then a so-called port 
 forwarding (http://en.wikipedia.org/wiki/Port_forwarding) must be set on this router. Other terms may be used for this such as "port sharing".
@@ -28,11 +28,11 @@ forwarding (http://en.wikipedia.org/wiki/Port_forwarding) must be set on this ro
 Unfortunately, there is no universal protocol or method to set port forwarding. 
 Terminology and methods differ from router to router. The following sets the forwarded port to 8888 on a speedport router.
 
-![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/portForwarding.png)
+![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/noip/portForwarding.png)
 
 5. Start your servers in MAMP PRO, including your DNS service with the correct username and password provided.
 
-![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/portForwarding.png)
+![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/noip/dynDNS.png)
 
 You should now be able to view your website from the internet. To confirm that your site is working properly, turn off Wifi on your mobile device, and then try accessing your site using your mobile data.
 
