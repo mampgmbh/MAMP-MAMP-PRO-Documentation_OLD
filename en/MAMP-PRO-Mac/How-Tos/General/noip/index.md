@@ -14,23 +14,22 @@ You can set up dynamic dns with a free or paid account using noip.com. Your site
 Note: We cannot provide support for setting up your dynamic dns with MAMP PRO.
 </div>
 
-1. In MAMP PRO, the host must (as an example we take 'testhostforclients.ddns.net') that will later be accessible from the Internet, be functioning properly. Check this by clicking in the host configuration on the right arrow next to the field "Name" on the Hosts tab. In the web browser, the host must appear.
+In MAMP PRO, the host must (as an example we take 'testhostforclients.ddns.net') that will later be accessible from the Internet, be functioning properly. Check this by clicking in the host configuration on the right arrow next to the field "Name" on the Hosts tab. In the web browser, the host must appear.
 
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/noip/hostsMAMPPRO.png)
 
-2. Create an account on [www.noip.com](https://noip.com){:target="_blank"}.
-3. Create a hostname in noip.com. This host name must be identical to the one you created in MAMP PRO. In this example the host name is 'testhostforclients.ddns.net'.
+Create an account on [www.noip.com](https://noip.com){:target="_blank"}.
+
+Create a hostname in noip.com. This host name must be identical to the one you created in MAMP PRO. In this example the host name is 'testhostforclients.ddns.net'.
 
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/noip/hostName.png)
 
-4. Set up port forwarding. If the server is connected to the Internet via a router, then a so-called port 
-forwarding [http://en.wikipedia.org/wiki/Port_forwarding](http://en.wikipedia.org/wiki/Port_forwarding){:target="_blank"} must be set on this router. Other terms may be used for this such as "port sharing".
-
-Unfortunately, there is no universal protocol or method to set port forwarding. Terminology and methods differ from router to router. The following sets the forwarded port to 8888 on a speedport router.
+Set up port forwarding. If the server is connected to the Internet via a router, then a so-called port 
+forwarding [http://en.wikipedia.org/wiki/Port_forwarding](http://en.wikipedia.org/wiki/Port_forwarding){:target="_blank"} must be set on this router. Other terms may be used for this such as "port sharing". Unfortunately, there is no universal protocol or method to set port forwarding. Terminology and methods differ from router to router. The following sets the forwarded port to 8888 on a speedport router.
 
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/noip/portForwarding.png)
 
-5. Start your servers in MAMP PRO, including your DNS service with the correct username and password provided.
+Start your servers in MAMP PRO, including your DNS service with the correct username and password provided.
 
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/noip/dynDNS.png)
 
