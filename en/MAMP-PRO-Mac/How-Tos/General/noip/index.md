@@ -40,3 +40,6 @@ Terminology and methods differ from router to router. The following sets the for
 
 You should now be able to view your website from the internet. To test if your site is working properly, turn off Wifi on your mobile device, and try accessing your site. 
 
+![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/buildResult.png) 
+4. A mongodb.so extension should now be in your `/Applications/MAMP/bin/php/php7.0.15/lib/php/extension/no-debug-non-zts` folder.
+
