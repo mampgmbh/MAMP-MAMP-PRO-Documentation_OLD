@@ -26,7 +26,7 @@ language: en
 - [Using the MacGDBp Debugger](UseXdebug/)
 - [Accessing your localhost over A LAN](AccessingOnLAN/)
 - [Accessing other Hosts over A LAN](AccessingOnLANOtherHostsPorts/)
-- [Dynamic DNS with noip.com](Noip/)
+- [Dynamic DNS with noip.com](noip/)
 
 
 
