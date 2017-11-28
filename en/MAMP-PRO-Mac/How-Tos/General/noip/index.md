@@ -12,13 +12,15 @@ You can set up dynamic dns with a free or paid account using noip.com. Your site
 Note: We cannot provide support for setting up your dynamic dns with MAMP PRO.
 </div>
 
-1. In MAMP PRO, the host must (as an example we take 'testhostforclients') that will later be
+1. In MAMP PRO, the host must (as an example we take 'testhostforclients.ddns.net') that will later be
 accessible from the Internet, functioning properly. Check this by clicking in the host 
 configuration on the right arrow next to the field "Name" on the Hosts tab. 
 In the web browser, the host must appear.
 
+![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/noip/hostsMAMPPRO.png)
+
 2. Create an account on noip.com here https://www.noip.com.
-3. Create a hostname in the noip.com. In this example the a host called 'testhostforclients.ddns.net' has been created.
+3. Create a the identical hostname in noip.com that you created in MAMP PRO. In this example the a host called 'testhostforclients.ddns.net'.
 
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/noip/hostName.png)
 
