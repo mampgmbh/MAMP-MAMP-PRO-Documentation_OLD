@@ -18,7 +18,7 @@ Note: We cannot provide support for setting up your dynamic dns with MAMP PRO.
 
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/noip/hostsMAMPPRO.png)
 
-2. Create an account on noip.com here https://www.noip.com.
+2. Create an account on [www.noip.com](https://noip.com){:target="_blank"}.
 3. Create a hostname in noip.com. This host name must be identical to the one you created in MAMP PRO. In this example the host name is 'testhostforclients.ddns.net'.
 
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/noip/hostName.png)
