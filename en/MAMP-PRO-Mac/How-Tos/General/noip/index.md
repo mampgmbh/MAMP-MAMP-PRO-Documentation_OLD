@@ -18,9 +18,7 @@ In MAMP PRO, the host must (as an example we take 'testhostforclients.ddns.net')
 
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/noip/hostsMAMPPRO.png)
 
-Create an account on [www.noip.com](https://noip.com){:target="_blank"}.
-
-Create a hostname in noip.com. This host name must be identical to the one you created in MAMP PRO. In this example the host name is 'testhostforclients.ddns.net'.
+Create an account on [www.noip.com](https://noip.com){:target="_blank"}. After you have successfully created an acount you can create a hostname. This host name must be identical to the one you created in MAMP PRO. In this example the host name is 'testhostforclients.ddns.net'.
 
 ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/noip/hostName.png)
 
