@@ -1,8 +1,8 @@
 ---
-title: MAMP PRO (Mac) Documentation > Installing And Upgrading
-description: MAMP PRO (Mac) Documentation > Installing And Upgrading
+title: MAMP PRO (Windows) Documentation > Installing And Upgrading
+description: MAMP PRO (Windows) Documentation > Installing And Upgrading
 layout: default-2
-product: MAMP PRO Mac
+product: MAMP PRO Windows
 language: en
 ---
 
