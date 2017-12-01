@@ -1,8 +1,8 @@
 ---
-title: MAMP PRO (Mac) Documentation > Settings > Hosts > Extras > Wordpress
+title: MAMP PRO (Windows) Documentation > Settings > Hosts > Extras > Wordpress
 description: 
 layout: default-2
-product: MAMP PRO Mac
+product: MAMP PRO Windows
 language: en
 ---
 
