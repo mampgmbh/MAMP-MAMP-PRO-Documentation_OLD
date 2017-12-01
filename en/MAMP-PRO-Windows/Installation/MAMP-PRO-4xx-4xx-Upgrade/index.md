@@ -8,8 +8,8 @@ language: en
 
 ## Upgrading from version 4.xx to version 4.xx
 
-1. Download MAMP PRO from [www.mamp.info](https://www.mamp.info){:target="_blank"}.
-2. Double click on the `setup_MAMP_MAMP_PRO_4.xx.pkg` file in your `Downloads` folder to start the installation process.
+1. Download MAMP PRO from [www.mamp.info/downloads](https://www.mamp.info){:target="_blank"}.
+2. Double click on the `setup_MAMP_MAMP_PRO_4.xx.setup` file in your `Downloads` folder to start the installation process.
 3. The installer will rename your existing `/Applications/MAMP` folder to `/Applications/MAMP_current_date`.
 4. Your existing `htdocs` folder will be moved to your new `/Applications/MAMP` folder.
 5. If there has been a change to the configuration of Apache, PHP, or MySQL (A directive was modified or a new one added)    between versions of MAMP PRO and you have already made changes to your current configuration (resulting in the creation of a template file in ~/Library/application support/appsolute/MAMP PRO/templates ), MAMP PRO will ask you to save off your old templates when you upgrade.
