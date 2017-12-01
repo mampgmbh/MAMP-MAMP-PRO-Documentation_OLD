@@ -1,8 +1,8 @@
 ---
-title: MAMP PRO (Mac) Documentation > Settings > Hosts > SSL
+title: MAMP PRO (Windows) Documentation > Settings > Hosts > SSL
 description: 
 layout: default-2
-product: MAMP PRO Mac
+product: MAMP PRO Windows
 language: en
 ---
 
