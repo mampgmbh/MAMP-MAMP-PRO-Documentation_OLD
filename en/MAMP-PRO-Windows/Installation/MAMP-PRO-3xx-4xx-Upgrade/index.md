@@ -24,7 +24,7 @@ Note: You can only upgrade from MAMP PRO 3.3.0 or later to MAMP PRO 4.
 
 Your existing `C:\Users\Public\Documents\Appsolute\MAMPPRO\db\` folder will be preserved by default. You can delete your database data to make a completely clean install of MAMP PRO 4. This action is not reverseable.
 
-![MAMP](/en/MAMP-PRO-Windows/Installation/New-Install/InstallDeleteDatabases.jpg)
+![MAMP](/en/MAMP-PRO-Windows/Installation/MAMP-PRO-3xx-4xx-Upgrade/InstallDeleteDatabases.jpg)
 
 ---
 
