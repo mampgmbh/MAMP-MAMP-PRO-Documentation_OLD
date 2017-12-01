@@ -1,8 +1,8 @@
 ---
-title: MAMP PRO (Mac) Documentation > Settings > Hosts
+title: MAMP PRO (Windows) Documentation > Settings > Hosts
 description: 
 layout: default-2
-product: MAMP PRO Mac
+product: MAMP PRO Windows
 language: en
 ---
 
