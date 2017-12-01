@@ -13,4 +13,9 @@ language: en
 3. The Windows Installer will guide you through the installation process.
 
 
+By default, Apple Bonjour will be installed when you install MAMP PRO. You will not have access to your hosts from the MAMP Viewer if you choose not to install Apple Bonjour.
+
+
+
+
 
