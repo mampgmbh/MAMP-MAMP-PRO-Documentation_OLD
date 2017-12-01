@@ -106,8 +106,8 @@ To create a new host press the `Plus` button at the bottom left of the hosts tab
 *  **Name resolution**  
    This will determine how your system will map host names to ip addresses.
 
-    *  **via /etc/host file (this Mac only)**  
-       The basic mapping mechanism which uses the the file `/etc/hosts`.
+    *  **via hosts file **  
+       The basic mapping mechanism which uses the the file `C:\Windows\System32\drivers\etc\hosts`.
        
     *  **for "MAMP Viewer" (LAN only)**  
          Enable your host to be viewed on the MAMP Viewer.
