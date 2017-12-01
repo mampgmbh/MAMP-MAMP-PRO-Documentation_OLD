@@ -14,13 +14,20 @@ language: en
 
 ---
 
-By default, MAMP/MAMP PRO will be installed in your  `C:\MAMP` and  `C:\MAMP PRO` folders.
+#### Install Location
 
-![MAMP](/en/MAMP-PRO-Windows/Installation/New-Install/InstallBonjour.jpg)
+By default, MAMP/MAMP PRO will be installed in your  `C:\MAMP` and  `C:\MAMP PRO` folders. 
+
+![MAMP](/en/MAMP-PRO-Windows/Installation/New-Install/InstallLocation.jpg)
+
+---
+
+#### Apple Bonjour
 
 By default, Apple Bonjour will be installed when you install MAMP PRO. You will not have access to your hosts from the MAMP Viewer if you choose not to install Apple Bonjour.
 
-![MAMP](/en/MAMP-PRO-Windows/Installation/New-Install/InstallLocation.jpg)
+![MAMP](/en/MAMP-PRO-Windows/Installation/New-Install/InstallBonjour.jpg)
+
 
 
 
