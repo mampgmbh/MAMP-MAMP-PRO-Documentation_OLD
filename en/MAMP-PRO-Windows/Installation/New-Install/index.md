@@ -14,7 +14,7 @@ language: en
 
 ---
 
-By default, MAMP/MAMP PRO will be installed in your C:\MAMP and C:\MAMP PRO folders.
+By default, MAMP/MAMP PRO will be installed in your  `C:\MAMP` and  `C:\MAMP PRO` folders.
 
 ![MAMP](/en/MAMP-PRO-Windows/Installation/New-Install/InstallBonjour.jpg)
 
