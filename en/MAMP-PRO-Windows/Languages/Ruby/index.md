@@ -1,8 +1,8 @@
 ---
-title: MAMP PRO (Mac) Documentation > Languages > Ruby
+title: MAMP PRO (Windows) Documentation > Languages > Ruby
 description: 
 layout: default-2
-product: MAMP PRO Mac
+product: MAMP PRO Windows
 language: en
 ---
 
