@@ -1,8 +1,8 @@
 ---
-title: MAMP PRO (Mac) Documentation > Upgrading From MAMP To MAMP PRO
+title: MAMP PRO (Windows) Documentation > Upgrading From MAMP To MAMP PRO
 description: 
 layout: default-2
-product: MAMP PRO Mac
+product: MAMP PRO Windows
 language: en
 ---
 
