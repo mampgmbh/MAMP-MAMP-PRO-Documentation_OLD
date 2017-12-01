@@ -1,8 +1,8 @@
 ---
-title: MAMP PRO (Mac) Documentation > Upgrading from version 4.xx to version 4.xx
+title: MAMP PRO (Windows) Documentation > Upgrading from version 4.xx to version 4.xx
 description: 
 layout: default-2
-product: MAMP PRO Mac
+product: MAMP PRO Windows
 language: en
 ---
 
@@ -10,7 +10,7 @@ language: en
 
 1. Download MAMP PRO from [www.mamp.info/downloads](https://www.mamp.info){:target="_blank"}.
 2. Double click on the `setup_MAMP_MAMP_PRO_4.xx.setup` file in your `Downloads` folder to start the installation process.
-3. When upgrading MAMP PRO 4 your existing `C:\MAMP\htdocs\` folder will be preserved. Your existing `C:\MAMP\db\mysql\` folder will be preserved (used by MAMP Free). Your existing `C:\Users\Public\Documents\Appsolute\MAMPPRO\db\` folder will be preserved by default(used by MAMP PRO).
+3. When upgrading MAMP PRO 4 your existing `C:\MAMP\htdocs\` folder will be preserved. Your existing `C:\Users\Public\Documents\Appsolute\MAMPPRO\db\` folder will be preserved by default(used by MAMP PRO).
 4. If there has been a change to the configuration of Apache, PHP, or MySQL (A directive was modified or a new one added)    between versions of MAMP PRO and you have already made changes to your current configuration (resulting in the creation of a template file in `~/Library/application support/appsolute/MAMP PRO/templates`), MAMP PRO will ask you to save off your old templates when you upgrade.
 
 ![MAMP](/en/MAMP-PRO-Mac/Installation/MAMP-PRO-4xx-4xx-Upgrade/Templates.png)
