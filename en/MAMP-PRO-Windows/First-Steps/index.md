@@ -1,8 +1,8 @@
 ---
-title: MAMP PRO (Mac) Documentation > First Steps
+title: MAMP PRO (Windows) Documentation > First Steps
 description: 
 layout: default-2
-product: MAMP PRO Mac
+product: MAMP PRO Windows
 language: en
 ---
 
