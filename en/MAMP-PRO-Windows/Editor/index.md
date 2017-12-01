@@ -1,8 +1,8 @@
 ---
-title: MAMP PRO (Mac) Documentation > Editor
-description: 
+title: MAMP PRO (Windows) Documentation > Editor
+description: mac
 layout: default-2
-product: MAMP PRO Mac
+product: MAMP PRO Windows
 language: en
 ---
 
