@@ -10,10 +10,12 @@ language: en
 
 When upgrading to MAMP PRO 4 your existing `C:\MAMP\htdocs\` folder will be preserved if you are installing over a previous installation. Your existing `C:\MAMP\db\mysql\` folder will be preserved if you are installing over a previous installation (used by MAMP). Your existing `C:\Users\Public\Documents\Appsolute\MAMPPRO\db\` folder will be preserved by default, if you are installing over a previous installation (used by MAMP PRO).
 
+<div class="alert" role="alert"> 
+Note: You can only upgrade from MAMP PRO 3.3.0 or later to MAMP PRO 4.
+</div>
 
-
-1. Download MAMP PRO from [www.mamp.info](https://www.mamp.info){:target="_blank"} .
+1. Download MAMP PRO from [www.mamp.info/downloads](https://www.mamp.info){:target="_blank"} .
 2. Double click on the MAMP_MAMP_PRO_4.X.X.setup file in your Downloads folder.
 3. The System Installer will guide you through the installation process.
 
----
+
