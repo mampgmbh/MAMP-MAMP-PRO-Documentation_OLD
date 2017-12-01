@@ -1,8 +1,8 @@
 ---
-title: MAMP PRO (Mac) Documentation > In-App Updates
+title: MAMP PRO (Windows) Documentation > In-App Updates
 description: 
 layout: default-2
-product: MAMP PRO Mac
+product: MAMP PRO Windows
 language: en
 ---
 
