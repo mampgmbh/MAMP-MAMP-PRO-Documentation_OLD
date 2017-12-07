@@ -30,7 +30,7 @@ After you have purchased MAMP PRO you can register it.
 
 ### Sign In
 
-After you have purchased Cloud Functions for MAMP you can sign in. Press the Cloud button on the MAMP User Interface to sign in.
+After you have purchased Cloud Functions for MAMP you can sign in. Press the Cloud button and then "Sign In' on the MAMP User Interface to sign in.
 
 ![MAMP](/en/MAMP-Mac/Cloud/CloudTurnOn.png)
 
