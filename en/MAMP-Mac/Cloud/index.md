@@ -8,19 +8,25 @@ language: en
 
 ## Cloud Funtions
 
-Your localhost can be saved to and loaded from the cloud. MAMP PRO will save both your localhost document root folder and database data. Your host and databse data will be saved in a single zip file in your Dropbox. It is not necessary to install Dropbox software to use this feature, you only need a login to your Dropbox account through the MAMP interface.
-
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/cloud.png)
-
+Your localhost can be saved to and loaded from the cloud. MAMP PRO will save both your localhost document root folder and database data. Your host and database data will be saved in a single zip file in your Dropbox. It is not necessary to install Dropbox software to use this feature, you only need a login to your Dropbox account through the MAMP interface.
 
 ### Purchase and Register
 
-Press on the "Cloud" icon on the MAMP interface to start the purchase process for cloud functions.
+Press on the "Cloud" icon on the MAMP interface to begin the purchase process for cloud functions.
 
 ![MAMP](/en/MAMP-Mac/Cloud/CloudRegister.png)
 
+Press the 'Buy Cloud Functions' to purchase the Cloud Functions option for MAMP. You will be guided through the purchase process. 
+
+![MAMP](/en/MAMP-Mac/Cloud/CloudPurchase.png)
+
+After you have purchased MAMP PRO you can register it.
+
+![MAMP](/en/MAMP-Mac/Cloud/CloudRegister.png)
 
 ### Sign In
+
+
 
 ### Store and Load
 
