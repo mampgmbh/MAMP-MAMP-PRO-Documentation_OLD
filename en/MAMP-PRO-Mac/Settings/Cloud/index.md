@@ -6,7 +6,7 @@ product: MAMP PRO Mac
 language: en
 ---
 
-## Settings > Cloud (Available in MAMP PRO 4.2 or later)
+## Settings > Cloud
 
 Store and load your host and database data using a cloud provider. Currently Dropbox is available for this option. It is not necessary to install Dropbox software to use this feature, you only need a Dropbox account. After you log into Dropbox and choose your settings you can save and load your hosts using the functionality in the hosts table. More information on your host cloud functions can be found [here](../Hosts/Cloud). 
 
