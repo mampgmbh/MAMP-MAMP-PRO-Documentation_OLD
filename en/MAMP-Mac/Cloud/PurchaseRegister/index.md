@@ -24,7 +24,7 @@ After you have purchased MAMP PRO you can register it.
 
 ### Sign In
 
-After you have purchased Cloud Functions for MAMP you can sign in. Press the Cloud button and then "Turn On' on the MAMP User Interface to sign in.
+After you have registered Cloud Functions for MAMP you can sign in. Press the Cloud button and then "Turn On' on the MAMP User Interface to sign in.
 
 ![MAMP](/en/MAMP-Mac/Cloud/CloudTurnOn.png)
 
@@ -32,7 +32,5 @@ Sign into your Dropbox account.
 
 ![MAMP](/en/MAMP-Mac/Cloud/CloudSignIn.png)
 
-You can now store and load MAMP host and database data on the cloud.
 
----
 
