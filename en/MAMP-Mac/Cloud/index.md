@@ -30,13 +30,15 @@ After you have purchased MAMP PRO you can register it.
 
 ### Sign In
 
-After you have purchased Cloud Functions for MAMP you can sign in. Press the Cloud button and then "Sign In' on the MAMP User Interface to sign in.
+After you have purchased Cloud Functions for MAMP you can sign in. Press the Cloud button and then "Turn On' on the MAMP User Interface to sign in.
 
 ![MAMP](/en/MAMP-Mac/Cloud/CloudTurnOn.png)
 
 Sign into your Dropbox account.
 
 ![MAMP](/en/MAMP-Mac/Cloud/CloudSignIn.png)
+
+You can now store and load MAMP host and database data on the cloud.
 
 ---
 
@@ -45,21 +47,16 @@ Sign into your Dropbox account.
 Store and load your host and database data using a cloud provider. Currently Dropbox is available for this option. It is not necessary to install Dropbox software to use this feature, you only need a Dropbox account. After you log into Dropbox and choose your settings you can save and load your hosts using the functionality in the hosts table. More information on your host cloud functions can be found [here](../Hosts/Cloud). 
 
 <div class="alert" role="alert">
-Note: Your files will not be synced automatically, you must manually load, store and link your hosts using the load, store, and link commands from the menu.
+Note: Your files will not be synced automatically, you must manually load, store and link your hosts using the load and store commands from the menu.
 </div>
 
-![MAMP](/en/MAMP-PRO-Mac/Settings/Cloud/cloud.png)
-
-
-
-
-
-
-
-![MAMP](/en/MAMP-PRO-Mac/Settings/Cloud/dropbox.png)
+---
 
 ### Preferences
 
+
+
+---
 
 ### Before transferring data to the cloud : Always encrypt the data
   
