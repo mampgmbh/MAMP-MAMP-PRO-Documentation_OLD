@@ -10,6 +10,8 @@ language: en
 
 Your localhost can be saved to and loaded from the cloud. MAMP PRO will save both your localhost document root folder and database data. Your host and database data will be saved in a single zip file in your Dropbox. It is not necessary to install Dropbox software to use this feature, you only need a login to your Dropbox account through the MAMP interface.
 
+---
+
 ### Purchase and Register
 
 Press on the "Cloud" icon on the MAMP interface to begin the purchase process for cloud functions.
@@ -24,9 +26,17 @@ After you have purchased MAMP PRO you can register it.
 
 ![MAMP](/en/MAMP-Mac/Cloud/CloudRegister.png)
 
+---
+
 ### Sign In
 
+After you have purchased Cloud Functions for MAMP you can sign in. Press the Cloud button on the MAMP User Interface to sign in.
 
+![MAMP](/en/MAMP-Mac/Cloud/CloudTurnOn.png)
+
+Sign into your Dropbox account.
+
+![MAMP](/en/MAMP-Mac/Cloud/CloudSignIn.png)
 
 ### Store and Load
 
@@ -42,7 +52,7 @@ Note: Your files will not be synced automatically, you must manually load, store
 
 
 
-When you check this option you will be asked to log into your Dropbox account. When you have completed the login process your Dropbox will be linked to MAMP PRO. When saving to cloud it will be saved as either a zip archive (.zip) or an encrypted zip archive (.encryptedzip), depending on the encryption settings. You need to individually link each host to Dropbox. 
+
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Cloud/dropbox.png)
 
