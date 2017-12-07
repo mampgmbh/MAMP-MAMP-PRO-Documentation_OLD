@@ -6,20 +6,21 @@ product: MAMP Mac
 language: en
 ---
 
-## Settings > Hosts > Cloud
+## Cloud Funtions
 
-Hosts can be saved to and loaded from the cloud. MAMP PRO will save both your document root folder and database data. Your data for each individual host will be saved in a single zip file in your Dropbox. It is not necessary to install Dropbox software to use this feature, you only need a login to your Dropbox account through the MAMP PRO interface [cloud settings](../../Cloud). You can view your [Databases tab](../Databases) to confirm which databases are linked to your host.
+Hosts can be saved to and loaded from the cloud. MAMP PRO will save both your localhost document root folder and database data. Your host and databse data will be saved in a single zip file in your Dropbox. It is not necessary to install Dropbox software to use this feature, you only need a login to your Dropbox account through the MAMP interface.
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/cloud.png)
 
-To expand and view your cloud host settings press the "Arrow" button on the bottom right of the hosts table. To view your cloud functions press the "cloud" button.
 
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/openCloudHostOptions.png)
+### Purchase and Register
 
 
+### Sign In
+
+### Store and Load
 
 Store and load your host and database data using a cloud provider. Currently Dropbox is available for this option. It is not necessary to install Dropbox software to use this feature, you only need a Dropbox account. After you log into Dropbox and choose your settings you can save and load your hosts using the functionality in the hosts table. More information on your host cloud functions can be found [here](../Hosts/Cloud). 
-
 
 <div class="alert" role="alert">
 Note: Your files will not be synced automatically, you must manually load, store and link your hosts using the load, store, and link commands from the menu.
@@ -27,15 +28,16 @@ Note: Your files will not be synced automatically, you must manually load, store
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Cloud/cloud.png)
 
----
 
-### Use Cloud Service
+
+
 
 When you check this option you will be asked to log into your Dropbox account. When you have completed the login process your Dropbox will be linked to MAMP PRO. When saving to cloud it will be saved as either a zip archive (.zip) or an encrypted zip archive (.encryptedzip), depending on the encryption settings. You need to individually link each host to Dropbox. 
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Cloud/dropbox.png)
 
----
+### Preferences
+
 
 ### Before transferring data to the cloud : Always encrypt the data
   
