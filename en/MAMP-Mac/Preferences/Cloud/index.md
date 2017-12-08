@@ -9,3 +9,18 @@ language: en
 ## Preferences > Cloud
 
 ![MAMP](/en/MAMP-Mac/Preferences/Cloud/CloudSettings.png)
+
+
+### Cloud Settings  
+   
+#### Encrypt data before upload
+
+Use this option to encrypt your data before you store it in the cloud.
+
+---
+
+*   **Database**  
+   Set the database your host is associated with.
+   
+*   **Data in cloud**  
+   Delete your cloud data. 
