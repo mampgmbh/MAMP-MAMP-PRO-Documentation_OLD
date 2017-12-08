@@ -8,4 +8,4 @@ language: en
 
 ## Preferences > Cloud
 
-![MAMP](/en/MAMP-Mac/Preferences/MySQL/MySQL.png)
+![MAMP](/en/MAMP-Mac/Preferences/Cloud/CloudSettings.png)
