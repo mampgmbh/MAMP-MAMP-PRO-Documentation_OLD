@@ -12,22 +12,20 @@ language: en
 
 #### Preferences
 
+Open your MAMP Preferences.
+
 ---
 
 ### Tools
 
-*   **Standard Version**  
-   Choose whether PHP 7.0.26 or PHP 7.01.12 is used. The available PHP versions depend on the installed version of MAMP.
+*   **Verify MySQL Databases**  
+   Get a complete list of schemas and tables inside of your MySQL Database. The database must be running in order for this function to work.
 
-*   **Cache**  
-   Caching can speed up the execution of your PHP code. The default caching option is off. OPcache is only available with PHP    5.5.x, eAccelerator only with versions before 5.5.
+*   **Repair MySQL Databases**  
+   Runs mysqlcheck which performs table maintenance.
    
-   *   **Cache**  
-   Caching can speed up the execution of your PHP code. The default caching option is off. OPcache is only available with PHP    5.5.x, eAccelerator only with versions before 5.5.
-
-
----
-
-### Cloud
+*   **Update MySQL Databases**  
+   Update your databases. The server must be shutdown to use this function.
+   
 
 
