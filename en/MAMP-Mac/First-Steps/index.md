@@ -15,8 +15,8 @@ The web server (Apache) starts by default on port 8888, the database server (MyS
 
 ![MAMP](/en/MAMP-Mac/First-Steps/MAMP.png)
 
-*   **Preferences…**  
-    Set your preferences for MAMP. See the [Preferences](../Preferences/) section for more details.
+*   **Cloud**  
+    Open up the MAMP Cloud Functions. See the [Cloud](../Cloud/) section for more details.
 
 *   **Open WebStart page**  
     Open the start page of your local web server.
