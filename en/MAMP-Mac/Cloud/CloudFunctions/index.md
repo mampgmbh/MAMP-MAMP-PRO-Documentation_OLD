@@ -12,6 +12,8 @@ You can Save To and Load from the cloud with cloud functions.
 
 ![MAMP](/en/MAMP-Mac/Cloud/CloudSaveLoad.png)
 
+---
+
 ### Cloud Status
 
 Indicates whether your cloud functions are on or off.
