@@ -6,7 +6,7 @@ product: MAMP Mac
 language: en
 ---
 
-## Preferences > Cloud
+## Preferences > Cloud (Available in MAMP 4.3 or higher)
 
 ![MAMP](/en/MAMP-Mac/Preferences/Cloud/CloudSettings.png)
 
