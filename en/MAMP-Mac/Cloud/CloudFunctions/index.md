@@ -6,21 +6,26 @@ product: MAMP Mac
 language: en
 ---
 
-### Store and Load
+### Cloud Status
 
-Store and load your host and database data using a cloud provider. Currently Dropbox is available for this option. It is not necessary to install Dropbox software to use this feature, you only need a Dropbox account. After you log into Dropbox and choose your settings you can save and load your hosts using the functionality in the hosts table. More information on your host cloud functions can be found [here](../Hosts/Cloud). 
+### Document Root
+
+### Database
+
+---
+
+### Save to Cloud
+
+After you log into Dropbox and choose your settings you can save and load your hosts using the functionality in the hosts table. More information on your host cloud functions can be found [here](../Hosts/Cloud). 
+
+### Load from Cloud
+
+---
 
 <div class="alert" role="alert">
 Note: Your files will not be synced automatically, you must manually load, store and link your hosts using the load and store commands from the menu.
 </div>
 
----
-
-### Preferences
-
-
-
----
 
 ### Before transferring data to the cloud : Always encrypt the data
   
