@@ -6,6 +6,12 @@ product: MAMP Mac
 language: en
 ---
 
+## Cloud Functions
+
+You can Save To and Load from the cloud with cloud functions.
+
+
+
 ### Cloud Status
 
 Indicates whether your cloud functions are on or off.
