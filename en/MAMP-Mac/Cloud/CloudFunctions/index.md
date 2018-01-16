@@ -8,15 +8,21 @@ language: en
 
 ### Cloud Status
 
+Indicates whether your cloud functions are on or off.
+
 ### Document Root
 
+The document root of your localhost, which will be saved to and loaded from the cloud
+
 ### Database
+
+The database associated with your localhost (optional).
 
 ---
 
 ### Save to Cloud
 
-After you log into Dropbox and choose your settings you can save and load your hosts using the functionality in the hosts table. More information on your host cloud functions can be found [here](../Hosts/Cloud). 
+After you log into Dropbox and choose your settings you can save your host data to the cloud. Press 'Save to cloud' to begin the process. 
 
 ### Load from Cloud
 
