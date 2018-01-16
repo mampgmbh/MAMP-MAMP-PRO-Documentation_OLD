@@ -22,9 +22,15 @@ The database associated with your localhost (optional).
 
 ### Save to Cloud
 
-After you log into Dropbox and choose your settings you can save your host data to the cloud. Press 'Save to cloud' to begin the process. 
+After you log into Dropbox and choose your settings you can save your host data to the cloud. Press 'Save to cloud' to begin the process.
+
+![MAMP](/en/MAMP-Mac/Cloud/MAMP.png)
 
 ### Load from Cloud
+
+Load from cloud.
+
+![MAMP](/en/MAMP-Mac/Cloud/MAMP.png)
 
 ---
 
