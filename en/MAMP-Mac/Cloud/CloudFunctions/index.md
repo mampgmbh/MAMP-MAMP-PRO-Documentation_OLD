@@ -10,7 +10,7 @@ language: en
 
 You can Save To and Load from the cloud with cloud functions.
 
-![MAMP](/en/MAMP-Mac/Cloud/CloudSaveLoud.png)
+![MAMP](/en/MAMP-Mac/Cloud/CloudSaveLoad.png)
 
 ### Cloud Status
 
