@@ -16,7 +16,7 @@ Press the 'Buy Cloud Functions' to purchase the Cloud Functions option for MAMP.
 
 ![MAMP](/en/MAMP-Mac/Cloud/CloudPurchase.png)
 
-After you have purchased MAMP PRO you can register it.
+After you have purchased Cloud Functions you can register it.
 
 ![MAMP](/en/MAMP-Mac/Cloud/CloudRegister.png)
 
@@ -24,7 +24,7 @@ After you have purchased MAMP PRO you can register it.
 
 ### Sign In
 
-After you have registered Cloud Functions for MAMP you can sign in. Press the Cloud button and then "Turn On' on the MAMP User Interface to sign in.
+After you have registered Cloud Functions for MAMP you can sign in. Press the Cloud button and then "Turn On' on the MAMP user interface to sign in.
 
 ![MAMP](/en/MAMP-Mac/Cloud/CloudTurnOn.png)
 
