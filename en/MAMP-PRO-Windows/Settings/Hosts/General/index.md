@@ -14,7 +14,7 @@ The name of a host (server name) must be unique, often it's practical to use a r
 
 To create a new host press the `Plus` button at the bottom left of the hosts table.
 
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/General/OpenHost.png)
+![MAMP](/en/MAMP-PRO-Windows/Settings/Hosts/General/OpenHost.png)
 
 *  **Host name**
 
