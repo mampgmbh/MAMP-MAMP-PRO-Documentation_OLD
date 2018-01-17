@@ -8,13 +8,13 @@ language: en
 
 ## First Steps
 
-![MAMP](/en/MAMP-PRO-Mac/First-Steps/FirstSteps.png)
+![MAMP](/en/MAMP-PRO-Windows/First-Steps/FirstSteps.png)
 
 Click on the Start button on the title bar to launch your Apache and MySQL, they are your default GroupStart web and database servers. The launch status of the server is displayed in the Servers & Services section. A check mark next to the server/service indicates that this server/service will start/stop when the Servers button is pressed.  The Apache web server (default web server) uses port 8888 by default. This port must be specified when calling the local web page in the browser, e.g.: http://localhost:8888
 
 Your default host for MAMP PRO is `localhost`. The files for localhost are initially located in the `C:\MAMP\htdocs` folder. Press the Open button located to the right of the Host-Name text box to open up the localhost in your default web browser.
 
-![MAMP](/en/MAMP-PRO-Mac/First-Steps/OpenLocalHost.png)
+![MAMP](/en/MAMP-PRO-Windows/First-Steps/OpenLocalHost.png)
 
 <div class="alert" role="alert">
 Note: Although the default localhost document root is located in `C:\MAMP\htdocs`, it is best to keep it's document root, and the document root of additional hosts out of the `c:\MAMP` folder. A better directory structure for your host document root folders would be `~\sites\localhost`, `~\sites\site1`, `~\sites\site2`, etc ... .
