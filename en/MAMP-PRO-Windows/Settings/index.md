@@ -10,4 +10,4 @@ language: en
 
 - [Hosts](Hosts/)  
 - [Ports](Ports/)  
-- [Editor](Editor/)  
+  
