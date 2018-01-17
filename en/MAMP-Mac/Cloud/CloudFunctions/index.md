@@ -43,7 +43,7 @@ Load from cloud.
 ---
 
 <div class="alert" role="alert">
-Note: Your files will not be synced automatically, you must manually load, store and link your hosts using the load and store commands from the menu.
+Note: Your files will not be synced automatically, you must manually load an store your hosts using the load and store commands from the menu.
 </div>
 
 
