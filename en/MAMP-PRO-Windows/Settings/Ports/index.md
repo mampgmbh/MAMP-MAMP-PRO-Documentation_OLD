@@ -18,7 +18,7 @@ These ports are configurable. The default configuration for MAMP PRO uses ports 
    Set the ports to the value commonly used on the internet.
    
 *  **Set default MAMP ports**  
-   Reset the ports for Apache, Nginx and MySQL to 8888, 8889 and 8890.
+   Set the ports for Apache, Nginx and MySQL to 8888, 8889 and 8890.
    
 *  **Having trouble with blocked ports?**  
    MAMP PRO will auto detect free ports to use.
