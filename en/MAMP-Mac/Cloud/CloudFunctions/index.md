@@ -8,7 +8,7 @@ language: en
 
 ## Cloud Functions
 
-You can Save To and Load from the cloud with cloud functions.
+You can "Save To Cloud" and "Load From Cloud" using the cloud functions.
 
 ![MAMP](/en/MAMP-Mac/Cloud/CloudSaveLoad.png)
 
@@ -20,7 +20,7 @@ Indicates whether your cloud functions are on or off.
 
 ### Document Root
 
-The document root of your localhost, which will be saved to and loaded from the cloud
+The document root of your localhost, which will be saved to and loaded from the cloud.
 
 ### Database
 
@@ -30,7 +30,7 @@ The database associated with your localhost (optional).
 
 ### Save to Cloud
 
-After you log into Dropbox and choose your settings you can save your host data to the cloud. Press 'Save to cloud' to begin the process.
+After you log into Dropbox and choose your settings you can save your host data to the cloud. Press "Save to cloud" to begin the process.
 
 ![MAMP](/en/MAMP-Mac/Cloud/CloudSaveToCloud.png)
 
