@@ -83,8 +83,6 @@ To create a new host press the `Plus` button at the bottom left of the hosts tab
    If you set the PHP version in the PHP section to `5.4.25`, MAMP PRO will adapt the PHP version of oneHost
    to this version (it is set to always use the standard version). The other 2 hosts will not be changed.
   
-     <i class="fa fa-play-circle-o fa-lg" aria-hidden="true"></i> [Setting Your PHP Version in MAMP              PRO](https://www.youtube.com/watch?v=fsOWq9k_OAc){:target="_blank"}.
-     
      <a name="php_info_access_button"></a> 
 
       *  **PHPInfo**
