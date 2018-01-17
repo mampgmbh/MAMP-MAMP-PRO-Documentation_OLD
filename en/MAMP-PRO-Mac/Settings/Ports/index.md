@@ -14,7 +14,7 @@ These ports are configurable. The default configuration for MAMP PRO uses ports 
 
 The button `Set ports to 80, 443 & 3306` will set the ports to the value commonly used on the internet. The button `Set default MAMP ports` will reset the ports for Apache, Nginx and MySQL to 8888, 8889 and 8890. `Auto-detect free ports` will help you find available ports on your Mac. 
 
-![MAMP](/en/MAMP-PRO-Mac/Settings/Ports/Ports.png)
+![MAMP](/en/MAMP-PRO-Windows/Settings/Ports/Ports.png)
 
 
 *  **Run servers as:**  
