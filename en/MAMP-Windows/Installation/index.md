@@ -1,7 +1,9 @@
 ---
 title: MAMP (Windows) Installation
 description: This is the MAMP Documentation
-layout: default-1
+layout: default-2
+product: MAMP Windows
+language: en
 ---
 
 ## Installation
