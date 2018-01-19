@@ -65,5 +65,7 @@ Press Upgrade to upgrade your database data.
 
 To uninstall MAMP, you only have to delete the MAMP directory and everything returns to the original state (MAMP does not alter anything on the normal Mac OS X).
 
+If you have installed MAMP Cloud Functions you need to additionally remove your `/Library/Application Support/appsolute/MAMP` directory.
+
 If you have used MAMP PRO as well, use the MAMP PRO uninstaller in the `/Applications/MAMP PRO` folder to remove it.
 
