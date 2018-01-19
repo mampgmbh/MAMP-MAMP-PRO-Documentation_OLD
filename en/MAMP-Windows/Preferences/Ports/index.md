@@ -2,7 +2,7 @@
 title: MAMP (Windows) Documentation > Preferences > Ports
 description: MAMP (Windows) Documentation > Preferences > Ports
 layout: default-2
-product: MAMP Mac
+product: MAMP Windows
 language: en
 ---
 
