@@ -2,7 +2,7 @@
 title: MAMP (Mac) Documentation > FAQ
 description: 
 layout: default-2
-product: MAMP Mac
+product: MAMP Windows
 language: en
 ---
 
