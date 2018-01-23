@@ -1,8 +1,8 @@
 ---
-title: MAMP PRO (Mac) Documentation > Menu > File
+title: MAMP PRO (Windows) Documentation > Menu > File
 description: 
 layout: default-2
-product: MAMP PRO Mac
+product: MAMP PRO Windows
 language: en
 ---
 
@@ -12,7 +12,7 @@ language: en
 
 MAMP PRO uses templates to create the necessary server config files. You can edit these templates from the menu item       File > Edit template. Here, you have access to options which are not accessible from the MAMP PRO user interface.
 
-A template file is created in `~/Library/application support/appsolute/MAMP PRO/templates` when you make a change to one     of your templates. There are separate templates for your Apache, Apache SSL, Nginx PHP, and MySQL configurations. If you have not made any changes to your templates, your `~/Library/application support/appsolute/MAMP PRO/templates` directory will be empty.
+A template file is created in `C:\Users\Public\Documents\Appsolute\MAMPPRO\conf\` when you make a change to one of your templates. There are separate templates for your Apache, Apache SSL, Nginx PHP, and MySQL configurations. If you have not made any changes to your templates, your `~/Library/application support/appsolute/MAMP PRO/templates` directory will be empty.
      
 <div class="alert" role="alert">
 Note: Edition errors in the templates of the configuration files can cause the servers not to start. This could mean       that you will have to reset your settings for MAMP PRO, and you may lose all other custom settings. You should edit these templates only if you are familiar with the exact syntax and meaning of the options.
@@ -93,6 +93,16 @@ Restore files from a previous backup.
 <div class="alert" role="alert">
 Note: Restoring your backed up files can potentially overwrite your current host and database files. Back up your current host and database files before restoring from a backup. 
 </div>
+
+### Settings
+
+### Export
+
+### Import
+
+### Exit
+
+
 
 
 
