@@ -1,15 +1,16 @@
 ---
-title: MAMP PRO (Mac) Documentation > Menu
+title: MAMP PRO (Windows) Documentation > Menu
 description: 
 layout: default-2
-product: MAMP PRO Mac
+product: MAMP PRO Windows
 language: en
 ---
 
 ## Menu
 
-- [MAMP PRO](MAMP-PRO/)  
 - [File](File/)  
+- [Log](Log/)  
 - [Tools](Tools/)  
-- [Window](Window/)  
+- [View](View/)
+- [Help](Help/)
 
