@@ -20,11 +20,11 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
    ![MAMP](/en/MAMP-PRO-Mac/Languages/PHP/phpUpdates.png)
    
    <div class="alert" role="alert">
-      Note: To remove unneeded PHP versions simply stop your servers, quit MAMP PRO, and remove your C:\MAMP\bin\php/phpX.XX directory, where X.XX is the version of PHP you want removed.
+      Note: To remove unneeded PHP versions simply stop your servers, quit MAMP PRO, and remove your C:\MAMP\bin\php\phpX.XX directory, where X.XX is the version of PHP you want removed.
    </div>
    
 
-*  **PHP in system path**  
+*  **Make this version available on the command line**  
    Check this option to add the current PHP version to the system path. You verify this by checking your System PATH in Advanced System Settings > Environment Variables > System Variables.
    
     ![MAMP](/en/MAMP-PRO-Windows/Languages/PHP/environmentVariables.png)
