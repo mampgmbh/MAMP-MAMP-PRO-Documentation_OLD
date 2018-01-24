@@ -57,6 +57,12 @@ Yes it can be installed on any drive which is registered in Windows system. But 
 
 ---
 
+### Are the amount of virtual hosts aliases limited?
+
+No, with MAMP PRO you can use as many hosts and aliases as you like.
+
+---
+
 ### Where exactly are the MAMP PRO files created or changed?
 
 The following list contains all files which are created and changed by MAMP PRO and are not located within the MAMP PRO folder.
