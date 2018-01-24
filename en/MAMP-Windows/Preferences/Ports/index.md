@@ -8,7 +8,7 @@ language: en
 
 ## Preferences > Ports
 
-![MAMP](/en/MAMP-Mac/Preferences/Ports/Ports.png)
+![MAMP](/en/MAMP-Windows/Preferences/Ports/Ports.png)
 
 Server programs, when addressed via the network, need to be assigned to a certain network port. This way, multiple server programs may run on one server machine. Every service has a default port: The Apache web server typically uses port 80, the MySQL database server utilises port 3306.
 
