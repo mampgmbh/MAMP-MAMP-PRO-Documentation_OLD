@@ -46,3 +46,20 @@ Start the servers and direct your web browser to http://localhost:8888/MAMP/.
 Click on the phpInfo tab at the top of page.
 
 ---
+
+### Where is my database data located in MAMP for Windows?
+
+Your database data is located in `C:\MAMP\db\mysql\` . 
+
+---
+
+### Where is my php.ini file located?
+
+Your php.ini for MAMP is located in `C:\MAMP\conf\phpX.XX`.
+
+---
+
+### Where is my httpd.conf file located?
+
+Your httpd.conf file is located in `C:\MAMP\conf\apache\httpd.conf`.
+
