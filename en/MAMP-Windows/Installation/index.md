@@ -23,7 +23,7 @@ To use the MAMP, your system must meet the following requirements:
 2. Double click on the file `setup_MAMP_MAMP_PRO_4.x.exe` in your Downloads folder.
 3. The Windows Installer will guide you through the installation process.
 
-When installing MAMP, both a  `C:\MAMP PRO` and  `C:\MAMP` folder will be installed. You can ignore the `C:\MAMP` folder if you choose not use MAMP PRO.
+When installing MAMP, both a  `C:\MAMP PRO` and  `C:\MAMP` folder will be installed. You can ignore the `C:\MAMP PRO` folder if you choose not use MAMP PRO.
 
 ---
 
