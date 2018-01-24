@@ -1,8 +1,8 @@
 ---
-title: MAMP PRO (Mac) Documentation > FAQ > General
+title: MAMP PRO (Windows) Documentation > FAQ > General
 description: 
 layout: default-2
-product: MAMP PRO Mac
+product: MAMP PRO Windows
 language: en
 ---
 
@@ -11,7 +11,7 @@ language: en
 
 ### Are updates free of charge?
 
-Yes, all updates in the current major version (4.x) are free of charge. To update MAMP PRO from e.g. 4.1.2 to 4.9 just use the serial number you already have. Licenses are good forever, they are not on a subscription basis.
+Yes, all updates in the current major version (4.x) are free of charge. To update MAMP PRO from e.g. 4.1.2 to 4.9 just use the serial number you already have. Licenses are good forever, they are not on a subscription basis. MAMP PRO 3 Windows licenses are also valid for MAMP PRO 4 Windows.
 
 ---
 
@@ -45,10 +45,15 @@ Apache modules are located in the `C:\MAMP\Library\modules` folder.
 
 ---
 
-
 ### Where can I find the log files?
 
 Your log files are located in `C:\MAMP\logs`. You can access the various logs through the MAMP PRO interface.
+
+---
+
+### Will MAMP work if the MAMP folder is not located in the C:\ directory?
+
+Yes it can be installed on any drive which is registered in Windows system. But because of simplicity, security and user permissions we always adwise installing on default  `C:\` drive.
 
 ---
 
