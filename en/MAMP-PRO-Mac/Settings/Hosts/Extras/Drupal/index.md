@@ -57,3 +57,10 @@ After your Drupal extra is installed you will see two links to your site. The ![
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Drupal/drupInstall.png)
 
 
+### Videos
+
+<i class="fa fa-play-circle-o fa-lg" aria-hidden="true"></i>  [Installing Drupal with Extras and Manually](https://www.youtube.com/watch?v=sGnGFWP5OBE){:target="_blank"}
+
+
+
+
