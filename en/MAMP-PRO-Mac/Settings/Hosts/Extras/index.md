@@ -34,11 +34,6 @@ The Extras panel shows the name of the extra, how many installations are possibl
 Note: The availability of an Extra will be affected by your hosts PHP version, internet connection, cached Extras and available disk space. To add an Extra, press the plus button on the lower left side of the Extras panel. The plus button has a red circle around it if you have no Extras installed.
 </div>
 
-<div class="alert" role="alert">
-Note: Your Extra may need additional configuration if you change the MySQL port after installation. See the configuration section for each individual Extra for more details.
-</div>
-
-
 
 
 
