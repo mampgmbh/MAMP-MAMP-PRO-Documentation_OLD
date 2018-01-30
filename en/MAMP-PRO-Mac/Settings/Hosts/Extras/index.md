@@ -1,8 +1,8 @@
 ---
-title: MAMP PRO (Mac) Documentation > Settings > Hosts > Extras
+title: MAMP PRO (Windows) Documentation > Settings > Hosts > Extras
 description: 
 layout: default-2
-product: MAMP PRO Mac
+product: MAMP PRO Windows
 language: en
 ---
 
@@ -17,8 +17,6 @@ The Extras panel shows the name of the extra, how many installations are possibl
 - [WordPress](WordPress/)  
 - [Joomla](Joomla/)  
 - [Drupal](Drupal/) 
-- [webEdition](webEdition/)
-- [Magento](Magento/)
 - [Mediawiki](Mediawiki/) 
 - [phpBB](phpBB/) 
 - [PrestaShop](PrestaShop/)
@@ -27,8 +25,8 @@ The Extras panel shows the name of the extra, how many installations are possibl
 - [ForkCMS](ForkCMS/)
 - [Bootstrap](Bootstrap/)
 - [opencart](opencart/) 
-- [SilverStripe](SilverStripe/)
 - [Dolibarr](Dolibarr/)
+- [webEdition](webEdition/)
 
 ---
 
