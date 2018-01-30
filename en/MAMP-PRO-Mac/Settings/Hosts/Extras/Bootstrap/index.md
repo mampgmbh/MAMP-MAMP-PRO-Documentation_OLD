@@ -26,7 +26,4 @@ After your Bootstrap extra is installed you will see two links to your site. The
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Bootstrap/installBootstrap.png)
 
----
-
-<i class="fa fa-play-circle-o fa-lg" aria-hidden="true"></i>  [Installing Bootstrap with Extras](https://www.youtube.com/watch?v=rygYIaKPRFw){:target="_blank"}
 
