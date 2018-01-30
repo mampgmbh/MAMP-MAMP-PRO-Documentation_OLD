@@ -53,3 +53,8 @@ After your Concrete5 extra is installed you will see two links to your site. The
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Concrete5/installConcrete.png)
 
+### Configuration
+
+If you choose to change the database port after installation, you must also change the port number in the `application\config\database.php` file in your document root. Your port number is part of the "server" variable.
+
+
