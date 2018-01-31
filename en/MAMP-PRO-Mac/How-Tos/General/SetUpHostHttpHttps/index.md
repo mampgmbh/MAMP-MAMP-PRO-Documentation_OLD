@@ -22,6 +22,9 @@ You can get an identical http and https host by creating two hosts.
 You will get warning message stating you are using the same document root and name for multiple hosts. These hosts will appear in red.
 
 
+You will have to click through warning messages to access your https host.
+
+
  ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/SetUpHostHttpHttps/Connection.png)
  
  ![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/SetUpHostHttpHttps/sslSite.png)
