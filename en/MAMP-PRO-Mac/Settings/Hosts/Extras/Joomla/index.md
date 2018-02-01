@@ -59,9 +59,4 @@ After your Joomla extra is installed you will see two links to your site. The ![
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Joomla/joomlaInstall.png)
 
 
----
- 
-### Configuration
-
-Your Joomla Extra is configured in the configuration.php file in the document root folder. If you choose to change the database port after installation, you must also change the port number in the "$host" variable.
 
