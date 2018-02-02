@@ -10,7 +10,7 @@ language: en
 
 Hosts can be saved to and loaded from the cloud. MAMP PRO will save both your document root folder and database data. Your data for each individual host will be saved in a single zip file in your Dropbox. It is not necessary to install Dropbox software to use this feature, you only need a login to your Dropbox account through the MAMP PRO interface [cloud settings](../../Cloud). 
 
-If you have a data driven host, you must first associcate the database with the host before you save it to the cloud. Associating a host with a database can be done on the [Databases tab](../Databases).
+If you have a data driven host, you must first associate the database with the host before you save it to the cloud. Associating a host with a database can be done on the [Databases tab](../Databases).
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/cloud.png)
 
