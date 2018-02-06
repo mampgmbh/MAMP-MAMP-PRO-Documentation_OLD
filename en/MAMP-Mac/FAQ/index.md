@@ -8,28 +8,15 @@ language: en
 
 ## FAQ
 
-### Is it possible to install MAMP on an external drive?
+### How do I access my preferences?
 
-No, MAMP has to be installed on the system drive.
-
----
-
-#### Is MAMP compatible with Mac OS X 10.11 (El Capitan)?
-
-Yes, MAMP is compatible with Mac OS X 10.11.
+You can access your preferences through the menu bar. Got to MAMP > Preferences. 
 
 ---
 
-#### Is MAMP compatible with Mac OS X 10.13 (High Sierra)?
+#### Is MAMP compatible with Mac OS X 10.11 (El Capitan), Mac OS 10.12 (Sierra), and Mac OS 10.13 (High Sierra)?
 
-Yes, MAMP is compatible with Mac OS X 10.13.
-
----
-
-#### What does MAMP stand for?
-
-The abbreviation "MAMP" stands for: My Apache - MySQL - PHP.
-
+Yes, MAMP is compatible with all of these operating systems. 
 ---
 
 ### Where can I download MAMP?
