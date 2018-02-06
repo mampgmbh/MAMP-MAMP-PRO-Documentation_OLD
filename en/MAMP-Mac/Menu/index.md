@@ -16,7 +16,7 @@ Open your MAMP Preferences.
 
 ---
 
-### Tools
+#### Tools
 
 *   **Verify MySQL Databases**  
    Get a complete list of schemas and tables inside of your MySQL Database. The database must be running in order for this function to work.
