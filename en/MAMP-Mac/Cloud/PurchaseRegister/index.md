@@ -16,7 +16,7 @@ Press the 'Buy Cloud Functions' to purchase the Cloud Functions option for MAMP.
 
 ![MAMP](/en/MAMP-Mac/Cloud/CloudPurchase.png)
 
-After you have purchased Cloud Functions you can register it.
+After you have purchased Cloud Functions you can register your purchase.
 
 ![MAMP](/en/MAMP-Mac/Cloud/CloudRegister.png)
 
