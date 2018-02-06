@@ -6,7 +6,7 @@ product: MAMP Mac
 language: en
 ---
 
-## Preferences > Cloud (Available in MAMP 4.31 or higher)
+## Preferences > Cloud (Available in MAMP 4.4 or higher)
 
 ![MAMP](/en/MAMP-Mac/Preferences/Cloud/CloudSettings.png)
 
@@ -14,7 +14,7 @@ language: en
 ### Cloud Settings 
 
 
-### Database  
+#### Database  
    
 Set the database your host is associated with.
    
@@ -24,9 +24,6 @@ Use this feature to encrypt your data before moving it to Dropbox. You can encry
 
 When you set encryption your files will be stored on Dropbox with a .encryptedzip extension. Previously stored hosts will keep their .zip, unencrypted extension, until the are reloaded to the cloud.
 
----
+#### Data in cloud
 
-
-   
-*   **Data in cloud**  
-   Delete your cloud data. 
+Delete your cloud data. 
