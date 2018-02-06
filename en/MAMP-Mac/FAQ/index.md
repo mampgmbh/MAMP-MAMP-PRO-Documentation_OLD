@@ -16,7 +16,13 @@ No, MAMP has to be installed on the system drive.
 
 #### Is MAMP compatible with Mac OS X 10.11 (El Capitan)?
 
-Yes, MAMP is indeed compatible with Mac OS X 10.11 (El Capitan).
+Yes, MAMP is compatible with Mac OS X 10.11.
+
+---
+
+#### Is MAMP compatible with Mac OS X 10.13 (High Sierra)?
+
+Yes, MAMP is compatible with Mac OS X 10.13.
 
 ---
 
@@ -52,3 +58,11 @@ Start the servers and direct your web browser to http://localhost:8888/MAMP/.
 Click on the phpInfo tab at the top of page.
 
 ---
+
+### What does the following warning message mean when I load cloud data?
+
+---
+
+### What does the following message mean when I save cloud data?
+
+
