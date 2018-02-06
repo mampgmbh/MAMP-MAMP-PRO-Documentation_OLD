@@ -61,6 +61,8 @@ Click on the phpInfo tab at the top of page.
 
 ### What does the following warning message mean when I load cloud data?
 
+![MAMP](/en/MAMP-Mac/FAQ/DatabaseWarning.png)
+
 ---
 
 ### What does the following message mean when I save cloud data?
