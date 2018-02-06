@@ -11,7 +11,12 @@ language: en
 ![MAMP](/en/MAMP-Mac/Preferences/Cloud/CloudSettings.png)
 
 
-### Cloud Settings  
+### Cloud Settings 
+
+
+### Database  
+   
+Set the database your host is associated with.
    
 #### Encrypt data before upload
 
@@ -21,8 +26,7 @@ When you set encryption your files will be stored on Dropbox with a .encryptedzi
 
 ---
 
-*   **Database**  
-   Set the database your host is associated with.
+
    
 *   **Data in cloud**  
    Delete your cloud data. 
