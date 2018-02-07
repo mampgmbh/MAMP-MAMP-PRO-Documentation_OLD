@@ -52,12 +52,14 @@ Click on the phpInfo tab at the top of page.
 
 ![MAMP](/en/MAMP-Mac/FAQ/DatabaseWarning.png)
 
-This is only a warning message indicating MAMP cannot guarantee the MySQL user on your local machine has the same rights as the version from the stored cloud version.
+This is only a warning message indicating that the MySQL user associated with the database getting loaded from the cloud already exists on your local machine.
 
 ---
 
-### What does the following message mean when I save cloud data?
+### What does the following error message mean when I save cloud data?
 
 ![MAMP](/en/MAMP-Mac/FAQ/DatabaseError.png)
+
+The following error message means the database you are attempting to load to the cloud does not have a MySQL user associated with it. You must first associate a user with this database in order to save it to the cloud.
 
 
