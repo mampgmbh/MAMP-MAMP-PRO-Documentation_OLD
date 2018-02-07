@@ -52,6 +52,8 @@ Click on the phpInfo tab at the top of page.
 
 ![MAMP](/en/MAMP-Mac/FAQ/DatabaseWarning.png)
 
+This is only a warning message indicating MAMP cannot guarantee the MySQL user on your local machine has the same rights as the version from the stored cloud version.
+
 ---
 
 ### What does the following message mean when I save cloud data?
