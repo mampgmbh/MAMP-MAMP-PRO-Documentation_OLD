@@ -17,6 +17,7 @@ You can access your preferences through the menu bar. Got to MAMP > Preferences.
 #### Is MAMP compatible with Mac OS X 10.11 (El Capitan), Mac OS 10.12 (Sierra), and Mac OS 10.13 (High Sierra)?
 
 Yes, MAMP is compatible with all of these operating systems. 
+
 ---
 
 ### Where can I download MAMP?
