@@ -42,7 +42,7 @@ Your data will be loaded from the cloud. If you have the Dropbox application ins
 
 A backup of your local data will be made first when you load data from the cloud. You can delete this backup if you have successfully loaded from the cloud.
 
-
+![MAMP](/en/MAMP-Mac/Cloud/backup.png)
 
 ---
 
