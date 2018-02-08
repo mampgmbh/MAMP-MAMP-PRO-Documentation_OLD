@@ -62,5 +62,6 @@ This is only a warning message indicating that the MySQL user associated with th
 ![MAMP](/en/MAMP-Mac/FAQ/DatabaseError.png)
 
 The following error message means the database you are attempting to save to the cloud does not have a MySQL user associated with it. You must first associate a user with this database in order to save it to the cloud.
+ 
 
 
