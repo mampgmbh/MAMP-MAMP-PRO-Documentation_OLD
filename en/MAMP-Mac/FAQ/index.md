@@ -68,37 +68,37 @@ An associated user can be added in phpMyAdmin.
 
 1. Create a database named “wordpress”, for example:
 
-![MAMP](/en/MAMP-Mac/FAQ/Step1.png)
+![MAMP](/en/MAMP-Mac/FAQ/step1.png)
 
 2. After Adding the database, go to the User Accounts tab and click "Add User:".
 
-![MAMP](/en/MAMP-Mac/FAQ/Step2.png)
+![MAMP](/en/MAMP-Mac/FAQ/step2.png)
 
 3. Add a new User and add all global privileges; click "Go":
 
-![MAMP](/en/MAMP-Mac/FAQ/Step3.png)
+![MAMP](/en/MAMP-Mac/FAQ/step3.png)
 
 4. With the userX created, click "Edit Privileges".
 
-![MAMP](/en/MAMP-Mac/FAQ/Step4.png)
+![MAMP](/en/MAMP-Mac/FAQ/step4.png)
 
 5. Add all privileges to userX and click "Go".
 
-![MAMP](/en/MAMP-Mac/FAQ/Step5.png)
+![MAMP](/en/MAMP-Mac/FAQ/step5.png)
 
 6. Inside the userX privileges, click "Database".
 
-![MAMP](/en/MAMP-Mac/FAQ/Step6.png)
+![MAMP](/en/MAMP-Mac/FAQ/step6.png)
 
 7. Select the database, in our case, “wordpress”, and click "Go".
 
-![MAMP](/en/MAMP-Mac/FAQ/Step7.png)
+![MAMP](/en/MAMP-Mac/FAQ/step7.png)
 
 8. Add all the privileges for userX uses the database “wordpress”, and click "Go".
 
-![MAMP](/en/MAMP-Mac/FAQ/Step8.png)
+![MAMP](/en/MAMP-Mac/FAQ/step8.png)
  
 9. Now, for the database “wordpress”, our userX now has all privileges.
 
-![MAMP](/en/MAMP-Mac/FAQ/Step9.png)
+![MAMP](/en/MAMP-Mac/FAQ/step9.png)
 
