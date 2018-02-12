@@ -10,7 +10,7 @@ language: en
 
 ### How do I access my preferences?
 
-You can access your preferences through the menu bar. Got to MAMP > Preferences. 
+You can access your preferences through the menu bar. Go to MAMP > Preferences. 
 
 ---
 
