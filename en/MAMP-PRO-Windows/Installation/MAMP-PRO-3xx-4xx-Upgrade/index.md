@@ -24,7 +24,7 @@ Note: You can only upgrade from MAMP PRO 3.3.0 or later to MAMP PRO 4.
 
 Your existing `C:\Users\Public\Documents\Appsolute\MAMPPRO\db\` folder will be preserved by default. You can delete your database data to make a completely clean install of MAMP PRO 4. This action is not reverseable.
 
-![MAMP](/en/MAMP-PRO-Windows/Installation/MAMP-PRO-3xx-4xx-Upgrade/installDeleteDatabases.jpg)
+![MAMP](/en/MAMP-PRO-Windows/Installation/MAMP-PRO-3xx-4xx-Upgrade/installDeleteDatabases.png)
 
 ---
 
@@ -32,7 +32,7 @@ Your existing `C:\Users\Public\Documents\Appsolute\MAMPPRO\db\` folder will be p
 
 By default, Apple Bonjour will be installed when you install MAMP PRO. You will not have access to your hosts from the MAMP Viewer if you choose not to install Apple Bonjour.
 
-![MAMP](/en/MAMP-PRO-Windows/Installation/New-Install/InstallBonjour.jpg)
+![MAMP](/en/MAMP-PRO-Windows/Installation/New-Install/InstallBonjour.png)
 
 
 
