@@ -26,6 +26,15 @@ By default, Apple Bonjour will be installed when you install MAMP PRO. You will 
 
 ![MAMP](/en/MAMP-PRO-Windows/Installation/New-Install/InstallBonjour.png)
 
+### Windows Defender
+
+You may receive a warning from Windows Defender when installing MAMP PRO. This is standard firewall behavior for Windows applications started as servers. You may 'Allow access' for private networks and public networks depending on your implementation needs. You can later change your Windows firewall permissions as necessary.
+
+![MAMP](/en/MAMP-PRO-Windows/Installation/New-Install/defender.png)
+
+
+
+
 
 
 
