@@ -10,6 +10,9 @@ language: en
 
 Utilize the MAMP PRO Editor to edit your scripts directly. You can see your changes instantaneously in the live view, and your client side code in the real view.
 
+![MAMP](/en/MAMP-PRO-Windows/Editor/Editor.png)
+
+
 ---
 
 
