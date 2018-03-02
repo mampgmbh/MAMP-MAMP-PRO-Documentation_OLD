@@ -2,7 +2,7 @@
 title: MAMP PRO (Mac) Documentation > Servers and Services > Nginx
 description: 
 layout: default-2
-product: MAMP PRO Mac
+product: MAMP PRO Windows
 language: en
 ---
 
