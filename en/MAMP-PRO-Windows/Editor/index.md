@@ -18,8 +18,6 @@ Utilize the MAMP PRO Editor to edit your scripts directly. You can see your chan
 
 The Webpreview displays a live view of your website next to your server side code. 
 
-![MAMP](/en/MAMP-PRO-Windows/Editor/webPreview.png)
-
 ---
 
 ### PHP Output
