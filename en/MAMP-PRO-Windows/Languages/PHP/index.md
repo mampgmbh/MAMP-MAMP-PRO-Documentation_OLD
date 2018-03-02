@@ -78,9 +78,9 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
     *  **Oauth**  
        Activate Oauth.
     
-    *  **Open MacGDBp**  
-       With Xdebug activated you can open the MacGDBp debugger to enable PHP debugging.
-       By default, MacGDBp expects debugging information on port 9000 of localhost.
+    *  **Open XDClient**  
+       With Xdebug activated you can open the XDClinet debugger to enable PHP debugging.
+       By default, XDClient expects debugging information on port 9000 of localhost.
 
 ---
 
