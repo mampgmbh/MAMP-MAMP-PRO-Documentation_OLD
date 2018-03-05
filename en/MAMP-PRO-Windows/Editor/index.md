@@ -8,7 +8,7 @@ language: en
 
 ## Editor
 
-Utilize the MAMP PRO Editor to edit your scripts directly. You can see your changes instantaneously in the Wepreview.
+Utilize the MAMP PRO Editor to edit your scripts directly. You can see your changes instantaneously in the Webpreview.
 
 ![MAMP](/en/MAMP-PRO-Windows/Editor/Editor.png)
 
