@@ -12,7 +12,7 @@ language: en
 
 MAMP PRO uses templates to create the necessary server config files. You can edit these templates from the menu item       File > Edit template. Here, you have access to options which are not accessible from the MAMP PRO user interface.
 
-A template file is created in `C:\Users\Public\Documents\Appsolute\MAMPPRO\conf\` when you make a change to one of your templates. There are separate templates for your Apache, Apache SSL, Nginx PHP, and MySQL configurations. If you have not made any changes to your templates, your `~/Library/application support/appsolute/MAMP PRO/templates` directory will be empty.
+A template file is created in `C:\Users\Public\Documents\Appsolute\MAMPPRO\conf\` when you make a change to one of your templates. There are separate templates for your Apache, Apache SSL, Nginx PHP, and MySQL configurations.
      
 <div class="alert" role="alert">
 Note: Edition errors in the templates of the configuration files can cause the servers not to start. This could mean       that you will have to reset your settings for MAMP PRO, and you may lose all other custom settings. You should edit these templates only if you are familiar with the exact syntax and meaning of the options.
@@ -20,7 +20,7 @@ Note: Edition errors in the templates of the configuration files can cause the s
  
 *  **Apache (httpd.conf and httpd-ssl.conf)**     
    
-     Open and edit your httd.conf template file here. Changes made to your template file will be reflected your         real      httpd.conf file. The httpd.conf file created from the template file and is located in `/Library/appsolute/MAMP              PRO/conf`. You can check this file to verify changes you are making in your template file are properly reflected.
+     Open and edit your httd.conf template file here. Changes made to your template file will be reflected your         real      httpd.conf file. The httpd.conf file created from the template file and is located in `C:\Users\Public\Documents\Appsolute\MAMPPRO\conf\`. You can check this file to verify changes you are making in your template file are properly reflected.
 
      <div class="alert" role="alert">
      Changes are reflected in your real httpd.conf file after your servers are restarted. This applies to all           configuration files including nginx.conf, php.ini, my.cnf and main.cnf.
@@ -28,26 +28,22 @@ Note: Edition errors in the templates of the configuration files can cause the s
 
 *  **Nginx (nginx.conf)**   
 
-     Open and edit your nginx.conf template file here. Changes made to your template file will be reflected your        real nginx.conf file. The nginx.conf file created from the template file and is located in `/Library/appsolute/MAMP PRO/conf`.
+     Open and edit your nginx.conf template file here. Changes made to your template file will be reflected your        real nginx.conf file. The nginx.conf file created from the template file and is located in `C:\Users\Public\Documents\Appsolute\MAMPPRO\conf\`.
 
 *  **PHP (php.ini)**        
      
-     Open and edit your php.ini template file here. There are likely several versions of php available, each of them with  their own template file. Changes made to your template file will be reflected your real php.ini file. The php.ini file created from the template file and is located in `/Library/appsolute/MAMP PRO/conf`.
+     Open and edit your php.ini template file here. There are likely several versions of php available, each of them with  their own template file. Changes made to your template file will be reflected your real php.ini file. The php.ini file created from the template file and is located in `C:\Users\Public\Documents\Appsolute\MAMPPRO\conf\`.
      
      ![MAMP](/en/MAMP-PRO-Mac/Menu/File/PHPini.png)
 
 *  **MySQL(my.cnf)**        
      
-     Open and edit your my.cnf template file here. There are likely several versions of MySQL available, each of them with their own template file. Changes made to your template file will be reflected your real my.cnf file. The my.cnf file created from the template file and is located in `/Library/appsolute/MAMP PRO/conf`.
+     Open and edit your my.cnf template file here. There are likely several versions of MySQL available, each of them with their own template file. Changes made to your template file will be reflected your real my.cnf file. The my.cnf file created from the template file and is located in `C:\Users\Public\Documents\Appsolute\MAMPPRO\conf\`.
  
 *  **Postfix (main.cf)** 
      
-     Open and edit your main.cnf template file here. There are likely several versions of MySQL available, each of them with their own template file. Changes made to your template file will be reflected your real main.cnf file. The main.cnf file created from the template file and is located in `/Library/appsolute/MAMP PRO/conf`.
+     Open and edit your main.cnf template file here. There are likely several versions of MySQL available, each of them with their own template file. Changes made to your template file will be reflected your real main.cnf file. The main.cnf file created from the template file and is located in `C:\Users\Public\Documents\Appsolute\MAMPPRO\conf\`.
  
-
-
-<i class="fa fa-play-circle-o fa-lg" aria-hidden="true"></i>  [MAMP PRO and httpd.conf,nginx.conf php.ini, my.cnf](https://www.youtube.com/watch?v=tYLykP2CxMM){:target="_blank"}
-
 ---
 
 ### Export Template:
