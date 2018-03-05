@@ -12,7 +12,7 @@ language: en
 
 To use MAMP PRO, your system must meet the following requirements:
 
-- Microsoft Windows, versions Windows 7, Windows 8 ,  Windows 8.1( Windows 8 RT/ARM is not supported ), and Windows 10
+- Microsoft Windows, versions Windows 7, Windows 8 ,  Windows 8.1( Windows 8 RT/ARM is not supported ), and Windows 10. MAMP PRO 4 will work Windows Server OS ( although not officially supported ).
 - 1GB  RAM
 - .NET Framework 4.0
 
