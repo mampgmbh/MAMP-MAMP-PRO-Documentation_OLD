@@ -1,7 +1,22 @@
 ---
 title: MAMP (Windows) Documentation
-description: This is the MAMP Documentation
-layout: default-1
+description: What is MAMP 
+layout: default-2
+product: MAMP Windows
+language: en
 ---
 
-To read the MAMP (Windows) documentation please visit our website [https://documentation-3.mamp.info/en/documentation/mamp-windows/](https://documentation-3.mamp.info/en/documentation/mamp-windows/){:target="_blank"}.
+## What is MAMP ? 
+
+MAMP is a one-click-solution for setting up your personal webserver. MAMP installs a local server environment in a matter of seconds on your computer.
+
+![MAMP](/en/MAMP-Mac/MAMP.png)
+
+
+- [Installation](Installation/)  
+- [First Steps](First-Steps/)  
+- [Preferences](Preferences/)
+- [How Tos](How-Tos/)  
+- [FAQ](FAQ/)
+- [Open Web Start](OpenWebStart/)
+- [Menu](Menu/)
