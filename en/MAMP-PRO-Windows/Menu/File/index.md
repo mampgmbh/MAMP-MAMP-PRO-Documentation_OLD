@@ -94,48 +94,4 @@ Note: Restoring your backed up files can potentially overwrite your current host
 
  ![MAMP](/en/MAMP-PRO-Windows/Menu/File/Settings.png)
  
- ### Preferences…
-
-![MAMP](/en/MAMP-PRO-Mac/Menu/MAMP-PRO/Preferences.png)
-
-*  **Open WebStart when starting MAMP PRO:**
-     Your default browser will bring up the web start page when MAMP PRO is launched.
-     
-*  **Path to Webstart:**
-
-*  **Allow Saving when Document Root is invalid:**
-     MAMP PRO will ignore invalid paths to hosts and proceed with saving your settings.
-
-
-*  **Allow Saving when IP Address is invalid:**
-     MAMP PRO will ignore invalid IP addresses for hosts and proceed with saving your settings.
-
-     <div class="alert" role="alert">
-     Note: Setting these options may prevent Apache from starting up.
-     </div>
-     
-*  **Apache and MySQL server start as:**
-     
-     #### Services
-     
-     #### Processes
-
-*  **Automatically check for Updates**
-     Automatically check for updates.
-
-
-*  **Reset editor layouts to default:**
-     Reset editor layouts to default.
-
-
-### Export
-
-### Import
-
-### Exit
-
-
-
-
-
 
