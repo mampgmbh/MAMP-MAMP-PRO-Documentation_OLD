@@ -8,7 +8,7 @@ language: en
 
 ### Install a PHP extension using PECL
 
-Use the following guideline to compile your own extensions. This example uses the mongodb extension and PHP 7.0.15. You can find more PECL extensions [here](https://pecl.php.net){:target="_blank"}.
+Use the following guideline to compile your own extensions. This example uses the mongodb extension and PHP 7.0.15. You can find more PHP extensions [here](https://pecl.php.net){:target="_blank"}.
 
 1. Check the "Make this version available on the command line" check box on your Languages > PHP tab.
 2. Restart your servers. A PECL alias now exists in your `~/.profile` file.
