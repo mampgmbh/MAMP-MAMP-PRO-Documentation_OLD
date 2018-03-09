@@ -9,5 +9,7 @@ language: en
 ## Settings
 
 - [Hosts](Hosts/)  
-- [Ports](Ports/)  
+- [Ports](Ports/)
+- [Editor](Editor/)  
+- [Cloud](Cloud/)  
   
