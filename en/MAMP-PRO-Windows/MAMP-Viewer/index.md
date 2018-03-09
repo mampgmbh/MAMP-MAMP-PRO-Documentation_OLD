@@ -1,3 +1,11 @@
+---
+title: MAMP PRO (Windows) Documentation > MAMP Viewer
+description: MAMP Viewer
+layout: default-2
+product: MAMP PRO Windows
+language: en
+---
+
 ## MAMP Viewer
 
 In order to make your individual host visible in the MAMP Viewer you must activate it on the [Hosts > Settings > General](../Settings/Hosts/General/#mamp_viewer) Tab. Restart your servers to enable viewing in MAMP Viewer.
