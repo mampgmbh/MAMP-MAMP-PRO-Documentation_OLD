@@ -12,7 +12,7 @@ In order to make your individual host visible in the MAMP Viewer you must activa
 
 ![MAMP](/en/MAMP-PRO-Mac/MAMP-Viewer/SetMAMPViewer.png)
 
-Preview your work using the MAMP Viewer available on iOS.
+Preview your work using the MAMP Viewer available on iOS and Android.
 
 ![MAMP](/en/MAMP-PRO-Mac/MAMP-Viewer/MAMPViewer.jpg)
 
