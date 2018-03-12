@@ -14,6 +14,10 @@ The default MAMP start page provides links to access utilities such as phpMyAdmi
 
 ### phpMyAdmin
 
+![MAMP](/en/MAMP-Windows/Preferences/Open-WebStart-Page/phpMyAdmin.png)
+
+PhpMyAdmin is a web based database administrator. Use this to add or edit your databases.
+
 ---
 
 ### phpInfo
