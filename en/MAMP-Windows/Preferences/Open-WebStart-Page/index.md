@@ -18,14 +18,11 @@ The default MAMP start page provides links to access utilities such as phpMyAdmi
 
 ### phpInfo
 
+![MAMP](/en/MAMP-Mac/Preferences/Open-WebStart-Page/phpInfo.png)
+
 ---
 
 ### My Website
 
----
+The My Website link will point to your localhost. If you are using an Apache or Nginx port of 8888, you will link to http://localhost:8888. If you are using Apache or Nginx port 80, you will link to http://localhost . 
 
-### My Favorite Link
-
-When the My Favorite Link text box is filled in, a link will appear at the top of the MAMP start page with the title 'My Favorite Link'. The My Favorite Link page can be changed using Preferences…. When using the default setting (`/MAMP/`), you will be directed to the MAMP utilities start page using the Alias definition `/MAMP/`.
-
-If this field is left blank, you will be taken to your default document root (http://localhost:8888 in the `c:\MAMP\htdocs`). If you enter \subDirectory in this field, you will be taken to the `C:\MAMP\htdocs\subDirectory` folder via your default web browser (http://localhost:8888/subDirectory).
