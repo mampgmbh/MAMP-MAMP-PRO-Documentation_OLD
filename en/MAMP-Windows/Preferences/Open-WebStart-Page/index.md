@@ -26,6 +26,8 @@ PhpMyAdmin is a web based database administrator. Use this to add or edit your d
 
 ![MAMP](/en/MAMP-Windows/Preferences/Open-WebStart-Page/phpInfo.png)
 
+You phpInfo page shows the information about the configuration of PHP. This configuration can be changed using the php.ini file located in `C:\MAMP\conf\phpX.XX`.
+
 ---
 
 ### My Website
