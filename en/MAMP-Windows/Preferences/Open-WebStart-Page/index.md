@@ -1,6 +1,6 @@
 ---
 title: MAMP (Windows) Documentation > Preferences > Open WebStart Page
-description: The default MAMP start page provides links to access utilities such as phpMyAdmin, phpInfo, FAQ, MyFavoriteLink and the MAMP Website.
+description: The default MAMP start page provides links to access utilities such as phpMyAdmin, phpInfo, FAQ and the MAMP Website.
 layout: default-2
 product: MAMP Windows
 language: en
@@ -11,6 +11,8 @@ language: en
 ![MAMP](/en/MAMP-Windows/Preferences/Open-WebStart-Page/WebStart.png)
 
 The default MAMP start page provides links to access utilities such as phpMyAdmin, phpInfo, FAQ, MyFavoriteLink and the MAMP Website.
+
+---
 
 ### phpMyAdmin
 
@@ -29,4 +31,8 @@ PhpMyAdmin is a web based database administrator. Use this to add or edit your d
 ### My Website
 
 The My Website link will point to your localhost. If you are using an Apache/Nginx port 8888, you will link to http://localhost:8888. If you are using Apache/Nginx port 80, you will link to http://localhost . 
+
+### My Favorit Link
+
+
 
