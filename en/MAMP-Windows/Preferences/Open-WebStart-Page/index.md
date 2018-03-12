@@ -8,7 +8,7 @@ language: en
 
 ## Preferences > Open WebStart Page
 
-![MAMP](/en/MAMP-Window/Preferences/Open-WebStart-Page/WebStart.png)
+![MAMP](/en/MAMP-Windows/Preferences/Open-WebStart-Page/WebStart.png)
 
 The default MAMP start page provides links to access utilities such as phpMyAdmin, phpInfo, FAQ, MyFavoriteLink and the MAMP Website.
 
