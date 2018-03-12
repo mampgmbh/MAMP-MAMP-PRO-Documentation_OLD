@@ -24,5 +24,5 @@ The default MAMP start page provides links to access utilities such as phpMyAdmi
 
 ### My Website
 
-The My Website link will point to your localhost. If you are using an Apache or Nginx port of 8888, you will link to http://localhost:8888. If you are using Apache or Nginx port 80, you will link to http://localhost . 
+The My Website link will point to your localhost. If you are using an Apache/Nginx port 8888, you will link to http://localhost:8888. If you are using Apache/Nginx port 80, you will link to http://localhost . 
 
