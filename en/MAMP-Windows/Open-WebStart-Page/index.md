@@ -1,6 +1,6 @@
 ---
 title: MAMP (Windows) Documentation > Preferences > Open WebStart Page
-description: The default MAMP start page provides links to access utilities such as phpMyAdmin, phpInfo, FAQ, MyFavoriteLink and the MAMP Website.
+description: The default MAMP start page provides links to access utilities such as phpMyAdmin, phpInfo, FAQ and the MAMP Website.
 layout: default-2
 product: MAMP Windows
 language: en
@@ -8,24 +8,33 @@ language: en
 
 ## Preferences > Open WebStart Page
 
-![MAMP](/en/MAMP-Mac/Preferences/Open-WebStart-Page/WebStart.png)
+![MAMP](/en/MAMP-Windows/Preferences/Open-WebStart-Page/WebStart.png)
 
 The default MAMP start page provides links to access utilities such as phpMyAdmin, phpInfo, FAQ, MyFavoriteLink and the MAMP Website.
 
+---
+
 ### phpMyAdmin
+
+![MAMP](/en/MAMP-Windows/Preferences/Open-WebStart-Page/phpMyAdmin.png)
+
+PhpMyAdmin is a web based database administrator. Use this to add or edit your databases.
 
 ---
 
 ### phpInfo
 
+![MAMP](/en/MAMP-Windows/Preferences/Open-WebStart-Page/phpInfo.png)
+
+You phpInfo page shows the information about the configuration of PHP. This configuration can be changed using the php.ini file located in `C:\MAMP\conf\phpX.XX`.
+
 ---
 
 ### My Website
 
----
+The My Website link will point to your localhost. If you are using an Apache/Nginx port 8888, you will link to http://localhost:8888. If you are using Apache/Nginx port 80, you will link to http://localhost . 
 
 ### My Favorite Link
 
-When the My Favorite Link text box is filled in, a link will appear at the top of the MAMP start page with the title 'My Favorite Link'. The My Favorite Link page can be changed using Preferences…. When using the default setting (`/MAMP/`), you will be directed to the MAMP utilities start page using the Alias definition `/MAMP/`.
 
-If this field is left blank, you will be taken to your default document root (http://localhost:8888 in the `c:\MAMP\htdocs`). If you enter \subDirectory in this field, you will be taken to the `C:\MAMP\htdocs\subDirectory` folder via your default web browser (http://localhost:8888/subDirectory).
+
