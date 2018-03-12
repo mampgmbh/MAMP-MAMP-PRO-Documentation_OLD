@@ -20,11 +20,11 @@ The default MAMP start page provides links to access utilities such as phpMyAdmi
 
 ---
 
-### MyWebsite
+### My Website
 
 ---
 
-### MyFavoriteLink
+### My Favorite Link
 
 When the My Favorite Link text box is filled in, a link will appear at the top of the MAMP start page with the title 'My Favorite Link'. The My Favorite Link page can be changed using Preferences…. When using the default setting (`/MAMP/`), you will be directed to the MAMP utilities start page using the Alias definition `/MAMP/`.
 
