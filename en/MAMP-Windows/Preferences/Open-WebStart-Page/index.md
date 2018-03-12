@@ -32,7 +32,7 @@ PhpMyAdmin is a web based database administrator. Use this to add or edit your d
 
 The My Website link will point to your localhost. If you are using an Apache/Nginx port 8888, you will link to http://localhost:8888. If you are using Apache/Nginx port 80, you will link to http://localhost . 
 
-### My Favorit Link
+### My Favorite Link
 
 
 
