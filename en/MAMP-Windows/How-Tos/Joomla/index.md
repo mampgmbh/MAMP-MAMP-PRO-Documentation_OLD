@@ -9,7 +9,7 @@ language: en
 ## How to install Joomla
 
 
-Download Joomla [here](https://joomla.org){:target="_blank"} . After downloading the resulting zip file should be in your `~/Downloads` folder. Unzip this joomla.zip file. You should now see a `~/Downloads/Joomla` folder. Move the contents of this folder  to `/Applications/MAMP/htdocs`.
+Download Joomla [here](https://joomla.org){:target="_blank"} . After downloading the resulting zip file should be in your `C:\Downloads` folder. Unzip this joomla.zip file. You should now see a `C:\Downloads\Joomla` folder. Move the contents of this folder  to `C:\Applications\MAMP\htdocs`.
 
 Click on Open Start Page, then on the phpMyAdmin link. Create a database in phpMyAdmin and call it "joomla".
 
