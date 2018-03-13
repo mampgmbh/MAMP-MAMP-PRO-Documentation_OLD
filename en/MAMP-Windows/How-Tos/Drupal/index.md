@@ -16,12 +16,12 @@ Click on Open Start Page, then on the phpMyAdmin link. Create a database in phpM
 
 Go to Open Start Page, click on  "MyWebsite" on the top menu bar, you should now see the Wordpress installation process begin.
 
-![MAMP](/en/MAMP-Windows/How-Tos/Wordpress/MyWebsiteLink.png)
+![MAMP](/en/MAMP-Windows/How-Tos/Drupal/MyWebsiteLink.png)
 
 The following fields are the default for the MAMP PRO MySQL installation, username: "root", password: "root", database host: "localhost" 
 
 ![MAMP](/en/MAMP-Windows/How-Tos/Drupal/drupalWizard1.png)
 
-Finish the Wordpress installation process. 
+Finish the Drupal installation process. 
 
 ![MAMP](/en/MAMP-Windows/How-Tos/Drupal/drupalWizard2.png)
