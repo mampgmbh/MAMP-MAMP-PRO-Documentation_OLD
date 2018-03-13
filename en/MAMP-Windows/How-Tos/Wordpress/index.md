@@ -18,11 +18,11 @@ Go to Open Start Page, click on  "MyWebsite" on the top menu bar, you should now
 
 ![MAMP](/en/MAMP-Windows/How-Tos/Wordpress/MyWebsiteLink.png)
 
-The following fields are the default for the MAMP PRO MySQL installation.
-
-username: "root", password: "root", database host: "localhost:8889" (Use only "localhost" if your Apache port is 80)
+The following fields are the default for the MAMP PRO MySQL installation, username: "root", password: "root", database host: "localhost:8889" (Use only "localhost" if your Apache port is 80)
 
 ![MAMP](/en/MAMP-Windows/How-Tos/Wordpress/WordpressWizard.png)
+
+Finish the Wordpress installation process. 
 
 ![MAMP](/en/MAMP-Windows/How-Tos/Wordpress/WordpressWizard2.png)
 
