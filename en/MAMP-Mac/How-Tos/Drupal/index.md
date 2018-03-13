@@ -20,11 +20,11 @@ Go to Open Start Page, click on  "MyWebsite" on the top menu bar, you should now
 
 The following fields are the default for the MAMP PRO MySQL installation, username: "root", password: "root", database host: "localhost" 
 
-![MAMP](/en/MAMP-Windows/How-Tos/Drupal/DrupalWizard1.png)
+![MAMP](/en/MAMP-Windows/How-Tos/Drupal/drupalWizard1.png)
 
 Finish the Wordpress installation process. 
 
-![MAMP](/en/MAMP-Windows/How-Tos/Drupal/DrupalWizard2.png)
+![MAMP](/en/MAMP-Windows/How-Tos/Drupal/drupalWizard2.png)
 
 
 
