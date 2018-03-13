@@ -8,19 +8,19 @@ language: en
 
 ## How To install Wordpress
 
-Download Wordpress files [here](https://wordpress.org){:target="_blank"}. 
+Download Wordpress [here](https://wordpress.org){:target="_blank"} . After downloading the resulting zip file should be in your `C:\Downloads` folder. Unzip this Wordpress.zip file. You should now see a `C:\Downloads\Wordpress` folder. Move the contents of this folder  to `C:\MAMP\htdocs`.
 
-Move files to C:\MAMP\htdocs
+Open Start Page, click on the phpMyAdmin link. Create database in phpMyAdmin and call it "wordpress".
 
-Open Start Page, go to phpMyAdmin
+Go to Open Start Page, click on  "MyWebsite" on the top menu bar, you should now see the Wordpress installation process begin.
 
-Create database in phpMyAdmin
+The following fields are the default for the MAMP PRO MySQL installation.
 
-Go to Open Start Page, go to MyWebsite
+username: "root"
+password: "root"
+database host: "localhost"
 
-----
 
-### Wordpress installation process
 
 
 
