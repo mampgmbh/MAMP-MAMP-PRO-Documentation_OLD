@@ -1,4 +1,3 @@
-
 ---
 title: MAMP (Windows) Documentation > How Tos > Joomla
 description: 
