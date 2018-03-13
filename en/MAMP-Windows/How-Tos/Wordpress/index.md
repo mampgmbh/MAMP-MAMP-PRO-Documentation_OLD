@@ -12,7 +12,7 @@ Download Wordpress [here](https://wordpress.org){:target="_blank"} . After downl
 
 Open Start Page, click on the phpMyAdmin link. Create database in phpMyAdmin and call it "wordpress".
 
-![MAMP](/en/MAMP-Windows/How-Tos/Wordpress/phpMyAdminWordpressDatabase.png)
+![MAMP](/en/MAMP-Windows/How-Tos/Wordpress/phpMyAdminAddWordpress.png)
 
 Go to Open Start Page, click on  "MyWebsite" on the top menu bar, you should now see the Wordpress installation process begin.
 
