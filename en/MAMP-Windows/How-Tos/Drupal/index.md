@@ -18,7 +18,7 @@ Go to Open Start Page, click on  "MyWebsite" on the top menu bar, you should now
 
 ![MAMP](/en/MAMP-Windows/How-Tos/Drupal/MyWebsiteLink.png)
 
-The following fields are the default for the MAMP PRO MySQL installation, username: "root", password: "root", database host: "localhost".
+The following fields are the default for the MAMP PRO MySQL installation, username: "root", password: "root", database host: "localhost" and port to 8889.
 
 ![MAMP](/en/MAMP-Windows/How-Tos/Drupal/drupalWizard1.png)
 
