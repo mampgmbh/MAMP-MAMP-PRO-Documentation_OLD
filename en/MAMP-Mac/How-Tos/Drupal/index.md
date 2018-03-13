@@ -14,7 +14,7 @@ Click on Open Start Page, then on the phpMyAdmin link. Create a database in phpM
 
 ![MAMP](/en/MAMP-Mac/How-Tos/Drupal/phpMyAdminDrupal.png)
 
-Go to Open Start Page, click on  "MyWebsite" on the top menu bar, you should now see the Wordpress installation process begin.
+Go to Open Start Page, click on  "MyWebsite" on the top menu bar, you should now see the Drupal installation process begin.
 
 ![MAMP](/en/MAMP-Mac/How-Tos/Wordpress/MyWebsiteLink.png)
 
