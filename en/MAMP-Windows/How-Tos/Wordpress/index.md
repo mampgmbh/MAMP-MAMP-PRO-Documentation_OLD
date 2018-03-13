@@ -8,7 +8,7 @@ language: en
 
 ## How To install Wordpress
 
-Download Wordpress [here](https://wordpress.org){:target="_blank"}. 
+Download Wordpress files [here](https://wordpress.org){:target="_blank"}. 
 
 Move files to C:\MAMP\htdocs
 
