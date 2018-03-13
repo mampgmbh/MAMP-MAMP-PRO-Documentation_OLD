@@ -8,7 +8,7 @@ language: en
 
 ## How to install Drupal
 
-Download Drupal [here](https://drupal.org){:target="_blank"} . After downloading the resulting zip file should be in your `~/Downloads` folder. Unzip this drupal.zip file. You should now see a `~/Downloads/Drupal` folder. Move the contents of this folder  to `/Applications/MAMP/htdocs`.
+Download Drupal [here](https://drupal.org){:target="_blank"} . After downloading the resulting zip file should be in your `C:\Downloads` folder. Unzip this drupal.zip file. You should now see a `C:\Downloads\Drupal` folder. Move the contents of this folder  to `C:\Applications\MAMP\htdocs`.
 
 Click on Open Start Page, then on the phpMyAdmin link. Create a database in phpMyAdmin and call it "drupal".
 
