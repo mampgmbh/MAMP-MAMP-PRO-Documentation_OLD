@@ -12,19 +12,19 @@ Download Drupal [here](https://drupal.org){:target="_blank"} . After downloading
 
 Click on Open Start Page, then on the phpMyAdmin link. Create a database in phpMyAdmin and call it "wordpress".
 
-![MAMP](/en/MAMP-Windows/How-Tos/Drupal/phpMyAdminDrupal.png)
+![MAMP](/en/MAMP-Mac/How-Tos/Drupal/phpMyAdminDrupal.png)
 
 Go to Open Start Page, click on  "MyWebsite" on the top menu bar, you should now see the Wordpress installation process begin.
 
-![MAMP](/en/MAMP-Windows/How-Tos/Wordpress/MyWebsiteLink.png)
+![MAMP](/en/MAMP-Mac/How-Tos/Wordpress/MyWebsiteLink.png)
 
 The following fields are the default for the MAMP PRO MySQL installation, username: "root", password: "root", database host: "localhost" 
 
-![MAMP](/en/MAMP-Windows/How-Tos/Drupal/drupalWizard1.png)
+![MAMP](/en/MAMP-Mac/How-Tos/Drupal/drupalWizard1.png)
 
 Finish the Wordpress installation process. 
 
-![MAMP](/en/MAMP-Windows/How-Tos/Drupal/drupalWizard2.png)
+![MAMP](/en/MAMP-Mac/How-Tos/Drupal/drupalWizard2.png)
 
 
 
