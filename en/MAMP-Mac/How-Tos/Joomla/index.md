@@ -22,7 +22,7 @@ The following fields are the default for the MAMP PRO MySQL installation, userna
 
 ![MAMP](/en/MAMP-Mac/How-Tos/Joomla/joomlaWizard1.png)
 
-Finish the Wordpress installation process. 
+Finish the Joomla installation process. 
 
 ![MAMP](/en/MAMP-Mac/How-Tos/Joomla/joomlaWizard2.png)
 
