@@ -12,3 +12,4 @@ language: en
 - [Check the Default Storage Engine of MySQL](Check-the-Default-Storage-Engine-of-MySQL/)
 - [Set the MySQL Default Storage Engine](Set-the-MySQL-Default-Storage-Engine/)
 - [Connect to MySQL from PHP](Connect-to-MySQL-from-PHP/)
+- [Setup Wordpress site](Wordpress/)
