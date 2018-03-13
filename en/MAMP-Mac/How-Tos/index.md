@@ -13,3 +13,5 @@ language: en
 - [Set the MySQL Default Storage Engine](Set-the-MySQL-Default-Storage-Engine/)
 - [Connect to MySQL from PHP](Connect-to-MySQL-from-PHP/)
 - [Setup Wordpress site](Wordpress/)
+- [Setup Joomla site](Joomla/)
+- [Setup Drupal site](Drupal/)
