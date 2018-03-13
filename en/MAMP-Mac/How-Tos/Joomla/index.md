@@ -16,7 +16,7 @@ Click on Open Start Page, then on the phpMyAdmin link. Create a database in phpM
 
 Go to Open Start Page, click on  "MyWebsite" on the top menu bar, you should now see the Joomla installation process begin.
 
-![MAMP](/en/MAMP-Mac/How-Tos/Joomla/MyWebsiteLink.png)
+![MAMP](/en/MAMP-Windows/How-Tos/Joomla/MyWebsiteLink.png)
 
 The following fields are the default for the MAMP PRO MySQL installation, username: "root", password: "root", database host: "localhost" 
 
