@@ -18,11 +18,11 @@ Go to Open Start Page, click on  "MyWebsite" on the top menu bar, you should now
 
 ![MAMP](/en/MAMP-Mac/How-Tos/Joomla/MyWebsiteLink.png)
 
-The following fields are the default for the MAMP PRO MySQL installation, username: "root", password: "root", database host: "localhost" 
+The "admin" is the administrator for this Joomla site.
 
 ![MAMP](/en/MAMP-Mac/How-Tos/Joomla/joomlaWizard1.png)
 
-Finish the Joomla installation process. 
+Finish the Joomla installation process.The following fields are the default for the MAMP PRO MySQL installation, username: "root", password: "root", database host: "localhost".
 
 ![MAMP](/en/MAMP-Mac/How-Tos/Joomla/joomlaWizard2.png)
 
