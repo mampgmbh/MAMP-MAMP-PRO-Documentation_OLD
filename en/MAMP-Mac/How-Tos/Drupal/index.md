@@ -18,11 +18,11 @@ Go to Open Start Page, click on  "MyWebsite" on the top menu bar, you should now
 
 ![MAMP](/en/MAMP-Mac/How-Tos/Wordpress/MyWebsiteLink.png)
 
-The following fields are the default for the MAMP PRO MySQL installation, username: "root", password: "root", database host: "localhost" 
+The following fields are the default for the MAMP PRO MySQL installation, username: "root", password: "root", database host: "localhost".
 
 ![MAMP](/en/MAMP-Mac/How-Tos/Drupal/drupalWizard1.png)
 
-Finish the Wordpress installation process. 
+Finish the Drupal installation process. The "admin" user is the administration user for this Drupal site.
 
 ![MAMP](/en/MAMP-Mac/How-Tos/Drupal/drupalWizard2.png)
 
