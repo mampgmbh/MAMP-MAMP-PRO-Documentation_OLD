@@ -12,19 +12,19 @@ Download Wordpress [here](https://wordpress.org){:target="_blank"} . After downl
 
 Open Start Page, click on the phpMyAdmin link. Create database in phpMyAdmin and call it "wordpress".
 
-![MAMP](/en/MAMP-Windows/How-Tos/Wordpress/MAMP.png)
+![MAMP](/en/MAMP-Windows/How-Tos/Wordpress/.png)
 
 Go to Open Start Page, click on  "MyWebsite" on the top menu bar, you should now see the Wordpress installation process begin.
 
-![MAMP](/en/MAMP-Windows/How-Tos/Wordpress/MAMP.png)
+![MAMP](/en/MAMP-Windows/How-Tos/Wordpress/MyWebsiteLink.png)
 
 The following fields are the default for the MAMP PRO MySQL installation.
 
 username: "root", password: "root", database host: "localhost:8889" (Use only "localhost" if your Apache port is 80)
 
-![MAMP](/en/MAMP-Windows/How-Tos/Wordpress/MAMP.png)
+![MAMP](/en/MAMP-Windows/How-Tos/Wordpress/WordpressWizard.png)
 
-![MAMP](/en/MAMP-Windows/How-Tos/Wordpress/MAMP.png)
+![MAMP](/en/MAMP-Windows/How-Tos/Wordpress/WordpressWizard2.png)
 
 
 
