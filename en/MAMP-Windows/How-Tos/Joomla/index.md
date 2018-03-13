@@ -21,11 +21,11 @@ Go to Open Start Page, click on  "MyWebsite" on the top menu bar, you should now
 
 The "admin" is the administrator for this Joomla site.
 
-![MAMP](/en/MAMP-Windows/How-Tos/Joomla/joomlaWizard1.png)
+![MAMP](/en/MAMP-Windows/How-Tos/Joomla/JoomlaWizard1.png)
 
 Finish the Joomla installation process.The following fields are the default for the MAMP PRO MySQL installation, username: "root", password: "root", database host: "localhost".
 
-![MAMP](/en/MAMP-Windows/How-Tos/Joomla/joomlaWizard2.png)
+![MAMP](/en/MAMP-Windows/How-Tos/Joomla/JoomlaWizard2.png)
 
 
 
