@@ -10,7 +10,7 @@ language: en
 
 Download Wordpress [here](https://wordpress.org){:target="_blank"} . After downloading the resulting zip file should be in your `C:\Downloads` folder. Unzip this Wordpress.zip file. You should now see a `C:\Downloads\Wordpress` folder. Move the contents of this folder  to `C:\MAMP\htdocs`.
 
-Open Start Page, click on the phpMyAdmin link. Create database in phpMyAdmin and call it "wordpress".
+Click on Open Start Page, then on the phpMyAdmin link. Create a database in phpMyAdmin and call it "wordpress".
 
 ![MAMP](/en/MAMP-Windows/How-Tos/Wordpress/phpMyAdminAddWordpress.png)
 
