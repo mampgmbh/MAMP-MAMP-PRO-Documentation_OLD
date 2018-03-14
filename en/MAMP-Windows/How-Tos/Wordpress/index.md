@@ -10,7 +10,7 @@ language: en
 
 ### Download Wordpress and setup document root
 
-First Download Wordpress [here](https://wordpress.org){:target="_blank"} . After downloading the resulting zip file should be in your `C:\Downloads` folder. Unzip this Wordpress.zip file. You should now see a `C:\Downloads\Wordpress` folder. Move the contents of this folder  to `C:\MAMP\htdocs`.
+First Download Wordpress [here](https://wordpress.org){:target="_blank"} . After downloading, the resulting zip file should be in your `C:\Downloads` folder. Unzip this Wordpress.zip file. You should now see a `C:\Downloads\Wordpress` folder. Move the contents of this folder  to `C:\MAMP\htdocs`.
 
 ### Create database
 
