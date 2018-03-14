@@ -80,16 +80,16 @@ Note: Restoring your backed up files can potentially overwrite your current host
  ![MAMP](/en/MAMP-PRO-Windows/Menu/File/Settings.png)
  
  
- #### Open Webstart When starting MAMP PRO
+ *  **Open Webstart When starting MAMP PRO**     
  
- #### Path to Webstart:
+ *  **Path to Webstart:**    
  
- #### Allow Saving
+ *  **Allow Saving**    
  
- #### Apache and MySQL servers start as:
+ *  **Apache and MySQL servers start as:**    
  
- #### Use sys tray icon for MAMP PRO
+ *  **Use sys tray icon for MAMP PRO**    
  
- #### Reset editor layouts to default
+ *  **Reset editor layouts to default**    
  
 
