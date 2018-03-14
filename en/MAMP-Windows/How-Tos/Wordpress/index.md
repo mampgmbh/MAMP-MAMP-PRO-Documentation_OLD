@@ -18,7 +18,7 @@ Click on Open Start Page, then on the phpMyAdmin link. Create a database in phpM
 
 ![MAMP](/en/MAMP-Windows/How-Tos/Wordpress/phpMyAdminAddWordpress.png)
 
-## Run Wordpress installation
+### Run Wordpress installation
 
 Go to Open Start Page, click on  "MyWebsite" on the top menu bar, you should now see the Wordpress installation process begin.
 
