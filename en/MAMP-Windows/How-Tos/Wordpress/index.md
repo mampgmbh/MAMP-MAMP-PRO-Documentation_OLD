@@ -28,7 +28,7 @@ The following fields are the default for the MAMP PRO MySQL installation, userna
 
 ![MAMP](/en/MAMP-Windows/How-Tos/Wordpress/WordpressWizard.png)
 
-Finish the Wordpress installation process. 
+Finish the Wordpress installation process. The "admin" is your Wordpress administrator. You can use a different username for the administrator.
 
 ![MAMP](/en/MAMP-Windows/How-Tos/Wordpress/WordpressWizard2.png)
 
