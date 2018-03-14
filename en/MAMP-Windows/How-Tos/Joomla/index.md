@@ -24,7 +24,7 @@ Go to Open Start Page, click on  "MyWebsite" on the top menu bar, you should now
 
 ![MAMP](/en/MAMP-Windows/How-Tos/Joomla/MyWebsiteLink.png)
 
-The "admin" is the administrator for this Joomla site.
+The "admin" is the administrator for this Joomla site. You can use a different username for the administrator.
 
 ![MAMP](/en/MAMP-Windows/How-Tos/Joomla/JoomlaWizard1.png)
 
