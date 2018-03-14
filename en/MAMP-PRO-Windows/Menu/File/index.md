@@ -73,6 +73,8 @@ Restore files from a previous backup.
 Note: Restoring your backed up files can potentially overwrite your current host and database files. Back up your current host and database files before restoring from a backup. 
 </div>
 
+---
+
 ### Settings
 
  ![MAMP](/en/MAMP-PRO-Windows/Menu/File/Settings.png)
