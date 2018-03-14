@@ -8,11 +8,17 @@ language: en
 
 ## How To install Wordpress
 
-Download Wordpress [here](https://wordpress.org){:target="_blank"} . After downloading the resulting zip file should be in your `C:\Downloads` folder. Unzip this Wordpress.zip file. You should now see a `C:\Downloads\Wordpress` folder. Move the contents of this folder  to `C:\MAMP\htdocs`.
+### Download Wordpress and setup document root
+
+First Download Wordpress [here](https://wordpress.org){:target="_blank"} . After downloading the resulting zip file should be in your `C:\Downloads` folder. Unzip this Wordpress.zip file. You should now see a `C:\Downloads\Wordpress` folder. Move the contents of this folder  to `C:\MAMP\htdocs`.
+
+### Create database
 
 Click on Open Start Page, then on the phpMyAdmin link. Create a database in phpMyAdmin and call it "wordpress".
 
 ![MAMP](/en/MAMP-Windows/How-Tos/Wordpress/phpMyAdminAddWordpress.png)
+
+## Run Wordpress installation
 
 Go to Open Start Page, click on  "MyWebsite" on the top menu bar, you should now see the Wordpress installation process begin.
 
