@@ -76,7 +76,7 @@ To create a new host press the `Plus` button at the bottom left of the hosts tab
    If you select the default PHP version MAMP PRO will automatically adapt this setting if you choose
    a new default version in the PHP tab. Use a fixed setting to tell MAMP PRO not to alter the PHP version.
    
-      ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/General/PHP.png)
+      ![MAMP](/en/MAMP-PRO-Windows/Settings/Hosts/General/PHP.png)
 
    Sounds complicated? Let's take a look at an example: The default version is set to 5.5.9. You have oneHost
    set to PHP version `Default (5.5.9)`, anotherHost set to `5.5.9` and yetAnotherHost set to `5.3.28`.
@@ -87,7 +87,7 @@ To create a new host press the `Plus` button at the bottom left of the hosts tab
 
       *  **PHPInfo**
       
-         ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/General/phpInfo.png)
+         ![MAMP](/en/MAMP-PRO-Windows/Settings/Hosts/General/phpInfo.png)
       
          View your php configuration by pressing the 'i' button to the right of the version name.
       
@@ -116,7 +116,7 @@ To create a new host press the `Plus` button at the bottom left of the hosts tab
       
          <div class="alert" role="alert">
          Note: The Xip.io addresses will only work in your local network. They are temporary and may become invalid
-         if you restart your PC. Also make sure that your Internet router is not blocking Xip.io calls by using a DNS     Rebind protection. If the router does this you can either deactivate this function, add Xip.io as an exception or not use the router as DNS server in your Macs network settings.
+         if you restart your PC. Also make sure that your Internet router is not blocking Xip.io calls by using a DNS     Rebind protection. If the router does this you can either deactivate this function, add Xip.io as an exception or not use the router as DNS server in your PCs network settings.
          </div>
 
 *  **Document root**  
@@ -129,7 +129,7 @@ To create a new host press the `Plus` button at the bottom left of the hosts tab
    
    To remove a new host press the `Minus` button at the bottom left of the screen.
    
-   ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/General/removeHost.png)
+   ![MAMP](/en/MAMP-PRO-Windows/Settings/Hosts/General/removeHost.png)
    
    *  **Delete document root folder**
    
