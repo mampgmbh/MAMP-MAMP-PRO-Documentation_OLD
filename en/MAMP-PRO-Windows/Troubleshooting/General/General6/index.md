@@ -1,3 +1,14 @@
+---
+title: MAMP PRO (Windows) Documentation > General Troubleshooting
+description: 
+layout: default-2
+product: MAMP PRO Windows
+language: en
+---
+
+## Uninstall and completely delete MAMP PRO and MAMP
+
+
 This procedure will delete all Mamp and Mamp Pro files created by installation procedure, all configurations, settings, essential hosts information, serial keys, executables, libraries; so please use it with caution.
 
 Note: This assumes that your Windows OS was installed by default on C:\ drive. If it was not on C:\ drive please adjust paths accordingly.
