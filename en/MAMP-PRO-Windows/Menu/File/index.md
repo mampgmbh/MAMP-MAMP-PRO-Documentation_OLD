@@ -86,7 +86,7 @@ Note: Restoring your backed up files can potentially overwrite your current host
  
  *  **Path to Webstart:**
  
-     The path set to your Webstart page. This is by default with an Alias to [http://localhost:8888/MAMP](http://localhost:8888/MAMP) .
+     The path set to your Webstart page. This is by default, using an Alias, set to [http://localhost:8888/MAMP](http://localhost:8888/MAMP).
  
  *  **Allow Saving**
  
