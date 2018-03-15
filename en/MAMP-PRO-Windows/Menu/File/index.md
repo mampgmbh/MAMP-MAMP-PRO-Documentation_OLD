@@ -94,11 +94,11 @@ Note: Restoring your backed up files can potentially overwrite your current host
  
  *  **Apache and MySQL servers start as:**
  
-     ### Services
-     
-     ### Processes 
+     MAMP PRO can run Apache and MySQL as a service or a process. 
  
  *  **Use sys tray icon for MAMP PRO**    
+ 
+     
  
  *  **Reset editor layouts to default**    
  
