@@ -76,7 +76,7 @@ To create a new host press the `Plus` button at the bottom left of the hosts tab
    If you select the default PHP version MAMP PRO will automatically adapt this setting if you choose
    a new default version in the PHP tab. Use a fixed setting to tell MAMP PRO not to alter the PHP version.
    
-      ![MAMP](/en/MAMP-PRO-Windows/Settings/Hosts/General/PHP.png)
+      ![MAMP](/en/MAMP-PRO-Windows/Settings/Hosts/General/phpVersions.png)
 
    Sounds complicated? Let's take a look at an example: The default version is set to 5.5.9. You have oneHost
    set to PHP version `Default (5.5.9)`, anotherHost set to `5.5.9` and yetAnotherHost set to `5.3.28`.
