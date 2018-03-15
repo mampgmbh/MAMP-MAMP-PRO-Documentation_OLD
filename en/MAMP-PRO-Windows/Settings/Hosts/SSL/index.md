@@ -10,7 +10,7 @@ language: en
 
 To encrypt traffic from Apache to a web browser you can use SSL. If you would like to secure a productive server you should get the Certificate file and the Certificate key file from a Certified Authority (CA). You can use a "dummy" certificate for testing SSL functionality.
 
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/SSL/SSL.png)
+![MAMP](/en/MAMP-PRO-Windows/Settings/Hosts/SSL/SSL.png)
 
 *  **SSL**
  
