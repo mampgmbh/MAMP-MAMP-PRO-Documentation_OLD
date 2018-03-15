@@ -7,3 +7,11 @@ language: en
 ---
 
 ## Menu > View
+
+Use the View menu to view various tabs in MAMP PRO.
+
+### Overview
+
+The Overview provides a preview to your various hosts.
+
+
