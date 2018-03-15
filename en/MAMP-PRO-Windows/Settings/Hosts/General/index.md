@@ -87,7 +87,7 @@ To create a new host press the `Plus` button at the bottom left of the hosts tab
 
       *  **PHPInfo**
       
-         ![MAMP](/en/MAMP-PRO-Windows/Settings/Hosts/General/phpInfo.png)
+         ![MAMP](/en/MAMP-PRO-Windows/Settings/Hosts/General/phpInfoLink.png)
       
          View your php configuration by pressing the 'i' button to the right of the version name.
       
