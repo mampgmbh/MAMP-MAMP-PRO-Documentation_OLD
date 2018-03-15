@@ -46,6 +46,6 @@ Make a backup of your databases. The server must be shutdown to use this functio
 
 ### Show Hosts File:
 
-The hosts file is located in the `C:\Windows\System32\drivers\etc` directory, it maps host names to the IP address of your Mac. The host file contains the host names. Host entries created by MAMP PRO are marked by “# MAMP PRO - Do NOT remove this entry!”. These will disappear when Apache is shut down.
+The hosts file is located in the `C:\Windows\System32\drivers\etc` directory, it maps host names to the IP address of your PC. The host file contains the host names. Host entries created by MAMP PRO are marked by “# MAMP PRO - Do NOT remove this entry!”. These will disappear when Apache is shut down.
 
 ---
