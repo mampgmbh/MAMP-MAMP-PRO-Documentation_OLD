@@ -80,13 +80,23 @@ Note: Restoring your backed up files can potentially overwrite your current host
  ![MAMP](/en/MAMP-PRO-Windows/Menu/File/Settings.png)
  
  
- *  **Open Webstart When starting MAMP PRO**     
+ *  **Open Webstart When starting MAMP PRO**
  
- *  **Path to Webstart:**    
+     Check this box to open a browser to the Webstart page when you start MAMP PRO. 
  
- *  **Allow Saving**    
+ *  **Path to Webstart:**
  
- *  **Apache and MySQL servers start as:**    
+     
+ 
+ *  **Allow Saving**
+ 
+     Allow saving when MAMP PRO detects an invalid document root or IP Address.
+ 
+ *  **Apache and MySQL servers start as:**
+ 
+     ### Services
+     
+     ### Processes 
  
  *  **Use sys tray icon for MAMP PRO**    
  
