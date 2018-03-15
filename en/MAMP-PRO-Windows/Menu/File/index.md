@@ -12,7 +12,7 @@ language: en
 
 MAMP PRO uses templates to create the necessary server config files. You can edit these templates from the menu item       File > Edit template. Here, you have access to options which are not accessible from the MAMP PRO user interface.
 
-A template file is created in `C:\Users\[your username]\AppData\Roaming\Appsolute\MAMPPRO\templates` when you make a change to one of your templates. There are separate templates for your Apache, Apache SSL, Nginx PHP, and MySQL configurations.
+A template file is created in `C:\Users\[username]\AppData\Roaming\Appsolute\MAMPPRO\templates` when you make a change to one of your templates. There are separate templates for your Apache, Apache SSL, Nginx PHP, and MySQL configurations.
      
 <div class="alert" role="alert">
 Note: Errors in the templates of the configuration files can cause the servers not to start. You should edit these templates only if you are familiar with the exact syntax and meaning of the options.
