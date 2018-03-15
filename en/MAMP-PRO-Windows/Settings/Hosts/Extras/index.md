@@ -10,7 +10,7 @@ language: en
 
 With MAMP PRO Extras you can install a content management system in just a few clicks.
 
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/ExtrasPreview.png)
+![MAMP](/en/MAMP-PRO-Windows/Settings/Hosts/Extras/ExtrasPreview.png)
 
 The Extras panel shows the name of the extra, how many installations are possible per document root, and the php language version and MySQL compatibility.
 
