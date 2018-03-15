@@ -8,8 +8,7 @@ language: en
 
 ## Menu
 
-- [File](File/)  
-- [Log](Log/)  
+- [File](File/)    
 - [Tools](Tools/)  
 - [View](View/)
 - [Help](Help/)
