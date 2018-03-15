@@ -58,7 +58,7 @@ PHP is a popular web scripting programming language. MAMP PRO installs several v
    *  **OPCache**  
          OPcache improves PHP performance by storing precompiled script bytecode in shared memory, thereby removing the need for PHP to load and parse scripts on each request. You can learn more about OPcache  [here](http://php.net/manual/en/book.opcache.php){:target="_blank"}.
    
-   ![MAMP](/en/MAMP-PRO-Mac/Languages/PHP/cache.png) 
+   ![MAMP](/en/MAMP-PRO-Windows/Languages/PHP/cacheModule.png) 
    
    Several caches provide a user interface to help analyze and profile your code. Press the ![MAMP](/en/MAMP-PRO-Mac/First-Steps/BlackArrow.png) button to the right of the cache name to view this interface. An interface is not available if the Arrow button is not enabled.
 
