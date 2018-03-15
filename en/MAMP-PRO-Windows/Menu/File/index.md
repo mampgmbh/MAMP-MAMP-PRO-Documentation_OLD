@@ -86,7 +86,7 @@ Note: Restoring your backed up files can potentially overwrite your current host
  
  *  **Path to Webstart:**
  
-     
+     The path set to your Webstart page. This is by default with an Alias to http://localhost/MAMP .
  
  *  **Allow Saving**
  
@@ -96,10 +96,5 @@ Note: Restoring your backed up files can potentially overwrite your current host
  
      MAMP PRO can run Apache and MySQL as a service or a process. 
  
- *  **Use sys tray icon for MAMP PRO**    
- 
-     
- 
- *  **Reset editor layouts to default**    
- 
+
 
