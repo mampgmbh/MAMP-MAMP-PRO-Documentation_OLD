@@ -15,7 +15,7 @@ Note: When Wordpress is installed the host name and Apache port number are store
 </div>
 
 
-![MAMP](/en/MAMP-PRO-Windows/Settings/Hosts/Extras/WordPress/ExtrasWordPress.png)
+![MAMP](/en/MAMP-PRO-Windows/Settings/Hosts/Extras/WordPress/ExtrasWordpress.png)
 
 *  **Name of the blog:**  
    The name of your blog.
