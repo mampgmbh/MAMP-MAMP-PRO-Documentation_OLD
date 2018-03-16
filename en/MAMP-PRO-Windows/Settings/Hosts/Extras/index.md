@@ -12,7 +12,7 @@ With MAMP PRO Extras you can install a content management system in just a few c
 
 ![MAMP](/en/MAMP-PRO-Windows/Settings/Hosts/Extras/ExtrasPreview.png)
 
-The Extras panel shows the name of the extra, how many installations are possible per document root, and the php language version and MySQL compatibility.
+The Extras panel shows the name of the extra, and the php language version compatibility.
 
 - [WordPress](WordPress/)  
 - [Joomla](Joomla/)  
@@ -25,7 +25,6 @@ The Extras panel shows the name of the extra, how many installations are possibl
 - [ForkCMS](ForkCMS/)
 - [Bootstrap](Bootstrap/)
 - [opencart](opencart/) 
-- [Dolibarr](Dolibarr/)
 - [webEdition](webEdition/)
 
 ---
