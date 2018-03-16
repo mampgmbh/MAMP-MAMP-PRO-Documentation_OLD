@@ -14,7 +14,6 @@ WordPress is a free and open-source content management system based on PHP and M
 Note: When Wordpress is installed the host name and Apache port number are stored in its corresponding database. Changing the Apache port after installation will result in breaking your Wordpress installation. Port migration tools are available for Wordpress. It is generally advised to create Wordpress hosts using Apache port 80.
 </div>
 
-
 ![MAMP](/en/MAMP-PRO-Windows/Settings/Hosts/Extras/WordPress/ExtrasWordpress.png)
 
 *  **Name of the blog:**  
