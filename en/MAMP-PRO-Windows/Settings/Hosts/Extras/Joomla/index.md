@@ -12,7 +12,7 @@ Joomla is a free and open-source content management system. More information abo
 
 Joomla installations can share a single MySQL database if you provide a unique table prefix during installation. To use an existing database enter the name of the database and a unique table prefix. To create a new database use a unique database name. The table prefix must not be empty.
 
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Joomla/Joomla.png)
+![MAMP](/en/MAMP-PRO-Windows/Settings/Hosts/Extras/Joomla/ExtraJoomla.png)
 
 *  **Name of the site:**  
    The name of your site.
@@ -50,15 +50,6 @@ Joomla installations can share a single MySQL database if you provide a unique t
    Note: You will need this password to login into your new Joomla site, please write this down.
    </div>
    
----
- 
-### Installation
- 
-After your Joomla extra is installed you will see two links to your site. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/BlackArrow.png) button will open your Extra's homepage. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/gear.png) button will open the admin page of your Joomla site. Your admin page is in the `/administrator` subdirectory of your document root. Your database name is indicated to the right of the  ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/mysql.png) icon, your database table prefix is in parenthesis.
-
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Joomla/joomlaInstall.png)
-
-
 ---
  
 ### Configuration
