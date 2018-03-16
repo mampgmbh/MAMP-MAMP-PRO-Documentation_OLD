@@ -10,7 +10,7 @@ language: en
 
 PrestaShop is a free, open source e-commerce solution. More information about PrestaShop can be found [here](https://www.prestashop.com){:target="_blank"}.
 
-![MAMP](/en/MAMP-PRO-Windows/Settings/Hosts/Extras/PrestaShop/ExtraPrestaShop.png)
+![MAMP](/en/MAMP-PRO-Windows/Settings/Hosts/Extras/PrestaShop/ExtrasPrestaShop.png)
 
 *  **Name of the shop:**  
    Name your shop.
