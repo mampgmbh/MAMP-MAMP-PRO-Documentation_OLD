@@ -10,7 +10,7 @@ language: en
 
 Opencart is a free and open-source eCommerce platform. More information about opencart can be found [here](https://www.opencart.com){:target="_blank"}.
 
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/opencart/opencart.png)
+![MAMP](/en/MAMP-PRO-Extras/Settings/Hosts/Extras/opencart/ExtraOpencart.png)
 
 *  **Email address:**  
    Your email address.  
@@ -36,16 +36,4 @@ Opencart is a free and open-source eCommerce platform. More information about op
    Note: You will need this password to login into your new opencart shop, please write this down.
    </div>
    
----
-
-### Installation
- 
-After your opencart extra is installed you will see two links to your site. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/BlackArrow.png) button will open your Extra's homepage. Your home page is in the `/upload` subdirectory of your document root. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/gear.png) button will open the admin page of your opencart site. Your admin page is in the `/upload/admin` subdirectory of your document root. Your database name is indicated to the right of the  ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/mysql.png) icon, your database table prefix is in parenthesis.
-
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/opencart/installOpenCart.png)
-
----
-   
-Opencart installation documentation can be found [here](http://docs.opencart.com/installation/){:target="_blank"}.
-
 
