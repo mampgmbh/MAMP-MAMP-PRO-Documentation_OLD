@@ -42,12 +42,4 @@ phpBB is an Internet forum package written in the PHP scripting language. More i
    Note: You will need this password to login into your new phpBB installation, please write this down.
    </div>
    
-   ---
-
-### Installation
- 
-After your phpBB extra is installed you will see two links to your site. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/BlackArrow.png) button will open your Extra's homepage. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/gear.png) button will open the admin page of your phpBB site. Your admin page is in the `ucp.php` file in your document root. Your database name is indicated to the right of the  ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/mysql.png) icon, your database table prefix is in parenthesis.
-
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/phpBB/installphpBB.png)
-
 
