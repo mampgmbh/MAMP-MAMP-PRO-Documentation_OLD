@@ -10,7 +10,7 @@ language: en
 
 Bootstrap is a popular HTML, CSS, and JS framework. Use the Bootstrap Extra to quickly set up a document root. The basic template from Bootstrap is provided, along with the js, css, and fonts directories from Bootstrap. More information about Bootstrap can be found [here](https://www.getbootstrap.com){:target="_blank"}.
 
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Bootstrap/BootStrap.png)
+![MAMP](/en/MAMP-PRO-Windows/Settings/Hosts/Extras/ExtraBootstrap/BootStrap.png)
 
 *  **Name of the site:**  
    The name of your site.
@@ -26,7 +26,4 @@ After your Bootstrap extra is installed you will see two links to your site. The
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Bootstrap/installBootstrap.png)
 
----
-
-<i class="fa fa-play-circle-o fa-lg" aria-hidden="true"></i>  [Installing Bootstrap with Extras](https://www.youtube.com/watch?v=rygYIaKPRFw){:target="_blank"}
 
