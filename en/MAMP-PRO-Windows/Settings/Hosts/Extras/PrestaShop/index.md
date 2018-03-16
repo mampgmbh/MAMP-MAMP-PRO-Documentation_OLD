@@ -10,7 +10,7 @@ language: en
 
 PrestaShop is a free, open source e-commerce solution. More information about PrestaShop can be found [here](https://www.prestashop.com){:target="_blank"}.
 
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/PrestaShop/PrestaShop.png)
+![MAMP](/en/MAMP-PRO-Windows/Settings/Hosts/Extras/PrestaShop/ExtraPrestaShop.png)
 
 *  **Name of the shop:**  
    Name your shop.
@@ -42,12 +42,3 @@ PrestaShop is a free, open source e-commerce solution. More information about Pr
 *  **Database name:**  
    Set the name of your database schema which will be added to your local database.  
    After installation you can view this database for this instance of PrestaShop using phpMyAdmin, Sequel Pro, or           MySQLWorkbench. 
-
----
-
-### Installation
- 
-After your Presta Shop extra is installed you will see two links to your site. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/BlackArrow.png) button will open your Extra's homepage. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/gear.png) button will open the admin page of your Presta Shop site. Your database name is indicated to the right of the  ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/mysql.png) icon, your database table prefix is in parenthesis.
-
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/PrestaShop/installPresta.png)
-
