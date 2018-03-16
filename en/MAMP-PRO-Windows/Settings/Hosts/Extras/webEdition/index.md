@@ -10,7 +10,7 @@ language: en
 
 webEdition is an open source web application framework and content management system. webEdition will always be installed in a folder called webEdition inside the document root folder. More information about webEdition can be found [here](https://www.webedition.org){:target="_blank"}.
 
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/webEdition/webEdition.png)
+![MAMP](/en/MAMP-PRO-Windows/Settings/Hosts/Extras/webEdition/ExtraswebEdition.png)
 
 *  **Email address:**  
    Your email address.
