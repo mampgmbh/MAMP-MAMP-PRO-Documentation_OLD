@@ -10,7 +10,7 @@ language: en
 
 Drupal is content management software. It's used to make many of the websites and applications you use every day. More information about Drupal can be found [here](https://www.drupal.org){:target="_blank"}.
 
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Drupal/Drupal.png)
+![MAMP](/en/MAMP-PRO-Windows/Settings/Hosts/Extras/Drupal/ExtraDrupal.png)
 
 *  **Name of the site:**  
    The name your site.
@@ -48,12 +48,4 @@ Drupal is content management software. It's used to make many of the websites an
    Note: You will need this password to login into your new Drupal site, please write this down.
    </div>
    
----
- 
-### Installation
- 
-After your Drupal extra is installed you will see two links to your site. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/BlackArrow.png) button will open your Extra's homepage. The ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/gear.png) button will open the admin page of your Drupal site. Your admin page is in your `/user/login` subdirectory of your document root. Your database name is indicated to the right of the  ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/mysql.png) icon, your database table prefix is in parenthesis.
-
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Extras/Drupal/drupInstall.png)
-
 
