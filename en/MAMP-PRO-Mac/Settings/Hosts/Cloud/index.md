@@ -50,7 +50,7 @@ Represents the size of your data stored in the cloud.
 
     When saving to the cloud, MAMP PRO archives the data from the hosts document root folder and data from the MySQL databases and tables mapped to the host into a single zip file and optionally encrypts it with your encryption key. The archive will be transferred to the cloud afterwords. When encryption is used your archive is saved with a .encryptedzip extension.
 
-*  **Load to cloud**
+*  **Load from cloud**
 
     Loading data from the cloud is the reverse process: After having loaded the archive, it will be decrypted if necessary, decompressed and the data will be copied to the hosts document root folder and imported back into MySQL. 
 
