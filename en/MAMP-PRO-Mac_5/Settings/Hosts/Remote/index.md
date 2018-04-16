@@ -13,19 +13,21 @@ Transfer your host and database files to a host provider.
 ![MAMP](/en/MAMP-PRO-Mac_5/Settings/Hosts/Remote/Remote.png)
 
 
-### Protocol:
+### Remote Server
 
-### Port:
+#### Protocol:
 
-### Server:
+#### Port:
 
-### Path:
+#### Server:
 
-### User Name:
+#### Path:
 
-### Password:
+#### User Name:
 
-### Public URL:
+#### Password:
+
+#### Public URL:
 
 ---
 
