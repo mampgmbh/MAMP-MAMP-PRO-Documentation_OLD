@@ -61,7 +61,7 @@ The password for your database user on your remote server.
 
 The name of the database you will be using on your remote server.
 
-### DB Host
+#### DB Host
 
 The name of your host on your remote server.
 
