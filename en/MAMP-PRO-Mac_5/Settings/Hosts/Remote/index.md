@@ -6,4 +6,13 @@ product: MAMP PRO Mac
 language: en
 ---
 
-## Remote
+## Settings > Hosts > Remote
+
+Transfer your host and database files to a host provider. 
+
+![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Remote/Remote.png)
+
+
+
+
+
