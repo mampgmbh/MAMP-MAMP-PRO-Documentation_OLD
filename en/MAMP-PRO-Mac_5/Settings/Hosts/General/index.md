@@ -23,7 +23,7 @@ To create a new host press the `Plus` button at the bottom left of the Hosts tab
    but it may not begin or end with a "-" character.
    Names are not case-sensitive (upper and lower-case letters are not distinguished.)
    
-*  **This is s Wordpress host**
+*  **This is a Wordpress host**
 
    Automatically install a Wordpress host.
 
@@ -34,9 +34,24 @@ To create a new host press the `Plus` button at the bottom left of the Hosts tab
 
 ---
 
+### In addition to host entry
+
+Expanded customization is available when creating a host.
+
+![MAMP](/en/MAMP-PRO-Mac_5/Settings/Hosts/General/OpenHostExpanded.png)
+
 *  **Create a database named**
 
    You can optionally create a MySQL database. Most content management systems require a database, and you can conveniently add one here.
+   
+*  **Grant access to user**
+
+   Grant access to a user.
+   
+*  **Using password**
+
+   Use this password.
+
 
 *  **Copy the contents of a template folder to the document root**
 
