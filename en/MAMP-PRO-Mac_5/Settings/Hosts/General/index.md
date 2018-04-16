@@ -67,20 +67,6 @@ Expanded customization is available when creating a host.
 
    The hosts table contains several columns. You can drag the columns to change their default order. In the default order, the first column contains your host name. The second column indicates which web server will host the file. 
 
-   The third column indicates whether the host is active. If left unchecked, the host will not be active and cannot be viewed in a web browser.
-
-   The fourth column contains the php version that is used with host. The fifth column will display an icon of the Extra installed if an Extra is installed.
-   
-   Shortcuts to several often used functions are accessible by right clicking on the highlighted host.
-   
-   ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/General/hostTableShortcuts.png)
-   
-      At the bottom of the hosts table there are several functions. Clicking on the ![MAMP](/en/MAMP-PRO-Mac/First-Steps/gear.png) icon will highlight several functions that will allow you to save your host settings enabling you to re- introduce them at a later date. This serves as a backup in case you make server changes and later discover your site is no longer accessible.
-
-   ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/General/hostTableFunctions.png)
-   
-      The hosts table also contains cloud information and functionality. A description of these can be found [here](../Cloud).
-
 ---
 
 <a name="open_host"></a>
