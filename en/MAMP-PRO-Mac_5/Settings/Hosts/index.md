@@ -12,8 +12,7 @@ language: en
 - [Apache](Apache/)  
 - [Nginx](Nginx/)  
 - [SSL](SSL/)
-- [Extras](Extras/)
 - [Databases](Databases/)  
-- [Hosts Table](General/#host_table)  
+- [Remote](Remote)  
 - [Cloud](Cloud/)  
 
