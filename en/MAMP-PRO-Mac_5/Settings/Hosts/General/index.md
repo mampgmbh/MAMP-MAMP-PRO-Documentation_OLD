@@ -22,6 +22,11 @@ To create a new host press the `Plus` button at the bottom left of the Hosts tab
    The host name may only contain letters and/or numbers, as well as dashes ("-");
    but it may not begin or end with a "-" character.
    Names are not case-sensitive (upper and lower-case letters are not distinguished.)
+   
+*  **This is s Wordpress host**
+
+   Automatically install a Wordpress host.
+
 
 *  **Document root**
 
