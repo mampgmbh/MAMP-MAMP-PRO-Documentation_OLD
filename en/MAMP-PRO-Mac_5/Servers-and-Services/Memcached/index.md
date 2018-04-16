@@ -6,11 +6,11 @@ product: MAMP PRO Mac
 language: en
 ---
 
-## Servers and Services > Memcached (Available in MAMP PRO 4.1 or greater)
+## Servers and Services > Memcached 
 
 Memcached is an in-memory key-value store for small chunks of arbitrary data.
 
-![MAMP](/en/MAMP-PRO-Mac/Servers-and-Services/Memcached/memCached.png)
+![MAMP](/en/MAMP-PRO-Mac_5/Servers-and-Services/Memcached/memCached.png)
 
 *  **Include Memcached server in GroupStart**  
 
