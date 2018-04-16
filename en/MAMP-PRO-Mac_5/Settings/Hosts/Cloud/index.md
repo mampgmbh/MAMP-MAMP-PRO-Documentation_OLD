@@ -12,7 +12,7 @@ Hosts can be saved to and loaded from the cloud. MAMP PRO will save both your do
 
 If you have a data driven host, you must first associate the database with the host before you save it to the cloud. Associating a host with a database can be done on the [Databases tab](../Databases).
 
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Cloud/cloud.png)
+![MAMP](/en/MAMP-PRO-Mac_5/Settings/Hosts/Cloud/cloud.png)
 
 To expand and view your cloud host settings press the "Arrow" button on the bottom right of the hosts table. To view your cloud functions press the "cloud" button.
 
