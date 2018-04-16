@@ -10,7 +10,7 @@ language: en
 
 Transfer your host and database files to a host provider. 
 
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Remote/Remote.png)
+![MAMP](/en/MAMP-PRO-Mac_5/Settings/Hosts/Remote/Remote.png)
 
 
 
