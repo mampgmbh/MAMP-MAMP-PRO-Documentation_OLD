@@ -38,7 +38,7 @@ To create a new host press the `Plus` button at the bottom left of the Hosts tab
 
 Expanded customization is available when creating a host.
 
-![MAMP](/en/MAMP-PRO-Mac_5/Settings/Hosts/General/OpenHostExtended.png)
+![MAMP](/en/MAMP-PRO-Mac_5/Settings/Hosts/General/openHostExtended.png)
 
 *  **Create a database named**
 
