@@ -10,4 +10,4 @@ language: en
 
 Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker.
 
-![MAMP](/en/MAMP-PRO-Mac_5/Servers-and-Services/Memcached/Redis.png)
+![MAMP](/en/MAMP-PRO-Mac_5/Servers-and-Services/Redis/Redis.png)
