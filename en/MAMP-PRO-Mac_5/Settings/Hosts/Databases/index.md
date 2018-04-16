@@ -10,7 +10,7 @@ language: en
 
 The Database tab indicates which databases are associated with each host. You can associate individual databases or tables with a host. Disabled checkmarks flag databases and tables that are mapped to a host via an Extra.
 
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/Databases/Databases.png)
+![MAMP](/en/MAMP-PRO-Mac_5/Settings/Hosts/Databases/Databases.png)
 
 ---
 
