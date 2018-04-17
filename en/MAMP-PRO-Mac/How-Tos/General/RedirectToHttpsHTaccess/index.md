@@ -8,6 +8,9 @@ language: en
 
 ### Redirecting http traffic to https site using .htaccess file
 
+In order to redirect access from http to https, you must first setup both a http and https host with the same host name.
+
+
 1. Create a .htaccess file using the MAMP PRO Editor and save this file in your document root.
 2. Add the following lines to your .htaccess file.
 
