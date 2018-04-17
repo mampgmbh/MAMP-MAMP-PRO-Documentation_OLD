@@ -8,6 +8,8 @@ language: en
 
 ### Redirect http traffic to https site using MAMP PRO interface
 
+In order to redirect access from http to https, you must first setup both a http and https host with the same host name.
+
 1. Go to your Settings > Hosts > Apache tab in MAMP PRO.
 2. Add the following lines to your Additional Parameters for <Virtual Host> directive:
 
