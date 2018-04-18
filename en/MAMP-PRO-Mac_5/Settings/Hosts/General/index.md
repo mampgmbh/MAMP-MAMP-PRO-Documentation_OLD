@@ -171,22 +171,6 @@ Expanded customization is available when creating a host.
    
    ---
    
-   Information on how to  create a host using the command line can be found [here](../../../How-Tos/General) 
-   
-   ---
-   
    To remove a new host press the `Minus` button at the bottom left of the screen.
+ 
    
-   ![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/General/removeHost.png)
-   
-   *  **Delete document root folder**
-   
-      MAMP PRO will delete your document root folder and all of its contents.
-   
-   *  **Remove Extra database**
-   
-      If your host is an Extra, MAMP PRO will delete the database installed Extra database.
-      
-   *  **Remove manually created database**
-   
-      Remove the database you installed when creating this host.
