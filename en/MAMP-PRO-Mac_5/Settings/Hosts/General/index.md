@@ -136,6 +136,8 @@ Expanded customization is available when creating a host.
          </div>
       
          <i class="fa fa-play-circle-o fa-lg" aria-hidden="true"></i> [Viewing site using xip.io](https://www.youtube.com/watch?v=sYHPYCDvU1Q){:target="_blank"}
+         
+---
 
 *  **Document root**  
    The location of the documents (HTML/PHP files etc.) of a virtual host is called a document root.
