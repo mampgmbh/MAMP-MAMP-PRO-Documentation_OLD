@@ -176,7 +176,9 @@ Expanded customization is available when creating a host.
 
    ![MAMP](/en/MAMP-PRO-Mac_5/Settings/Hosts/General/generalExtras.png)
 
-The Extras panel shows the name of the extra, how many installations are possible per document root, and the php language version and MySQL compatibility.
+The Extras panel shows the name of the extra, how many installations are possible per document root, and the php language version and MySQL compatibility. MAMP PRO offers the following Extras.
+
+
 
 ---
 
