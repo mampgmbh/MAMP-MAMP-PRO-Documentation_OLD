@@ -168,11 +168,14 @@ Expanded customization is available when creating a host.
        *  **Change directory right**
        *  **Change file right**  
 
+---
+
+*  **Extras**  
+
+---
+
 *  **Alias Name**  
    Aliases are additional names for your virtual host. The same constraints apply to these additional names as to the host itself. Add aliases with the plus-button.
    
-   ---
-   
-   To remove a new host press the `Minus` button at the bottom left of the screen.
- 
+
    
