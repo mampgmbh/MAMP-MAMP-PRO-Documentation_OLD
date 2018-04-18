@@ -178,20 +178,20 @@ Expanded customization is available when creating a host.
 
 The Extras panel shows the name of the extra, how many installations are possible per document root, and the php language version and MySQL compatibility. MAMP PRO offers the following Extras.
 
-- [WordPress](WordPress/)  
-- [Joomla](Joomla/)  
-- [Drupal](Drupal/) 
-- [webEdition](webEdition/)
-- [Magento](Magento/)
-- [Mediawiki](Mediawiki/) 
-- [phpBB](phpBB/) 
-- [PrestaShop](PrestaShop/)
-- [Concrete5](Concrete5/) 
-- [Grav](Grav/) 
-- [ForkCMS](ForkCMS/)
-- [Bootstrap](Bootstrap/)
-- [opencart](opencart/) 
-- [SilverStripe](SilverStripe/) 
+- [WordPress](Extras/WordPress/)  
+- [Joomla](Extras/Joomla/)  
+- [Drupal](Extras/Drupal/) 
+- [webEdition](Extras/webEdition/)
+- [Magento](Extras/Magento/)
+- [Mediawiki](Extras/Mediawiki/) 
+- [phpBB](Extras/phpBB/) 
+- [PrestaShop](Extras/PrestaShop/)
+- [Concrete5](Extras/Concrete5/) 
+- [Grav](Extras/Grav/) 
+- [ForkCMS](Extras/ForkCMS/)
+- [Bootstrap](Extras/Bootstrap/)
+- [opencart](Extras/opencart/) 
+- [SilverStripe](Extras/SilverStripe/) 
 
 ---
 
