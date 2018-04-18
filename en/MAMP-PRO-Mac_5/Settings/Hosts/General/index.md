@@ -59,15 +59,7 @@ Expanded customization is available when creating a host.
 
 ---
 
-![MAMP](/en/MAMP-PRO-Mac/Settings/Hosts/General/General.png)
-
-<a name="host_table"></a>
-
-*  **Hosts Table**
-
-   The hosts table contains several columns. You can drag the columns to change their default order. In the default order, the first column contains your host name. The second column indicates which web server will host the file. 
-
----
+![MAMP](/en/MAMP-PRO-Mac_5/Settings/Hosts/General/General.png)
 
 <a name="open_host"></a>
 
