@@ -174,7 +174,7 @@ Expanded customization is available when creating a host.
 
    With MAMP PRO Extras you can install a content management system in just a few clicks.
 
-   ![MAMP](/en/MAMP-PRO-Mac_5/Settings/Hosts/General/Extras.png)
+   ![MAMP](/en/MAMP-PRO-Mac_5/Settings/Hosts/General/generalExtras.png)
 
 The Extras panel shows the name of the extra, how many installations are possible per document root, and the php language version and MySQL compatibility.
 
