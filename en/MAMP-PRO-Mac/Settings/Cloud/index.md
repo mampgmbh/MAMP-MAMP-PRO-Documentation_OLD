@@ -57,17 +57,12 @@ When saving to cloud it will be saved as either a zip archive (.zip) or an encry
 
 When MAMP PRO turns off the Cloud activity signals the data has been completely transferred to Dropbox. At that point, the Dropbox software might not even have started to re-transfer the data back to the originating computer. The Dropbox is not an indicator that MAMP PRO has finished its cloud work.
 
-You can spot cloud related activity when you see the following:
-
-The elephant logos in the toolbar and menubar are green. 
+You can spot cloud related activity when you see the cloud logo in the toolbar and menubar are green. 
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Cloud/menuBar.png)
 
 ![MAMP](/en/MAMP-PRO-Mac/Settings/Cloud/toolBar.png)
 
-The "transmission" entry next to the cloud icon on the sidebar.
-
-![MAMP](/en/MAMP-PRO-Mac/Settings/Cloud/sideBar.png)
 
 
 
