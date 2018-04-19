@@ -76,7 +76,7 @@ The following list contains all files which are created and changed by MAMP PRO 
 
 ---
 
-### Where are the configuration files located.
+### Where are the configuration files located?
 
 The changes you make in the MAMP PRO interface and template files help create real configuration files. The configuration files are recreated every time you start your servers. You cannot edit these files directly, however you can view them to verify your changes in the interface or template files are correctly being reflected.
 
