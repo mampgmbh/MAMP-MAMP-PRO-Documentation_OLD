@@ -11,7 +11,7 @@ language: en
 1. Go to your Settings > Hosts > Apache tab in MAMP PRO.
 2. Add the following lines to your Additional Parameters for <Virtual Host> directive:
 
-![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/httpsRedirectInMAMP.png)
+![MAMP](/en/MAMP-PRO-Windows/How-Tos/General/httpsRedirectInMAMP.png)
 
 {% highlight php %}
 
