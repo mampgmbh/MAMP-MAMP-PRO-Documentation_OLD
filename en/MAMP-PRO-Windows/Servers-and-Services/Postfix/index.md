@@ -1,5 +1,5 @@
 ---
-title: MAMP PRO (Mac) Documentation > Servers and Services > Postfix
+title: MAMP PRO (Windows) Documentation > Servers and Services > Postfix
 description: 
 layout: default-2
 product: MAMP PRO Windows
@@ -10,7 +10,7 @@ language: en
 
 Sometimes you may need to send an email using PHP, to do so you have to configure and start Postfix. An easy way getting Postfix to run is using the configuration tool built into MAMP PRO. 
 
-![MAMP](/en/MAMP-PRO-Windows/Servers-and-Services/Postfix/Postfix.png)
+![MAMP](/en/MAMP-PRO-Windows/Servers-and-Services/Postfix/smtp.png)
 
 *  **Include Postfix service in GroupStart**  
 
