@@ -6,30 +6,23 @@ product: MAMP PRO Windows
 language: en
 ---
 
-### Install Composer for a Individual Host
+### Install Composer 
 
-You can setup a host to use Composer in a few steps. Information on downloading Composer can be found [here](https://getcomposer.org/doc/00-intro.md){:target="_blank"}. Scroll down and click on  "download this file" for OS X. This should download an "Installer" file to your downloads folder. 
+You can setup a host to use Composer in a few steps. Information on downloading Composer can be found [here]( https://getcomposer.org/download/){:target="_blank"}. Click on the  "Composer-Setup.exe" in the Windows Installer section. This should download an "Composer-Setup" file to your downloads folder. 
 
-Next create a host. In a new terminal navigate to the document root of   your new host. Move the Install file which you downloaded from the Composer website to your document root. Run the following commands in your terminal found in the Composer documentation as explained [here](https://getcomposer.org/download/){:target="_blank"}.
- 
- {% highlight php %}
-  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
-    php -r "if (hash_file('SHA384', 'composer-setup.php') === '669656bab3166a7aff8a7506b8cb2d1c292f042046c5a994c43155c0be6190fa0355160742ab2e1c88d40d5be660b410') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
-  php composer-setup.php
-  php -r "unlink('composer-setup.php');"
- {% endhighlight %}
- 
- You can find packages [here](https://packagist.org){:target="_blank"}.
-  
- To install the psr/log, a common interface for logging libraries, type the following in your terminal and press return.
+Click on the Composer-Setup and you will be guided through the installation. Proxy settings will not be covered in this How-To.
+
+Point to the version of PHP you would like to install Composer for.
+
+![MAMP](/en/MAMP-PRO-Windows/How-Tos/General/SetupComposer/phpComposerWithPath.png)
+
+The installation wizard will finish the installation.
+
+![MAMP](/en/MAMP-PRO-Windows/How-Tos/General/SetupComposer/PHPComposerFinish.png)
+
+Confirm you have properly installed Composer by typing "Composer --v" on the command line.
     
- {% highlight php %}
-   php composer.phar require psr/log
- {% endhighlight %}
-    
- Your document root should now look like the this.
-    
-![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/SetupComposer/documentRoot.png)
+![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/SetupComposer/phpComposerWithPath.png)
     
 ---
 
