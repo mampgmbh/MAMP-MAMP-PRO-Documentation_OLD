@@ -40,12 +40,6 @@ Note: Errors in the templates of the configuration files can cause the servers n
      
      Open and edit your my.cnf template file here. There are likely several versions of MySQL available, each of them with their own template file. Changes made to your template file will be reflected your real my.cnf file. The my.cnf file created from the template file and is located in `C:\Users\Public\Documents\Appsolute\MAMPPRO\conf\`.
  
-*  **Postfix (main.cf)** 
-     
-     Open and edit your main.cnf template file here. There are likely several versions of MySQL available, each of them with their own template file. Changes made to your template file will be reflected your real main.cnf file. The main.cnf file created from the template file and is located in `C:\Users\Public\Documents\Appsolute\MAMPPRO\conf\`.
- 
-
-
 ### Factory Settings:
   
 *  **Development**     
