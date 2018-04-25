@@ -20,33 +20,11 @@ The MySQL database server is a popular database used on production servers. An i
 *  **Version**  
    The current MySQL version.
 
-*  **Data directory**  
-   Displays the location of your MySQL Data. This location cannot be changed.
-   <div class="alert" role="alert">
-   The MAMP PRO Uninstaller will delete this directory. Make backups before using the uninstller!
-   </div>
-
 ---
 
 *  **Change password of user "root"**  
    The Head Database Administrator is called root. This user has unlimited access to all databases.
    Therefore you should set the password to one only you know.  
-
----
-
-*  **Allow network access to MySQL**  
-   If the checkbox for allow network access to MySQL is not checked, network access to the database is prohibited,
-   even from programs installed locally.
-
-   <div class="alert" role="alert"> 
-   Note: This is an advanced feature not needed for local development.
-   </div>
-   
-    *  **only from this Mac**  
-       Only programs installed on this Mac can access MySQL via network functions.
-
-    *  **from other computers**  
-       MySQL will answer any network request, even from computers on the internet, depending on you network settings.
 
 ---
 
