@@ -20,7 +20,7 @@ The installation wizard will finish the installation.
 
 ![MAMP](/en/MAMP-PRO-Windows/How-Tos/General/SetupComposer/PHPComposerFinish.png)
 
-Confirm you have properly installed Composer by typing "Composer --v" on the command line.
+Confirm you have properly installed Composer by typing "composer --v" on the command line.
     
 ![MAMP](/en/MAMP-PRO-Windows/How-Tos/General/SetupComposer/phpComposerCheck.png)
     
