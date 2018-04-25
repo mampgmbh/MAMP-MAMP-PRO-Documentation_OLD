@@ -26,10 +26,6 @@ Memcached is an in-memory key-value store for small chunks of arbitrary data.
 
 ---
 
-*  **Use network to talk to MemCached**
-
----
-
 *  **Log level**
 
 *  **Path to MemCached log file**
