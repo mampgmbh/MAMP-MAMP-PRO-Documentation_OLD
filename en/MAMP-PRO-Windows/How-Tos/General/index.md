@@ -11,7 +11,7 @@ language: en
 - [Redirect http traffic to https site using MAMP PRO interface](RedirectToHttpsMAMPPRO/)
 - [Redirecting http traffic to https site using .htaccess file](RedirectToHttpsHTaccess/)
 - [Install ionCube](ionCube/)
-- [Install Composer for an individual host](SetupComposer/)
+- [Install Composer](SetupComposer/)
 - [Use Nginx as reverse proxy for Apache while redirecting to a host other than localhost](NginxReverseProxy/)
 - [Create a "Hello World" Python Host](HelloWorldPython/)
 
