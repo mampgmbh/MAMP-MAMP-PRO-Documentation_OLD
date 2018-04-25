@@ -25,20 +25,3 @@ link = mysql.connector.connect(**config)
 {% endhighlight %}
 
 
-or using an UNIX Socket:
-
-{% highlight php %}
-
-import mysql.connector
-
-config = {
-  'user': 'root',
-  'password': 'root',
-  'unix_socket': '/Applications/MAMP/tmp/mysql/mysql.sock',
-  'database': 'inventory',
-  'raise_on_warnings': True,
-}
-
-link = mysql.connector.connect(**config)
-
-{% endhighlight %}
