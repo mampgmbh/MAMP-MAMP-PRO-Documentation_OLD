@@ -8,7 +8,7 @@ language: en
 
 ## Servers and Services > Dynamic DNS
 
-If you would like to make your hosts accessible from the internet (Don't forget about security then!), but do not have a domain name that points to your Mac, you will need a Dynamic DNS Service. 
+If you would like to make your hosts accessible from the internet (Don't forget about security then!), but do not have a domain name that points to your PC, you will need a Dynamic DNS Service. 
 
 If your network is connected to the internet via a router and it can handle Dynamic DNS Services, then you don’t need to configure it with MAMP PRO. 
 
