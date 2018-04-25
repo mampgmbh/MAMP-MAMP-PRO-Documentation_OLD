@@ -22,7 +22,7 @@ The installation wizard will finish the installation.
 
 Confirm you have properly installed Composer by typing "Composer --v" on the command line.
     
-![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/SetupComposer/phpComposerWithPath.png)
+![MAMP](/en/MAMP-PRO-Mac/How-Tos/General/SetupComposer/phpComposerCheck.png)
     
 ---
 
