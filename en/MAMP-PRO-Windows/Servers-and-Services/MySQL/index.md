@@ -1,5 +1,5 @@
 ---
-title: MAMP PRO (Mac) Documentation > Servers and Services > MySQL
+title: MAMP PRO (Windows) Documentation > Servers and Services > MySQL
 description: 
 layout: default-2
 product: MAMP PRO Windows
@@ -9,8 +9,6 @@ language: en
 ## Servers and Services > MySQL
 
 The MySQL database server is a popular database used on production servers. An installation of MySQL is installed on your computer by MAMP PRO. Your MAMP PRO MySQL database data is located in `C:\Users\Public\Documents\Appsolute\MAMPPRO\db\`.
-
-<i class="fa fa-play-circle-o fa-lg" aria-hidden="true"></i>  [MAMP PRO MySQL Data](https://www.youtube.com/watch?v=ZRHJy2K4yzc){:target="_blank"}
 
 ![MAMP](/en/MAMP-PRO-Windows/Servers-and-Services/MySQL/MySQL.png)
 
