@@ -1,5 +1,5 @@
 ---
-title: MAMP PRO (Windows) Documentation > Servers and Services > Postfix
+title: MAMP PRO (Windows) Documentation > Servers and Services > SMTPfix
 description: 
 layout: default-2
 product: MAMP PRO Windows
@@ -8,11 +8,11 @@ language: en
 
 ## Servers and Services > Postfix
 
-Sometimes you may need to send an email using PHP, to do so you have to configure and start Postfix. An easy way getting Postfix to run is using the configuration tool built into MAMP PRO. 
+Sometimes you may need to send an email using PHP, to do so you have to configure and start SMTP. An easy way getting Postfix to run is using the configuration tool built into MAMP PRO. 
 
 ![MAMP](/en/MAMP-PRO-Windows/Servers-and-Services/Postfix/smtp.png)
 
-*  **Include Postfix service in GroupStart**  
+*  **Include SMPT service in GroupStart**  
 
    Check to include Postfix in the GroupStart. When activated Postfix will automatically start/stop when the Servers button is   pressed.
 
@@ -31,11 +31,11 @@ Sometimes you may need to send an email using PHP, to do so you have to configur
 
 *  **Use a smart host for routing**  
 
-    *  **Server name**  
+    *  **Outgoing server:**  
        Fill in your server name for outgoing emails. This could be for instance "smtp.johndoe.com" (without quotes).
        Ask your provider if you are unsure about the server name.  
 
-    *  **Authentication**  
+    *  **Use authentication**  
        Unencrypted: Your username and password will be sent unencrypted.
        
        MD5 Challenge-Response: MD5 Challenge Response Authentication will be used.
@@ -46,15 +46,15 @@ Sometimes you may need to send an email using PHP, to do so you have to configur
     *  **Password**  
        Add the password for your email user account.  
 
+    *  **Authentication**  
+       What type of authentication to be used.  
   
-  MAMP PRO will move your existing main.cf and master.cf files to `/private/etc/postfix/MAMP_backup` when you include Postfix using the Groupstart in MAMP PRO. When you stop uncheck Groupstart your original postfix files will be moved back to `/private/etc/postfix`.
-  
-  <div class="alert" role="alert">
+   <div class="alert" role="alert">
    Note: Some providers do not allow Smart-Hosts, like Google Mail.
    </div>
 
 ---
 
-*  **Path to Postfix log file**  
+*  **Path to SMTP log file**  
 
-   More information on how to [Show your Postfix log file](../../How-Tos/General/#postfix_log) can be found in our How To section.
+The path to your SMTP log file.
