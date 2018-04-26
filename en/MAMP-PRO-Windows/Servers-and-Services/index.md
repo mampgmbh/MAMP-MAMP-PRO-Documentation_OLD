@@ -13,4 +13,4 @@ language: en
 - [MySQL](MySQL/)  
 - [Dynamic DNS](Dynamic-DNS/)
 - [Memcached](Memcached/)  
-- [Postfix](Postfix/)  
+- [SMTP](Postfix/)  
