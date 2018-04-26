@@ -22,11 +22,13 @@ Memcached is an in-memory key-value store for small chunks of arbitrary data.
 
 *  **Stats**
 
-    View your cache statistics.
+    View your cache statistics in a separate windows.
 
 ---
 
 *  **Log level**
+
+    Choose the level of detail for your log file. 
 
 *  **Path to MemCached log file**
 
