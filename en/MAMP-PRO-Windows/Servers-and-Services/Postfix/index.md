@@ -1,20 +1,20 @@
 ---
-title: MAMP PRO (Windows) Documentation > Servers and Services > SMTPfix
+title: MAMP PRO (Windows) Documentation > Servers and Services > SMTP
 description: 
 layout: default-2
 product: MAMP PRO Windows
 language: en
 ---
 
-## Servers and Services > Postfix
+## Servers and Services > SMTP
 
-Sometimes you may need to send an email using PHP, to do so you have to configure and start SMTP. An easy way getting Postfix to run is using the configuration tool built into MAMP PRO. 
+Sometimes you may need to send an email using PHP, to do so you have to configure and start SMTP. An easy way getting SMTP to run is using the configuration tool built into MAMP PRO. 
 
 ![MAMP](/en/MAMP-PRO-Windows/Servers-and-Services/Postfix/smtp.png)
 
 *  **Include SMPT service in GroupStart**  
 
-   Check to include Postfix in the GroupStart. When activated Postfix will automatically start/stop when the Servers button is   pressed.
+   Check to include SMTP in the GroupStart. When activated SMTP will automatically start/stop when the Servers button is   pressed.
 
 ---
 
