@@ -26,10 +26,10 @@ define('DB_PASSWORD', 'root');
 
 ---
 
-Confirm your DB_Host includes the MySQL port number or uses '127.0.0.1'
+Confirm your DB_Host includes the MySQL port number.
 
 define ('DB_HOST','localhost:8889');
 
 or
 
-define('DB_HOST','127.0.0.1');
+define('DB_HOST','127.0.0.1:8889');
