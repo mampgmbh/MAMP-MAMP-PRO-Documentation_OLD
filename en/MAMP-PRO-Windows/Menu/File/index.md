@@ -88,7 +88,9 @@ Note: Restoring your backed up files can potentially overwrite your current host
  
  *  **Apache and MySQL servers start as:**
  
-     MAMP PRO can run Apache and MySQL as a service or a process. 
+     MAMP PRO can run Apache and MySQL as a service or a process. Apache and MySQL on Windows are set to service as          default for MAMP PRO Windows installation. When servers runs under "Network service" it is more security restricted then when servers run as processes under the current user.
+     
+     
  
 
 
