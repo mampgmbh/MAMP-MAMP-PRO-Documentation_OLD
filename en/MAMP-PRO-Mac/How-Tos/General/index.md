@@ -27,7 +27,6 @@ language: en
 - [Accessing your localhost over A LAN](AccessingOnLAN/)
 - [Accessing other Hosts over A LAN](AccessingOnLANOtherHostsPorts/)
 - [Dynamic DNS with noip.com](noip/)
-- [Use Command Line Interface for WordPress](WordpressCLI/)
 
 
 
