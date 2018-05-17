@@ -6,7 +6,13 @@ product: MAMP PRO Mac
 language: en
 ---
 
-### Command Line For Wordpress
+### Using the Command Line For Wordpress
+
+You can use the Command Line Interface for Wordpress to install and update Wordpress plugins.
+
+1. 
+
+
 
 
 
