@@ -59,5 +59,5 @@ Wenn die SSL Verschlüsselung aktiviert ist, können die Daten, die Sie an uns �
 
 Sie haben jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung sowie ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden.
 
-Hinweis zu Google Analytics nach Muster von Rechtsanwalt Dr. Thomas Schwenke 
+Hinweis zu Google Analytics nach Muster von Rechtsanwalt Dr. Thomas Schwenke  
 Texte dieser Datenschutzerklärung basieren auf Mustertexten von e-recht24.de
