@@ -13,7 +13,7 @@ language: en
 *   **Start**  
    Start your servers.
 
-*   **Stop** 
+*   **Stop**  
    Stop your servers.
 
 ---
