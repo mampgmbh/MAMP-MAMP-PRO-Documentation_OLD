@@ -33,8 +33,8 @@ language: en
 
 ### Help
 
-*   **MAMP Help** 
-   A link to your MAMP help.
+*   **MAMP Help**  
+   A link to your help.
    
 
 
