@@ -10,11 +10,11 @@ language: en
 
 ### Servers
 
-#### Start
+*   **Start**  
 
 Start your servers.
 
-#### Stop
+*   **Stop** 
 
 Stop your servers.
 
@@ -35,7 +35,7 @@ Stop your servers.
 
 ### Help
 
-#### MAMP Help
+*   **MAMP Help** 
 
 A link to your MAMP help.
    
