@@ -12,11 +12,11 @@ language: en
 
 *   **Start**  
 
-Start your servers.
+   Start your servers.
 
 *   **Stop** 
 
-Stop your servers.
+   Stop your servers.
 
 ---
 
@@ -37,7 +37,7 @@ Stop your servers.
 
 *   **MAMP Help** 
 
-A link to your MAMP help.
+   A link to your MAMP help.
    
 
 
