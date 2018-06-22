@@ -8,8 +8,6 @@ language: en
 
 ## Cloud FAQ
 
----
-
 <a name="cloud"> </a>
 
 ### What does the following warning message mean when I load cloud data?
