@@ -12,4 +12,4 @@ With MAMP Cloud functions your localhost can be saved to and loaded from the clo
 
 - [Purchase and Register](PurchaseRegister/)
 - [Cloud Functions](CloudFunctions/)
-- [Cloud FAQ](../FAQ#cloud/)
+- [Cloud FAQ](CloudFAQ/)
