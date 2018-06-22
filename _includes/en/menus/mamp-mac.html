@@ -3,6 +3,16 @@
 	<li><a href="/en/MAMP-Mac/Installation/"{% if page_url contains "/en/MAMP-Mac/Installation/" %} class="active"{% endif %}>Installation</a></li>
 	<li><a href="/en/MAMP-Mac/First-Steps/"{% if page_url contains "/en/MAMP-Mac/First-Steps/" %} class="active"{% endif %}>First-Steps</a></li>
 	<li><a href="/en/MAMP-Mac/Cloud/"{% if page_url contains "/en/MAMP-Mac/Cloud/" %} class="active"{% endif %}>Cloud</a></li>
+	<li>
+		<a href="/en/MAMP-Mac/Cloud/"{% if page_url contains "/en/MAMP-Mac/Cloud/" %} class="active"{% endif %}>Cloud</a>
+		{% if page_url contains "/en/MAMP-Mac/Cloud/" %}
+			<ul class="no-bullets">
+				<li><a href="/en/MAMP-Mac/Cloud/PurchaseRegister/"{% if page_url contains "/en/MAMP-Mac/Cloud/PurchaseRegister/" %} class="active"{% endif %}>Purchase and Register</a></li>
+				<li><a href="/en/MAMP-Mac/Cloud/Ports/"{% if page_url contains "/en/MAMP-Mac/Cloud/CloudFunctions/" %} class="active"{% endif %}>Cloud Functions</a></li>
+				<li><a href="/en/MAMP-Mac/Cloud/PHP/"{% if page_url contains "/en/MAMP-Mac/FAQ#cloud/" %} class="active"{% endif %}>Cloud FAQ</a></li>
+			</ul>
+		{% endif %}
+	</li>
 	<li><a href="/en/MAMP-Mac/Preferences/Open-WebStart-Page/"{% if page_url contains "/en/MAMP-Mac/Preferences/Open-WebStart-Page/" %} class="active"{% endif %}>Open WebStart Page</a></li>
 	<li>
 		<a href="/en/MAMP-Mac/Preferences/"{% if page_url contains "/en/MAMP-Mac/Preferences/" %} class="active"{% endif %}>Preferences</a>
