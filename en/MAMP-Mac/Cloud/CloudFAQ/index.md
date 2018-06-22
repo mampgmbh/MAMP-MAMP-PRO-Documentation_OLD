@@ -6,7 +6,9 @@ product: MAMP Mac
 language: en
 ---
 
-# Cloud FAQ
+## Cloud FAQ
+
+---
 
 <a name="cloud"> </a>
 
